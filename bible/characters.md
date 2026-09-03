@@ -59,7 +59,7 @@
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Rhea Everwy.
 - **Vai trò**: Đội trưởng Đội Hộ vệ Hoàng gia Everhart; người bảo vệ và là chỗ dựa tinh thần lớn nhất thời thơ ấu của Dienne.
-- **Độ tuổi**: Khoảng 22 tuổi (khi Everhart sụp đổ) $\to$ Khoảng 32 tuổi (ở thời điểm hiện tại Volume 4).
+- **Độ tuổi**: Khoảng 22 tuổi (khi Everhart sụp đổ) $\to$ Khoảng 32–33 tuổi theo dòng thời gian bên ngoài (ở thời điểm hiện tại Post-Vol 5 / Vol 6). Tuy nhiên, vì bị cuốn vào Dòng Chảy Ma Thuật (Astral Current) nơi thời gian tuyến tính bị đóng băng, tuổi sinh học của Rhea vẫn được bảo toàn nguyên vẹn ở thời điểm rơi vào vết nứt (~22–24 tuổi).
 - **Ngoại hình**: Dáng người cao ráo, vững chãi. Mái tóc màu bạc cắt ngắn ngang vai. Đôi mắt xám tro lạnh lùng nhưng ấm áp. Giáp nhẹ hoen rỉ mang nhiều vết chém, áo choàng rách mang huy hiệu Everwy phai màu. Bàn tay chằng chịt sẹo kiếm.
 - **Trang bị**: Trường kiếm bạc phát ra luồng kiếm khí sắc lẹm, bão mana màu bạc.
 
@@ -318,7 +318,12 @@ Tác phẩm xây dựng một cặp đối trọng mang tính triết học và 
 - Diana không bao giờ phải cố tỏ ra sang chảnh. Khí chất vương giả đã ăn sâu vào phản xạ vô thức:
   - Người khác bước vào phòng: Kéo ghế ngồi bệt xuống.
   - Diana bước vào phòng: Vô thức chỉnh lại nếp váy, giữ lưng thẳng tắp thanh nhã, mỉm cười và cúi chào mọi người chuẩn xác theo lễ nghi hoàng gia cổ xưa.
-- **Tài năng đặc biệt — Giọng hát mê hoặc**: Diana sở hữu giọng hát trong trẻo và truyền cảm tuyệt mỹ. Những bài dạ khúc và cổ ca Everhart cô hát có khả năng tạo ra sự cộng hưởng âm học đặc biệt, xoa dịu những mạch mana đang co giật hoặc đánh thức những ký ức bị phong ấn.
+- **Tài năng đặc biệt — Giọng hát cộng hưởng (Vocal Harmonic Magic) & Giới hạn Hard Magic nghiêm ngặt**:
+  - *Cơ chế vật lý*: Giọng hát của Diana sở hữu âm vực và độ trong trẻo hiếm có, có khả năng tạo ra sóng âm điều hòa cộng hưởng với tần số dao động của các hạt mana tự nhiên.
+  - *Điều kiện biên chặt chẽ (TUYỆT ĐỐI KHÔNG PHẢI KHẮC CHẾ MỌI CÔNG NGHỆ)*:
+    1. **Chỉ tác động lên hệ thống có cấu trúc thuật toán Everhart / Asariën**: Sở dĩ giọng hát của Diana can thiệp được vào cỗ máy nén tại Big Ben là vì cỗ máy này do chính Hoàng thúc Alden Everhart thiết kế dựa trên các phương trình dao động hoàng gia Everhart cổ; Diana nắm bắt được "giai điệu khóa" (counter-frequency) tương ứng.
+    2. **Đòi hỏi môi trường mana và thời gian lấy mẫu**: Cần có môi trường mana tự nhiên để dẫn truyền sóng âm; không thể phát huy tác dụng trong chân không, vùng triệt tiêu hoàn toàn ($\Psi = 0$) hoặc khi đối phương sử dụng rào chắn cách âm cơ học.
+    3. **Hoàn toàn vô hiệu trước công nghệ phi mana & ma thuật ngoại lai**: Giọng hát không có tác dụng gì trước súng đạn động năng của Louisa, động cơ hơi nước cơ khí thuần túy, hay ma thuật cát sa mạc của Soraya.
 
 ---
 
@@ -363,9 +368,11 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 ### Kẻ Phản Bội: Lord Arknight (Hoàng Thúc Alden Everhart)
 - **Danh tính thật**: Alden Everhart — em trai ruột của Vua cha Dienne, hoàng thúc ruột của Dienne và Diana Everhart.
 - **Lịch sử**: Từng là một trong những học giả ma pháp ranh giới và kiến trúc sư cấu trúc của tổ chức Arrchirio 20 năm trước.
-- **Tư tưởng biến chất**: Hắn tin rằng sự tồn tại song song của hai thế giới là một "lỗi toán học của vũ trụ" khiến nhân loại luôn đứng trước thảm họa diệt vong. Cách duy nhất để cứu vãn thực tại là dùng bàn tay sắt độc tài của Đế quốc Aurelia sáp nhập hoặc tiêu diệt một nửa thế giới để tái lập trật tự vĩnh cửu.
-- **Hành động phản bội**: Bán đứng hoàng thành Everhart và hệ thống phòng thủ Arrchirio cho Đế quốc và Thẩm Phán Viện trong Đêm Đại Thanh Trừng; giấu kín thân phận dưới danh hiệu *Lord Arknight*, thâu tóm mạng lưới tài chính và giới quý tộc ngầm tại Reverse London (Viện Quý Tộc House of Lords).
-- **Ý nghĩa kịch tính**: Tạo nên bi kịch huyết thống sâu sắc nhất cho hai chị em Dienne & Diana tại Volume 6 — kẻ thù lớn nhất không phải là quái vật vô hình, mà là người mang cùng dòng máu hoàng gia đã lựa chọn từ bỏ nhân tính.
+- **Tư tưởng biến chất & Bí ẩn dài hạn**:
+  - Tại Volume 6: Nhóm Dienne mới chỉ giải mã được **thân phận thực sự** của Arknight (Alden Everhart) và các chỉ thị hành động thực tế của hắn tại London qua hồ sơ của Malgrave.
+  - Động cơ sâu xa và triết lý tối thượng của Alden ("Vì sao một học giả uyên bác lại tin rằng hai thế giới là lỗi toán học và quyết tâm xóa sổ ranh giới?") vẫn là một màn sương bí ẩn lớn sẽ được bóc tách sâu hơn qua các cuộc đối đầu tư tưởng tại Côn Lôn (Volume 7) và Đại Kết Cục.
+- **Hành động phản bội**: Bán đứng hoàng thành Everhart và hệ thống phòng thủ Arrchirio cho Đế quốc và Thẩm Phán Viện trong Đêm Đại Thanh Trừng 20 năm trước; giấu kín thân phận dưới danh hiệu *Lord Arknight*, điều khiển mạng lưới tài phiệt ngầm tại Reverse London và các cứ điểm toàn cầu.
+- **Ý nghĩa kịch tính**: Tạo nên bi kịch huyết thống sâu sắc nhất cho hai chị em Dienne & Diana — kẻ thù lớn nhất không phải là quái vật vô hình, mà là người mang cùng dòng máu hoàng gia đã lựa chọn con đường độc tài.
 
 ---
 

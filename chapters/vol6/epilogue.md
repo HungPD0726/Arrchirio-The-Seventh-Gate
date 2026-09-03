@@ -5,37 +5,47 @@
 
 ## EPILOGUE: NỤ CƯỜI CỦA MERLIN & ÁNH CHỚP CÔN LÔN
 
-Khoảng hư không nguyên thủy tĩnh lặng như một hồ nước không đáy.
+Khoảng hư không ranh giới giữa hai thế giới tĩnh lặng như một hồ nước không đáy.
 
-Giữa biển sao vô tận của ranh giới hai thế giới, những khối cự thạch phủ đầy rêu phong cổ đại vẫn lơ lửng trôi dạt chậm rãi qua hàng vạn năm lịch sử.
+Giữa biển sương mù mờ ảo phi thời gian, những khối cự thạch phủ đầy rêu phong cổ xưa vẫn lơ lửng trôi dạt chậm rãi qua những chu kỳ bất tận.
 
-Merlin ngồi xếp bằng trên một phiến đá hoa cương hình tròn. 
+Merlin ngồi trên một phiến đá hoa cương hình tròn. Chiếc áo choàng bằng vải thô màu tro tàn phủ lòa xòa trên đầu gối gầy guộc, mái tóc màu xám bạc buông nhẹ qua bờ vai tĩnh mịch.
 
-Mái tóc trắng như cước và chòm râu dài chạm đất của vị đại hiền giả khẽ lay động trong luồng gió thời-không vô hình. Chiếc áo choàng bằng vải thô màu tro tàn phủ lòa xòa trên đầu gối gầy guộc.
+Trước mặt cô không có ngai vàng hay những quân cờ số phận quyền năng. 
 
-Trước mặt ông, một bàn cờ thế bằng đá khổng lồ lơ lửng giữa không trung, phản chiếu toàn bộ các dòng chảy mana và số phận của hai thế giới song song.
+Chỉ có một **sơ đồ dao động mana đa chiều** lơ lửng trong không trung—hàng ngàn dải ánh sáng mỏng manh đan xen vào nhau, ghi nhận lại những biến thiên áp suất, tần số sóng âm và những xung lực rò rỉ giữa hai thực tại song song.
 
-Merlin từ từ mở đôi mắt già nua thăm thẳm như đại dương ngàn năm.
+Merlin từ từ mở đôi mắt xám thăm thẳm.
 
-Ánh mắt ông dừng lại ở tọa độ của dòng sông Thames bên bờ tây bàn cờ.
+Ánh mắt cô dừng lại ở cụm tín hiệu vừa đổi màu tại tọa độ của dòng sông Thames bên bờ tây sơ đồ.
 
-Tại đó, luồng sáng màu lam ngọc lạnh lùng, sắc lẹm của Dienne và luồng sáng màu lam ngọc thanh thoát, uốn lượn của Diana đã hoàn toàn quấn quýt lấy nhau, tạo thành một trục cộng hưởng hình học xoay tròn bất khả xâm phạm.
+Tại đó, luồng dao động lam ngọc sắc lẹm, tuần hoàn theo logic toán học của Dienne và dải sóng âm dao động điều hòa mềm mại của Diana đã hòa quyện vào nhau, tạo thành một mẫu hình giao thoa ổn định kỳ lạ. 
 
-Vết nứt không gian màu tím đen của Hắc Ma Thạch đã hoàn toàn tan biến, nhường chỗ cho một sự cân bằng thanh khiết chưa từng thấy suốt hai mươi năm qua.
+Vết rạn nứt không gian của Hắc Ma Thạch đã bị triệt tiêu hoàn toàn, kéo theo sự hạ nhiệt của toàn bộ long mạch ngầm dưới đáy sông Thames.
 
 Merlin khẽ mỉm cười.
 
-Một nụ cười hiếm hoi, cổ xưa và tràn ngập sự mãn nguyện của một người gieo hạt sau ngàn năm chờ đợi một mầm cây đâm chồi:
+Đó không phải là nụ cười của một kẻ giật dây toàn tri đang nhìn các con rối đi đúng kịch bản. 
 
-"Một người mang vết thương của quá khứ... Một người giữ trọn vẻ đẹp văn hóa của cội nguồn..."
+Đó là nụ cười của một học giả đã quan sát thực tại suốt hàng thế kỷ, vừa chứng kiến một giả thuyết phức tạp của mình được chứng minh một cách ngoạn mục:
 
-Vị pháp sư già khẽ vươn ngón tay khẳng khiu chạm nhẹ vào tâm điểm của hai luồng sáng lam:
+"Một hệ thống phân tích tĩnh... kết hợp cùng một nguồn dao động âm học động..."
 
-"Khi hai nửa tìm thấy nhau, vết nứt tâm hồn đã được hàn gắn. Bàn cờ định mệnh của ta... cuối cùng đã bắt đầu chuyển động theo hướng mà ta hằng mong đợi."
+Ngón tay thon thả của cô khẽ chạm nhẹ vào dải sóng lam ngọc đang ngân vang:
 
-Merlin chậm rãi nhấc một quân cờ bằng đá ngọc bích chạm khắc hình ảnh một con rồng uốn lượn chín khúc của phương Đông, đặt sang ô cờ tiếp theo ở hướng mặt trời mọc:
+"Nghịch lý mà ta hằng trăn trở bấy lâu nay... hóa ra lại có thể được hóa giải bằng sự tương thích giữa hai tâm hồn mang cùng một cội nguồn. Con người... đôi khi lại tìm ra câu trả lời cho Cân Bằng bằng những cách thức mà các phương trình cổ xưa nhất chưa từng ghi nhận."
 
-"Hãy đi đi, những đứa trẻ của Everhart... Thử thách thực sự của các con giờ mới chỉ bắt đầu."
+Thế nhưng, nụ cười trên môi Merlin chưa kịp đọng lại thì ở rìa phía đông của sơ đồ dao động—ngay tại tọa độ của vùng cao nguyên phương Đông—một vệt sáng màu đỏ thẫm bỗng nhiên bùng phát dữ dội.
+
+Biên độ dao động địa mạch nhảy vọt lên mức dị thường, kèm theo những vết nứt phân rã lan rộng theo hình bát giác.
+
+Merlin khẽ nheo mắt lại, đôi mắt xám ánh lên vẻ trầm ngâm trước một biến số mới nằm ngoài dự toán:
+
+"Long mạch phương Đông đang co giật... Dấu vết của Alden Everhart đã lan tới đỉnh Tuyết Phong."
+
+Cô khẽ thu tay lại vào trong tay áo choàng, thì thầm giữa thinh không:
+
+"Hãy đi đi, những đứa trẻ của Everhart... Cân Bằng mà các con vừa hàn gắn ở sương mù phương Tây... sắp sửa phải đối mặt với cơn bão thực sự ở phương Đông rồi."
 
 ---
 

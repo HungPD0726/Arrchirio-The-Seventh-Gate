@@ -51,7 +51,7 @@ mylightnovel/
 │   │   ├── Volume5_Full.md
 │   │   ├── prologue.md -> ch14.md
 │   │   └── epilogue.md
-│   └── vol6/                     <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 144 KB)
+│   └── vol6/                     <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
 │       ├── Volume6_Full.md
 │       ├── prologue.md -> ch12.md
 │       └── epilogue.md

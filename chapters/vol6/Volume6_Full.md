@@ -961,9 +961,9 @@ Malgrave chìa bàn tay đeo găng da trắng muốt ra:
 
 "Giao nộp **Con Dấu Hoàng Gia Everhart (The Royal Seal)** và tự nguyện theo ta về Tháp Big Ben để tiến hành nghi thức mở khóa van điều áp. Nếu không... cô hãy nhìn ra phía sau con ngõ xem."
 
-Malgrave khẽ phất tay.
+Malgrave khẽ gõ mũi gậy ba-toong xuống mặt đất. Một tín hiệu ngầm phát đi.
 
-Một tên Chấp Pháp Viên áo đỏ phía sau liền giơ cây quyền trượng đầu lâu lên trời, niệm một câu chú Asariën biến chất.
+Tên Chấp Pháp Viên áo đỏ phía sau liền giơ cây quyền trượng đầu lâu lên trời, niệm một câu chú Asariën biến chất.
 
 *VÙÙÙ!*
 
@@ -979,39 +979,43 @@ Ngọn lửa nguyền rủa màu tím đen bốc lên liếm láp những mái n
 
 "Khốn kiếp!" Louisa nghiến răng ken két, nòng súng ngắn trong tay cô nàng bốc khói vì sát khí: "Lũ quý tộc các người dám đem tính mạng dân thường ra làm con tin sao?!"
 
-"Đối với những kẻ làm đại sự, vài mạng sống của lũ thường dân hạ đẳng chỉ là cái giá nhỏ bé không đáng bận tâm," Malgrave cười khẩy, ánh mắt độc địa nhìn xoáy vào Diana: "Nào, công chúa nhỏ. Cô chọn bảo vệ sự kiêu hãnh của dòng máu hoàng tộc, hay chọn đứng nhìn những người hàng xóm thân yêu của cô bị thiêu thành tro than?"
+"Đây là bàn cờ chính trị, thưa cô gái trần thế," Malgrave mỉm cười điềm nhiên, ánh mắt sắc lạnh nhìn xoáy vào Diana: "Ta đã đọc kỹ từng bản báo cáo về cô suốt sáu tháng qua, Diana Everhart. Cô là một thiếu nữ nhân từ, sống mười lăm năm giữa con ngõ này bằng lòng trắc ẩn. Cô có thể liều mạng với ta, nhưng cô sẽ không bao giờ đứng nhìn những người đã nuôi nấng tuổi thơ mình bị thiêu sống thành tro than."
 
-Sắc mặt Diana trắng bệch không còn một giọt máu.
+Sắc mặt Diana đanh lại.
 
 Nàng nhìn thấy ngọn lửa tím đen đang liếm dần về phía căn gác của người thợ mộc mù—người đã từng đẽo tặng nàng chiếc hộp nhạc gỗ năm nàng tám tuổi. 
 
 Nàng nhìn thấy bà lão bán bánh mì đang ho sặc sụa ngã quỵ bên vệ đường...
 
-Trái tim Diana như bị hàng ngàn mũi kim châm xé nát.
+Trong đôi mắt màu lam trong veo của nàng lúc này không có sự hoảng loạn của một nạn nhân, mà là ngọn lửa sắc bén của một người mang dòng máu vương tộc đã đưa ra một quyết định tỉnh táo.
 
-Nàng không thể đứng nhìn. Nàng không bao giờ có thể để người khác chết thay cho mình.
+"Dừng tay lại!" Diana cất giọng đanh thép, bước vượt qua Dienne: 
 
-"Dừng tay lại!" Diana hét lên, giọng nói run rẩy nhưng vang dội khắp khoảng sân: "Dập tắt ngọn lửa ngay lập tức! Ta sẽ đi cùng các người!"
+"Dập tắt ngọn lửa nguyền rủa ngay lập tức. Ta sẽ đi cùng các người."
 
-"Diana! Không được!" Dienne bước vội tới nắm chặt lấy cổ tay em gái: "Bọn chúng sẽ dùng con dấu của em để mở toang Cổng Cổ Đại! Một khi Cổng mở ra, thảm họa sẽ không dừng lại ở con ngõ này đâu!"
+"Diana! Không được!" Dienne bước vội tới nắm chặt lấy cổ tay em gái: "Bọn chúng cần con dấu để mở van điều áp Cổng Cổ Đại! Một khi em rơi vào tay chúng—"
 
-Diana quay lại nhìn Dienne.
+"Em sẽ không sao đâu, chị Dienne," Diana quay lại nhìn Dienne, giọng nói hạ xuống rất nhỏ nhưng tràn đầy kiên định: "Họ cần con dấu nguyên vẹn và cần người mang huyết thống hoàng gia để mở van. Trong tay em vẫn còn quyền chủ động."
 
-Trong đôi mắt màu xanh lam trong veo ngập tràn nước mắt của nàng công chúa nhỏ lúc này không hề có sự sợ hãi của một kẻ đầu hàng, mà chỉ có một sự quyết tâm bi tráng đến đau lòng:
+Diana quay sang Malgrave, rút chiếc hộp gỗ trắc chứa Con Dấu Rồng Vàng giơ lên trước ngực, giọng nói lạnh ngắt:
 
-"Chị Dienne... Em không thể để họ chết vì em. Nếu em trốn thoát trong khi những người này bị thiêu chết, em sẽ không còn tư cách giữ gìn linh hồn của Everhart nữa."
+"Dập lửa ngay trước mắt ta. Nếu các người dám làm tổn hại đến một sợi tóc của người dân nơi đây, ta sẽ dùng toàn bộ lượng mana dự trữ kích nổ phá hủy Con Dấu này ngay tức khắc. Khi đó, xem các người ăn nói thế nào với những kẻ đứng sau ở Tháp Big Ben!"
 
-Diana gạt bàn tay Dienne ra, rút chiếc hộp gỗ trắc chứa con dấu rồng vàng trong túi áo, bước thẳng về phía Malgrave:
+Nụ cười mỉa mai của Malgrave khựng lại. Ánh mắt gã lóe lên sự kiêng dè trước sự quyết liệt của Diana:
 
-"Ta đi với các người. Dập lửa ngay!"
+"Rất khôn ngoan, công chúa Diana. Một cuộc trao đổi sòng phẳng."
 
-Malgrave cười đắc thắng, vung gậy ra lệnh cho tên Chấp Pháp Viên dập bớt ngọn lửa nguyền rủa. 
+Malgrave phất tay ra lệnh cho tên Chấp Pháp Viên dập bớt ngọn lửa nguyền rủa. 
 
-Hai tên lính giáp đen lập tức lao tới khóa chặt tay Diana bằng còng ma thuật, tước lấy thanh liễu kiếm bạc và chiếc hộp con dấu, rồi đẩy nàng lên một cỗ xe thiết giáp bọc thép ma đạo.
+Toán lính giáp đen thận trọng tiến tới khóa tay Diana bằng còng ma thuật, tước lấy thanh liễu kiếm bạc và chiếc hộp con dấu, rồi đưa nàng lên cỗ xe thiết giáp bọc thép ma đạo.
 
-"Còn hai con chuột nhắt kia," Malgrave liếc xéo Dienne và Louisa, nhếch mép cười tàn nhẫn: "Giết chúng. Chôn xác chúng dưới gốc cây táo này."
+Trước khi bước lên xe, Diana ngoái đầu nhìn Dienne qua màn sương mỏng, ánh mắt gửi gắm một niềm tin tuyệt đối:
 
-Cỗ xe thiết giáp gầm rú lao đi, kéo theo bụi sương mù mịt mùng.
+*Em sẽ chờ chị.*
+
+"Còn hai kẻ còn lại," Malgrave ngồi vào cỗ xe ngựa phía sau, hạ rèm nhung xuống ra lệnh ngắn gọn: "Thủ tiêu chúng. Không để lại dấu vết."
+
+Cỗ xe thiết giáp gầm rú lao đi, bánh xe nghiền nát mặt đá cuội cuốn theo cát bụi mịt mùng.
 
 Hai mươi kỵ sĩ giáp đen cùng hai tên Chấp Pháp Viên áo đỏ lập tức hạ giáo dài, lao thẳng về phía Dienne và Louisa như một cơn bão thép!
 
@@ -1267,19 +1271,17 @@ Chính người chú ruột mang cùng dòng máu Everhart ấy đã mở toang 
 
 Và suốt hai mươi năm qua, hắn ẩn mình dưới danh hiệu *Lord Arknight*, thâu tóm mạng lưới tài chính ngầm tại London, cấu kết với Viện Quý Tộc và Đế quốc để chuẩn bị cho một âm mưu diệt chủng còn khủng khiếp hơn!
 
-"Ha ha ha... Ha ha ha ha!"
+Malgrave bị trói dưới chân bàn, ngẩng khuôn mặt bầm dập lên, khóe môi nhếch lên một nụ cười nham hiểm đầy toan tính:
 
-Tiếng cười the thé, điên dại bỗng vang lên từ góc phòng.
+"Bây giờ thì các người đã nhìn thấy chữ ký đó rồi chứ, Công chúa Dienne? Công chúa Diana? 
 
-Malgrave bị trói dưới chân bàn, ngẩng khuôn mặt bầm dập lên cười sằng sặc trong sự cuồng loạn:
+Các người tưởng bắt được ta là đã chặn đứng được bánh xe lịch sử sao? Ta chỉ là một người trung gian điều hành mạng lưới tài chính tại Luân Đôn theo lệnh của ngài ấy thôi! 
 
-"Bây giờ thì các người đã hiểu chưa, hai nàng công chúa nhỏ bé đáng thương?! Kẻ thù lớn nhất của các người chưa bao giờ là Đế quốc Aurelia xa xôi! Kẻ thù lớn nhất của các người... chính là người chú ruột thịt mang cùng dòng máu Everhart!"
+Người cung cấp toàn bộ bản thiết kế cỗ máy nén dưới chân tháp Big Ben... người tài trợ hàng ngàn tấn Hắc Ma Thạch cho Thẩm Phán Viện suốt hai mươi năm qua... chính là Hoàng Thúc Alden của các người!"
 
-Malgrave nghiến răng, đôi mắt đỏ ngầu hằn lên vẻ cuồng tín bệnh hoạn:
+Malgrave khẽ thở dốc, ánh mắt lóe lên sự đắc thắng ngầm:
 
-"Lord Arknight là một thiên tài vượt xa tầm nhìn hạn hẹp của đám hoàng gia mục nát các người! Ngài ấy đã tính toán ra rằng: Sự tồn tại song song của hai thế giới là một lỗi toán học ghê tởm của vũ trụ! Hai thế giới tồn tại độc lập sẽ chỉ sinh ra hỗn loạn, chiến tranh và sự sụp đổ của Cổng Thứ Bảy! 
-
-Cách duy nhất để cứu vãn thực tại là dùng bàn tay sắt độc tài của Đế quốc tiêu diệt một nửa thế giới, nén toàn bộ dòng chảy mana của nhân loại vào một mối thống nhất duy nhất! Để tạo ra trật tự tuyệt đối đó, việc hy sinh một vương triều Everhart cỏn con thì có đáng là bao?!"
+"Ngài ấy đã rời khỏi Luân Đôn từ ba ngày trước rồi. Những gì ngài ấy để lại nơi đây chỉ là một phép thử ranh giới. Các người có thể bắt ta, nhưng ngài ấy đã nắm trong tay những bí mật lớn hơn thế nhiều... Cỗ máy dưới chân Tháp Big Ben đã được cài đặt chế độ tự kích hoạt theo chu kỳ định sẵn! Các người không bao giờ kịp ngăn chặn đâu!"
 
 "Câm miệng lại!" 
 
@@ -1371,13 +1373,13 @@ Mặt đường quanh quảng trường Westminster nứt toác thành những k
 
 Đó là **Cỗ Máy Nén Không Gian (The Spatial Compression Engine)** do Hoàng thúc Alden Everhart bí mật thiết kế và điều khiển từ xa.
 
-"Cảnh báo quá tải! Tần số co giật của lõi ma trận đã vượt mốc năm ngàn Hertz!" Ryan vừa ôm chiếc máy đo dao động lao xuống cầu thang xoắn ốc dẫn vào hầm máy, vừa gào lên trong tiếng ồn đinh tai nhức óc của các piston hơi nước:
+"Cảnh báo quá tải! Tần số co giật của lõi ma trận đã vượt mốc năm ngàn Hertz!" Ryan vừa ôm chiếc máy đo dao động lao xuống cầu thang xoắn ốc dẫn vào hầm máy, vừa gào lên trong tiếng ồn rền rĩ của các trục piston:
 
-"Master ơi! Nguy hiểm cực độ! Cỗ máy đã rơi vào trạng thái Cộng Hưởng Bất Ổn Định! Nếu chúng ta dùng vũ lực hay bộc phá để phá hủy lõi máy lúc này, toàn bộ năng lượng không gian bị nén ép sẽ phát nổ như một quả bom nhiệt hạch ma đạo! Nó sẽ thổi bay Tháp Big Ben và san phẳng toàn bộ hai bờ sông Thames trong bán kính mười dặm!"
+"Master ơi! Nguy hiểm cực độ! Cỗ máy đã rơi vào trạng thái Cộng Hưởng Bất Ổn Định! Nếu chúng ta dùng vũ lực hay bộc phá để đập vỡ lõi máy lúc này, toàn bộ áp suất không gian bị nghẽn lại sẽ phát nổ ngược dòng! Nó sẽ đánh sập hoàn toàn chân móng Tháp Big Ben và tạo ra một cơn sóng thần biến dạng không gian quét sạch toàn bộ bờ kè sông Thames!"
 
-"Có cách nào ngắt nguồn năng lượng không?!" Dienne rút thanh kiếm gỗ sồi của Rhea ra, ánh mắt sắc lẹm nhìn vào khối cầu năng lượng tím đen đang co giật dữ dội giữa những thanh piston thép khổng lồ.
+"Có cách nào ngắt nguồn năng lượng không?!" Dienne rút thanh kiếm gỗ sồi của Rhea ra, ánh mắt sắc lẹm nhìn vào khối cầu năng lượng tím đen đang co giật dữ dội giữa những thanh piston thép.
 
-"Phải đưa tần số dao động của lõi máy từ năm ngàn Hertz về trạng thái cân bằng dưới năm mươi Hertz trong ít nhất mười giây!" Trán Ryan vã mồ hôi như tắm, ngón tay run rẩy chỉ vào van xả áp ở tâm lõi: "Chỉ khi tần số chậm lại, Master mới có thể dùng phương trình triệt tiêu Asariën cắm mũi kiếm vào tâm van xả để giải tỏa áp suất an toàn! Nhưng... không có bất kỳ thuật toán hay kết giới nào có thể can thiệp vào dòng xoáy hỗn loạn này mà không bị nó xé nát ngay lập tức cả!"
+"Phải đưa tần số dao động của lõi máy từ năm ngàn Hertz về trạng thái cân bằng dưới năm mươi Hertz trong ít nhất mười giây!" Trán Ryan vã mồ hôi như tắm, ngón tay run rẩy chỉ vào van xả áp ở tâm lõi: "Chỉ khi tần số chậm lại, Master mới có thể dùng phương trình triệt tiêu Asariën cắm mũi kiếm vào tâm van xả để giải tỏa áp suất an toàn! Nhưng thuật toán của cỗ máy này... được mã hóa bằng hệ phương trình ma trận hoàng gia Everhart của chính Hoàng thúc Alden! Không ai trong chúng ta nắm được chìa khóa giải mã tần số của hắn cả!"
 
 Ở phía trên cầu thang, tiếng súng đạn và tiếng thét bắt đầu rộ lên.
 
@@ -1430,19 +1432,17 @@ Một giọng hát thuần khiết, trong trẻo và thanh thoát tựa như ti�
 
 Giọng hát của Diana không dùng âm lượng thô bạo để lấn át tiếng ồn cơ khí. 
 
-Nó là một dòng chảy tần số âm học tự nhiên hoàn mỹ nhất của vũ trụ—thứ âm thanh mà người Asariel cổ đại từng dùng để trò chuyện với trăng sao thời tiền sử.
+Nó là một dòng chảy tần số âm học tự nhiên hoàn mỹ nhất—bài dạ khúc hoàng gia mà cha mẹ đã truyền lại cho nàng bên chiếc nôi thuở ấu thơ. 
 
-Kỳ diệu thay! 
+Và điều kỳ diệu nằm ở chỗ: Cỗ máy nén của Alden được lập trình dựa trên chính hệ điều hòa sóng âm của hoàng gia Everhart! Những nốt luyến láy trong trẻo của Diana chính là chiếc "chìa khóa ngược pha" (counter-harmonic key) duy nhất trên thế giới có thể khớp hoàn hảo vào từng khe hở của cỗ máy, xoa dịu những xung dao động đang bị kích động cực độ!
 
-Ngay khi câu hát đầu tiên ngân vang, những hạt mana tím đen đang co giật điên cuồng xung quanh cỗ máy bỗng nhiên khựng lại!
-
-Sóng âm thanh từ thanh quản của Diana phát ra một dải dao động điều hòa tự nhiên, từng nốt luyến láy như những bàn tay vô hình dịu dàng vuốt ve lấy các mạch năng lượng đang bị kích động cực độ.
+Sóng âm thanh từ thanh quản của Diana phát ra một dải dao động điều hòa tự nhiên, từng nốt nhạc tựa như những bàn tay vô hình dịu dàng vuốt ve lấy các mạch năng lượng.
 
 Sắc tím đen u tối của dòng xoáy năng lượng bắt đầu tan biến, chuyển dần sang sắc màu lam ngọc êm dịu của ánh trăng!
 
 Trên mặt đồng hồ đo của Ryan, chiếc kim chỉ số bắt đầu lùi lại với tốc độ chóng mặt:
 
-"Bốn ngàn Hertz... Ba ngàn Hertz... Một ngàn Hertz... Hai trăm Hertz!" Ryan dụi mắt kinh ngạc, hét lên lạc cả giọng: "Tần số đang hạ xuống! Cỗ máy đang lắng dịu lại kìa Master ơi!"
+"Bốn ngàn Hertz... Ba ngàn Hertz... Một ngàn Hertz... Hai trăm Hertz!" Ryan kinh ngạc hét lên: "Tần số đang hạ xuống! Dao động ngược pha của bài hát đang triệt tiêu sự quá tải của thuật toán Alden kìa Master ơi!"
 
 Trên gờ đá hoa cương, Diana bắt đầu múa.
 
@@ -1617,17 +1617,25 @@ Không phải bằng sự cưỡng ép hay nghĩa vụ máu mủ mù quáng.
 
 Nó được lấp đầy bằng sự trưởng thành tự nguyện, bằng lòng dũng cảm và sự thấu hiểu sâu sắc giữa hai chị em mang cùng dòng máu hoàng triều!
 
-Dienne đứng thẳng dậy trước Bàn Tròn Hội Đồng.
+Dienne không đưa ra một bài diễn văn hoa mỹ nào. 
 
-Áo choàng đen của nàng khẽ lay động dưới ánh sáng lam ngọc, đôi mắt lam thẫm tràn ngập niềm tự hào vô bờ bến:
+Nàng chỉ chậm rãi bước tới, đặt bàn tay chai sạn của mình lên mu bàn tay nhỏ nhắn của em gái trên mặt bàn đá. Ánh mắt hai chị em giao nhau trong ánh sáng lam ngọc êm ả:
 
-"Thay mặt Hội Đồng New Arrchirio, ta chính thức công nhận Công chúa Diana Everhart là thành viên trụ cột thứ sáu của tổ chức. Từ nay về sau, ngọn cờ của New Arrchirio sẽ luôn che chở cho dòng sông Thames, và thanh kiếm của em sẽ là tiếng hát bảo vệ sự bình yên của muôn loài."
+"Chào mừng em về nhà, Diana."
 
-Toàn bộ đại sảnh pháo đài rộ lên những tràng pháo tay ròn rã và tiếng reo hò phấn khích của Ryan!
+Louisa ngồi đối diện, nhếch môi cười một nụ cười hiếm hoi không pha chút giễu cợt. Nàng trinh sát Kyoto khẽ búng một que kẹo mút vị dâu tây qua mặt bàn đá, rơi gọn vào lòng bàn tay Diana:
 
-Một chương mới đã mở ra. 
+"Kẹo mừng gia nhập. Ngậm vào cho đỡ căng thẳng. Từ mai bắt đầu có việc để làm rồi đấy."
 
-Và New Arrchirio giờ đây đã thực sự trở thành một khối liên minh bất khả chiến bại, sẵn sàng đối mặt với bất kỳ phong ba bão táp nào ở phía chân trời xa xôi!
+Diana đón lấy chiếc que kẹo, bật cười khúc khích, khóe mắt vẫn còn vương giọt lệ ấm áp.
+
+Ryan rón rén bước tới, nhẹ nhàng đặt một chiếc đĩa sứ đựng bánh quy bơ nướng ấm nóng bên cạnh tách trà của Diana, đôi mắt tròn xoe sáng ngời sự ngưỡng mộ: "Nhị công chúa ăn thêm bánh cho lại sức nhé ạ."
+
+Soraya chắp hai tay trước ngực, khẽ niệm một lời chúc phúc cổ xưa bằng tiếng Ả Rập sa mạc. Làn khói trầm hương từ chiếc lư đồng nhỏ bay lơ lửng, quấn quanh chiếc bàn đá tròn, phủ lên sáu con người một sự che chở tĩnh lặng và bền bỉ.
+
+Ngoài kia, thế giới vẫn còn đầy rẫy hiểm nguy và những âm mưu đen tối của Đế quốc Aurelia.
+
+Nhưng trong gian phòng đá ngầm Sector 7 này, dưới ánh đèn lam ngọc dịu dàng, New Arrchirio đã có thêm một chỗ dựa, một tiếng hát, và một niềm tin không bao giờ bị dập tắt.
 
 
 ---
@@ -1717,19 +1725,25 @@ Giọng nói của nàng công chúa mười sáu tuổi vang lên cực kỳ tr
 
 Dienne buông tay khỏi đài truyền âm.
 
-Bản tuyên ngôn kết thúc bằng một sự tĩnh lặng kiêu hãnh đến nghẹt thở.
+*Cạch.*
 
-Qua mạng lưới cáp ngầm cổ đại, từng câu từng chữ của bản tuyên ngôn đã truyền đi xuyên qua lòng biển sâu, vang vọng vào tận các đại sảnh nghị viện dát vàng của Đế quốc Aurelia, giáng thẳng vào tâm thức của những kẻ mưu đồ độc tài một đòn cảnh cáo nặng tựa thái sơn!
+Công tắc ngắt kết nối đóng lại, trả lại cho không gian đỉnh tháp sự tĩnh lặng tuyệt đối của buổi sớm mai.
 
-Gió sớm thổi tung mái tóc của hai nàng công chúa trên đỉnh Tháp Big Ben.
+Không có tiếng reo hò, không có những tràng pháo tay ồn ã. 
 
-Diana ngẩng đầu nhìn chị gái, nụ cười trên môi nàng rạng rỡ như ánh trăng rằm.
+Qua mạng lưới cáp ngầm cổ đại chìm sâu dưới lòng đại dương, những dòng tín hiệu mã hóa đã lặng lẽ truyền đi—không phải như một lời khiêu chiến ngông cuồng, mà là một sự hiện diện không thể chối bỏ. Ở một nơi nào đó giữa những tòa nhà nghị viện xa hoa của Aurelia, hay trong căn phòng thí nghiệm ngầm của kẻ phản bội Arknight, những chiếc kim máy điện tín sẽ khẽ gõ nhịp, nhắc nhở họ rằng ngọn lửa Everhart vẫn chưa hề tắt.
 
-Dienne mỉm cười đáp lại, siết chặt lấy bàn tay nhỏ nhắn của em gái.
+Gió sớm từ dòng sông Thames thổi thốc lên đỉnh tháp, làm bay bay những lọn tóc mai của hai chị em.
 
-Sương mù Luân Đôn đã tan. 
+Diana khẽ đưa tay vén lọn tóc vàng ra sau tai, ngắm nhìn vệt nắng sớm đang dát vàng lên mặt nước phẳng lặng phía xa. Nàng quay sang nhìn Dienne, khẽ mỉm cười:
 
-Và một kỷ nguyên mới—kỷ nguyên của New Arrchirio—đã chính thức bắt đầu vươn mình ra khắp thế giới!
+"Chúng ta đã làm được rồi, chị Dienne."
+
+Dienne gật đầu. Bàn tay nàng siết nhẹ lấy bàn tay em gái, cảm nhận hơi ấm thực sự của sự sống, của gia đình và của một tương lai không còn đơn độc.
+
+Nàng tra thanh kiếm gỗ sồi của Rhea vào bao da bên hông.
+
+Màn sương mù Luân Đôn dần tan biến vào hư không, để lại một bầu trời trong xanh, thanh thản và rực rỡ nắng mai.
 
 
 ---
@@ -1741,37 +1755,47 @@ Và một kỷ nguyên mới—kỷ nguyên của New Arrchirio—đã chính th
 
 ## EPILOGUE: NỤ CƯỜI CỦA MERLIN & ÁNH CHỚP CÔN LÔN
 
-Khoảng hư không nguyên thủy tĩnh lặng như một hồ nước không đáy.
+Khoảng hư không ranh giới giữa hai thế giới tĩnh lặng như một hồ nước không đáy.
 
-Giữa biển sao vô tận của ranh giới hai thế giới, những khối cự thạch phủ đầy rêu phong cổ đại vẫn lơ lửng trôi dạt chậm rãi qua hàng vạn năm lịch sử.
+Giữa biển sương mù mờ ảo phi thời gian, những khối cự thạch phủ đầy rêu phong cổ xưa vẫn lơ lửng trôi dạt chậm rãi qua những chu kỳ bất tận.
 
-Merlin ngồi xếp bằng trên một phiến đá hoa cương hình tròn. 
+Merlin ngồi trên một phiến đá hoa cương hình tròn. Chiếc áo choàng bằng vải thô màu tro tàn phủ lòa xòa trên đầu gối gầy guộc, mái tóc màu xám bạc buông nhẹ qua bờ vai tĩnh mịch.
 
-Mái tóc trắng như cước và chòm râu dài chạm đất của vị đại hiền giả khẽ lay động trong luồng gió thời-không vô hình. Chiếc áo choàng bằng vải thô màu tro tàn phủ lòa xòa trên đầu gối gầy guộc.
+Trước mặt cô không có ngai vàng hay những quân cờ số phận quyền năng. 
 
-Trước mặt ông, một bàn cờ thế bằng đá khổng lồ lơ lửng giữa không trung, phản chiếu toàn bộ các dòng chảy mana và số phận của hai thế giới song song.
+Chỉ có một **sơ đồ dao động mana đa chiều** lơ lửng trong không trung—hàng ngàn dải ánh sáng mỏng manh đan xen vào nhau, ghi nhận lại những biến thiên áp suất, tần số sóng âm và những xung lực rò rỉ giữa hai thực tại song song.
 
-Merlin từ từ mở đôi mắt già nua thăm thẳm như đại dương ngàn năm.
+Merlin từ từ mở đôi mắt xám thăm thẳm.
 
-Ánh mắt ông dừng lại ở tọa độ của dòng sông Thames bên bờ tây bàn cờ.
+Ánh mắt cô dừng lại ở cụm tín hiệu vừa đổi màu tại tọa độ của dòng sông Thames bên bờ tây sơ đồ.
 
-Tại đó, luồng sáng màu lam ngọc lạnh lùng, sắc lẹm của Dienne và luồng sáng màu lam ngọc thanh thoát, uốn lượn của Diana đã hoàn toàn quấn quýt lấy nhau, tạo thành một trục cộng hưởng hình học xoay tròn bất khả xâm phạm.
+Tại đó, luồng dao động lam ngọc sắc lẹm, tuần hoàn theo logic toán học của Dienne và dải sóng âm dao động điều hòa mềm mại của Diana đã hòa quyện vào nhau, tạo thành một mẫu hình giao thoa ổn định kỳ lạ. 
 
-Vết nứt không gian màu tím đen của Hắc Ma Thạch đã hoàn toàn tan biến, nhường chỗ cho một sự cân bằng thanh khiết chưa từng thấy suốt hai mươi năm qua.
+Vết rạn nứt không gian của Hắc Ma Thạch đã bị triệt tiêu hoàn toàn, kéo theo sự hạ nhiệt của toàn bộ long mạch ngầm dưới đáy sông Thames.
 
 Merlin khẽ mỉm cười.
 
-Một nụ cười hiếm hoi, cổ xưa và tràn ngập sự mãn nguyện của một người gieo hạt sau ngàn năm chờ đợi một mầm cây đâm chồi:
+Đó không phải là nụ cười của một kẻ giật dây toàn tri đang nhìn các con rối đi đúng kịch bản. 
 
-"Một người mang vết thương của quá khứ... Một người giữ trọn vẻ đẹp văn hóa của cội nguồn..."
+Đó là nụ cười của một học giả đã quan sát thực tại suốt hàng thế kỷ, vừa chứng kiến một giả thuyết phức tạp của mình được chứng minh một cách ngoạn mục:
 
-Vị pháp sư già khẽ vươn ngón tay khẳng khiu chạm nhẹ vào tâm điểm của hai luồng sáng lam:
+"Một hệ thống phân tích tĩnh... kết hợp cùng một nguồn dao động âm học động..."
 
-"Khi hai nửa tìm thấy nhau, vết nứt tâm hồn đã được hàn gắn. Bàn cờ định mệnh của ta... cuối cùng đã bắt đầu chuyển động theo hướng mà ta hằng mong đợi."
+Ngón tay thon thả của cô khẽ chạm nhẹ vào dải sóng lam ngọc đang ngân vang:
 
-Merlin chậm rãi nhấc một quân cờ bằng đá ngọc bích chạm khắc hình ảnh một con rồng uốn lượn chín khúc của phương Đông, đặt sang ô cờ tiếp theo ở hướng mặt trời mọc:
+"Nghịch lý mà ta hằng trăn trở bấy lâu nay... hóa ra lại có thể được hóa giải bằng sự tương thích giữa hai tâm hồn mang cùng một cội nguồn. Con người... đôi khi lại tìm ra câu trả lời cho Cân Bằng bằng những cách thức mà các phương trình cổ xưa nhất chưa từng ghi nhận."
 
-"Hãy đi đi, những đứa trẻ của Everhart... Thử thách thực sự của các con giờ mới chỉ bắt đầu."
+Thế nhưng, nụ cười trên môi Merlin chưa kịp đọng lại thì ở rìa phía đông của sơ đồ dao động—ngay tại tọa độ của vùng cao nguyên phương Đông—một vệt sáng màu đỏ thẫm bỗng nhiên bùng phát dữ dội.
+
+Biên độ dao động địa mạch nhảy vọt lên mức dị thường, kèm theo những vết nứt phân rã lan rộng theo hình bát giác.
+
+Merlin khẽ nheo mắt lại, đôi mắt xám ánh lên vẻ trầm ngâm trước một biến số mới nằm ngoài dự toán:
+
+"Long mạch phương Đông đang co giật... Dấu vết của Alden Everhart đã lan tới đỉnh Tuyết Phong."
+
+Cô khẽ thu tay lại vào trong tay áo choàng, thì thầm giữa thinh không:
+
+"Hãy đi đi, những đứa trẻ của Everhart... Cân Bằng mà các con vừa hàn gắn ở sương mù phương Tây... sắp sửa phải đối mặt với cơn bão thực sự ở phương Đông rồi."
 
 ---
 
