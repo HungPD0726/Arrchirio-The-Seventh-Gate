@@ -135,54 +135,54 @@ CHƯƠNG 5: Cô gái của học viện
 
 Mảnh ghép tiếp theo đến từ một hướng hoàn toàn trái ngược.
 
-Tại các phế tích rừng thiêng gần biên giới cũ, họ tìm thấy Mira—một nữ học giả trẻ tuổi đang sống ẩn dật để nghiên cứu Ancient Magic và Spirit Arts. Khác với vẻ ngoài nhếch nhác của Ryan, Mira luôn khoác bộ trang phục truyền thống thêu chỉ bạc trang nghiêm, mái tóc đen dài buông xõa và ánh mắt sắc lạnh như sương mai.
+Tại các phế tích đền thờ cổ gần biên giới cũ, họ tìm thấy Soraya—một thiếu nữ châu Á gốc Ả Rập xuất thân từ dòng dõi tư tế tế lễ sa mạc cổ xưa, đang nghiên cứu Ancient Ritual Magic và Celestial Arcana. Soraya khoác bộ dạ hội lụa đen huyền bí viền kim hoàn vàng sang trọng, mái tóc đen dài bồng bềnh cài dải trang sức vàng vắt ngang trán (Arabian golden circlet) đính ngọc lục bảo lấp lánh, tay cầm Vương trượng Cổ Ngọn Lửa tỏa ra những đốm lân tinh tàn tro ma thuật ấm áp.
 
 Cuộc gặp gỡ đầu tiên suýt biến thành một trận chiến.
 
-"Arrchirio là một tổ chức mục ruỗng đã chết vì chính sự kiêu ngạo của những kẻ sáng lập," Mira lạnh lùng nói, cản bước Dienne bằng một vòng kết giới linh khí tự nhiên. "Các người nghĩ gom vài món đồ cổ lại là có thể tái hiện lại sự Cân Bằng sao? Ngây thơ."
+"Arrchirio là một tổ chức mục ruỗng đã chết vì chính sự kiêu ngạo của những kẻ sáng lập," Soraya lạnh lùng nói, cản bước Dienne bằng một vòng lửa thiêng nghi lễ sa mạc. "Các người nghĩ gom vài món đồ cổ lại là có thể tái hiện lại sự Cân Bằng sao? Ngây thơ."
 
-Xung đột lập tức bùng nổ khi Ryan bước vào, càu nhàu về việc các kết giới linh khí của Mira "vừa tốn diện tích vừa thiếu hiệu suất truyền dẫn".
+Xung đột lập tức bùng nổ khi Ryan bước vào, càu nhàu về việc các nghi thức tế lễ của Soraya "vừa tốn thời gian vừa thiếu tính logic truyền dẫn".
 
-"Cậu đang cưỡng ép linh hồn của mana tự nhiên vào những khối kim loại vô tri vô giác!" Mira trừng mắt nhìn Ryan, sát khí bốc lên ngùn ngụt.
+"Cậu đang cưỡng ép linh hồn của mana tự nhiên vào những khối kim loại bết dầu vô tri vô giác!" Soraya trừng mắt nhìn Ryan, ngọn lửa trên đầu vương trượng bốc cao cảnh cáo.
 
-"Còn cô thì đang lãng phí chín mươi phần trăm năng lượng chỉ để tạo ra mấy đốm sáng lập lòe vô dụng!" Ryan cãi trả, giơ máy đo ma áp lên thách thức.
+"Còn cô thì đang lãng phí hàng giờ chỉ để cầu nguyện với mấy vì sao trong khi một cái vi mạch có thể xử lý việc đó trong một giây!" Ryan cãi trả, giơ máy đo ma áp lên thách thức.
 
-Đứng giữa hai thái cực mâu thuẫn, Dienne bước lên trước. Cô vung tay, phóng thích một ma trận Elvish cổ kết hợp mượt mà giữa sự tính toán chuẩn xác của toán học và sự hòa hợp nhịp thở của tự nhiên—dung hòa kết giới của Mira và làm êm dịu máy đo của Ryan trong tích tắc.
+Đứng giữa hai thái cực mâu thuẫn, Dienne bước lên trước. Cô vung tay, phóng thích một ma trận Elvish cổ kết hợp mượt mà giữa sự tính toán chuẩn xác của toán học và sự giao cảm với ngọn lửa thiêng—dung hòa ngọn lửa của Soraya và làm êm dịu máy đo của Ryan trong tích tắc.
 
-Mira sững sờ nhìn Dienne.
+Soraya sững sờ nhìn Dienne.
 
-"Tôi không xây dựng lại Arrchirio để lặp lại sai lầm của quá khứ," Dienne nói. "Tôi cần người hiểu được nguồn cội tâm linh của thế giới để chúng ta không bao giờ đi vào vết xe đổ của sự mù quáng công thức."
+"Tôi không xây dựng lại Arrchirio để lặp lại sai lầm của quá khứ," Dienne nói. "Tôi cần người am hiểu nguồn cội nghi lễ và quy luật cổ đại của thế giới để chúng ta không bao giờ rơi vào cái bẫy của sự kiêu ngạo."
 
-Mira vẫn giữ ánh nhìn hoài nghi, nhưng sự tò mò về tư duy ma thuật khác thường của Dienne đã giữ chân cô lại:
+Soraya vẫn giữ ánh nhìn kiêu kỳ, nhưng sự tò mò về tư duy ma thuật khác thường của Dienne đã giữ chân cô lại:
 
-"Tôi sẽ đi cùng cô một đoạn đường. Nhưng chỉ để xem cô sẽ giữ được cái lý tưởng ngây thơ này trong bao lâu."
+"Tôi sẽ đi cùng cô một đoạn đường. Nhưng chỉ để xem cô sẽ giữ được cái lý tưởng này trong bao lâu."
 
 CHƯƠNG 6: Ba người và những vết nứt
 
 Một căn cứ tạm thời được thiết lập trong một hang đá ngầm sâu trong hẻm núi biên giới.
 
-Nhóm bốn người—Dienne, Lucien, Ryan và Mira—bắt đầu vận hành cùng nhau, nhưng bầu không khí không hề êm thấm như một câu chuyện cổ tích về tình đồng đội.
+Nhóm bốn người—Dienne, Lucien, Ryan và Soraya—bắt đầu vận hành cùng nhau, nhưng bầu không khí không hề êm thấm như một câu chuyện cổ tích về tình đồng đội.
 
-Ryan liên tục càu nhàu vì bụi bặm làm kẹt các vi mạch ma cụ của cậu ta. Mira từ chối ngồi chung bàn ăn với Ryan vì chê mùi dầu máy nồng nặc. Lucien thì tối ngày ôm cuốn sổ chi tiêu, la oai oái vì số tiền mua linh kiện và thảo dược đang ngốn sạch những đồng bạc cuối cùng trong túi.
+Ryan liên tục càu nhàu vì bụi bặm làm kẹt các vi mạch ma cụ của cậu ta. Soraya quở mắng Ryan vì để dầu máy bôi bẩn thảm tế lễ sa mạc thiêng liêng. Lucien thì tối ngày ôm cuốn sổ chi tiêu, la oai oái vì số tiền mua linh kiện và thảo dược đang ngốn sạch những đồng bạc cuối cùng trong túi.
 
 Họ giấu giếm thông tin cá nhân, dò xét lẫn nhau và tranh cãi nảy lửa trong từng phương án hành động:
 
 Ryan muốn dùng máy quét ma đạo rà soát diện rộng để tiết kiệm thời gian.
 
 
-Mira kịch liệt phản đối vì cho rằng sóng nhân tạo sẽ làm kinh động đến linh mạch tự nhiên.
+Soraya kịch liệt phản đối vì cho rằng sóng nhân tạo thô kệch sẽ làm kinh động đến linh mạch ngầm và các phong ấn cổ.
 
 
 Lucien chỉ muốn chọn phương án nào ít rủi ro và ít tốn kém nhất.
 
 
-Đứng ở trung tâm của mớ hỗn độn ấy, Dienne không hề đóng vai một vị chỉ huy toàn quyền. Cô biết mình mới mười sáu tuổi và chưa đủ kinh nghiệm sống. Thay vào đó, cô đóng vai trò một điểm tựa dung hòa: giao việc bảo quản phong ấn cho Mira, để Ryan tự do cải tiến máy móc, và tin tưởng tuyệt đối vào khả năng tính toán của Lucien.
+Đứng ở trung tâm của mớ hỗn độn ấy, Dienne không hề đóng vai một vị chỉ huy độc đoán. Tiếp nối truyền thống tôn sư trọng đạo của Arrchirio, Dienne hướng dẫn Ryan cách kết nối logic nhị phân với cấu trúc Elvish, khiến Ryan tâm phục khẩu phục gọi cô là **"Master"**. Đồng thời, Dienne trân trọng tri thức nghi lễ của Soraya và tin tưởng tuyệt đối vào tài quản lý của Lucien.
 
-Bằng sự kiên nhẫn và năng lực ma thuật vượt trội, cô gái nhỏ trở thành sợi dây liên kết vô hình giữ cho ba cá tính gai góc không tan rã.
+Bằng sự kiên nhẫn và năng lực ma thuật vượt trội, Master Dienne trở thành sợi dây liên kết vô hình giữ cho ba cá tính gai góc không tan rã.
 
 CHƯƠNG 7: Thành phố bị xóa khỏi hồ sơ
 
-Dựa trên sự kết hợp giữa thuật bói toán địa mạch của Mira và máy quét tần số của Ryan, nhóm định vị được một cơ sở ngầm nguyên vẹn của Arrchirio.
+Dựa trên sự kết hợp giữa thuật bói toán tinh tú của Soraya và máy quét tần số của Ryan, nhóm định vị được một cơ sở ngầm nguyên vẹn của Arrchirio.
 
 Địa điểm nằm bên dưới lòng đất của một khu vực hiện mang tên Khu Hành chính Số 7 thuộc Đế quốc. Trên bản đồ hiện đại, không có bất kỳ dấu tích nào của quá khứ. Thành phố cổ từng tồn tại ở đây đã bị Đế quốc san phẳng, đổi tên và xây đè lên một hệ thống nhà máy luyện kim khổng lồ.
 
@@ -204,7 +204,7 @@ CHƯƠNG 8: Không phải ai cũng muốn được cứu
 
 Tiếng động lạ phát ra từ khu vực kho vũ khí của pháo đài ngầm.
 
-Khi Dienne và Mira tiến vào, họ chạm trán một bóng người gầy guộc, khoác tấm áo rách tả tơi đang điên cuồng vơ vét những viên ma thạch nén áp suất cao. Đó là Vane—một cựu chấp pháp viên của Arrchirio đã lẩn trốn dưới lòng đất suốt hai mươi năm, đôi mắt vằn đỏ hoang dại vì sự cô độc và thù hận.
+Khi Dienne và Soraya tiến vào, họ chạm trán một bóng người gầy guộc, khoác tấm áo rách tả tơi đang điên cuồng vơ vét những viên ma thạch nén áp suất cao. Đó là Vane—một cựu chấp pháp viên của Arrchirio đã lẩn trốn dưới lòng đất suốt hai mươi năm, đôi mắt vằn đỏ hoang dại vì sự cô độc và thù hận.
 
 "Các ngươi là ai?!" Vane gầm lên, giơ một thanh trường kiếm rỉ sét nhưng ma lực đỏ rực bao quanh lưỡi kiếm. "Chó săn của Đế quốc tìm tới tận đây rồi sao?!"
 
@@ -218,13 +218,13 @@ Vane lao tới, chỉ kiếm vào mặt Dienne, giọng run lên vì căm hờn:
 
 "Năm xưa chúng ta thất bại vì quá mềm yếu! Chúng ta tôn thờ sự Cân Bằng, không dám dùng vũ lực tuyệt đối! Nếu muốn hồi sinh Arrchirio, con đường duy nhất là biến nó thành một lưỡi dao độc. Chúng ta phải dùng số ma thạch này chế tạo bộc phá hủy diệt, đánh sập các Cổng Lớn, ám sát các Thống đốc Đế quốc, gieo rắc nỗi sợ hãi cho cả hai thế giới!"
 
-Mira lập tức thủ thế, còn Dienne bước lên một bước, thanh kiếm gỗ của Rhea hạ thấp ngang hông.
+Soraya lập tức giơ Vương trượng Cổ Ngọn Lửa thủ thế, còn Dienne bước lên một bước, thanh kiếm gỗ của Rhea hạ thấp ngang hông.
 
 "Nếu chúng ta làm điều đó," Dienne nói, thanh âm lạnh và dứt khoát, "chúng ta sẽ trở thành chính những kẻ đã hủy diệt Everhart năm xưa. Arrchirio không sinh ra để làm công cụ báo thù cho sự cay đắng của ông."
 
 "Thế thì các ngươi cản đường ta!"
 
-Vane gầm thét lao vào tấn công. Trận chiến diễn ra chóng vánh. Vane tuy có kinh nghiệm nhưng cơ thể đã suy kiệt sau hai mươi năm lẩn trốn. Bằng sự hỗ trợ của những sợi dây trói linh khí do Mira phong tỏa và một ma trận Elvish chuẩn xác từ Dienne, thanh kiếm của Vane bị đánh văng xuống sàn.
+Vane gầm thét lao vào tấn công. Trận chiến diễn ra chóng vánh. Vane tuy có kinh nghiệm nhưng cơ thể đã suy kiệt sau hai mươi năm lẩn trốn. Bằng sự hỗ trợ của những sợi dây trói lửa sa mạc do Soraya phong tỏa và một ma trận Elvish chuẩn xác từ Dienne, thanh kiếm của Vane bị đánh văng xuống sàn.
 
 Bị tước vũ khí, Vane quỳ sụp xuống đất, nghiến răng rớm máu. Nhưng ông ta không xin tha, chỉ ngước nhìn Dienne bằng ánh mắt giễu cợt đầy cay đắng:
 
@@ -242,9 +242,9 @@ Vane nhìn sâu vào mắt cô bé, cười nhạt:
 
 Người cựu binh lảo đảo đứng dậy, không thèm nhìn lại số ma thạch dưới đất, lầm lũi quay lưng bước đi và biến mất vào đường cống ngầm tăm tối.
 
-Đứng bên cạnh, Mira chứng kiến toàn bộ cảnh tượng ấy. Cô nhìn bóng lưng của Vane, rồi nhìn sang Dienne đang đứng lặng im giữa căn phòng vũ khí. Lần đầu tiên, sự hoài nghi trong mắt Mira tan biến hoàn toàn. Dienne đã thắng trận đấu, nhưng không hề ngạo mạn; cô bé chấp nhận đối diện với sự bế tắc trong tư tưởng thay vì trốn tránh nó.
+Đứng bên cạnh, Soraya chứng kiến toàn bộ cảnh tượng ấy. Cô nhìn bóng lưng của Vane, rồi nhìn sang Dienne đang đứng lặng im giữa căn phòng vũ khí. Lần đầu tiên, sự hoài nghi trong mắt Soraya tan biến hoàn toàn. Dienne đã thắng trận đấu, nhưng không hề ngạo mạn; cô bé chấp nhận đối diện với sự bế tắc trong tư tưởng thay vì trốn tránh nó.
 
-Ngay khoảnh khắc đó, Mira biết mình đã chọn đúng người để theo đuổi.
+Ngay khoảnh khắc đó, Soraya biết mình đã chọn đúng người để kề vai sát cánh.
 
 CHƯƠNG 9: Hội đồng mới
 
@@ -252,11 +252,11 @@ CHƯƠNG 9: Hội đồng mới
 
 Bốn người ngồi quanh một chiếc bàn đá tròn lớn.
 
-Dienne đặt chiếc huy hiệu Arrchirio vào chính giữa bàn, ngước mắt nhìn Lucien, Ryan và Mira.
+Dienne đặt chiếc huy hiệu Arrchirio vào chính giữa bàn, ngước mắt nhìn Lucien, Ryan và Soraya.
 
-"Hôm nay, chúng ta chính thức tiếp quản cơ sở này," Dienne cất giọng, phong thái điềm tĩnh và chững chạc. "Nhưng tôi muốn tất cả chúng ta thống nhất một điều: Chúng ta không khôi phục nguyên trạng Arrchirio cũ."
+"Hôm nay, chúng ta chính thức tiếp quản cơ sở này," Dienne cất giọng, phong thái điềm tĩnh và chững chạc của một Master. "Nhưng tôi muốn tất cả chúng ta thống nhất một điều: Chúng ta không khôi phục nguyên trạng Arrchirio cũ."
 
-Mira khoanh tay, chăm chú lắng nghe. Ryan ngừng gõ bàn phím ma cụ.
+Soraya khoanh tay, chăm chú lắng nghe. Ryan ngừng gõ bàn phím ma cụ.
 
 "Arrchirio mới sẽ không phục vụ ngai vàng của Everhart đã mất," Dienne tuyên bố từng chữ một cách đanh thép. "Không phục vụ Đế quốc Aurelia. Không phục vụ bất kỳ liên minh chính trị nào của thế giới phép thuật, và không can thiệp vào sự phát triển của thế giới loài người. Nguyên tắc tối cao duy nhất: Bảo vệ ranh giới giữa hai thế giới, ngăn chặn sự rò rỉ ma thuật, và tìm kiếm sự thật về nguồn gốc của thực tại."
 
@@ -267,10 +267,10 @@ Cô nhìn ba người bạn đồng hành của mình:
 Lucien phụ trách mạng lưới thông tin, hậu cần và tài chính.
 
 
-Ryan toàn quyền nghiên cứu kỹ thuật, vũ khí và magitech.
+Ryan toàn quyền nghiên cứu kỹ thuật, vũ khí và Magitech dưới sự hướng dẫn của tôi.
 
 
-Mira phụ trách các nghi thức cổ, phong ấn và nghiên cứu linh mạch.
+Soraya phụ trách các nghi thức cổ, phong ấn sa mạc và nghiên cứu Cổ ngữ Tinh Tú.
 
 
 Tôi sẽ chịu trách nhiệm về phương hướng hành động, đối ngoại và chiến lược ma thuật."
@@ -278,9 +278,9 @@ Tôi sẽ chịu trách nhiệm về phương hướng hành động, đối ngo
 
 Lucien mỉm cười, lật cuốn sổ tay ra gõ nhẹ bút lông: "Phân chia rõ ràng đấy. Tôi nhận phần tiền nong."
 
-Ryan đập tay xuống bàn: "Chốt! Đống máy móc ở đây là của tôi!"
+Ryan đập tay xuống bàn: "Em theo Master! Đống máy móc ở đây cứ để em lo!"
 
-Mira đặt một chiếc bùa phong ấn lên bàn, khẽ gật đầu: "Tôi sẽ giữ cho các cậu không bị ma lực cổ xưa nuốt chửng."
+Soraya đặt một biểu tượng ngọn lửa sa mạc bằng vàng lên bàn, khẽ mỉm cười kiêu hãnh: "Tôi sẽ giữ cho các bạn không bị ma lực cổ xưa nuốt chửng."
 
 Dưới ánh sáng xanh lam của đài lửa ngầm, một liên minh non trẻ nhưng vững chắc chính thức ra đời.
 
@@ -298,7 +298,7 @@ Ryan cắm máy đo năng lượng vào khe bệ đá, màn hình lập tức nh
 
 "Nó dẫn đi đâu?" Lucien lo lắng hỏi.
 
-"Tới một khoảng không nằm ngoài cả hai thế giới," Mira thì thầm, các ngón tay cô run lên khi chạm vào lớp trường lực vô hình bao bọc quanh cổng. "Một vùng trung gian... hoặc một thực tại thứ ba."
+"Tới một khoảng không nằm ngoài cả hai thế giới," Soraya thì thầm, các ngón tay cô run lên khi chạm vào lớp trường lực vô hình bao bọc quanh cổng. "Một vùng trung gian... hoặc một thực tại thứ ba."
 
 Dienne bước tới, ngăn Ryan không cho thử kích hoạt cơ quan mở khóa.
 
@@ -324,7 +324,7 @@ Ryan bật cười: "Người thường mà dám đi săn pháp sư đào tẩu 
 
 "Không điên đâu," Dienne khẽ mỉm cười, một nụ cười hiếm hoi thoáng qua trên gương mặt trầm mặc. "Chỉ là một cô gái thích ăn kẹo mút và ghét bị rác ma thuật làm phiền con ngõ nhà mình thôi."
 
-Mira ngạc nhiên nhìn biểu cảm của Dienne: "Cô quen người đó sao?"
+Soraya ngạc nhiên nhìn biểu cảm của Dienne: "Cô quen người đó sao?"
 
 "Từng kề vai chiến đấu," Dienne đáp ngắn gọn. Cô biết Louisa đang sống cuộc đời tự do theo cách riêng của mình ở Kyoto, và chừng nào thế giới này chưa đổ sập sang bên kia, con đường của họ sẽ tạm thời chưa gặp lại.
 
@@ -362,7 +362,7 @@ Toàn bộ các vi mạch ma dẫn trên mặt nạ sắt và các ma cụ trinh
 
 Vù—!
 
-Một màn sương mù tâm linh dày đặc do Mira điều khiển từ gian phòng trung tâm tràn ngập khắp các ngóc ngách, làm méo mó âm thanh và bẻ cong cảm quan phương hướng của kẻ thù. Những sợi xích ma pháp của đám Thẩm Phán phóng ra trong vô định, chỉ cắm phập vào các bức tường đá câm lặng.
+Một màn sương lửa sa mạc và kết giới nghi lễ cổ do Soraya điều khiển từ gian phòng trung tâm tràn ngập khắp các ngóc ngách, làm méo mó âm thanh và thiêu rụi cảm quan phương hướng của kẻ thù. Những sợi xích ma pháp của đám Thẩm Phán phóng ra trong vô định, chỉ cắm phập vào các bức tường đá câm lặng.
 
 Ở tiền tuyến, Dienne lướt đi trong làn sương như một bóng ma.
 
@@ -392,7 +392,7 @@ Sau khi giam giữ những kẻ xâm nhập vào các buồng phong ấn cổ v�
 
 Căn phòng họp trung tâm được thắp sáng bởi những ngọn đèn tinh thể dịu nhẹ. Ở giữa phòng, chiếc bàn đá tròn lớn đã được Ryan gia cố thêm các vi mạch bảo mật.
 
-Bốn người—Dienne, Lucien, Ryan và Mira—ngồi vào vị trí của mình.
+Bốn người—Dienne, Lucien, Ryan và Soraya—ngồi vào vị trí của mình.
 
 Nhưng trên chiếc bàn tròn ấy, Dienne đã cố tình xếp thêm bốn chiếc ghế trống bằng gỗ sồi đặt cách đều nhau.
 

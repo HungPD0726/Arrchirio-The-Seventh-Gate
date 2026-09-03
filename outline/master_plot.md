@@ -53,7 +53,7 @@
 
 #### Volume 4: Những Tàn Tích Của Arrchirio (The Remnants of Arrchirio)
 - **Chủ đề**: Lý tưởng, tuyển mộ và tái thiết.
-- **Nội dung chính**: Dienne quyết định khôi phục Arrchirio. Tuyển mộ Ryan (kỹ sư Magitech 14 tuổi) và Mira (học giả Ancient Magic & Spirit Arts). Tiếp quản pháo đài ngầm Sector 7. Từ chối con đường báo thù mù quáng của Vane. Chế tạo bẫy EMP ma đạo đánh tan tiểu đoàn Thẩm Phán Viện. Lập Hội đồng với 4 chiếc ghế trống và niêm phong Cánh Cửa Thứ Hai.
+- **Nội dung chính**: Dienne quyết định khôi phục Arrchirio, tiếp nối truyền thống Thầy - Trò thiêng liêng. Nhận Ryan (kỹ sư Magitech 14 tuổi) làm học trò thứ hai (Ryan gọi Dienne là "Master"). Mời Soraya (học giả châu Á gốc Ả Rập, Tư tế Sa mạc & Nghi lễ Cổ đại) làm trụ cột nghiên cứu phong ấn. Tiếp quản pháo đài ngầm Sector 7. Từ chối con đường báo thù mù quáng của Vane. Chế tạo bẫy EMP ma đạo đánh tan tiểu đoàn Thẩm Phán Viện. Lập Hội đồng với 4 chiếc ghế trống và niêm phong Cánh Cửa Thứ Hai.
 - **Kết thúc (Epilogue)**: Tín hiệu từ Dòng Chảy Ma Thuật và tin tức về các hoạt động của Louisa ở Kyoto.
 
 ---
@@ -65,9 +65,9 @@
 - **Câu hỏi hiện sinh**: *Liệu mana có phải chỉ là thứ năng lượng để đo đạc và tính toán? Linh hồn của vạn vật nằm ở đâu khi cộng hưởng $\theta = 0$?*
 - **Nội dung chính**:
   - Cánh Cửa Thứ Hai phát xung, đe dọa nén hai thế giới va chạm trong 5 tháng.
-  - Nhóm Dienne cùng Mira tiến lên phương Bắc, nơi linh mạch tự nhiên đang kêu gào.
-  - Louisa vượt Cổng từ Kyoto sang thế giới phép thuật, mang theo vũ khí động năng và chiến thuật đường phố chi viện cho nhóm.
-  - Đại chiến tại Cổng Cổ Đại: Dienne và Louisa ngăn chặn thành công máy gia tốc của Thẩm Phán Viện.
+  - Nhóm Dienne cùng Soraya và Ryan tiến lên phương Bắc, nơi linh mạch tự nhiên đang kêu gào.
+  - Louisa (Học trò đầu tiên & Deuteragonist) vượt Cổng từ Kyoto sang thế giới phép thuật, mang theo vũ khí động năng và chiến thuật đường phố chi viện cho Master Dienne.
+  - Đại chiến tại Cổng Cổ Đại: Dienne và Louisa phối hợp đẩy lui quân đoàn Thẩm Phán Viện.
   - **Manh mối về Rhea**: Dienne phát hiện tàn dư năng lượng của người hiệp sĩ tại Cổng Cổ Đại không phải là dấu chân lưu lạc, mà là bằng chứng chấn động: **Rhea đã bị Dòng Chảy Ma Thuật (The Astral Current) cuốn trôi vào vết nứt thời-không!**
   - Louisa chính thức nhận **Chiếc Ghế Sồi Trống Thứ Hai** tại Bàn Tròn Arrchirio.
   - **Epilogue**: Nhận được bức điện tín và bài hát ru Everhart từ **Reverse London**, ký tên: **Diana Everhart**!
@@ -76,7 +76,7 @@
 - **Thành phố / Bối cảnh**: **Reverse London** (London Nghịch Đảo).
 - **Câu hỏi hiện sinh**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
 - **Nội dung chính**:
-  - Dienne, Louisa, Lucien, Ryan, Mira sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
+  - Dienne, Louisa, Lucien, Ryan, Soraya sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
   - **Nghịch lý hai nàng công chúa**: Dienne (mất vương quốc, Everhart là vết thương) vs Diana (chưa từng có vương quốc, Everhart là nền văn hóa).
   - Khám phá phong cách chiến đấu tuyệt mỹ của Diana: **Kiếm vũ Ballet**, **Ma thuật trong chuyển động** và giọng ca dạ khúc mê hoặc.
   - Khám phá mạng lưới thành phố thế giới thực: Kim Tự Tháp Cairo (Ancient Magic), Côn Lôn (Trung Hoa), Tổ hợp lượng tử DARPA (Mỹ).

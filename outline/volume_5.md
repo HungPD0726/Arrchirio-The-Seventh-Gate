@@ -9,7 +9,7 @@
 
 ### PROLOGUE: BÌNH YÊN TRƯỚC CƠN BÃO
 - Sau khi đánh tan 30 Inquisitors của Thẩm Phán Viện ở Tập 4, pháo đài ngầm Sector 7 bước vào giai đoạn củng cố.
-- Ryan lắp ráp các cảm biến ma đạo dọc long mạch; Mira thiết lập màng chắn linh khí; Lucien đau đầu kiểm toán ngân khố cạn kiệt; Dienne ngày đêm nghiên cứu Cổ ngữ Elvish.
+- Ryan (học trò thứ hai, luôn gọi Dienne là "Master") lắp ráp các cảm biến ma đạo dọc long mạch; Soraya dùng Vương trượng Cổ Ngọn Lửa thiết lập kết giới phong ấn sa mạc; Lucien đau đầu kiểm toán ngân khố cạn kiệt; Master Dienne ngày đêm nghiên cứu Cổ ngữ Elvish.
 - Tuy nhiên, trong không khí tĩnh lặng, những đợt sóng vi mô ngầm bắt đầu dao động bất thường dưới lòng sâu.
 
 ### CHƯƠNG 1: DẤU VẾT DƯỚI MÀN TUYẾT
@@ -25,11 +25,11 @@
 ### CHƯƠNG 3: BẪY SÓNG CẢM ỨNG
 - Ryan hoàn thiện cảm biến số 37 đặt sát vách Cánh Cửa Thứ Hai.
 - Máy quét bắt đầu ghi nhận những đợt xung lực lạ lùng với độ lệch pha $\Delta \theta = 0,03$, trùng khớp kỳ lạ với dữ liệu sóng điện từ mà Dienne mang về từ Kyoto ở Tập 3.
-- Ryan cảnh báo: Cánh Cửa Thứ Hai đang âm thầm trao đổi thông tin với một nguồn phát ở rất xa.
+- Ryan cảnh báo Master Dienne: Cánh Cửa Thứ Hai đang âm thầm trao đổi thông tin với một nguồn phát ở rất xa.
 
-### CHƯƠNG 4: GIẤC MỘNG CỦA LINH MẠCH
-- Mira gặp ác mộng: Đất mẹ rạn nứt, bầu trời nứt toác thành hai nửa đè bẹp lên nhau.
-- Khi tỉnh dậy, Mira nhận thấy các bùa linh khí tự bốc cháy, thạch mạch ngầm quanh pháo đài co giật từng cơn.
+### CHƯƠNG 4: ĐIỀM BÁO NGỌN LỬA THIÊNG
+- Soraya quan sát thấy quả cầu ngọc trên đỉnh Vương trượng Cổ Ngọn Lửa bốc khói đen bất thường; đốm lân tinh sa mạc co giật theo nhịp địa chấn.
+- Nghi lễ bói toán Tinh Tú của Soraya cảnh báo: Đất mẹ rạn nứt, bầu trời nứt toác thành hai nửa đè bẹp lên nhau.
 - Một điềm báo tử thần đang đếm ngược từng giờ dưới lòng đất Sector 7.
 
 ### CHƯƠNG 5: TIẾNG VANG DƯỚI LÒNG ĐẤT *(Đã viết bản thảo đầy đủ)*
@@ -40,20 +40,20 @@
 - Cùng lúc, Louisa tại Kyoto cảm nhận nhịp chấn động khi đèn đường vụt tắt và tàu điện ngầm Tozai phanh khẩn cấp.
 
 ### CHƯƠNG 6: NHỮNG KẺ ĐÓN GIÓ *(Đã viết bản thảo đầy đủ)*
-- Hội đồng Arrchirio họp khẩn: Ryan cảnh báo hạn định 5 tháng trước khi hai thế giới đè bẹp lẫn nhau; Mira phản đối đánh sập mỏ neo vì sẽ tạo lỗ đen xé toạc lục địa.
+- Hội đồng Arrchirio họp khẩn: Ryan cảnh báo hạn định 5 tháng trước khi hai thế giới đè bẹp lẫn nhau; Soraya phản đối đánh sập mỏ neo vì sẽ tạo lỗ đen xé toạc lục địa.
 - Dienne vạch trần âm mưu của Arknight và Hoàng đế Aurelia: Có kẻ đang kích hoạt Cổng Cổ Đại ở phương Bắc để kéo mỏ neo. Quyết định Bắc tiến.
 - Louisa nhận cảnh báo từ Cục An ninh ngầm về mức mana rò rỉ tăng 300% đe dọa thiêu rụi lưới điện Nhật Bản; nạp đạn vonfram, dắt đoản đao vượt Cổng sang thế giới phép thuật.
 
 ### CHƯƠNG 7: VƯỢT QUA TRẠM GÁC THIẾT GIÁP
 - Nhóm Dienne mang theo trang bị Magitech ngụy trang, men theo hẻm núi đá tiến lên biên cương.
 - Đụng độ trạm kiểm soát thiết giáp hạng nặng của Quân đoàn Chấp Pháp Đế quốc trang bị pháo mana nòng dài.
-- Một trận chiến chiến thuật nổ ra: Ryan dùng mìn bẫy đoản mạch bánh xích, Mira dựng sương mù linh khí, Dienne dùng kiếm gỗ chém đứt nòng pháo áp suất.
+- Một trận chiến chiến thuật nổ ra: Ryan dùng mìn bẫy đoản mạch bánh xích, Soraya dùng Vương trượng Cổ Ngọn Lửa phóng thích luồng lửa sa mạc thiêu rụi lớp ngưng tụ mana nòng pháo, Dienne dùng kiếm gỗ chém đứt nòng pháo áp suất.
 
 ### CHƯƠNG 8: VỊ KHÁCH KHÔNG MỜI
 - Đội tiếp viện của Thẩm Phán Viện bất ngờ ập tới, bao vây nhóm Dienne tại thung lũng đá hẹp.
 - Giữa lúc hiểm nghèo, những tiếng nổ *PẰNG... PẰNG* khô khốc vang lên từ vách đá. Các sĩ quan chỉ huy Đế quốc lần lượt gục ngã vì đạn vonfram xuyên giáp.
 - **Louisa** xuất hiện với áo khoác bomber đen, ngậm kẹo mút dâu, xả súng ngắn giảm thanh và dùng còi bạc EMP thổi tung kết giới của pháp sư đối phương.
-- Cuộc tái ngộ dở khóc dở cười: Louisa đòi Dienne "thanh toán tiền công giải cứu" và giải thích tại sao cô phải lặn lội sang cái thế giới đầy mùi khói này.
+- Cuộc tái ngộ xúc động nhưng dở khóc dở cười: Louisa đòi Dienne "thanh toán tiền công giải cứu" và khẳng định một đệ tử không thể để Master của mình bị đám lính sắt bắt nạt.
 
 ### CHƯƠNG 9: VẾT SẸO CỦA DÒNG CHẢY MA THUẬT
 - Nhóm Dienne cùng Louisa thâm nhập vào pháo đài tiền tiêu của Thẩm Phán Viện ở đèo Băng Giá, lần theo dấu vết dao động thanh kiếm bạc.
@@ -81,7 +81,7 @@
 - Trận chiến đỉnh cao phối hợp giữa ma thuật và công nghệ:
   - Louisa dùng súng bắn tỉa đạn vonfram và còi bạc EMP phá nát trận hình kết giới đối phương.
   - Ryan thâm nhập bảng điều khiển ma đạo, bẻ khóa thuật toán dòng chảy.
-  - Mira dùng Linh Thuật mượn sức mạnh thạch mạch đè bẹp các cỗ xe bọc thép.
+  - Soraya điều khiển ngọn lửa sa mạc thanh tẩy và phong ấn nghi lễ cổ thiêu rụi các cỗ xe bọc thép.
   - Dienne dùng kiếm gỗ lam hỏa tung hoành giữa làn đạn, một mình hạ gục Đại Chỉ Huy Đế quốc.
 
 ### CHƯƠNG 13: CẮT ĐỨT NGUỒN PHÁT XUNG

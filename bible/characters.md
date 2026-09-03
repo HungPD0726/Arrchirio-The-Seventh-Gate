@@ -32,8 +32,20 @@
 - **Thế mạnh**: Tư duy toán học kết hợp ngữ pháp Elvish nguyên bản. Tốc độ phân tích cấu trúc ma trận cực nhanh, triển khai phép không có động tác thừa.
 - **Vũ khí**: Kết hợp truyền mana gia cố độ cứng/bén vào thanh kiếm gỗ + phóng thích ma thuật nguyên tố (gió nén, lửa lam tinh khiết, ma trận phong tỏa).
 
+### Truyền Thống Thầy - Trò Thiêng Liêng (Arrchirio Master - Disciple Bond)
+- Arrchirio truyền đời bằng liên kết **Thầy - Trò (Master - Disciple)** vô cùng thiêng liêng:
+  - Người Thầy Già truyền dạy và rèn giũa Dienne.
+  - Giờ đây, Dienne trở thành **Master**:
+    * **Louisa**: **Học trò đầu tiên**, người đầu tiên đồng hành, nhân vật chính thứ hai. Tình cảm thầy trò gắn kết thiêng liêng, thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt.
+    * **Ryan**: **Học trò thứ hai**, được Dienne khai phóng tư duy cơ khí và toán học Elvish; Ryan gọi Dienne là **"Master"**.
+
 ### Giọng Thoại & Hành Vi
-- **Xưng hô**: "Tôi - Cậu" (với Lucien, Ryan, Mira, 317); "Cháu - Thầy/Ngài" (với người thầy già và người lớn tuổi); "Em - Chị" (với Rhea).
+- **Xưng hô**:
+  - Với **Louisa**: Thân mật, ấm áp, tin cậy tuyệt đối, vừa là người thầy dẫn dắt vừa là tri kỷ thấu hiểu nhau hơn chị em.
+  - Với **Ryan**: Ryan gọi Dienne là **"Master"** (cách gọi tự nhiên, gần gũi, không câu nệ sáo rỗng).
+  - Với **Soraya**: Tôn trọng như một học giả cổ đại đồng hành ngang hàng.
+  - Với **Lucien**: "Tôi - Cậu" (đồng minh thân thiết, bạn cùng tiến).
+  - Với **Rhea**: "Em - Chị" (lời thề sinh mạng).
 - **Hành vi vô thức khi căng thẳng**: Ngón tay chạm vào chuôi kiếm gỗ của Rhea; ánh mắt khóa chặt đối phương và tính toán trong đầu.
 - **CẤM KỴ OOC**:
   - Tuyệt đối KHÔNG hành xử như kẻ phản diện mù quáng vì thù hận (không biến Arrchirio thành nhóm khủng bố như Vane muốn).
@@ -108,14 +120,18 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 
 ---
 
-# 3. NGƯỜI ĐỨNG Ở ĐIỂM GIAO HAI THẾ GIỚI: Louisa
+# 3. NHÂN VẬT CHÍNH THỨ HAI (DEUTERAGONIST) & HỌC TRÒ ĐẦU TIÊN: Louisa
 
 ### Thông Tin Cơ Bản
 - **Tên chính thức và duy nhất**: **Louisa** (Bí danh ngẫu hứng khi trêu tội phạm: *Louisa Swordman*).
-- **Xuất thân & Hoàn cảnh**:
-  - Sinh ra và lớn lên tại **Kyoto (Nhật Bản, Trái Đất)** — một thế giới hoàn toàn hiện đại và phi mana.
-  - Quen thuộc với đời sống đô thị, tàu điện ngầm, smartphone, động cơ đốt trong, súng đạn, điều tra và tội phạm đường phố.
-  - **Không phải mật danh huyền bí, không phải sản phẩm thí nghiệm hay dị nhân**. Cô là một cô gái bình thường của thế giới thực, nhưng vô tình trở thành người am hiểu mặt tối của thế giới phép thuật hơn bất kỳ ai do liên tục va chạm với những thứ rò rỉ qua Cổng (ma thạch lậu, ma cụ chợ đen, pháp sư đào tẩu gây rối).
+- **Xuất thân & Nghịch cảnh dòng dõi**:
+  - Sinh ra trong một **gia tộc phù thủy cổ xưa (witch lineage)** lâu đời, nhưng oái oăm thay cơ thể cô lại **hoàn toàn không có lấy một tí phép thuật nào ($\Psi = 0$)**.
+  - Bị dòng họ xem như một kẻ khiếm khuyết, Louisa rời bỏ thế giới ma thuật sang ẩn náu và mưu sinh tại **Kyoto (Nhật Bản, Trái Đất)**.
+  - **Bù lại nghịch cảnh**: Cô sở hữu thể chất phi thường, cơ thể dẻo dai nhanh nhẹn tuyệt đỉnh, khả năng dùng kiếm, dao găm tantō và phản xạ cận chiến đạt đến mức xuất quỷ nhập thần, kết hợp sử dụng thành thạo súng đạn hiện đại và công nghệ trần thế.
+- **Vị trí cốt lõi trong toàn bộ series**:
+  - **Nhân vật chính thứ hai (Deuteragonist)** của tác phẩm, kề vai sát cánh cùng Dienne qua mọi biến cố.
+  - **Học trò đầu tiên (First Disciple)** và là **người đầu tiên thực sự đồng hành cùng Dienne**.
+  - **Mối quan hệ với Dienne**: Tình cảm Thầy - Trò theo truyền thống thiêng liêng của Arrchirio, **thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt**.
 - **Độ tuổi**: Khoảng 17 - 18 tuổi.
 - **Ngoại hình**: Cô gái châu Á mảnh khảnh, ánh mắt sắc sảo, mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
 - **Trang bị & Đạo cụ**:
@@ -128,12 +144,18 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 
 ---
 
-### Bản Chất Năng Lực (Hard Canon Bất Khả Xâm Phạm)
+### Bản Chất Năng Lực & Bước Ngoặt Giác Ngộ Cùng Dienne
 - **100% Con người bình thường về mặt sinh học**.
 - **HOÀN TOÀN KHÔNG CÓ MANA NỘI TẠI ($\Psi = 0$)**. Không thể tự sinh mana, không có mạch mana trong cơ thể.
-- **TUYỆT ĐỐI KHÔNG BAO GIỜ THỨC TỈNH MANA**:
-  - Louisa có thể học: Ngữ pháp Elvish cơ bản, cách đọc sơ đồ ma pháp trận, cách nhận diện ma cụ, cách kích hoạt talisman bằng mẹo cơ học, nhận biết điểm yếu của thần chú để bắn phá điểm nút, và phối hợp tác chiến với pháp sư.
-  - Nhưng cơ thể cô vĩnh viễn không có mana. Sức mạnh của Louisa đến từ tư duy thực tế, phản xạ đường phố, công nghệ trần thế và sự bình tĩnh đến tàn nhẫn trước những thứ siêu nhiên.
+- **TUYỆT ĐỐI KHÔNG BAO GIỜ THỨC TỈNH MANA**.
+- **Sự thức tỉnh vĩ đại**:
+  - Trước khi gặp Dienne, các phù thủy trong gia tộc luôn nhồi sọ cô rằng ma thuật chỉ có một con đường duy nhất: tụ mana trong người rồi phóng ra.
+  - Sau khi gặp Dienne, cô nhận ra rằng **phép thuật có thể triển khai được theo rất nhiều cách**:
+    * Hiểu cấu trúc hình học ma trận để né tránh và phản đòn.
+    * Nhận biết điểm nút chịu lực để bắn vỡ vòng bảo hộ.
+    * Kích hoạt ma cụ và bùa chú bằng mẹo cơ học và động năng.
+    * Điều hướng vector dòng chảy bằng tư duy Elvish.
+  - Louisa học cách hiểu ma thuật sâu sắc hơn bất kỳ phù thủy nào mà không cần phải có mana!
 
 ---
 
@@ -143,8 +165,7 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 
 ---
 
-### Quá Trình Gắn Kết & Động Cơ Đồng Hành Cùng Dienne
-Mối quan hệ giữa Dienne và Louisa phát triển tự nhiên theo 4 chặng:
+### Quá Trình Gắn Kết & Lời Mời Đồng Hành Cùng Dienne
 1. **Đối đầu ban đầu** (Chạm trán tại Cổng Rò Rỉ ở Kyoto, đọ súng và kiếm gỗ).
 2. **Hợp tác bất đắc dĩ** (Cùng phong tỏa Cổng đang đe dọa nổ tung lưới điện đô thị).
 3. **Thấu hiểu lẫn nhau**:
@@ -170,7 +191,7 @@ Mối quan hệ giữa Dienne và Louisa phát triển tự nhiên theo 4 chặn
 ---
 
 ### Khoảnh Khắc Nhận Chiếc Ghế Trống (Không Long Trọng, Không Bề Trên)
-Louisa không "được tuyển dụng" và không cần thề thốt gia nhập tổ chức. Sự gia nhập của cô là sự công nhận bình đẳng giữa hai người bạn:
+Louisa không "được tuyển dụng" và không cần thề thốt gia nhập tổ chức. Sự gia nhập của cô là sự công nhận bình đẳng và gắn kết tự nhiên:
 > Dienne đẩy một chiếc ghế về phía cô: *"Ngồi đi."*  
 > Louisa nhìn chiếc ghế: *"Cái gì đây?"*  
 > *"Chỗ của cậu."*  
@@ -184,7 +205,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Lucien Vale.
-- **Vai trò trong Arrchirio mới**: Phụ trách mạng lưới thông tin, tài chính, hậu cần và mua sắm ma cụ.
+- **Vai trò trong Arrchirio mới**: Phụ trách mạng lưới thông tin, tài chính, hậu cần và mua sắm ma cụ. Bạn đồng hành bình đẳng của Dienne.
 - **Độ tuổi**: 16 - 17 tuổi.
 - **Xuất thân**: Học viên chuyên ngành Chế tác Ma cụ tại Học viện Aetheris.
 - **Ngoại hình**: Mái tóc nâu rối bù, ngón tay luôn dính muội than ma thạch, áo khoác nhiều túi nhét đầy bản đồ và phát minh dở dang. Chiếc la bàn ma lực định hướng dòng chảy năng lượng luôn đeo trên cổ.
@@ -196,36 +217,41 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ---
 
-# 5. KỸ SƯ MAGITECH: Ryan
+# 5. KỸ SƯ MAGITECH & HỌC TRÒ THỨ HAI: Ryan
 
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Ryan.
 - **Vai trò trong Arrchirio mới**: Trưởng ban Kỹ thuật, nghiên cứu Magitech và chế tạo trang thiết bị.
+- **Thân phận đặc biệt**: **Học trò thứ hai của Dienne**, gọi Dienne là **"Master"** (cách gọi tự nhiên, tôn kính và gần gũi, không câu nệ lễ nghi nặng nề).
 - **Độ tuổi**: 14 tuổi.
 - **Xuất thân**: Thợ cơ khí ma đạo tự do tại khu xưởng ngầm Oakhaven.
 - **Ngoại hình**: Thiếu niên gầy gò, mái tóc hạt dẻ xù luôn bết dính dầu máy, chiếc kính bảo hộ ma thuật gác lệch trên trán, tay cầm cờ-lê hoặc máy đo ma áp.
 
 ### Tính Cách & Tư Duy
-- Bộc trực, ghét lý thuyết suông và những nghi thức trang nghiêm sến sẩm ("Tôi chỉ cần tiền mua linh kiện thôi!").
-- Cực kỳ say mê cách vận hành của máy móc và công nghệ phi ma thuật từ Kyoto (mạch nhị phân, cuộn cảm ứng điện từ).
-- Chế tạo thành công thiết bị xung điện từ (EMP ma đạo) đánh bại Thẩm Phán Viện.
+- Bộc trực, đam mê máy móc và công nghệ nhị phân từ thế giới thực.
+- Được Dienne (Master) hướng dẫn cách kết hợp mạch logic nhị phân với ngữ pháp Elvish, từ đó chế tạo thành công thiết bị xung điện từ (EMP ma đạo) đánh bại Thẩm Phán Viện.
 - **CẤM KỴ OOC**: Không được viết Ryan thành "thiên tài toàn năng búng tay là ra máy"; cậu phải luôn thử nghiệm, đo đạc, sai sót và sửa chữa.
 
 ---
 
-# 6. HỌC GIẢ LINH MẠCH: Mira
+# 6. HỌC GIẢ NGHI LỄ CỔ ĐẠI & TƯ TẾ LỬA SA MẠC: Soraya
 
 ### Thông Tin Cơ Bản
-- **Họ và tên**: Mira.
-- **Vai trò trong Arrchirio mới**: Phụ trách phong ấn, nghi thức cổ xưa, Ancient Magic và Spirit Arts.
+- **Họ và tên**: **Soraya** (Tước hiệu: *Học giả Nghi Lễ Cổ Đại & Tư Tế Ngọn Lửa Sa Mạc*).
+- **Vai trò trong Arrchirio mới**: Phụ trách phong ấn cổ, nghiên cứu nghi lễ sa mạc, Ancient Ritual Magic và Celestial Arcana.
 - **Độ tuổi**: 17 - 18 tuổi.
-- **Xuất thân**: Ẩn sĩ tại vùng phế tích rừng thiêng biên giới.
-- **Ngoại hình**: Mái tóc đen dài buông xõa, trang phục truyền thống thêu chỉ bạc trang nghiêm, ánh mắt sắc sảo lạnh lùng như sương sớm.
+- **Xuất thân & Dòng dõi**: Thiếu nữ **châu Á gốc Ả Rập** (Asian - Arab heritage), xuất thân từ dòng dõi tư tế tế lễ sa mạc cổ xưa canh giữ các Cổng bí ẩn vùng Trung Đông / Ả Rập.
+- **Ngoại hình** *(Chuẩn xác theo tạo hình quý phái)*:
+  - Nét đẹp lai Á - Ả Rập kiêu sa đài các, đôi mắt huyền sâu thẳm mang chiều sâu ngàn năm, làn da mịn màng quý tộc.
+  - Mái tóc đen dài bồng bềnh uốn lượn cài dải trang sức kim hoàn vàng tinh xảo vắt ngang trán (Arabian golden circlet) đính ngọc lục bảo lấp lánh.
+  - Trang phục dạ hội lụa đen huyền bí viền kim hoàn vàng sang trọng, áo cúp ngực tôn vòng eo thon thả, váy xếp ly xẻ tà quý phái, đôi găng tay lụa đen dài qua khuỷu tay.
+  - **Pháp bảo bất ly thân**: **Vương trượng Cổ Ngọn Lửa (Ancient Flame Scepter)** làm bằng gỗ mun khảm vàng, đầu trượng là quả cầu ngọc bốc cháy ngọn lửa thiêng vàng cam rực rỡ, liên tục tỏa ra những đốm lân tinh tàn tro ma thuật lơ lửng.
 
-### Tính Cách & Tư Duy
-- Tôn kính tự nhiên và nhịp thở của linh mạch; coi ma thuật là một sinh mệnh sống chứ không phải công cụ cơ khí khô khốc.
-- Thường xuyên khắc khẩu với Ryan (chê dầu máy bẩn thỉu, chê máy móc phá hủy linh mạch).
-- Bị thuyết phục bởi sự khiêm tốn và dám nhìn thẳng vào sự thật của Dienne trong cuộc đối đầu với Vane.
+### Phong Cách Ma Thuật & Tư Duy
+- **Trường phái**: **Ancient Ritual Magic (Ma thuật Nghi Lễ Cổ Đại)** và **Nghệ thuật Tinh Tú Sa Mạc (Celestial & Sun Arcana)**.
+- Không dùng ngữ pháp Elvish châu Âu thông thường của Đế quốc, mà vận hành bằng Cổ ngữ Chiêm Tinh (Celestial Glyphs), nghi lễ thanh tẩy và ngọn lửa nguyên thủy.
+- Tôn kính các quy luật cổ xưa của đất trời; thường xuyên tranh luận hài hước với Ryan (*"Cậu lại làm bẩn tấm thảm nghi lễ bằng dầu máy rồi đấy!"*).
+- Nhìn nhận Dienne là một Master thực thụ của Arrchirio có đủ tư cách phục hưng Cân Bằng hai cõi.
 
 ---
 
@@ -330,35 +356,37 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 
 ```mermaid
 graph TD
-    Dienne["Dienne Everhart (16 tuổi)<br/>Leader / Toán học Elvish"]
+    Dienne["Dienne Everhart (16 tuổi)<br/>Leader & Master / Toán học Elvish"]
     Diana["Diana Everhart (15 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
     Rhea["Rhea Everwy (32 tuổi)<br/>Hộ vệ Hoàng gia / Hiệp sĩ tóc bạc"]
-    Louisa["Louisa (Kyoto)<br/>Thực dụng / Không Mana / Cầu nối"]
+    Louisa["Louisa (Deuteragonist)<br/>Đệ tử đầu tiên / Không Mana / Thân hơn chị em"]
     Lucien["Lucien Vale<br/>Hậu cần / Tài chính"]
-    Ryan["Ryan (14 tuổi)<br/>Magitech / Cơ khí nhị phân"]
-    Mira["Mira<br/>Ancient Magic / Spirit Arts"]
+    Ryan["Ryan (14 tuổi)<br/>Đệ tử thứ hai / Gọi Master / Magitech"]
+    Soraya["Soraya (Á - Ả Rập)<br/>Tư tế Sa Mạc / Ancient Ritual Arcana"]
     Merlin["Merlin<br/>Người quan sát bí ẩn"]
 
+    Dienne <-->|Thầy Trò thiêng liêng Arrchirio / Thân hơn cả chị em| Louisa
+    Dienne <-->|Master & Học trò / Khai phóng Magitech| Ryan
     Dienne <-->|Chị em ruột / Đối nghịch: Mất vương quốc vs Chưa từng có vương quốc| Diana
     Dienne <-->|Lời thề sinh mạng & Tìm kiếm| Rhea
     Diana <-->|Huyết thống hoàng gia & Lòng trung thành tuyệt đối| Rhea
     Dienne <-->|Đồng minh bất đắc dĩ & Bạn cùng tiến| Lucien
-    Dienne <-->|Cầu nối tư duy & Khai phóng công nghệ| Ryan
-    Dienne <-->|Dung hòa lý thuyết & Cân bằng linh mạch| Mira
-    Dienne <-->|Đối trọng văn minh & Đồng hành: Hiểu mặt tối của phép thuật| Louisa
+    Dienne <-->|Dung hòa Toán học & Nghi Lễ Cổ Đại| Soraya
     Diana <-->|Tương phản văn hóa: Công chúa đài các vs Nữ trinh sát đường phố| Louisa
-    Ryan <-->|Khắc khẩu: Máy móc vs Linh mạch| Mira
+    Ryan <-->|Khắc khẩu: Máy móc bết dầu vs Nghi lễ ngọn lửa thiêng| Soraya
     Merlin -.->|Quan sát biến số| Dienne
 ```
 
 | Nhân Vật A | Nhân Vật B | Tính Chất Quan Hệ | Mâu Thuẫn / Điểm Chạm |
 | :--- | :--- | :--- | :--- |
+| **Dienne** | **Louisa** | Thầy - Trò thiêng liêng Arrchirio & Tri kỷ vượt trên chị em | Louisa là đệ tử đầu tiên và Deuteragonist. Dienne giải phóng Louisa khỏi định kiến gia tộc phù thủy; Louisa là chiếc mỏ neo kéo Dienne về với thực tế. |
+| **Dienne** | **Ryan** | Master & Học trò thứ hai | Ryan gọi Dienne là "Master" tự nhiên, tôn kính; Dienne dạy Ryan kết hợp logic nhị phân với Elvish để tạo ra Magitech. |
 | **Dienne** | **Diana** | Chị em ruột thịt, hai mặt của một vương triều | Dienne mất vương quốc trước khi hiểu nó (vết thương); Diana chưa từng có vương quốc nhưng thấu hiểu trọn vẹn văn hóa và cốt cách hoàng gia. |
 | **Dienne** | **Rhea** | Lời thề sinh mạng, tình thân ruột thịt | Rhea mang tội lỗi kẻ thất hứa; Dienne quyết tâm chứng minh mình đã đủ sức đứng bên cạnh cô. |
 | **Diana** | **Rhea** | Công chúa thứ hai & Người bảo hộ tối cao | Rhea tìm thấy ở Diana hình ảnh huy hoàng mà vương triều Everhart từng có; Diana được nghe về Rhea qua lời ru của mẹ. |
 | **Diana** | **Louisa** | Hai thái cực của thế giới thực | Diana múa ballet giữ trọn lễ nghi quý tộc; Louisa ngậm kẹo mút xả đạn giảm thanh — cặp đôi "trái dấu" cực kỳ thú vị khi tác chiến. |
-| **Dienne** | **Louisa** | Hai thái cực của hai thế giới | Dienne dùng mana và tư duy chiến lược; Louisa dùng súng, phản xạ đường phố và sự am hiểu mặt tối của rò rỉ ma thuật. |
-| **Ryan** | **Mira** | Kỹ thuật máy móc vs Linh mạch tự nhiên | Tranh cãi triền miên về hiệu suất và tính linh thiêng của ma thuật. |
+| **Ryan** | **Soraya** | Kỹ thuật máy móc vs Nghi lễ sa mạc cổ đại | Ryan chê nghi thức rườm rà; Soraya quở mắng Ryan vì để dầu máy bôi bẩn thảm tế lễ và vương trượng cổ. |
 | **Dienne** | **Vane** | Bảo vệ Cân Bằng vs Báo thù cực đoan | Vane chế giễu sự non nớt của Dienne; Dienne từ chối biến mình thành kẻ ác như Đế quốc. |
+
 
 

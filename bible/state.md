@@ -18,14 +18,14 @@
 ## 2. Đội Ngũ Hiện Diện (Current Party & Locations)
 
 ### Tại Căn Cứ Pháo Đài Ngầm (Hội đồng Arrchirio mới):
-1. **Dienne Everhart (16 tuổi)**: Founder / Chỉ huy chiến lược. Đang ngồi trước bàn đá tròn.
-2. **Lucien Vale**: Quản lý sổ sách, tính toán chi phí tu sửa và mua sắm thảo dược/linh kiện.
-3. **Ryan (14 tuổi)**: Ngồi tại bàn kỹ thuật, nghiên cứu cải tiến các vi mạch và bẫy EMP ma đạo.
-4. **Mira**: Phụ trách kiểm tra kết giới phong ấn các giếng trục bị sập và theo dõi buồng giam tù binh.
+1. **Dienne Everhart (16 tuổi)**: Founder & **Master** / Chỉ huy chiến lược. Đang ngồi trước bàn đá tròn.
+2. **Lucien Vale**: Bạn đồng hành, quản lý sổ sách, tính toán chi phí tu sửa và mua sắm thảo dược/linh kiện.
+3. **Ryan (14 tuổi)**: **Học trò thứ hai của Dienne** (gọi cô là **"Master"**), Trưởng ban Kỹ thuật, nghiên cứu cải tiến các vi mạch và bẫy EMP ma đạo.
+4. **Soraya (17 - 18 tuổi)**: Thiếu nữ châu Á gốc Ả Rập, **Tư tế Sa mạc & Học giả Nghi lễ Cổ đại**, phụ trách kiểm tra kết giới phong ấn các giếng trục bị sập và theo dõi buồng giam tù binh.
 
 ### Nhân Vật Ở Nơi Khác (Off-screen / Theo Dõi Tình Báo):
-- **Rhea Everwy**: Đang ở một thị trấn biên giới hoang vu giáp bình nguyên, vừa nhìn thấy lệnh truy nã của Đế quốc nhắc đến cái tên Arrchirio. Chưa biết Dienne là người sáng lập.
-- **Louisa**: Đang ở Kyoto (thế giới thực), dọn dẹp các đường dây tội phạm buôn lậu cổ vật qua Cổng Rò Rỉ bằng súng ngắn giảm thanh và mẹo bẫy. Nhận biết các biến động rò rỉ ranh giới.
+- **Rhea Everwy**: Bị cuốn trôi vào **Dòng Chảy Ma Thuật (The Astral Current)** từ 10 năm trước tại Cổng Cổ, trôi dạt vô định ngoài thời gian tuyến tính, chưa thể thoát ra cho đến Đại Chiến Cuối Cùng.
+- **Louisa**: **Học trò đầu tiên & Deuteragonist**, đang ở Kyoto (thế giới thực), xuất thân từ gia tộc phù thủy nhưng không có mana, xử lý tội phạm rò rỉ Cổng bằng súng giảm thanh và võ thuật đường phố.
 - **Merlin**: Đang ở không gian cự thạch nguyên thủy giữa ranh giới hai thế giới, theo dõi **Cổng thứ bảy** vừa xuất hiện dao động tím.
 - **Người Thầy Già**: Ở lại căn chòi gỗ tại thung lũng tuyết hẻo lánh.
 - **Vane**: Đã rời bỏ pháo đài ngầm, lẩn trốn vào các đường cống ngầm của thế giới bên ngoài với sự căm hận Đế quốc tột cùng.
@@ -40,7 +40,7 @@
 - **Phòng chứa Cánh Cửa Thứ Hai**: Bị phong ấn nghiêm ngặt dưới tầng sâu nhất, tuyệt đối cấm tự ý mở.
 - **Hệ thống phòng thủ**:
   - Bẫy EMP ma đạo (sóng cảm ứng điện từ phá vi mạch mana).
-  - Kết giới sương mù tâm linh của Mira.
+  - Kết giới phong ấn nghi lễ cổ đại và ngọn lửa sa mạc của Soraya.
   - Các buồng phong ấn cổ đang giam giữ tù binh Thẩm Phán Viện.
 - **Tài liệu chiến lược**:
   - Bản đồ các Cổng bí mật trên toàn cầu.
@@ -61,9 +61,9 @@
 
 - **Dienne Everhart**:
   - Thể chất: Cổ tay và bả vai ê ẩm sau khi chịu phản chấn kiếm khí của chỉ huy Thẩm Phán Viện; mana đã hồi phục 70%.
-  - Tinh thần: Trầm tĩnh, kiên định. Sau cuộc đối thoại với Vane, cô hiểu rõ thử thách sắp tới không chỉ là chiến đấu mà là giữ vững đạo đức của Cân Bằng.
-- **Ryan**: Mệt mỏi vì thức đêm lắp ráp vi mạch nhưng tinh thần cực kỳ hưng phấn.
-- **Mira**: Khá căng thẳng vì lo ngại sóng EMP của Ryan làm xáo trộn linh mạch ngầm.
+  - Tinh thần: Trầm tĩnh, kiên định. Sau cuộc đối thoại với Vane, cô hiểu rõ thử thách sắp tới không chỉ là chiến đấu mà là gánh vác trách nhiệm của một Master bảo vệ Cân Bằng.
+- **Ryan**: Mệt mỏi vì thức đêm lắp ráp vi mạch nhưng tinh thần cực kỳ hưng phấn, luôn gọi Dienne là "Master" với sự tin phục tuyệt đối.
+- **Soraya**: Trầm tĩnh thắp hương trầm và bảo dưỡng ngọn lửa thiêng trên đầu Vương trượng Cổ Ngọn Lửa, theo dõi dao động địa mạch.
 - **Lucien**: Đau đầu vì ngân sách cạn kiệt, cần tìm nguồn tài trợ ngầm mới.
 
 ---

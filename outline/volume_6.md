@@ -25,7 +25,7 @@
   *"...Hỡi ngọn lửa xanh trên đỉnh tuyết ngàn năm, bao giờ người lữ hành sẽ trở về nhà?..."*
 
 ### CHƯƠNG 1: BƯỚC VÀO THÀNH PHỐ NGHỊCH ĐẢO
-- Nhóm Arrchirio (Dienne, Louisa, Lucien, Ryan, Mira) vượt qua Cổng Rò Rỉ đặc biệt bước chân vào **Reverse London**.
+- Nhóm Arrchirio (Master Dienne, Louisa, Lucien, Ryan, Soraya) vượt qua Cổng Rò Rỉ đặc biệt bước chân vào **Reverse London**.
 - Không gian giao thoa kỳ ảo: Những cỗ xe ngựa chạy song song với đường ống hơi nước áp suất cao, các quý ông đội mũ phớt và quý bà mặc váy dạ hội xòe rộng.
 - Louisa thích nghi cực nhanh với thành phố sương mù, mua vài tờ báo buổi sáng của London và bánh mì kẹp nóng hổi cho cả nhóm.
 - Dienne ngỡ ngàng khi nhìn thấy lá cờ rồng vàng Everhart nhỏ xíu được ai đó bí mật khắc trên chân cầu đá cổ kính bên sông Thames.
@@ -67,7 +67,7 @@
 - Nhóm kích hoạt Thước Đo Kinh Tuyến Greenwich của Diana kết hợp với máy quét của Ryan, mở rộng bản đồ Cổng thế giới thực:
   - **Trung Hoa (Côn Lôn)**: Mạch Cửu Long đang gầm rú; các đạo sĩ phái Côn Lôn phong ấn *"Thiên Môn"* bằng trận pháp Bát Quái cổ.
   - **Ai Cập (Giza)**: Các Kim Tự Tháp đóng vai trò Tháp Cộng Hưởng Hình Học đang phát sáng đối xứng với Cánh Cửa Thứ Hai.
-  - **Ả Rập (Rub' al Khali)**: Ảo ảnh Mirage Gates rách toạc, các thực thể lửa Djinn tràn qua thiêu rụi các ốc đảo.
+  - **Ả Rập (Rub' al Khali)**: Ảo ảnh Mirage Gates rách toạc, các thực thể lửa Djinn tràn qua; Soraya nhận diện được dấu vết thánh địa của dòng tộc tư tế sa mạc đang bị biến dạng.
   - **Mỹ (DARPA)**: Máy gia tốc hạt ngầm đang cố gắng tổng hợp nhân tạo hạt $\Psi$.
 
 ### CHƯƠNG 8: TẬP KÍCH TRỤ SỞ NGẦM TẠI NGOẠI Ô LONDON
@@ -98,7 +98,7 @@
 ### CHƯƠNG 12: HƯỚNG VỀ PHƯƠNG ĐÔNG
 - Sau khi bình ổn Reverse London và kho lưu trữ ngầm, nhóm nhận được tín hiệu cầu cứu từ **dãy núi Côn Lôn (Trung Hoa)**:
 - Cổng Cổ Đại phương Đông đang bị tấn công dữ dội. Vị Đạo sĩ trấn giữ cuối cùng đang chờ đợi người kế thừa ngồi vào **Chiếc Ghế Sồi Thứ Tư**.
-- Dienne, Diana, Louisa, Lucien, Ryan, Mira cùng nhau bước lên chuyến tàu xuyên giới, chuẩn bị cho trận chiến tối thượng tại Volume 7!
+- Dienne, Diana, Louisa, Lucien, Ryan, Soraya cùng nhau bước lên chuyến tàu xuyên giới, chuẩn bị cho trận chiến tối thượng tại Volume 7!
 
 ### EPILOGUE: NỤ CƯỜI CỦA MERLIN
 - Tại khoảng hư không, Merlin quan sát thấy hai luồng ánh sáng lam ngọc của hai chị em Everhart đã hòa làm một trên bàn cờ định mệnh.
