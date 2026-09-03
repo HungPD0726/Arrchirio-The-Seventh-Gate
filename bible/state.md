@@ -1,58 +1,65 @@
-﻿# Story State: Nhật Ký Trạng Thái Hiện Tại (Post-Volume 4)
+# Story State: Nhật Ký Trạng Thái Hiện Tại (Post-Volume 5)
 
 > **CƠ CHẾ BẢO LƯU NGỮ CẢNH (CONTINUITY SYSTEM)**
-> Tệp này ghi nhận chính xác trạng thái thế giới và nhân vật tại thời điểm **kết thúc Volume 4** (điểm bắt đầu cho Volume 5).
+> Tệp này ghi nhận chính xác trạng thái thế giới và nhân vật tại thời điểm **kết thúc Volume 5** (điểm bắt đầu cho Volume 6).
 > Mọi phân cảnh mới viết ra phải đối chiếu với tệp này.
 
 ---
 
 ## 1. Mốc Thời Gian & Địa Điểm (Current Setting)
 
-- **Mốc thời gian**: Kết thúc Volume 4 (Dienne 16 tuổi). Khoảng 10 năm kể từ đêm Everhart sụp đổ.
-- **Thời gian trong truyện**: Đêm muộn sau chiến thắng trước tiểu đoàn Thẩm Phán Viện.
-- **Địa điểm hiện tại**: **Pháo đài ngầm Sector 7** (nằm sâu hơn 100 mét dưới lòng đất khu nhà máy luyện kim Đế quốc, đã kích nổ làm sập giếng trục xả thải để cô lập hoàn toàn với bên trên).
-- **Môi trường căn cứ**: Không gian rộng lớn bằng kim loại đen cổ đại; đài lửa trung tâm bốc cháy ánh sáng xanh lam ấm áp; mạng lưới đèn tinh thể ma thuật được Ryan phục hồi.
+- **Mốc thời gian**: Kết thúc Volume 5 (Dienne 16 tuổi, cuối năm thứ 10 kể từ đêm Everhart sụp đổ).
+- **Thời gian trong truyện**: Nửa đêm sau khi bình ổn Cánh Cửa Thứ Hai và hoàn tất chiến dịch Đèo Băng Giá (Frost-Pass).
+- **Địa điểm hiện tại**: **Pháo đài ngầm Sector 7** — đại bản doanh của New Arrchirio.
+- **Sự kiện vừa xảy ra**: Nhận được bức điện tín khẩn cấp từ **Reverse London**, ký tên **Diana Everhart** (em gái ruột của Dienne), gửi qua mạng lưới cáp ngầm viễn dương cổ đại.
 
 ---
 
 ## 2. Đội Ngũ Hiện Diện (Current Party & Locations)
 
-### Tại Căn Cứ Pháo Đài Ngầm (Hội đồng Arrchirio mới):
-1. **Dienne Everhart (16 tuổi)**: Founder & **Master** / Chỉ huy chiến lược. Đang ngồi trước bàn đá tròn.
-2. **Lucien Vale**: Bạn đồng hành, quản lý sổ sách, tính toán chi phí tu sửa và mua sắm thảo dược/linh kiện.
-3. **Ryan (14 tuổi)**: **Học trò thứ hai của Dienne** (gọi cô là **"Master"**), Trưởng ban Kỹ thuật, nghiên cứu cải tiến các vi mạch và bẫy EMP ma đạo.
-4. **Soraya (17 - 18 tuổi)**: Thiếu nữ châu Á gốc Ả Rập, **Tư tế Sa mạc & Học giả Nghi lễ Cổ đại**, phụ trách kiểm tra kết giới phong ấn các giếng trục bị sập và theo dõi buồng giam tù binh.
+### Tại Căn Cứ Pháo Đài Ngầm Sector 7 — Hội đồng Arrchirio Mới (6 thành viên):
 
-### Nhân Vật Ở Nơi Khác (Off-screen / Theo Dõi Tình Báo):
-- **Rhea Everwy**: Bị cuốn trôi vào **Dòng Chảy Ma Thuật (The Astral Current)** từ 10 năm trước tại Cổng Cổ, trôi dạt vô định ngoài thời gian tuyến tính, chưa thể thoát ra cho đến Đại Chiến Cuối Cùng.
-- **Louisa**: **Học trò đầu tiên & Deuteragonist**, đang ở Kyoto (thế giới thực), xuất thân từ gia tộc phù thủy nhưng không có mana, xử lý tội phạm rò rỉ Cổng bằng súng giảm thanh và võ thuật đường phố.
-- **Merlin**: Đang ở không gian cự thạch nguyên thủy giữa ranh giới hai thế giới, theo dõi **Cổng thứ bảy** vừa xuất hiện dao động tím.
+1. **Dienne Everhart (16 tuổi)**: Founder & **Master** / Chỉ huy chiến lược. Vừa bình ổn Cánh Cửa Thứ Hai, giải mã Temporal Echo về Rhea, và phong tỏa đèo Băng Giá.
+2. **Louisa**: **Học trò đầu tiên & Deuteragonist**, chính thức ngồi vào **Chiếc Ghế Sồi Thứ Hai** tại Bàn Tròn (Đại diện cho Nhân Loại Thế Giới Thực & Cầu Nối Hai Nền Văn Minh). Đặc điểm Ψ = 0, chiến đấu bằng súng giảm thanh đạn vonfram, còi bạc và võ thuật đường phố. Đang sẵn sàng "chuyến công tác" tới London.
+3. **Lucien Vale**: Quản lý hậu cần, tài chính, tình báo. Đang chuẩn bị bảng hối đoái tiền bảng Anh cho chuyến sang Reverse London.
+4. **Ryan (14 tuổi)**: **Học trò thứ hai** (gọi Dienne là "Master"), Trưởng ban Kỹ thuật. Đang lên kế hoạch độ xe Magitech thành xe lưỡng cư vượt biển.
+5. **Soraya (17–18 tuổi)**: Tư tế Sa mạc & Học giả Nghi lễ Cổ đại. Sẵn sàng mang ngọn lửa sa mạc thiêu rụi sương mù sông Thames.
+
+### Chiếc Ghế Sồi Trống Thứ Ba — Đang chờ Diana Everhart.
+### Chiếc Ghế Sồi Trống Thứ Nhất — Dành cho Rhea Everwy (khi trở về).
+### Chiếc Ghế Sồi Trống Thứ Tư — Chưa xác định (gợi ý: Đại diện Cổ đạo, dự kiến Vol 7).
+
+### Nhân Vật Ở Nơi Khác (Off-screen):
+- **Rhea Everwy**: Bị cuốn trôi vào **Dòng Chảy Ma Thuật (The Astral Current)** từ 10 năm trước. Dienne đã phát hiện Temporal Echo xác nhận Rhea bị sóng thời-không nuốt, KHÔNG phải chết. Dienne chọn KHÔNG cưỡng ép kéo Rhea ra vì hiểu rằng làm vậy phá hủy ranh giới thời-không.
+- **Diana Everhart (~15 tuổi)**: Em gái ruột Dienne. Sống tại ngôi nhà gạch đỏ ở ngoại ô Reverse London. Đang bị quản thúc bởi Viện Quý Tộc Anh quốc. Gửi bức điện tín SOS cho Dienne qua mạng cáp ngầm Arrchirio cổ đại. Kiếm thuật Ballet + giọng hát dạ khúc cộng hưởng mana.
+- **Merlin**: Tại khoảng hư không, theo dõi Cổng Thứ Bảy vẫn đang dao động tím.
 - **Người Thầy Già**: Ở lại căn chòi gỗ tại thung lũng tuyết hẻo lánh.
-- **Vane**: Đã rời bỏ pháo đài ngầm, lẩn trốn vào các đường cống ngầm của thế giới bên ngoài với sự căm hận Đế quốc tột cùng.
-- **Quân đội Đế quốc & Thẩm Phán Viện**: Đang điều động thêm lực lượng về Sector 7 sau khi tiểu đoàn tiên phong mất liên lạc hoàn toàn.
+- **Vane**: Đã rời bỏ pháo đài ngầm, lẩn trốn trong đường cống ngầm với lòng căm hận Đế quốc.
+- **Quân đội Đế quốc & Thẩm Phán Viện**: Bị đẩy lui sau chiến dịch Đèo Băng Giá nhưng vẫn đang tái tập kết lực lượng.
 
 ---
 
 ## 3. Hành Trang, Tài Sản & Cơ Sở Vật Chất (Assets & Resources)
 
 ### Tại Căn Cứ Sector 7:
-- **Bàn đá tròn Hội đồng**: Gồm 8 vị trí (4 người hiện tại + **4 chiếc ghế trống** để ngỏ).
-- **Phòng chứa Cánh Cửa Thứ Hai**: Bị phong ấn nghiêm ngặt dưới tầng sâu nhất, tuyệt đối cấm tự ý mở.
+- **Bàn đá tròn Hội đồng**: 7 vị trí — 5 người ngồi (Dienne, Louisa, Lucien, Ryan, Soraya), 1 ghế chờ Diana, 1 ghế dành cho Rhea.
+- **Phòng chứa Cánh Cửa Thứ Hai**: Đã được bình ổn sau sự kiện Vol 5 — hiểm họa 5 tháng đã được hóa giải, Cánh Cửa quay về trạng thái ngủ đông. Vẫn bị niêm phong nghiêm ngặt.
 - **Hệ thống phòng thủ**:
   - Bẫy EMP ma đạo (sóng cảm ứng điện từ phá vi mạch mana).
   - Kết giới phong ấn nghi lễ cổ đại và ngọn lửa sa mạc của Soraya.
-  - Các buồng phong ấn cổ đang giam giữ tù binh Thẩm Phán Viện.
+  - Các buồng phong ấn cổ giam giữ tù binh Thẩm Phán Viện.
 - **Tài liệu chiến lược**:
-  - Bản đồ các Cổng bí mật trên toàn cầu.
+  - Bản đồ các Cổng bí mật trên toàn cầu (mới được mở rộng sau Vol 5 — ghi nhận Reverse London, Trung Hoa, Ai Cập, Ả Rập, Mỹ).
   - Danh bạ nhân sự Arrchirio cũ với hàng chục chỉ huy được ghi chú *"Không xác định tử vong"*.
   - Bản ghi chép Asariën về *"Sự Cộng Hưởng Xuyên Không Gian"*.
   - Bản phác thảo nguyên lý máy móc phi ma thuật từ Kyoto.
+- **Máy điện tín ma đạo đường dài**: Vừa nhận tín hiệu từ Reverse London sau 20 năm im lặng — mạng cáp ngầm xuyên lục địa vẫn hoạt động!
 
 ### Vật Phẩm Của Dienne:
-- Thanh kiếm gỗ cũ kỹ của Rhea (vừa được khắc sâu thêm vết xước sau trận đấu với Inquisitors).
+- Thanh kiếm gỗ cũ kỹ của Rhea (vết xước mới sau chiến dịch Đèo Băng Giá).
 - Chiếc trâm cài vương tộc Everhart.
 - Huy hiệu nhánh cây bạc Arrchirio.
-- Thiết bị thu phát tín hiệu vô tuyến đặc chế kết nối với Kyoto của Louisa.
+- Thiết bị thu phát tín hiệu vô tuyến đặc chế kết nối với Kyoto.
 - Chiếc la bàn ma lực định hướng của Lucien.
 
 ---
@@ -60,20 +67,23 @@
 ## 4. Trạng Thái Thể Chất & Tinh Thần (Condition)
 
 - **Dienne Everhart**:
-  - Thể chất: Cổ tay và bả vai ê ẩm sau khi chịu phản chấn kiếm khí của chỉ huy Thẩm Phán Viện; mana đã hồi phục 70%.
-  - Tinh thần: Trầm tĩnh, kiên định. Sau cuộc đối thoại với Vane, cô hiểu rõ thử thách sắp tới không chỉ là chiến đấu mà là gánh vác trách nhiệm của một Master bảo vệ Cân Bằng.
-- **Ryan**: Mệt mỏi vì thức đêm lắp ráp vi mạch nhưng tinh thần cực kỳ hưng phấn, luôn gọi Dienne là "Master" với sự tin phục tuyệt đối.
-- **Soraya**: Trầm tĩnh thắp hương trầm và bảo dưỡng ngọn lửa thiêng trên đầu Vương trượng Cổ Ngọn Lửa, theo dõi dao động địa mạch.
-- **Lucien**: Đau đầu vì ngân sách cạn kiệt, cần tìm nguồn tài trợ ngầm mới.
+  - Thể chất: Kiệt sức sau chiến dịch Đèo Băng Giá và bình ổn Cánh Cửa, nhưng mana đang hồi phục dần.
+  - Tinh thần: Xúc động mãnh liệt — vừa phát hiện Rhea còn sống trong Astral Current, vừa biết mình có một em gái ruột tại Reverse London. Đang nghẹn ngào siết chặt bức điện tín vào ngực. Quyết tâm: Reverse London là điểm đến tiếp theo.
+  - **Bước trưởng thành Vol 5**: Dienne đã chọn KHÔNG kéo Rhea ra bằng vũ lực — lần đầu cô hành xử như "người bảo vệ thế giới", không chỉ như đứa trẻ đi tìm người yêu quý.
+- **Louisa**: Tinh thần cao, sẵn sàng chiến đấu. Đã chính thức nhận vai trò tại Bàn Tròn. Phong thái tự tin, bình thản xỉa kẹo mút bàn chuyện "bắn tỉa dưới chân Big Ben".
+- **Ryan**: Hưng phấn cực độ, đang thiết kế phương tiện vượt biển. Trung thành tuyệt đối với Master.
+- **Soraya**: Trầm tĩnh, bảo dưỡng Vương trượng Cổ Ngọn Lửa. Sẵn sàng.
+- **Lucien**: Thực tế như luôn — đang tính toán chi phí chuyến viễn chinh London.
 
 ---
 
-## 5. Mục Tiêu Tức Thời (Immediate Goals)
+## 5. Mục Tiêu Tức Thời (Immediate Goals — Đầu Vào Cho Volume 6)
 
-1. **Bảo mật căn cứ**: Ngăn chặn Đế quốc đào bới thông lại giếng trục Sector 7.
-2. **Khai thác thông tin**: Thẩm vấn tù binh Thẩm Phán Viện và giải mã tài liệu về gia tộc **Arknight**.
-3. **Theo dõi Cánh Cửa Thứ Hai**: Đo đạc các xung dao động bất thường phát ra từ cánh cửa mà không mở khóa.
-4. **Tìm kiếm các chỉ huy còn sống sót**: Lần theo danh sách "Không xác định tử vong".
+1. **Sang Reverse London**: Toàn đội vượt Cổng tiến vào thành phố sương mù London để giải cứu Diana Everhart.
+2. **Hội ngộ Diana**: Tìm ngôi nhà gạch đỏ ngoại ô London, gặp mặt em gái ruột.
+3. **Đối phó Viện Quý Tộc Anh quốc**: Các gia tộc quý tộc bảo thủ đang bị Thẩm Phán Viện Aurelia giật dây, mưu toan kích hoạt Cổng Cổ Đại Big Ben.
+4. **Lấp đầy Chiếc Ghế Thứ Ba**: Diana Everhart là ứng viên đích đáng.
+5. **Lần theo dấu vết Arknight**: Trụ sở tài chính ngầm tại nhà ga bỏ hoang London — manh mối về kẻ phản bội huyết thống.
 
 ---
 
@@ -81,9 +91,11 @@
 
 | STT | Bí Ẩn / Phục Bút | Xuất Hiện Tại | Gợi Ý / Manh Mối Hiện Tại | Trạng Thái |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Rhea Everwy còn sống** | Epilogue Vol 4 | Xuất hiện tại thị trấn biên giới, nhìn bảng truy nã Arrchirio | Đang trên đường tìm tung tích |
-| 02 | **Kẻ phản bội Arknight** | Chương 3 Vol 4 | Gia huy Arknight bị đốt cháy; có liên hệ huyết thống gián tiếp với Dienne | Bí mật tối cao, chưa công khai |
-| 03 | **Cánh Cửa Thứ Hai** | Chương 10 Vol 4 | Cửa kim loại đen, ký tự hình học trừu tượng, năng lượng phi mana, phi vật lý | Đang bị niêm phong nghiêm ngặt |
-| 04 | **Sự Cộng Hưởng Xuyên Không Gian** | Chương 11 Vol 3 | Kyoto và các địa danh ở 2 thế giới ngày càng giống nhau | Cần thêm dữ liệu đối chiếu |
-| 05 | **Cổng Thứ Bảy dao động** | Epilogue Vol 1 | Merlin quan sát thấy phong ấn thứ 7 phát sáng tím | Chưa rõ nguyên nhân kích hoạt |
-| 06 | **4 Chiếc Ghế Trống** | Chương 14 Vol 4 | Dienne dành cho những cá nhân không thể thay thế trong tương lai | Đang chờ đón những mảnh ghép mới |
+| 01 | **Rhea Everwy bị cuốn vào Astral Current** | Ch11 Vol 5 | Temporal Echo xác nhận Rhea bị sóng thời-không nuốt, trôi dạt vô định ngoài thời gian tuyến tính. Dienne chọn không cưỡng ép kéo ra. | Đã xác nhận còn sống — chờ Đại Chiến Cuối |
+| 02 | **Kẻ phản bội Arknight** | Ch3 Vol 4 | Gia huy Arknight bị đốt cháy; có liên hệ huyết thống với Dienne. Vol 6 sẽ hé lộ: Hoàng thúc ruột! | Manh mối đang được lần theo tại London |
+| 03 | **Cánh Cửa Thứ Hai** | Ch10 Vol 4, Vol 5 | Hiểm họa 5 tháng đã được hóa giải. Cửa quay về trạng thái ngủ đông nhưng bản chất chưa được giải quyết. | Tạm ổn — vẫn niêm phong |
+| 04 | **Sự Cộng Hưởng Xuyên Không Gian** | Ch11 Vol 3 | Kyoto và thế giới phép thuật ngày càng giống nhau. Bản đồ toàn cầu mới từ Vol 5 hé lộ mạng lưới Cổng trên khắp thế giới. | Đang mở rộng dữ liệu |
+| 05 | **Cổng Thứ Bảy dao động** | Epilogue Vol 1 | Merlin quan sát phong ấn thứ 7 phát sáng tím. Chưa rõ nguyên nhân kích hoạt. | Bí ẩn tối thượng — chờ Volume cuối |
+| 06 | **Diana Everhart tại Reverse London** | Epilogue Vol 5 | Bức điện tín SOS gửi qua mạng cáp ngầm. Diana bị quản thúc bởi Viện Quý Tộc. Cổng Big Ben đang bị thao túng. | **MỤC TIÊU TRỰC TIẾP CỦA VOL 6** |
+| 07 | **4 → 2 Chiếc Ghế Trống** | Ch14 Vol 4, Vol 5 | Louisa đã ngồi Ghế 2. Diana dự kiến Ghế 3 (Vol 6). Ghế 1 chờ Rhea. Ghế 4 chờ (Vol 7). | Đang lấp dần |
+| 08 | **Bản đồ Cổng toàn cầu** | Epilogue Vol 5 | Reverse London, Côn Lôn (Trung Hoa), Cairo (Ai Cập), Rub' al Khali (Ả Rập), DARPA (Mỹ). | Mở ra hành trình xuyên thế giới |
