@@ -199,7 +199,7 @@ Người thầy già bật cười mỉa mai, một nụ cười cay đắng đ�
 "Vậy tại sao… nó lại biến mất?"
 "Vì sự phản bội." Giọng ông chùng xuống, mang theo sức nặng của hàng ngàn sinh mạng đã ngã xuống. "Một trong những trụ cột của chúng ta đã bán đứng toàn bộ mạng lưới cho Dominion để đổi lấy quyền lực tối thượng. Đại Chiến kết thúc không phải vì phe chính nghĩa yếu thế, mà vì nhát dao đâm sau lưng ấy. Arrchirio bị thanh trừng sạch sẽ. Những người biết sự thật đều đã chết, hoặc phải chui rúc như ta."
 Ông mở một chiếc hộp bằng kim loại đen, lấy ra một chiếc huy hiệu hình nhánh cây bạc đã xỉn màu vì năm tháng, đặt vào lòng bàn tay Dienne.
-"Lâu đài Everhart bị san phẳng sáu năm trước không phải vì các người vi phạm hiệp ước. Mà vì phụ hoàng của cháu đã từ chối giao nộp bí mật cuối cùng của Arrchirio cho Đế quốc."
+"Lâu đài Everhart bị san phẳng chín năm trước không phải vì các người vi phạm hiệp ước. Mà vì phụ hoàng của cháu đã từ chối giao nộp bí mật cuối cùng của Arrchirio cho Đế quốc."
 Dienne siết chặt chiếc huy hiệu trong tay, cạnh kim loại sắc nhọn cắm sâu vào da thịt. Mọi mảnh ghép trong quá khứ bỗng chốc sáng tỏ.
 "Thế giới ngoài kia đang tôn sùng nền hòa bình giả tạo của Đế quốc," ông lão nhìn thẳng vào mắt cô. "Cháu có thể chọn sống ẩn dật ở đây suốt đời như một kẻ trốn chạy. Hoặc bước ra ngoài đó, đối diện với toàn bộ trật tự mà chúng đã tạo ra."
 CHƯƠNG 10: Công chúa
