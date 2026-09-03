@@ -333,23 +333,41 @@ Vị trà ban đầu hơi đắng nhẹ nơi đầu lưỡi như cái lạnh bu�
 
 "Trà ngon lắm," Dienne khẽ nói, ánh mắt nhìn thẳng vào người thiếu niên đạo bào xanh: "Cảm ơn đạo trưởng Lục đã tiếp đón."
 
-"Ngon hơn hẳn mấy cái thứ trà xanh đóng chai vị ngọt gắt ở các máy bán hàng tự động tại Kyoto," Louisa uống cạn nửa chén trà, gật gù khen ngợi: "Cả căn phòng này không có lấy một giọt điện hay một bánh răng cơ khí nào, nhưng không hiểu sao lại thoải mái đến lạ."
+"Ngon hơn hẳn mấy cái thứ trà xanh đóng chai vị ngọt gắt ở các máy bán hàng tự động tại Kyoto," Louisa uống cạn nửa chén trà, gật gù. 
 
-Diana nâng chén trà bằng hai tay, nếp váy xếp ly phẳng phiu đặt ngay ngắn trên bồ đoàn. 
+Thế nhưng, ánh mắt nàng trinh sát Kyoto bỗng thoáng chùng xuống khi nhìn vào làn khói trà đang lơ lửng bốc lên.
 
-Nàng công chúa mười lăm tuổi nhìn ngắm chiếc chén sứ thanh hoa vẽ hoa văn cành trúc uốn lượn, đôi mắt lam lấp lánh sự ngưỡng mộ:
+Ở vùng núi thiêng này, ngay cả từng ngọn cỏ, rặng trúc hay những giọt sương mai đều phát ra những dải sáng lân tinh của "Khí". Vạn vật đều có linh tính, đều có mana. Chỉ riêng cô—kẻ sinh ra với chỉ số $\Psi = 0$ tuyệt đối giữa một gia tộc phù thủy ngàn năm—luôn là một khoảng lặng trơ trọi giữa biển năng lượng của thế gian.
 
-"Cung cách pha trà của đạo trưởng Lục thật sự thanh tao và tự nhiên. Ở Reverse London, các buổi tiệc trà chiều quý tộc luôn đòi hỏi hàng chục quy tắc đo lường thìa bạc và nhiệt kế khắt khe, nhưng ở đây... từng cử chỉ rót trà của đạo trưởng dường như hòa làm một với nhịp gió ngoài hiên vậy."
+Lục Thanh Vân đặt ấm trà xuống, ánh mắt màu ngọc bích của chàng đạo sĩ khẽ dừng lại trên người Louisa.
 
-Lục Thanh Vân khẽ mỉm cười, đôi mắt màu ngọc bích sáng trong:
+Cậu không hề nhìn cô bằng ánh mắt thương hại của kẻ bề trên, cũng không có sự kinh ngạc khinh thị như đám quý tộc pháp sư phương Tây. Ánh mắt Lục Thanh Vân sâu thẳm, mang theo sự tôn kính hiếm có:
 
-"Công chúa Diana quả là người có tuệ nhãn. Trà đạo phương Đông chúng tôi không chú trọng ở công thức hay đong đếm gram lạng. Trọng tâm của trà là 'Tĩnh'—khi tâm người pha trà tĩnh lặng như nước mùa thu, thì chén trà tự khắc sẽ đượm vị thơm của đất trời."
+"Thưa cô gái... Trong thế gian này, người có mana dồi dào thì nhiều như lá mùa thu, nhưng người giữ được bản thể 'Thuần Hư' tuyệt đối như cô lại hiếm tựa lông phượng sừng lân."
 
-Chàng đạo sĩ trẻ đặt ấm trà xuống, ánh mắt chuyển sang nhìn Dienne—người đang ngồi đối diện với chiếc áo choàng đen sờn vai và thanh kiếm gỗ sồi của Rhea đặt ngay ngắn bên gối.
+Louisa giật mình ngước lên: "Thuần Hư?"
 
-"Thưa Master Dienne," giọng Lục Thanh Vân trầm xuống, mang theo sự nghiêm trang sâu sắc: "Sư phụ của bần đạo trước khi viên tịch từng để lại một cuốn biên niên sử chép tay về sự sụp đổ của tổ chức Arrchirio hai mươi năm trước. Người từng dặn rằng: Nếu một ngày nào đó ngọn cành cây bạc vượt qua biển lớn tìm đến Thiên Môn, đó sẽ là thời khắc mà Long Mạch và Cân Bằng của thế giới bước vào khúc quanh sinh tử."
+"Cổ nhân có câu: 'Hư thất sinh bạch, vô vật vi đại'," Lục Thanh Vân mỉm cười điềm đạm: "Chiếc chén chỉ chứa được trà khi lòng nó trống rỗng. Một căn phòng chỉ đón nhận được ánh sáng khi bốn bề không bị đồ đạc lấp đầy. Sự trống rỗng trong cơ thể cô... bần đạo nhìn thấy đó không phải là một khiếm khuyết, mà là một khoảng không vô tận đang chờ đợi ngày đón nhận một nguồn cội lớn hơn."
 
-"Đúng vậy," Dienne gật đầu, ngón tay khẽ chạm lên mặt bàn gỗ: "Chúng tôi nhận được bức điện tín chu sa khẩn cấp từ Côn Lôn ngay sau khi vừa bình ổn nguy cơ Cổng tại Reverse London. Tình hình dưới đáy vực sâu thực sự nghiêm trọng đến mức nào, Lục Thanh Vân?"
+Bàn tay Louisa khẽ siết chặt chiếc chén sứ. Trái tim cô gái bướng bỉnh bỗng rung lên một nhịp lạ kỳ. Suốt mười tám năm qua, lần đầu tiên có một người nhìn thấy sự "không có mana" của cô bằng một góc nhìn khoáng đạt đến nhường ấy.
+
+Dienne nhìn học trò của mình, khẽ mỉm cười. Nàng chấm đầu ngón tay vào nước trà còn sót lại, vẽ nhanh một phương trình vector Asariën bốn pha lên mặt bàn gỗ:
+
+"Đạo trưởng Lục, tôi hiểu ý cậu về sự buông bỏ. Nhưng trong thực chiến ranh giới, nếu không có các phương trình vector tính toán sai số, một luồng mana rò rỉ chỉ cần lệch ba độ là có thể xé toạc cả một bức tường không gian."
+
+Nàng vừa dứt lời, một cơn gió núi từ biển mây thổi thốc qua gian thiền thất. 
+
+Giọt nước trà vẽ phương trình của Dienne lập tức bị gió thổi bạt đi, nhòe nhoẹt trên mặt gỗ bách.
+
+Lục Thanh Vân không phản bác bằng lời. Cậu chỉ mỉm cười, khẽ nghiêng chén trà, để một giọt nước khác rơi tự nhiên xuống kẽ nứt của thớ gỗ. Giọt nước men theo đường vân gồ ghề của phiến đá, uốn lượn mềm mại qua kẽ nứt rồi thấm sâu vào lòng gỗ, không hề bị cơn gió núi làm suy suyển.
+
+"Cô thấy đấy, Master Dienne," Lục Thanh Vân khẽ nói: "Phương trình của cô vẽ một đường thẳng tắp hoàn mỹ, nhưng gió của đất trời lại không thổi theo đường thẳng. Nước tìm đường nương theo vết rạn của gỗ để tồn tại. Đó là lý do Đạo gia chúng tôi không cố gắng uốn nắn dòng Khí theo ý mình, mà để dòng Khí tự tìm về nơi nó thuộc về."
+
+Dienne nhìn giọt nước đang từ từ ngấm sâu vào vân gỗ, im lặng hồi lâu. 
+
+Một bài học thực tế, không hề có những lời giảng giải giáo điều.
+
+"Tôi hiểu rồi," Dienne gật đầu: "Vậy hãy nói cho chúng tôi biết về vết rạn của ngọn núi này đi. Tình hình dưới đáy hang ngầm thực sự nghiêm trọng đến mức nào?"
 
 Sắc mặt chàng đạo sĩ trẻ trở nên ngưng trọng. 
 
@@ -707,19 +725,21 @@ Những nòng pháo bằng gang đúc cỡ lớn đang không ngừng nạp nh�
 
 Đứng trên nóc cỗ xe pháo chỉ huy bọc thép là một gã đàn ông vạm vỡ cao hơn hai mét, khoác áo giáp vảy rồng đen sì, khuôn mặt ngang tàng mang một vết sẹo kiếm dài chém chéo qua mắt trái. Hắn cầm trong tay một cây đại đao bằng thép rèn đen kịt, tỏa ra sát khí ngút trời.
 
-"Đó là **Sát Phá Lang**," Lục Thanh Vân siết chặt chuôi kiếm gỗ đào, giọng nói trầm xuống đầy căm phẫn:
+"Đó là **Sát Phá Lang**," Lục Thanh Vân siết chặt chuôi kiếm gỗ đào, giọng nói trầm xuống đầy ngưng trọng:
 
-"Cựu thống lĩnh quân đoàn biên cương phương Đông, một kẻ tàn bạo vì hám tiền tài và quyền lực mà đã bán đứng linh hồn cho chi nhánh Arknight Viễn Đông. Suốt ba tháng qua, chính hắn đã chỉ huy toán lính công binh đào hầm cắm cọc sắt phá hoại long mạch của chúng ta!"
+"Cựu thống lĩnh quân đoàn biên cương phương Đông. Hắn không phải kẻ hèn nhát, mà là một kẻ mang lòng căm thù mù quáng với đạo quán. Hắn sinh ra ở vùng biên ải khô cằn dưới chân núi, nơi người dân nhiều đời chết cóng vì cạn kiệt ma thạch. Hắn tin vào lời hứa của Arknight rằng việc cưỡng ép mở toang long mạch Côn Lôn sẽ mang nguồn năng lượng vô tận xuống cứu sống hàng triệu thường dân dưới đồng bằng."
 
-Từ phía bên kia cầu xích sắt, giọng nói ồm ồm như sấm rền của Sát Phá Lang vang vọng qua gió tuyết:
+Từ phía bên kia cầu xích sắt, giọng nói ồm ồm rền vang như sấm của Sát Phá Lang vọng qua gió tuyết:
 
-"Lục Thanh Vân nhóc con! Đạo quán của ngươi đã hết đường chạy rồi! Mau mở toang cửa Thiên Môn giao nộp Trụ Cột Long Mạch cho ta! Lord Arknight đã hứa rằng sau khi dòng mana phương Đông được nối liền với mạng lưới toàn cầu, toàn bộ dãy Côn Lôn này sẽ thuộc về ta cai quản!"
+"Lục Thanh Vân! Đạo quán các ngươi độc chiếm ngọn núi thiêng này đã ngàn năm rồi! Các ngươi ngồi trên mây ngắm tuyết, mở miệng ra là rao giảng 'Đạo pháp tự nhiên', nhưng có bao giờ các ngươi đoái hoài nhìn xuống hàng vạn bá tánh dưới chân núi chết lạnh mỗi mùa đông giá rét không?! 
 
-"Ngươi chỉ là một con tốt thí bị kẻ khác giật dây mà không hề hay biết thôi, Sát Phá Lang!" Lục Thanh Vân cất giọng đanh thép đáp trả: "Long mạch phương Đông thuộc về trời đất và muôn dân, không bao giờ thuộc về những kẻ buôn bán chiến tranh như ngươi!"
+Lord Arknight đã cho ta thấy một con đường khác: Nối liền long mạch này vào mạng lưới dẫn truyền ma đạo toàn cầu! Toàn bộ đồng bằng phía tây sẽ có điện sưởi ấm, ruộng đồng sẽ được tưới mát bằng năng lượng ma thạch! Mau mở toang Thiên Môn giao nộp Trụ Cột, đừng để bần đạo các ngươi cản trở sự sống của muôn dân!"
 
-Sát Phá Lang cười gằn, vung thanh đại đao lên trời:
+"Cưỡng đoạt long mạch đất mẹ để bón cho lòng tham công nghệ của Đế quốc không phải là cứu vớt, Sát Phá Lang!" Lục Thanh Vân đanh thép đáp trả: "Long mạch là gốc rễ của trời đất, rút cạn gốc rễ thì cả ngọn núi này và đồng bằng dưới chân đều sẽ sụp đổ thành bình địa!"
 
-"Nếu đã không biết điều thì chuẩn bị đón nhận bão thép đi! Toàn bộ mười hai cỗ pháo ma đạo... ngắm thẳng vào chân móng đạo quán, bắn sập toàn bộ vách đá cho ta—"
+Sát Phá Lang nghiến răng, mắt đỏ ngầu gầm lên:
+
+"Đó là luận điệu giảo biện của lũ đạo sĩ ích kỷ các ngươi! Nếu đã không chịu nhường đường... toàn bộ mười hai cỗ pháo ma đạo, ngắm thẳng vào chân móng đạo quán, bắn sập cho ta—"
 
 "Chờ đã, Tướng quân."
 
@@ -927,11 +947,13 @@ Lục Thanh Vân lướt đi bên cánh trái như một dải mây xanh. Thanh 
 
 Bộ ba xông thẳng qua cầu xích sắt trong chớp mắt!
 
-Ở đầu cầu phía bắc, Sát Phá Lang gầm lên như một con thú dữ cùng đường. Hắn nhảy phắt xuống khỏi nóc cỗ xe pháo chỉ huy, hai tay cầm cây đại đao thép đen chém xé toạc không khí lao thẳng vào Dienne:
+Ở đầu cầu phía bắc, Sát Phá Lang hai mắt đỏ ngầu, khuôn mặt chằng chịt vết sẹo co giật dữ dội trong tuyệt vọng. Hắn nhảy phắt xuống khỏi nóc cỗ xe pháo chỉ huy, hai tay cầm cây đại đao thép đen chém xé toạc không khí lao thẳng vào Dienne:
 
-"Con nhóc Everhart ranh con! Nộp mạng cho ta!"
+"Lũ công chúa đài các và đạo sĩ các ngươi... mở miệng ra là Cân Bằng với Thiên Đạo!" 
 
-Thanh đại đao nặng hơn trăm cân mang theo luồng sát khí đen ngòm của Hắc Ma Thạch bổ thẳng từ trên đỉnh đầu Dienne xuống với một lực đạo có thể chẻ đôi tảng đá ngàn cân!
+Thanh đại đao nặng hơn trăm cân mang theo luồng sát khí cuồng loạn của Hắc Ma Thạch bổ thẳng xuống với toàn bộ nỗi uất hận của một kẻ lớn lên nơi biên ải cằn cỗi:
+
+"Các ngươi có từng thấy cảnh những đứa trẻ ở thành Biên Hoang chết cóng trong mùa đông vì không có lấy một mẩu ma thạch sưởi ấm không?! Ta phải cướp lấy Trụ Cột Long Mạch này về cho họ! Kẻ nào cản đường... chết!"
 
 Gió bão rít gào bên tai.
 
@@ -953,15 +975,31 @@ Một luồng Lam Hỏa uốn lượn mềm mại như dải lụa quấn chặt
 
 Thanh đại đao chém cắm phập sâu nửa thước vào tảng đá granite, khiến cả cơ thể khổng lồ của Sát Phá Lang mất đà chúi nhủi về phía trước!
 
-Không để đối phương kịp hoàn hồn, Dienne xoay người nửa vòng theo một bước trượt ballet mà nàng vừa học từ Diana, tung một cú đá gót chuẩn xác vào khuỷu tay cầm đao của hắn, đồng thời vung sống kiếm gỗ sồi nện thẳng vào sau gáy Sát Phá Lang!
+Dienne xoay người nửa vòng theo một bước trượt ballet uyển chuyển, vung sống kiếm gỗ sồi dừng lại ngay trước yết hầu của hắn, giọng nói của nàng bình thản nhưng nặng tựa ngàn cân:
 
-*BỐP!*
+"Cướp đoạt sinh mệnh của một ngọn núi để bù đắp cho vùng đất khác không phải là giải pháp, Sát Phá Lang. Đó chỉ là chuyển dời cái chết từ nơi này sang nơi khác mà thôi."
 
-"Ư... hực!"
+Dienne nhìn thẳng vào đôi mắt vằn đỏ của gã tướng quân:
 
-Gã tướng quân khổng lồ trợn ngược mắt, thanh đại đao tuột khỏi tay, cả thân hình hộ pháp đổ sầm xuống lớp tuyết dày, bất tỉnh nhân sự!
+"Alden đã lừa dối ngươi. Hắc Ma Thạch của hắn không đem lại sự sống. Nếu Trụ Cột bị vỡ vụn, độc tính của nó sẽ đầu độc toàn bộ nguồn nước sông ngầm chảy xuống hạ lưu. Khi đó, người chết đầu tiên dưới đồng bằng... chính là gia đình và bá tánh của ngươi!"
 
-Nhìn thấy chủ tướng bị đánh gục chỉ sau một chiêu, toán tàn quân còn lại của Arknight hoảng loạn tột độ, vứt bỏ toàn bộ cờ quạt và pháo đạn, ôm đầu tháo chạy thục mạng xuống chân đèo Phong Lôi!
+Sát Phá Lang sững sờ chôn chân tại chỗ. 
+
+Hắn nhìn ngọn lửa Lam Hỏa thuần khiết trên thanh kiếm gỗ của Dienne, rồi nhìn xuống lưỡi đại đao đang bốc lên những làn khói đen tanh tưởi mục ruỗng của Hắc Ma Thạch. 
+
+Đôi bàn tay gân guốc của gã tướng quân biên cương bắt đầu run rẩy. Hắn nhận ra rằng thứ hắn cầm trên tay suốt ba tháng qua không phải là công cụ cứu vãn quê hương, mà là một mầm mống diệt vong.
+
+Dienne vung sống kiếm gõ nhẹ vào cổ tay hắn. 
+
+*Keng.*
+
+Thanh đại đao tuột khỏi tay Sát Phá Lang rơi xuống nền đá băng. 
+
+Gã tướng khổng lồ quỳ sụp một gối xuống lớp tuyết dày, thở dốc trong sự bàng hoàng và cay đắng tột cùng.
+
+"Đưa chủ tướng của các ngươi rời khỏi ngọn núi này," Dienne quay sang nhìn toán lính tàn quân Arknight đang run rẩy phía sau, giọng nói dứt khoát: "Trở về đồng bằng đi. Đừng bao giờ quay lại làm con cờ cho Đế quốc nữa."
+
+Toán tàn quân vội vàng xốc nách Sát Phá Lang dậy, vứt bỏ toàn bộ pháo đạn, ôm đầu dìu nhau tháo chạy thục mạng xuống chân đèo Phong Lôi.
 
 Tiếng súng và pháo đạn im bặt.
 
@@ -1192,15 +1230,15 @@ Một làn sóng xung kích thanh tẩy tinh khiết quét ngang qua mặt đấ
 
 Hàng trăm chiếc cọc sắt Hắc Ma Thạch bị đẩy bật gốc khỏi tám bệ đá! Dưới sức ép của ánh sáng Tam Hợp, toàn bộ hợp kim độc hại nứt toác, vỡ vụn thành từng mảnh nhỏ rồi tan biến thành tro bụi trong không trung!
 
-Những rãnh khắc Bát Quái trên mặt đá ngọc bích bừng sáng trở lại bằng ánh vàng kim lộng lẫy.
+Những rãnh khắc Bát Quái trên mặt đá ngọc bích bừng sáng trở lại bằng ánh vàng kim êm dịu.
 
-Tám quẻ Càn, Khảm, Cấn, Chấn, Tốn, Ly, Khôn, Đoài kết nối lại với nhau thành một vòng tròn năng lượng khép kín, vĩnh cửu và bất khả xâm phạm!
+Tám quẻ Càn, Khảm, Cấn, Chấn, Tốn, Ly, Khôn, Đoài kết nối lại với nhau thành một vòng tròn năng lượng khép kín, tái kích hoạt hệ thống phòng vệ cổ xưa của Thiên Môn.
 
-Dưới chân cột ngọc bích, dòng chất lỏng phát quang màu ngọc bích cuộn trào êm ả, đập nhịp thanh thản như hơi thở của một hài nhi khỏe mạnh:
+Dưới chân cột ngọc bích, dòng chất lỏng phát quang màu ngọc bích cuộn trào êm ả, đập nhịp thanh thản trở lại:
 
 *Thình thịch... Thình thịch...*
 
-Long Mạch Côn Lôn đã hoàn toàn được chữa lành!
+Trụ Cột Long Mạch đã vượt qua cơn nguy kịch. Những vết nứt sâu nhất đã được khép miệng, và dòng Khí huyết của ngọn núi thiêng đã ổn định trở lại sau chuỗi ngày bị đầu độc. Dẫu rằng đất trời vẫn cần thêm thời gian để nuôi dưỡng lại sinh khí nguyên bản, nhưng hiểm họa sụp đổ ranh giới nơi đây đã chính thức được chặn đứng.
 
 Cột sáng Tam Hợp lắng dịu dần, để lại trong hang ngầm một sự tĩnh lặng thiêng liêng, mát mẻ và thanh khiết đến tận cùng.
 
@@ -1408,21 +1446,21 @@ Diana hít một hơi sâu luồng không khí thanh tịnh của núi ngàn:
 
 "Trước khi rời Luân Đôn, em từng nghĩ rằng thế giới này chỉ toàn là những mưu đồ đen tối, chiến tranh và sự sụp đổ. Em sợ rằng nếu bước chân ra khỏi con ngõ nhỏ của cha mẹ, em sẽ đánh mất sự bình yên trong tâm hồn. Nhưng đến nơi này... nhìn thấy tiếng sáo của đạo trưởng Lục, nhìn thấy sự kiên cường của mọi người... em mới hiểu rằng: Bình yên không phải là trốn tránh trong một góc tối, mà là dũng cảm đứng lên che chở cho những điều tươi đẹp của thế gian."
 
-Dienne siết nhẹ bàn tay em gái, cảm nhận hơi ấm thực sự của sự sống và tình thân gia đình.
+Dienne không đáp lại bằng những câu từ đao to búa lớn.
 
-Nàng khẽ gật đầu:
+Nàng chỉ siết nhẹ bàn tay em gái, cảm nhận hơi ấm thực sự của tình thân đang sưởi ấm những ngón tay chai sạn vì cầm kiếm của mình. 
 
-"Đúng vậy. Chúng ta không chiến đấu để chinh phục thế giới, Diana à. Chúng ta chiến đấu... để những sớm mai thanh bình như thế này có thể tiếp tục nở hoa trên khắp thế gian."
+Hai chị em đứng lặng yên bên nhau bên bờ vực thẳm, để gió núi thổi bay những lọn tóc mai, ngắm nhìn vạt nắng ban mai đang dát vàng lên biển mây ngút ngàn. 
 
-Gió sớm thổi qua vách đá, mang theo tiếng chuông đồng từ mái hiên Thiên Môn Đạo Quán ngân nga trầm bổng:
+Phía sau lưng họ, tiếng sáo trúc của Lục Thanh Vân vẫn nhẹ nhàng ngân nga theo từng nhịp thở của ngọn núi, hòa cùng tiếng chuông đồng từ mái hiên Thiên Môn Đạo Quán:
 
 *KILINH... BOONG...*
 
-Tiếng chuông ngân vang xa, tan biến vào biển mây vô tận.
+Tiếng chuông ngân vang xa, tan biến vào sự tĩnh mịch vô tận của đất trời phương Đông.
 
-Một buổi sớm mai trọn vẹn và thanh thản trên đỉnh Côn Lôn.
+Mặt trời đã lên cao khỏi tầng mây xám.
 
-Và một khúc ca Cân Bằng... đã được khắc sâu vào trái tim của mỗi con người New Arrchirio.
+Và con đường phía trước... dẫu có muôn trùng bão giông, cũng không còn ai phải đơn độc một mình nữa.
 
 
 ---
