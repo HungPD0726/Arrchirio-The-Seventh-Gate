@@ -84,11 +84,23 @@
   - Cùng phối hợp phá cỗ máy nén không gian tại Tháp Big Ben; Diana tự nguyện bước vào **Chiếc Ghế Sồi Trống Thứ Ba**.
   - Epilogue: Nhận tín hiệu cầu cứu từ Côn Lôn, mở đường cho Đại Viễn Chinh Volume 7.
 
-#### Volume 7 - Volume Cuối: Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục)
-- **Thành phố / Bối cảnh**: **Côn Lôn** (Trung Hoa - Long mạch & Bát Quái) $\to$ **Cairo** (Ai Cập - Ma thuật tượng hình & Kim Tự Tháp) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
+#### Volume 7: Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (Đại Viễn Chinh Phương Đông)
+- **Thành phố / Bối cảnh**: **Dãy núi Côn Lôn & Thiên Môn** (Trung Hoa — Long mạch & Bát Quái Đạo thuật).
+- **Câu hỏi hiện sinh**: *Liệu trật tự của thực tại có thể được đóng khung hoàn toàn bằng các phương trình toán học khô khan, hay nó là một dòng chảy Khí vô hình đòi hỏi sự thuận ứng tự nhiên?*
+- **Nội dung chính**:
+  - Nhóm New Arrchirio gồm 6 người tiến vào dãy Côn Lôn hùng vĩ, leo qua chín ngàn chín trăm bậc đá tuyết đến Thiên Môn Đạo Quán.
+  - Hội ngộ và kết thân với Đạo sĩ trẻ **Lục Thanh Vân**.
+  - Phối hợp đa văn hóa: Toán học Asariën của Dienne + Kiếm vũ Ballet của Diana + Bùa chú Bát Quái của Lục Thanh Vân + Kỹ thuật súng đạn của Louisa + Ma thuật sa mạc của Soraya + EMP của Ryan.
+  - Đối đầu tư tưởng gián tiếp đầu tiên với **Hoàng thúc Alden Everhart** qua viễn ảnh ma đạo.
+  - Đẩy lui quân đoàn thiết giáp Hắc Ma Thạch, chữa lành tàn dư Cổ Long, phục hồi Bát Quái Trận Phong Ấn.
+  - Lục Thanh Vân chính thức ngồi vào **Chiếc Ghế Sồi Trống Thứ Tư**.
+  - Epilogue: Long mạch phương Đông thức tỉnh, mở đường thẳng tới Kim Tự Tháp Cairo và New Rome.
+
+#### Volume 8 - Volume Cuối: Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng)
+- **Thành phố / Bối cảnh**: **Cairo** (Ai Cập - Ma thuật tượng hình & Kim Tự Tháp) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
 - **Nội dung & Đại kết cục**:
-  - Nhóm giải mã các Tháp Cộng Hưởng Kim Tự Tháp và thâm nhập đầu não New Rome, lấp đầy chiếc ghế trống thứ tư (Đại diện Cổ đạo).
-  - Trận chiến tối thượng chống lại Hoàng đế Aurelia và kẻ phản bội Arknight.
+  - Toàn bộ 7 thành viên Hội đồng New Arrchirio tiến vào sào huyệt Đế quốc và căn cứ Arknight.
+  - Trận chiến tối thượng chống lại Hoàng đế Aurelia và Hoàng thúc Alden Everhart.
   - **Tột cùng tuyệt vọng**: Căn cứ sụp đổ, hệ thống Cổng rạn nứt, toàn bộ đồng minh trọng thương, New Arrchirio trên bờ vực diệt vong. Dienne đứng trơ trọi giữa đống tro tàn giơ thanh kiếm gỗ đón nhận đòn kết liễu.
   - **SỰ XUẤT HIỆN CỦA RHEA**: Một vết nứt rách toạc, **Dòng Chảy Ma Thuật tràn ra ánh sáng bạc**, Rhea bước ra với giáp cũ và trường kiếm bạc!
   - **Cảnh nhận ra nhau**: Rhea thốt lên câu nói tuổi thơ: *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*

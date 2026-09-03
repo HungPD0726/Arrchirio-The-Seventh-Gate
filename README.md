@@ -51,8 +51,12 @@ mylightnovel/
 │   │   ├── Volume5_Full.md
 │   │   ├── prologue.md -> ch14.md
 │   │   └── epilogue.md
-│   └── vol6/                     <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
-│       ├── Volume6_Full.md
+│   ├── vol6/                     <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
+│   │   ├── Volume6_Full.md
+│   │   ├── prologue.md -> ch12.md
+│   │   └── epilogue.md
+│   └── vol7/                     <-- Bản thảo Tập 7: Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (Đã hoàn thành 100% - 107 KB)
+│       ├── Volume7_Full.md
 │       ├── prologue.md -> ch12.md
 │       └── epilogue.md
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel

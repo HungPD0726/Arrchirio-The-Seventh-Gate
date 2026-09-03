@@ -351,7 +351,25 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 
 ---
 
-# 9. CÁC NHÂN VẬT QUAN TRỌNG KHÁC
+# 9. ĐẠO SĨ CÔN LÔN: Lục Thanh Vân (Lu Qingyun)
+### (Chủ Nhân Chiếc Ghế Sồi Thứ Tư — Bối Cảnh Volume 7)
+
+### Thông Tin Cơ Bản
+- **Họ và tên**: Lục Thanh Vân (Đạo hiệu: *Thanh Hư Đạo Sĩ*).
+- **Xuất thân**: Truyền nhân chân truyền đời thứ 72 của phái Côn Lôn Thiên Môn (Dãy núi Côn Lôn, Trung Hoa). Người trấn giữ cuối cùng của Trụ Cột Long Mạch phương Đông.
+- **Độ tuổi**: Khoảng 17 – 18 tuổi.
+- **Ngoại hình**: Dáng người mảnh khảnh nhưng vững vàng như tùng bách trên đỉnh vách đá. Mặc đạo bào màu xanh ngọc bích viền mây trắng thêu hoa văn Bát Quái, tóc đen dài búi cao bằng một chiếc trâm gỗ đào mộc mạc. Khuôn mặt thanh tú, đôi mắt sáng như ngọc bích phát quang, toát lên vẻ điềm tĩnh, thoát tục hiếm có.
+- **Vũ khí & Pháp bảo**: 
+  - **Kiếm Gỗ Đào Ngàn Năm**: Rèn từ lõi cây đào sét đánh trên đỉnh Tuyết Phong, chuyên khắc chế tà niệm và dẫn truyền luồng "Khí" tự nhiên.
+  - **Bát Quái Kính & Chu Sa Phù**: Bộ phù chú vẽ bằng máu rồng chu sa dùng để định vị long mạch và lập kết giới Ngũ Hành.
+
+### Trường Phái: Đạo Pháp Tự Nhiên & Long Mạch Khí Công
+- Không sử dụng phương trình toán học Asariën hay máy móc Magitech.
+- Vận hành theo triết lý: *"Nhân pháp Địa, Địa pháp Thiên, Thiên pháp Đạo, Đạo pháp Tự nhiên"*.
+- Sử dụng dòng chảy của **"Khí"** bên trong kinh mạch để hòa nhập với linh khí của trời đất, điều khiển gió mây và dẫn truyền Long Mạch.
+
+### Vai Trò Trong Hội Đồng Arrchirio
+- Đại diện chính thức cho **Chiếc Ghế Sồi Trống Thứ Tư** tại Bàn Tròn Hội Đồng (Đại diện cho Cổ Đạo Phương Đông & Long Mạch Côn Lôn).
 
 ### Người Thầy Già (Thung lũng tuyết)
 - Tàn dư Arrchirio cũ sống ẩn dật sau cuộc Đại thanh trừng. Áo chùng xám bạc cũ sờn, tẩu thuốc lá.

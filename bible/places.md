@@ -1,4 +1,4 @@
-﻿# STORY BIBLE: ĐỊA LÝ & CÁC THÀNH PHỐ MA THUẬT (Places of the Two Realms)
+# STORY BIBLE: ĐỊA LÝ & CÁC THÀNH PHỐ MA THUẬT (Places of the Two Realms)
 
 > **Triết lý chủ đạo:**  
 > *"Mỗi thành phố là một thế giới nhỏ. Mỗi thế giới nhỏ cho Dienne một mảnh ghép về thế giới lớn. Mỗi thành phố trả lời một câu hỏi hiện sinh."*  
@@ -248,3 +248,20 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
   - Tại những vùng đất có **mật độ mana siêu cao áp ($\Psi > 100.000\text{ man}$)**, lực hấp dẫn và độ bền vật liệu bị bẻ cong. 
   - Các chủng tộc cổ xưa (Midgogant, Lunar Elves, Sky Kin) đã dùng ma thuật để điều khiển trọng trường, khiến việc xếp những khối đá nặng hàng vạn tấn lên độ cao hàng ngàn mét trở nên dễ dàng như xếp những khối gỗ đồ chơi!
 - **Ý nghĩa trong cốt truyện**: Mỗi Megastructure là một mắt xích neo giữ cấu trúc không-thời gian của hai thế giới. Khi Cánh Cửa Thứ Bảy bị đe dọa, các siêu kiến trúc này chính là những trạm kiểm soát ranh giới mà New Arrchirio phải bảo vệ.
+
+---
+
+## 16. DÃY NÚI CÔN LÔN & THIÊN MÔN (Kunlun Mountains — Bối Cảnh Volume 7)
+- **Identity**: Nóc nhà của thế giới phương Đông, thánh địa của Đạo gia và cội nguồn của hệ thống Long Mạch thế giới thực.
+  - *Câu hỏi hiện sinh*: *"Liệu trật tự của vũ trụ có thể được giải mã hoàn toàn bằng các phương trình toán học khô khan, hay nó là một dòng chảy Khí vô hình đòi hỏi sự thuận ứng tự nhiên?"*
+- **Architecture**: Đạo quán cổ nghìn năm tuổi xây bằng gỗ bách và ngói lưu ly xanh biếc, dựng cheo leo trên các vách đá tuyết ngàn trượng bồng bềnh giữa biển mây; những cây cầu xích sắt vắt ngang qua vực sâu; các thạch đài Bát Quái khắc hình âm dương đồ. Cổng Cổ Đại Thiên Môn là một cổng đá tự nhiên khổng lồ sừng sững trên đỉnh Tuyết Phong.
+- **Climate**: Không khí loãng, lạnh buốt thấu xương, thoang thoảng mùi gỗ tuyết tùng, hương trầm thanh tịnh và sương mai tuyết giá; quanh năm mây mù cuồn cuộn như sóng biển.
+- **Population**: Các Đạo sĩ ẩn cư của phái Côn Lôn Thiên Môn, những người tu đạo tĩnh tâm, và các tinh linh hạc trắng, vượn tuyết sống giao hòa cùng con người.
+- **Magic**: **Đạo Thuật, Khí Công & Bát Quái Trận Pháp**: Không dùng cấu trúc Asariën hay máy móc Magitech; thi triển bằng dòng chảy "Khí" bên trong kinh mạch, bùa chú giấy chu sa, kiếm gỗ đào, và khả năng điều hướng Long Mạch tự nhiên của đất trời.
+- **Economy**: Tự cung tự cấp bằng trà tuyết, dược thảo nghìn năm, ngọc bích linh thạch; hoàn toàn không màng tiền bạc thế tục.
+- **Culture**: Tôn sùng "Đạo pháp tự nhiên", vô vi nhi vô bất vi, đề cao sự tĩnh tại nội tâm, thưởng trà ngắm mây, kiên định bảo vệ Long Mạch như sinh mệnh.
+- **Conflict**: Quân đoàn thiết giáp Hắc Ma Thạch của Arknight cấu kết cùng Thẩm Phán Viện bao vây đỉnh Tuyết Phong, mưu toan phá vỡ Bát Quái Trận để cưỡng đoạt Trụ Cột Long Mạch kết nối với mạng lưới Cổng toàn cầu.
+- **What the protagonists feel**:
+  - *Dienne*: Cú sốc nhận thức lớn nhất về bản chất của ma thuật; nhận ra các phương trình giải tích Asariën của mình phải học cách nhường bước trước sự uyển chuyển của dòng chảy "Khí".
+  - *Diana*: Thích thú trước nghệ thuật đàn tranh và trà đạo phương Đông; tìm thấy sự đồng điệu giữa kiếm vũ ballet và thân pháp phiêu dật của Đạo gia.
+  - *Louisa*: Phối hợp ngoạn mục giữa vũ khí hiện đại (súng giảm thanh) và bùa chú Bát Quái của đạo sĩ.
