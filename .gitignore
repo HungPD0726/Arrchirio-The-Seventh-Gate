@@ -1,0 +1,12 @@
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Word lock and temporary files
+~$*.docx
+*.tmp
+
+# Node
+node_modules/
+.env
