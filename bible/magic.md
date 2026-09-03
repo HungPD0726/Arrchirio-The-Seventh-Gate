@@ -426,9 +426,9 @@ Do đó:
 
 ---
 
-# 8. 317 — NGƯỜI KHÔNG CÓ MANA
+# 8. LOUISA — NGƯỜI KHÔNG CÓ MANA
 
-317 là ví dụ quan trọng nhất cho sự khác biệt giữa:
+Louisa là ví dụ quan trọng nhất cho sự khác biệt giữa:
 
 **“không có mana”**
 
@@ -595,11 +595,11 @@ Cô cần học cách:
 * chấp nhận những thứ không được viết dưới dạng công thức;
 * hợp tác với những người có phương pháp khác.
 
-Đây là lý do Mira và Ryan quan trọng.
+Đây là lý do Soraya và Ryan quan trọng.
 
 ---
 
-# 14. Dienne, Ryan và Mira — Ba cách nhìn về ma thuật
+# 14. Dienne, Ryan và Soraya — Ba cách nhìn về ma thuật
 
 ### Dienne
 
@@ -623,17 +623,16 @@ Cậu thiên về:
 * hiệu suất;
 * kỹ thuật.
 
-### Mira
+### Soraya
 
-**Ma thuật như một phần của thế giới sống.**
+**Ma thuật như một phần của tự nhiên và tinh tú vũ trụ.**
 
 Cô thiên về:
 
-* linh khí;
-* tự nhiên;
-* linh mạch;
-* Spirit Arts;
-* Ancient Magic.
+* Ancient Flame Scepter;
+* Celestial Arcana;
+* nghi lễ sa mạc cổ đại;
+* phong ấn và sự giao hòa linh mạch.
 
 Ba người không đại diện cho ba “nguồn năng lượng”.
 
@@ -825,7 +824,7 @@ Phải cân nhắc:
 
 Đây là lý do Dienne từng thất bại trong chiến đấu dù có năng lực ma thuật rất tốt.
 
-Và đây cũng là lý do 317 có thể chiến đấu trong một thế giới nơi cô không có mana.
+Và đây cũng là lý do Louisa có thể chiến đấu trong một thế giới nơi cô không có mana.
 
 ---
 
@@ -908,7 +907,7 @@ Các yếu tố sau chưa được xác nhận đầy đủ trong 4 Volume:
 * Biến Spirit Arts thành phép thuật “yếu hơn”.
 * Biến Ancient Magic thành auto-win.
 * Biến Magitech thành công nghệ không có giới hạn.
-* Cho 317 đột nhiên sử dụng mana tự nhiên.
+* Cho Louisa đột nhiên sử dụng mana tự nhiên.
 * Cho khoa học và ma thuật là hai thứ hoàn toàn đối nghịch.
 * Cho Dienne biết mọi trường phái.
 * Giải thích mọi hiện tượng bằng mana.

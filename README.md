@@ -11,15 +11,17 @@ Chào mừng bạn đến với không gian sáng tác tác phẩm Light Novel *
 mylightnovel/
 ├── .agents/skills/novel-craft/   <-- Custom Skill AI cố vấn & sáng tác truyện
 ├── bible/                        <-- Hệ thống Story Bible chuẩn mực
-│   ├── world.md                  <-- Thiết lập thế giới 4 Volume
-│   ├── characters.md             <-- Hồ sơ nhân vật (Want, Need, Voice, OOC)
+│   ├── world.md                  <-- Thiết lập thế giới & Trục du hành thành phố
+│   ├── places.md                 <-- Địa lý 15 thành phố & kỳ quan ma thuật (9 trục chuẩn mực)
+│   ├── species.md                <-- 7 chủng tộc (Human, Lunar Elves, Midgogant, Sky Kin...)
+│   ├── characters.md             <-- Hồ sơ nhân vật (Dienne, Louisa, Ryan, Soraya, Lucien, Diana, Rhea...)
 │   ├── Merlin.md                 <-- Canon về Merlin, Paradox & Gate 7
 │   ├── magic.md                  <-- Triết lý & hệ thống ma thuật tổng quan
 │   ├── mana_physics.md           <-- Động lực học Mana & Toán học ma pháp (3 Định luật Merlin)
 │   ├── elvish_codex.md           <-- Ngôn ngữ Elvish, ngữ pháp 4 pha & thần chú
 │   ├── magic_appendix.md         <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
 │   ├── canon_audit.md            <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
-│   └── state.md                  <-- Trạng thái cốt truyện (Post-Vol 4 Tracker)
+│   └── state.md                  <-- Trạng thái cốt truyện (Post-Vol 5 Tracker)
 ├── outline/                      <-- Dàn ý chi tiết các Volume
 │   ├── master_plot.md            <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-7)
 │   ├── volume_1.md               <-- Dàn ý Tập 1 (Công chúa mất đi vương quốc)
@@ -27,7 +29,7 @@ mylightnovel/
 │   ├── volume_3.md               <-- Dàn ý Tập 3 (Thế giới không có phép thuật)
 │   ├── volume_4.md               <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
 │   ├── volume_5.md               <-- Dàn ý Tập 5 (Tiếng vang từ biên cương)
-│   └── volume_6.md               <-- Dàn ý Tập 6 (Những thành phố bị lãng quên & Bóng ma Arknight)
+│   └── volume_6.md               <-- Dàn ý Tập 6 (Reverse London & Bức điện Diana)
 ├── chapters/
 │   ├── vol1/                     <-- Bản thảo Tập 1 (Đã hoàn thành 100% - 122 KB)
 │   │   ├── Volume1_Full.md
@@ -37,17 +39,18 @@ mylightnovel/
 │   │   ├── Volume2_Full.md
 │   │   ├── prologue.md -> ch10.md
 │   │   └── epilogue.md
-│   ├── vol3/                     <-- Bản thảo Tập 3 (Đã hoàn thành 100% - 63 KB)
+│   ├── vol3/                     <-- Bản thảo Tập 3 (Đã hoàn thành 100% Webnovel - 176 KB)
 │   │   ├── Volume3_Full.md
 │   │   ├── prologue.md -> ch14.md
 │   │   └── epilogue.md
-│   ├── vol4/                     <-- Bản thảo Tập 4 (Đã hoàn thành 100% - 62 KB)
+│   ├── vol4/                     <-- Bản thảo Tập 4 (Đã hoàn thành 100% Webnovel - 172 KB)
 │   │   ├── Volume4_Full.md
 │   │   ├── prologue.md -> ch14.md
 │   │   └── epilogue.md
-│   └── vol5/                     <-- Bản thảo Tập 5 (Đang phát triển)
-│       ├── ch05.md               <-- Chương 5: Tiếng vang dưới lòng đất
-│       └── ch06.md               <-- Chương 6: Những kẻ đón gió
+│   └── vol5/                     <-- Bản thảo Tập 5 (Đã hoàn thành 100% Webnovel - 193 KB)
+│       ├── Volume5_Full.md
+│       ├── prologue.md -> ch14.md
+│       └── epilogue.md
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel
 └── README.md                     <-- Hướng dẫn này
 ```

@@ -152,7 +152,17 @@ Trong đó **$\theta$** là **góc lệch pha**:
 3. **Ngược pha ($\theta = \pi \to \cos(\theta) = -1$) — Triệt Tiêu & Phản Phệ (Destructive Interference / Backlash)**:
    - Khi Dienne 6 tuổi dùng sự căm hận gào thét ép mana, sóng nội tại ngược pha $180^\circ$ với mana môi trường.
    - Năng lượng bị ghìm nghẹt, nội áp tăng vọt dẫn tới **BÙM** — phản phệ gây bỏng rát tay chân.
-   - **Ứng dụng của 317**: Dùng còi bạc tạo sóng âm có tần số ngược pha với ma trận của pháp sư buôn lậu, làm $\cos(\theta) \to -1$, ép lá chắn của đối phương tự vỡ vụn!
+   - **Ứng dụng của Louisa**: Dùng còi bạc tạo sóng âm có tần số ngược pha với ma trận của pháp sư buôn lậu, làm $\cos(\theta) \to -1$, ép lá chắn của đối phương tự vỡ vụn!
+
+---
+
+> [!IMPORTANT]
+> ### NGUYÊN TẮC ÁP DỤNG TRONG NOVEL (TRÁNH BIẾN CHIẾN TRƯỜNG THÀNH BÀI TẬP VẬT LÝ)
+> - **Tài liệu Bible**: Được phép chi tiết cực sâu về công thức toán học, đại lượng ($\Psi$, man, $\Delta\theta$, $\eta$) để giữ tính nhất quán và chặt chẽ của hệ thống (Hard Magic Framework).
+> - **Trong văn xuôi Novel**: **TUYỆT ĐỐI KHÔNG** lạm dụng công thức toán học hay phân tích cơ học rườm rà giữa các cảnh hành động nghẹt thở. Chỉ lôi các con số hoặc định luật ra khi:
+>   1. **Tạo ra kịch tính (Drama / Stakes)**: Ví dụ *"Chỉ còn 17 man"*, *"Thời gian nén đạt 0,03 giây"*.
+>   2. **Thể hiện sự thông minh chiến thuật**: Dienne hay Ryan tìm ra điểm đảo pha để lật ngược tình thế.
+> - Giữ vững tinh thần: Phép thuật là sự thấu hiểu quy luật, nhưng Light Novel phải giữ được nhịp thở hồi hộp, chất thơ và cảm xúc nhân vật!
 
 ---
 
@@ -210,10 +220,10 @@ Khi Dienne hoặc các pháp sư hiện đại vẽ ma pháp trận bằng ngón
 |:---|:---|:---|
 | **Xanh lam** | Thủy, Hàn băng, Ổn định | Ma trận Elvish chuẩn xác của Dienne; động cơ Magitech. |
 | **Đỏ** | Hỏa, Nổ, Tấn công | Ma thuật công phá tầm gần, hỏa tiễn của lính đánh thuê. |
-| **Xanh lục** | Phong, Hồi phục, Tự nhiên | Linh khí Spirit Arts của Mira; cầm máu khẩn cấp. |
-| **Vàng kim** | Thánh, Bảo vệ, Phong ấn | Ma trận hoàng gia Everhart; lá chắn hình vuông $\square$ của Dienne. |
+| **Xanh lục** | Phong, Hồi phục, Tự nhiên | Thảo dược thanh tẩy; cầm máu khẩn cấp, dao gió xé cỏ. |
+| **Vàng kim** | Thánh, Bảo vệ, Phong ấn | Ma trận hoàng gia Everhart; ngọn lửa tinh tú sa mạc của Soraya; lá chắn $\square$ của Dienne. |
 | **Tím** | Không gian, Thời gian, Cổng | Cổng Chiến Tranh Aurelia; Cổng Rò Rỉ Kyoto; Cổng thứ bảy Merlin. |
-| **Bạc** | Kiếm khí, Ý chí, Tinh thần | Kiếm quang Rhea Everwy; còi bạc phá sóng của 317. |
+| **Bạc** | Kiếm khí, Ý chí, Tinh thần | Kiếm quang Rhea Everwy; còi bạc phá sóng của Louisa. |
 | **Đen** | Hư vô, Triệt tiêu, Cấm kỵ | Cánh Cửa Thứ Hai; xích Thẩm Phán Viện. |
 
 ---
@@ -224,6 +234,6 @@ Khi Dienne hoặc các pháp sư hiện đại vẽ ma pháp trận bằng ngón
 | :--- | :--- | :--- | :--- |
 | **Dienne Everhart** | **Toán học & Ngữ pháp Elvish** | Tối ưu hóa $\eta \to 95\%$, tính toán phương trình tức thời trong đầu. | Tiết kiệm mana tối đa, xuất chiêu chuẩn xác, không có động tác thừa. |
 | **Ryan** | **Kỹ thuật & Mạch điện Magitech** | Chuyển đổi $\Psi$ thành Watt/Volt, dùng hệ nhị phân, cuộn cảm ứng và vi mạch. | Cơ giới hóa ma thuật, tạo bẫy EMP phá vỡ các mạch mana truyền thống. |
-| **Mira** | **Linh mạch & Nhịp thở Tự nhiên** | Cảm ứng trực giác tần số $f$ của tự nhiên mà máy móc không đo được. | Hòa hợp tuyệt đối ($\theta = 0$), mượn lực của đất trời mà không hao tổn sức lực. |
-| **317** | **Thực dụng & Điểm chịu lực vật lý** | Bản thân có $\Psi = 0$, nhưng hiểu quy luật triệt tiêu pha ($\cos \theta = -1$) và cơ học va chạm. | Dùng súng, còi âm tần và đạn hợp kim bắn vỡ điểm nút ma trận khi nó đang tích năng lượng. |
+| **Soraya** | **Chiêm tinh & Cổ Ngọn Lửa sa mạc** | Kết nối linh mạch thiên văn, mượn lực hấp dẫn của các vì sao và ngọn lửa tinh tú. | Hòa hợp tuyệt đối ($\theta = 0$), thanh tẩy, kết giới thiêng và đọc vị mạch đá cổ xưa. |
+| **Louisa** | **Thực dụng & Điểm chịu lực vật lý** | Bản thân có $\Psi = 0$, nhưng hiểu quy luật triệt tiêu pha ($\cos \theta = -1$) và cơ học va chạm. | Dùng súng, còi âm tần và đạn hợp kim vonfram bắn vỡ điểm nút ma trận khi nó đang tích năng lượng. |
 | **Merlin** | **Triết học & Nguồn gốc Thực tại** | Thấu hiểu toàn bộ các hằng số $\varepsilon, \Omega, \lambda$ ở tầm vĩ mô. | Quan sát các dao động của Cổng thứ bảy và nhận ra giới hạn của mô hình thế giới hiện tại. |

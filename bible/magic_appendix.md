@@ -64,10 +64,10 @@ Màu sắc phát quang của vòng tròn ma pháp phản ánh trực tiếp bả
 |:---|:---|:---|
 | **Xanh lam (Azure)** | Thủy, Hàn băng, Ổn định, Ngọn lửa nén | Ma trận Elvish chuẩn xác của Dienne; động cơ tàu Magitech. |
 | **Đỏ (Crimson)** | Hỏa, Nổ, Xung lực phá hủy | Ma thuật tấn công tầm gần, hỏa tiễn của lính đánh thuê. |
-| **Xanh lục (Jade)** | Phong, Sinh mệnh, Hồi phục, Tự nhiên | Linh khí Spirit Arts của Mira; cầm máu khẩn cấp, dao gió xé cỏ. |
-| **Vàng kim (Gold)** | Thánh, Trật tự, Bảo vệ, Phong ấn kiên cố | Ma trận cổ điển Everhart; lá chắn hình vuông $\square$ của Dienne. |
+| **Xanh lục (Jade)** | Phong, Sinh mệnh, Hồi phục, Tự nhiên | Linh khí thảo dược; cầm máu khẩn cấp, dao gió xé cỏ. |
+| **Vàng kim (Gold)** | Thánh, Trật tự, Bảo vệ, Phong ấn kiên cố | Ma trận cổ điển Everhart; ngọn lửa tinh tú sa mạc của Soraya; lá chắn hình vuông $\square$ của Dienne. |
 | **Tím (Violet)** | Không gian, Cổng, Năng lượng bất ổn | Vòng xoáy Cổng Chiến Tranh Aurelia; Cổng Rò Rỉ tại Kyoto; dao động Cổng thứ bảy của Merlin. |
-| **Bạc (Silver)** | Kiếm khí, Ý chí hiệp sĩ, Tinh thần | Kiếm quang của Rhea Everwy; còi bạc phá sóng của 317. |
+| **Bạc (Silver)** | Kiếm khí, Ý chí hiệp sĩ, Tinh thần | Kiếm quang của Rhea Everwy; còi bạc phá sóng của Louisa. |
 | **Đen (Obsidian)** | Hư vô, Hấp thụ, Triệt tiêu, Cấm kỵ | Cánh Cửa Thứ Hai; xích ma thuật của Thẩm Phán Viện. |
 
 ---
@@ -105,7 +105,7 @@ Dưới đây là các trích đoạn mẫu thể hiện trọn vẹn tư duy "t
 ---
 
 ### Ví dụ 3: Đòn phối hợp Magitech với Ryan (Xung EMP ma đạo)
-> "Mira, giữ kết giới sương mù! Ryan, ném cho tôi lõi ma thạch nén loại hai!" Dienne hét lớn giữa tiếng bước chân rầm rập của tiểu đoàn Thẩm Phán.
+> "Soraya, giữ kết giới sương mù lửa! Ryan, ném cho tôi lõi ma thạch nén loại hai!" Dienne hét lớn giữa tiếng bước chân rầm rập của tiểu đoàn Thẩm Phán.
 >
 > Ryan thoăn thoắt rút một khối tinh thể màu lam nhạt từ túi đồ nghề ném sang: "Bắt lấy! Đã quấn sẵn cuộn dây đồng cảm ứng!"
 >

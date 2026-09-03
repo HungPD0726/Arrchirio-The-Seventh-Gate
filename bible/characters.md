@@ -74,7 +74,7 @@
 
 ### Màn Tái Xuất Ở Trận Đấu Cuối Cùng (The Final Climax Payoff)
 - **Rhea KHÔNG xuất hiện sớm** ở các Volume giữa, mà sự trở lại của cô được giữ kín cho đến **Trận Chiến Cuối Cùng (The Final Battle)** để tạo nên cú nổ cảm xúc lớn nhất toàn bộ series:
-  - Khi New Arrchirio đã liên kết các thành phố ma thuật, tập hợp đủ đồng minh (Lucien, Ryan, Mira, Diana, 317...), nhưng vẫn đứng trước bờ vực diệt vong trước kẻ thù tối thượng.
+  - Khi New Arrchirio đã liên kết các thành phố ma thuật, tập hợp đủ đồng minh (Lucien, Ryan, Soraya, Diana, Louisa...), nhưng vẫn đứng trước bờ vực diệt vong trước kẻ thù tối thượng.
   - Căn cứ sụp đổ, hệ thống Cổng vỡ vụn, các đồng minh đều trọng thương, Dienne đứng đơn độc trơ trọi giữa đống đổ nát, cầm thanh kiếm gỗ cũ kỹ chuẩn bị đón nhận đòn kết liễu.
   - Đúng khoảnh khắc tuyệt vọng nhất: Một khe nứt không gian rách toạc. **Dòng Chảy Ma Thuật tràn ra như một thác lũ ánh sáng bạc**.
   - Một bóng người bước qua: Áo giáp cũ sứt mẻ, trường kiếm bạc, mái tóc ngắn màu bạc sương gió: **RHEA EVERWY**.
@@ -93,7 +93,7 @@ Sau khi đánh bại kẻ thù tối thượng, Dòng Chảy Ma Thuật mở ra 
 1. **Lựa chọn 1 — Quay về quá khứ**:
    - Dòng chảy có thể đưa Rhea trở về đúng khoảnh khắc đêm Everhart bốc cháy năm Dienne 6 tuổi.
    - Cô có thể bế cô bé chạy thoát, cứu sống Tiên vương, sửa chữa lại toàn bộ bi kịch quá khứ.
-   - **Cái giá**: Dòng thời gian hiện tại sẽ bị xóa sổ! Dienne của ngày hôm nay, Diana, 317, New Arrchirio, những tình bạn và sự trưởng thành mà họ đã đánh đổi bằng xương máu sẽ tan thành mây khói!
+   - **Cái giá**: Dòng thời gian hiện tại sẽ bị xóa sổ! Dienne của ngày hôm nay, Diana, Louisa, New Arrchirio, những tình bạn và sự trưởng thành mà họ đã đánh đổi bằng xương máu sẽ tan thành mây khói!
 2. **Lựa chọn 2 — Ở lại tương lai hiện tại**:
    - Chấp nhận rằng quá khứ đã trôi qua. Nhìn nhận rằng Dienne không còn là cô bé cần người che chở nữa.
 
@@ -123,7 +123,7 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 # 3. NHÂN VẬT CHÍNH THỨ HAI (DEUTERAGONIST) & HỌC TRÒ ĐẦU TIÊN: Louisa
 
 ### Thông Tin Cơ Bản
-- **Tên chính thức và duy nhất**: **Louisa** (Bí danh ngẫu hứng khi trêu tội phạm: *Louisa Swordman*).
+- **Tên chính thức và duy nhất**: **Louisa** (Louisa chỉ là Louisa — không bí danh, không họ tộc, không số hiệu).
 - **Xuất thân & Nghịch cảnh dòng dõi**:
   - Sinh ra trong một **gia tộc phù thủy cổ xưa (witch lineage)** lâu đời, nhưng oái oăm thay cơ thể cô lại **hoàn toàn không có lấy một tí phép thuật nào ($\Psi = 0$)**.
   - Bị dòng họ xem như một kẻ khiếm khuyết, Louisa rời bỏ thế giới ma thuật sang ẩn náu và mưu sinh tại **Kyoto (Nhật Bản, Trái Đất)**.
@@ -131,7 +131,8 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 - **Vị trí cốt lõi trong toàn bộ series**:
   - **Nhân vật chính thứ hai (Deuteragonist)** của tác phẩm, kề vai sát cánh cùng Dienne qua mọi biến cố.
   - **Học trò đầu tiên (First Disciple)** và là **người đầu tiên thực sự đồng hành cùng Dienne**.
-  - **Mối quan hệ với Dienne**: Tình cảm Thầy - Trò theo truyền thống thiêng liêng của Arrchirio, **thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt**.
+  - **Mối quan hệ với Dienne**: Tình cảm Thầy - Trò theo truyền thống thiêng liêng của Arrchirio, **thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt**.  
+    *(Lưu ý Canon: Danh xưng "Master" là biểu tượng của sợi dây kế thừa tri thức và sự gắn kết tâm hồn sâu sắc, **tuyệt đối không phải là cấp bậc hành chính hay chức vụ quan liêu**).*
 - **Độ tuổi**: Khoảng 17 - 18 tuổi.
 - **Ngoại hình**: Cô gái châu Á mảnh khảnh, ánh mắt sắc sảo, mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
 - **Trang bị & Đạo cụ**:

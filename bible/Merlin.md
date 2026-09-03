@@ -473,7 +473,7 @@ Kẻ phản bội Arknight đại diện cho:
 
 > **Việc sử dụng tri thức để kiểm soát thế giới.**
 
-317 đại diện cho:
+Louisa đại diện cho:
 
 > **Một con người không cần mana để tồn tại trong thế giới của ma thuật.**
 

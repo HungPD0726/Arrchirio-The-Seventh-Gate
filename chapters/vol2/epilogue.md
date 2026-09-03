@@ -3,7 +3,7 @@
 
 ---
 
-## EPILOGUE: 317
+## EPILOGUE: BÓNG MA KYOTO
 
 Thế giới thực.
 
@@ -81,7 +81,7 @@ Cô gái xoay nhẹ thanh tantō tra vào bao da bên hông. Cô cúi xuống nh
 
 Cô gái ngước nhìn bầu trời đêm mưa phùn của Kyoto, lẩm bẩm bằng giọng điệu lười biếng quen thuộc:
 
-"Mã hiệu 317. Hợp đồng hoàn tất."
+"Louisa. Hợp đồng hoàn tất."
 
 ---
 

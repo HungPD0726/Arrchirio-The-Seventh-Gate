@@ -232,7 +232,7 @@ Những nguyên tắc hiện đã được xác lập:
 
 **Người từ thế giới thực không tự nhiên có khả năng sản sinh mana.**
 
-Điểm này được thể hiện rõ nhất qua **317**.
+Điểm này được thể hiện rõ nhất qua **Louisa**.
 
 ---
 
@@ -257,15 +257,14 @@ Sử dụng quá mức có thể dẫn đến:
 
 ---
 
-# 2.6. Trường hợp đặc biệt: 317
+# 2.6. Trường hợp đặc biệt: Louisa (Deuteragonist)
 
-317 là một ngoại lệ về chiến đấu nhưng **không phải một ngoại lệ sinh học**.
+Louisa là một ngoại lệ về chiến đấu nhưng **không phải một ngoại lệ sinh học**.
 
 Cô:
 
-* Là con người bình thường.
-* Đến từ thế giới không có mana.
-* **Không có mana nội tại.**
+* Là con người bình thường, xuất thân từ một gia tộc phù thủy lâu đời nhưng hoàn toàn **không có mana nội tại ($\Psi = 0$)**.
+* Bị gia tộc ruồng bỏ và trục xuất, sống tự do tại Kyoto (thế giới phi mana), tự trang bị cho mình kỹ năng sinh tồn và thực chiến đường phố.
 * Không thể tự mình sinh ra hoặc vận hành mana như một pháp sư.
 
 Tuy nhiên, cô có thể sử dụng:
@@ -273,25 +272,24 @@ Tuy nhiên, cô có thể sử dụng:
 * Bùa đã được yểm sẵn.
 * Vật phẩm ma thuật.
 * Ma thạch.
-* Thiết bị.
+* Thiết bị cơ khí và vi mạch.
 * Bẫy.
-* Vũ khí thông thường.
+* Vũ khí trần thế (súng lục bán tự động giảm thanh, đạn hợp kim vonfram, còi bạc phá tần số, đoản đao tantō).
 
-Lợi thế của 317 đến từ:
+Lợi thế của Louisa đến từ:
 
-* Khả năng chiến đấu thực tế.
-* Súng.
-* Kiếm ngắn.
-* Phản xạ.
-* Chiến thuật.
-* Khả năng tận dụng công cụ.
-* Khả năng nhận biết điểm yếu của đối phương.
+* Khả năng chiến đấu thực tế đỉnh cao.
+* Khả năng đọc vị vector và điểm chịu lực ma trận mà không cần mana.
+* Súng giảm thanh và đòn bẩy vật lý.
+* Phản xạ Judo và đoản đao.
+* Chiến thuật thực dụng triệt tiêu ngược pha ($\theta = \pi$).
+* Khả năng tận dụng công cụ cơ học.
+* Khả năng nhận biết điểm yếu chết người của các pháp sư phụ thuộc vào thần chú.
 
-**317 không phải thí nghiệm.
-317 không phải sản phẩm nhân tạo.
-317 không thuộc tổ chức bí mật.**
-
-Tên **317** đơn giản là cách cô tự gọi mình, bắt nguồn từ ngày sinh **17/3 → 3/17 → 317**.
+**Louisa không phải thí nghiệm.  
+Louisa không phải sản phẩm nhân tạo.  
+Louisa không thuộc tổ chức bí mật.**  
+Tên cô đơn giản là **Louisa** — không họ tộc, không số hiệu, không bí danh. Cô là người đầu tiên đồng hành và là đệ tử thứ nhất của Dienne.
 
 ---
 
@@ -559,42 +557,37 @@ Dienne là **Founder**, nhưng không phải một nhà độc tài toàn quyề
 
 Cấu trúc hiện tại:
 
-* **Dienne:** chiến lược, định hướng, đối ngoại, ma thuật.
-* **Lucien:** thông tin, hậu cần, tài chính.
-* **Ryan:** kỹ thuật, Magitech, nghiên cứu máy móc.
-* **Mira:** Ancient Magic, Spirit Arts, phong ấn và linh mạch.
+* **Dienne:** Master tối cao, chiến lược, định hướng, đối ngoại, giải mã toán học Elvish.
+* **Lucien:** Tổng điều phối thông tin, hậu cần, tài chính, giao thương chợ đen.
+* **Ryan:** Trưởng ban kỹ thuật, Magitech, nghiên cứu máy móc và mạch nhị phân (Đệ tử thứ hai, gọi Dienne là "Master").
+* **Soraya:** Người canh giữ phong ấn, Ancient Flame Scepter, Celestial Arcana, linh mạch và nghi lễ sa mạc.
+* **Louisa:** Deuteragonist, Đệ tử thứ nhất của Dienne, đại diện cho Nhân loại Thế giới thực và cầu nối hai nền văn minh (đã chính thức ngồi vào Chiếc Ghế Thứ Hai ở cuối Vol 5).
 
 ---
 
-# 3.10. Các thành viên tương lai
+# 3.10. Các thành viên và Bốn Chiếc Ghế Trống
 
-Arrchirio mới hiện còn:
+Arrchirio mới thành lập Hội Đồng Bàn Đá Tròn với **bốn chiếc ghế gỗ sồi trống**:
 
-**4 chiếc ghế trống.**
-
-Đây không phải ghế dành cho thành viên bình thường.
-
-Dienne muốn dành chúng cho những cá nhân không thể thay thế bằng bất kỳ người nào khác.
-
-Danh tính của toàn bộ những người này:
-
-**CHƯA ĐƯỢC CHỐT TRONG STORY BIBLE HIỆN TẠI.**
+1. **Chiếc Ghế Thứ Nhất**: Vĩnh viễn dành cho **Rhea Everwy** — thanh kiếm bảo hộ hoàng gia bị cuốn vào Dòng Chảy Ma Thuật.
+2. **Chiếc Ghế Thứ Hai**: Đã được lấp đầy bởi **Louisa** — cô gái người thường $\Psi = 0$ tại Kyoto (cuối Vol 5).
+3. **Chiếc Ghế Thứ Ba**: Dành cho **Diana Everhart** — em gái ruột của Dienne tại Reverse London (Vol 6).
+4. **Chiếc Ghế Thứ Tư**: Dành cho người đồng hành tương lai cùng bước qua Cánh Cửa Thứ Bảy.
 
 ---
 
-# 3.11. 317 và Arrchirio
+# 3.11. Louisa và Arrchirio
 
-317 **không thuộc Arrchirio**.
+Louisa gia nhập Arrchirio **với tư cách một người đồng hành độc lập và đệ tử đầu tiên của Dienne**.
 
 Cô:
 
-* Hoạt động độc lập.
-* Không nhận mệnh lệnh từ Dienne.
-* Không phải thành viên WMC.
-* Không thuộc Đế quốc.
-* Không thuộc tổ chức sát thủ bí mật.
+* Hoạt động theo phong cách tự do, thực dụng.
+* Không phải thành viên quân sự phục vụ chính trị hay ngai vàng.
+* Không chịu sự trói buộc hành chính, mà gắn kết bằng tình bạn, sự tôn trọng và mối quan hệ Master–Đệ tử thiêng liêng.
+* Là mắt xích không thể thay thế đại diện cho toàn thể nhân loại không mana.
 
-Dienne biết 317 tồn tại nhưng không cố biến cô thành tài sản của tổ chức.
+Dienne coi Louisa là tri kỷ và đệ tử đầu tiên, người mở rộng nhãn quan của cô về thế giới trần thế.
 
 Đây là nguyên tắc phải giữ.
 
@@ -713,21 +706,21 @@ Hai thế giới phát triển theo **hai con đường lịch sử khác nhau**
 
 Thế giới thực không có mana tự nhiên.
 
-317 là người bình thường trong thế giới đó.
+Louisa là người bình thường sinh sống và chiến đấu trong thế giới đó.
 
 ---
 
-## Quy luật 4 — 317 không phải dị nhân
+## Quy luật 4 — Louisa không phải dị nhân
 
 Không có:
 
-* Thí nghiệm.
-* Gen đặc biệt.
-* Nguồn sức mạnh bí ẩn.
-* Tổ chức đứng sau.
-* Huyết thống siêu nhiên.
+* Thí nghiệm khoa học.
+* Gen siêu năng lực đặc biệt.
+* Nguồn sức mạnh thần bí tiềm ẩn đột ngột thức tỉnh.
+* Tổ chức chính phủ ngầm thao túng.
+* Dị năng vượt khỏi quy luật vật lý.
 
-Sức mạnh của 317 đến từ kỹ năng và cách sử dụng công cụ.
+Sức mạnh của Louisa đến từ kỹ năng chiến đấu trần thế, phản xạ bẩm sinh, đòn bẩy vật lý, vũ khí đạn vonfram và cách sử dụng công cụ cực kỳ xảo quyệt.
 
 ---
 
@@ -903,43 +896,45 @@ Không được biến cậu thành “thiên tài giải quyết mọi vấn đ
 
 ---
 
-### Mira
+### Soraya
 
 Là:
 
-* Học giả.
-* Người đại diện cho Ancient Magic / Spirit Arts.
-* Đối trọng với tư duy công thức của Dienne và tư duy máy móc của Ryan.
+* Nữ tư tế sa mạc lai Á - Ả Rập, mang dòng dõi Al-Zahra.
+* Người nắm giữ Ancient Ritual Magic, Celestial Arcana và Vương trượng Cổ Ngọn Lửa.
+* Đối trọng tâm linh, chiêm tinh và phong ấn cổ xưa với tư duy công thức Elvish của Dienne và tư duy máy móc của Ryan.
 
-Không được viết cô thành người “kém hiện đại nên không hiểu công nghệ”.
+Không được viết cô thành người “kém hiện đại nên không hiểu công nghệ”, mà cô hiểu bản chất tự nhiên ở tầng vi mô sâu sắc mà máy móc cơ học chưa đo lường hết.
 
 ---
 
-### 317
+### Louisa
 
 Là:
 
-* Người độc lập.
-* Sống theo nguyên tắc riêng.
-* Hài hước, nhây, thích cà khịa.
-* Cực kỳ thực dụng khi chiến đấu.
+* Deuteragonist, Đệ tử thứ nhất và người bạn đồng hành thân thiết nhất của Dienne.
+* Người độc lập, tự do, sống theo nguyên tắc riêng tại Kyoto.
+* Hài hước, nhây, thích kẹo mút dâu, thích cà khịa sư đệ Ryan.
+* Cực kỳ thực dụng và lạnh lùng khi chiến đấu (súng giảm thanh, đạn vonfram, còi bạc phá tần số, tantō).
 
 Không được biến cô thành:
 
-* Sát thủ máu lạnh.
+* Sát thủ máu lạnh vô nhân tính.
 * Người thuộc tổ chức bí mật.
-* Dị nhân.
+* Dị nhân siêu năng lực.
 * Nhân vật chỉ tồn tại để “ngầu”.
 
 ---
 
-# 8. Trạng thái Canon sau 4 Volume
+# 8. Trạng thái Canon sau các Volume
 
 ### Volume 1
 
 **Dienne mất tất cả.**
 
 Cô mất Everhart, mất Rhea và bắt đầu học cách sống sót.
+
+*(Ghi chú Canon: Về mặt **Reader-Facing Knowledge**, độc giả chứng kiến Rhea bọc hậu và biến mất trong biển lửa, để lại thanh kiếm bạc. Về mặt **Author Canon**, Rhea bị cuốn vào Dòng Chảy Ma Thuật [Astral Current], không hề chết hay phản bội, chuẩn bị cho Final Battle Payoff: "I'll stay by your side").*
 
 ### Volume 2
 
@@ -960,10 +955,10 @@ Cô gặp:
 
 * Thế giới thực.
 * Kyoto.
-* 317.
+* Louisa (người không mana nhưng thấu hiểu quy luật chiến đấu).
 * Một nền văn minh hiện đại không có mana.
 
-Và bắt đầu nghi ngờ rằng lịch sử của hai thế giới không đơn giản như cô từng nghĩ.
+Và bắt đầu nhận ra rằng ma thuật không phải là độc quyền duy nhất để kiến tạo văn minh.
 
 ### Volume 4
 
@@ -971,14 +966,23 @@ Và bắt đầu nghi ngờ rằng lịch sử của hai thế giới không đ�
 
 Cô:
 
-* Tái lập Arrchirio.
-* Tập hợp Lucien, Ryan, Mira.
-* Đụng độ Vane.
-* Đối mặt với Đế quốc.
-* Phát hiện Cánh Cửa Thứ Hai.
-* Và biết rằng Rhea vẫn còn sống.
+* Tái lập New Arrchirio tại Pháo đài ngầm Sector 7.
+* Tập hợp Lucien, Ryan, Soraya.
+* Đụng độ cựu Chấp Pháp Viên Vane.
+* Đánh bại 30 sát thủ Thẩm Phán Viện bằng bẫy EMP Magitech không đổ máu.
+* Lập Hội Đồng Bàn Đá Tròn với bốn chiếc ghế gỗ sồi trống.
+* Phát hiện Cánh Cổng Cổ Đại Thứ Hai.
 
-**Đây là điểm bắt đầu thực sự của “Arrchirio mới”.** 
+### Volume 5
+
+**Đại chiến Biên cương Frost-Pass và Tái ngộ Louisa.**
+
+Cô:
+
+* Phát hiện sự thật Rhea bị giam trong Dòng Chảy Ma Thuật, khắc Dấu Ấn Hướng Tâm Elvish làm ngọn hải đăng tâm linh.
+* Louisa vượt Cổng cứu nguy, gia nhập New Arrchirio và chính thức ngồi vào Chiếc Ghế Thứ Hai.
+* Cắt đứt Máy Gia Tốc Dòng Mana của Đế quốc, đưa Cánh Cửa Thứ Hai về ngủ đông.
+* Nhận bức điện tín SOS từ em gái ruột Diana Everhart tại Reverse London. 
 
 ---
 

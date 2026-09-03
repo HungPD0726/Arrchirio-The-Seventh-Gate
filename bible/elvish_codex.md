@@ -120,7 +120,7 @@ Dưới đây là các câu chú cụ thể được nhân vật sử dụng:
 ---
 
 ### 3. Phép Dao Gió Cắt Đứt (Dienne — Vol 3 Chương 8)
-*Dùng khi giao đấu tầm xa với 317 trong công viên Kyoto.*
+*Dùng khi giao đấu tầm xa với Louisa trong công viên Kyoto.*
 
 - **Khái niệm**: Nén một phiến không khí mỏng dính thành lưỡi cắt áp suất cao, phóng đi với vận tốc siêu âm.
 - **Câu thần chú Elvish**:
@@ -133,7 +133,7 @@ Dưới đây là các câu chú cụ thể được nhân vật sử dụng:
 ---
 
 ### 4. Ma Trận Triệt Tiêu Nhiệt Lượng (Dienne — Vol 3 Chương 8)
-*Phép Dienne lén vẽ bằng đầu mũi chân xuống mặt cỏ để làm đông cứng toàn bộ ma thạch trong túi áo khoác của 317.*
+*Phép Dienne lén vẽ bằng đầu mũi chân xuống mặt cỏ để làm đông cứng toàn bộ ma thạch trong túi áo khoác của Louisa.*
 
 - **Khái niệm**: Ma trận nghịch đảo entropy, rút cạn toàn bộ năng lượng dao động nhiệt của các vật thể tiếp xúc với mặt đất trong bán kính 2 mét.
 - **Câu chú Elvish (Niệm thầm trong đầu / Silent Chant)**:

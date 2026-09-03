@@ -17,8 +17,8 @@ Mọi tệp trong kho lưu trữ (`chapters/`, `outline/`, `bible/`) bắt buộ
 | **Năm 9** | Dienne đón sinh nhật 15 tuổi. Người thầy dẫn xuống căn hầm Arrchirio, hé lộ sự phản bội của gia tộc Arknight và trao huy hiệu nhánh cây bạc. | **15 tuổi** | 31 tuổi | Lâu đài Everhart bị san phẳng 9 năm trước (*Vol 1 Ch 9*). |
 | **Năm 10 (Đầu năm)** | Dienne tròn 16 tuổi. Quyết định rời thung lũng tuyết. Chia tay Người Thầy Già bên hàng rào tuyết (*Vol 1 Ch 10*). | **16 tuổi** | **32 tuổi** | **Người Thầy Già vẫn sống** ở căn lều tuyết làm người canh giữ thung lũng. Rhea ở tiền đồn tuyết biên cương (*Vol 1 Epilogue*). |
 | **Năm 10 (Tháng 1–3)** | **Volume 2**: Bước chân ra thế giới bên ngoài. Trạm Lumeris $\to$ Oakhaven $\to$ Học viện Aetheris $\to$ Gặp Lucien Vale (17 tuổi) $\to$ Đột nhập kho lưu trữ $\to$ Thẩm Phán Viện truy sát. | **16 tuổi** | 32 tuổi | Lucien: 17 tuổi. Dienne mang kiếm gỗ của Rhea và la bàn mana của Lucien. |
-| **Năm 10 (Tháng 3–5)** | **Volume 3**: Thâm nhập Kyoto qua Cổng Rò Rỉ. Đụng độ và phối hợp cùng sát thủ **317** (18 tuổi, $\Psi = 0$). Phong tỏa vết nứt ranh giới tại đền Torii. | **16 tuổi** | 32 tuổi | 317: 18 tuổi (sinh ngày 17/3). Dienne nhận thức sâu sắc về nền văn minh phi ma thuật. |
-| **Năm 10 (Tháng 6–9)** | **Volume 4**: Trở về căn chòi gặp Người Thầy Già $\to$ Tìm đến cựu binh Kenneth $\to$ Tuyển mộ Ryan (14 tuổi) & Mira (18 tuổi) $\to$ Tiếp quản Pháo đài Sector 7 $\to$ Đánh tan 30 Inquisitors bằng bẫy EMP ma đạo $\to$ Lập Hội đồng Arrchirio Mới với 4 chiếc ghế trống. | **16 tuổi** | **32 tuổi** | Ryan: 14 tuổi. Mira: 18 tuổi. Lucien: 17 tuổi. Vane bỏ đi. Rhea nhìn thấy lệnh truy nã Arrchirio tại biên cương (*Vol 4 Epilogue*). |
+| **Năm 10 (Tháng 3–5)** | **Volume 3**: Thâm nhập Kyoto qua Cổng Rò Rỉ. Đụng độ và phối hợp cùng **Louisa** (18 tuổi, $\Psi = 0$). Phong tỏa vết nứt ranh giới tại đền Torii. | **16 tuổi** | 32 tuổi | Louisa: 18 tuổi. Dienne nhận thức sâu sắc về nền văn minh phi ma thuật. |
+| **Năm 10 (Tháng 6–9)** | **Volume 4**: Trở về căn chòi gặp Người Thầy Già $\to$ Tìm đến cựu binh Kenneth $\to$ Tuyển mộ Ryan (14 tuổi) & Soraya (18 tuổi) $\to$ Tiếp quản Pháo đài Sector 7 $\to$ Đánh tan 30 Inquisitors bằng bẫy EMP ma đạo $\to$ Lập Hội đồng Arrchirio Mới với 4 chiếc ghế trống. | **16 tuổi** | **32 tuổi** | Ryan: 14 tuổi. Soraya: 18 tuổi. Lucien: 17 tuổi. Vane bỏ đi. Rhea nhìn thấy lệnh truy nã Arrchirio tại biên cương (*Vol 4 Epilogue*). |
 
 ---
 
@@ -52,8 +52,8 @@ Kể từ Volume 5 trở đi, mọi phân cảnh ma thuật đều phải tuân 
 ### 3.3. Phương Trình Giao Thoa Sóng & Khắc Chế Phép (Wave Interference)
 - Ma thuật mang bản chất sóng. Khi hai luồng dao động gặp nhau:
   $$I = I_1 + I_2 + 2\sqrt{I_1 I_2}\cos(\theta)$$
-- **Cộng hưởng cùng pha ($\theta = 0, \cos\theta = 1$)**: Linh Thuật (Spirit Arts của Mira), hòa nhịp thở tự nhiên để khuếch đại sức mạnh mà không tốn mana nội tại.
-- **Triệt tiêu ngược pha ($\theta = \pi, \cos\theta = -1$)**: Cơ chế Counter-Spell tối thượng (Dienne vẽ ma trận triệt tiêu; 317 dùng còi bạc phát sóng âm cơ học ngược pha làm nổ tung lá chắn đối phương).
+- **Cộng hưởng cùng pha ($\theta = 0, \cos\theta = 1$)**: Chiêm Tinh Tinh Tú & Ngọn Lửa Cổ của Soraya, hòa nhịp thở tự nhiên để khuếch đại sức mạnh mà không tốn mana nội tại.
+- **Triệt tiêu ngược pha ($\theta = \pi, \cos\theta = -1$)**: Cơ chế Counter-Spell tối thượng (Dienne vẽ ma trận triệt tiêu; Louisa dùng còi bạc phát sóng âm cơ học ngược pha làm nổ tung lá chắn đối phương).
 
 ### 3.4. Cổ Ngữ Elvish: Cấu Trúc Ngữ Pháp 4 Pha Bắt Buộc
 Mọi câu chú Elvish xuất hiện trong truyện phải tuân thủ đúng 4 pha ngữ pháp:
@@ -73,15 +73,15 @@ Mọi câu chú Elvish xuất hiện trong truyện phải tuân thủ đúng 4 
    - *Hạn chế*: Chưa có trải nghiệm chính trị sâu rộng, dựa vào các đồng đội để bổ khuyết.
 2. **Rhea Everwy (32 tuổi)**:
    - *Vũ khí*: Trường kiếm bạc có vết sứt mẻ.
-   - *Trạng thái*: Vẫn còn sống, mang đầy sẹo phong trần, đang ở thị trấn biên giới hoang vu sau 10 năm lưu lạc.
+   - *Trạng thái*: Vẫn còn sống trong Dòng Chảy Ma Thuật, thanh kiếm bảo hộ vĩnh cửu của vương triều.
 3. **Lucien Vale (17 tuổi)**:
    - *Vai trò*: Trí tuệ hậu cần, buôn lậu, tính toán ngân sách, dòng máu học giả của gia tộc Vale.
 4. **Ryan (14 tuổi)**:
-   - *Đặc trưng*: Thiên tài Magitech, ghét mê tín tâm linh, đam mê vi mạch bán dẫn và động cơ nhị phân lấy cảm hứng từ thế giới thực.
-5. **Mira (18 tuổi)**:
-   - *Đặc trưng*: Học giả Linh Thuật (Spirit Arts), thanh tao, nghiêm trang, đối trọng tâm linh với sự cơ khí của Ryan.
-6. **317 (18 tuổi)**:
-   - *Đặc trưng*: Sinh ngày 17/3, $\Psi = 0$, ngậm kẹo mút dâu, áo bomber đen, súng giảm thanh, tantō, còi bạc EMP. Không theo phe nào, bảo vệ sự bình yên cho khu phố của mình.
+   - *Đặc trưng*: Thiên tài Magitech, ghét mê tín bảo thủ, đam mê vi mạch bán dẫn và động cơ nhị phân lấy cảm hứng từ thế giới thực. Gọi Dienne là "Master" (Đệ tử thứ hai).
+5. **Soraya (18 tuổi)**:
+   - *Đặc trưng*: Nữ tư tế sa mạc lai Á - Ả Rập, dòng dõi Al-Zahra, Vương trượng Cổ Ngọn Lửa, Celestial Arcana, đối trọng tâm linh với sự cơ khí của Ryan.
+6. **Louisa (18 tuổi)**:
+   - *Đặc trưng*: $\Psi = 0$, xuất thân phù thủy bị ruồng bỏ, ngậm kẹo mút dâu, áo bomber đen, súng giảm thanh, tantō, còi bạc EMP. Đệ tử đầu tiên và Deuteragonist của Dienne.
 7. **Merlin**:
    - *Bản chất*: Nhà khoa học/triết gia quan sát thực tại, không phải thần linh toàn tri. Đang quan sát vết rạn nứt tại Cổng Thứ Bảy.
 
