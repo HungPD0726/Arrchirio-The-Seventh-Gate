@@ -1,4 +1,4 @@
-# STORY BIBLE: CÁC CHỦNG TỘC & NGUYÊN SINH HỌC (Species of the Two Realms)
+﻿# STORY BIBLE: CÁC CHỦNG TỘC & NGUYÊN SINH HỌC (Species of the Two Realms)
 
 > **Triết lý chủ đạo:**  
 > Trong vũ trụ *Arrchirio: The Seventh Gate*, các chủng tộc không đơn thuần là sự phân loại ngoại hình hay chỉ số sức mạnh.  
@@ -25,7 +25,7 @@ Loài người là chủng tộc đông đảo nhất, có tính thích nghi cao
 - **Nguồn gốc**: Cư ngụ tại các vương quốc cổ như Everhart, Đế quốc Aurelia, thành bang Lumeria và các đô thị phương Tây.
 - **Đặc điểm sinh học**: Sinh ra với một lượng mana nội tại tự nhiên ($\Psi > 0$). Các kinh mạch mana (Mana Veins) gắn liền với hệ thần kinh và tuần hoàn máu.
 - **Phân hóa xã hội**: 
-  - *Quý tộc phù thủy*: Duy trì huyết thống thuần khiết để bảo tồn dung tích mana cao, độc quyền các câu chú Elvish cổ và nghi thức hoàng gia.
+  - *Quý tộc phù thủy*: Duy trì huyết thống thuần khiết để bảo tồn dung tích mana cao, độc quyền các câu chú Asariën cổ và nghi thức hoàng gia.
   - *Bình dân & Thợ máy*: Có dung tích mana thấp ($\Psi \approx 5 - 20\text{ man}$), thường phải dùng ma thạch hoặc công cụ Magitech để hỗ trợ cuộc sống.
 
 ### 1.2. Con Người Thế Giới Thực (Non-Magical Humans — Trần Thế)
@@ -51,8 +51,8 @@ Chủng tộc cổ xưa và bí ẩn nhất, giữ vai trò chìa khóa trong **
 
 ### 2.2. Đặc Điểm Sinh Học & Ma Thuật
 - **Ngoại hình**: Vóc dáng thanh thoát, tai dài nhọn thanh tú, mái tóc màu bạc hoặc xanh lục nhạt, đôi mắt phát quang màu lam ngọc hoặc ánh bạc dưới trăng. Tuổi thọ lên tới hơn một ngàn năm.
-- **Hệ thống ma thuật**: **Cổ Ngữ Elvish Nguyên Bản (True Elvish)**:
-  - Khác với Dienne (phải tính toán các phương trình ngữ pháp Elvish bằng tư duy toán học), loài Elf giao tiếp với mana như một ngôn ngữ mẹ đẻ. Họ hát để gọi gió, nhảy múa để làm hoa nở, và hòa nhịp thở với cây cỏ.
+- **Hệ thống ma thuật**: **Cổ Ngữ Asariën Nguyên Bản (True Asariën)**:
+  - Khác với Dienne (phải tính toán các phương trình ngữ pháp Asariën bằng tư duy toán học), loài Elf giao tiếp với mana như một ngôn ngữ mẹ đẻ. Họ hát để gọi gió, nhảy múa để làm hoa nở, và hòa nhịp thở với cây cỏ.
   - Phép thuật của họ không có hao phí tản nhiệt ($\eta \to 100\%$) vì họ không cưỡng ép dòng chảy năng lượng.
 
 ### 2.3. Mối Quan Hệ Với Loài Người & Xung Đột Lịch Sử
@@ -60,7 +60,7 @@ Chủng tộc cổ xưa và bí ẩn nhất, giữ vai trò chìa khóa trong **
 - Bất kỳ con người nào xâm phạm ranh giới đều bị trục xuất hoặc trừng phạt bằng những mũi tên gió vô hình xé toạc không khí.
 
 ### 2.4. Thái Độ Khác Biệt Với Nhóm Dienne & Louisa
-- **Đối với Dienne**: Họ tôn trọng nàng công chúa Everhart vì cô sử dụng Cổ ngữ Elvish với sự khiêm nhường, tính toán chính xác để bảo vệ trật tự Cân Bằng chứ không nhằm mục đích bành trướng quyền lực.
+- **Đối với Dienne**: Họ tôn trọng nàng công chúa Everhart vì cô sử dụng Cổ ngữ Asariën với sự khiêm nhường, tính toán chính xác để bảo vệ trật tự Cân Bằng chứ không nhằm mục đích bành trướng quyền lực.
 - **Đối với Louisa — Chìa Khóa Thần Thoại Cội Nguồn**:
   - Loài Elf không hề khinh thường Louisa vì cô không có mana ($\Psi = 0$). Ngược lại, họ nhìn cô bằng ánh mắt kinh ngạc và tôn kính: Một linh hồn trần thế hoàn toàn miễn nhiễm với sự cám dỗ và tha hóa của ma lực.
   - **Tuyến truyện độc lập của Deuteragonist (Post-Ending Arc)**:

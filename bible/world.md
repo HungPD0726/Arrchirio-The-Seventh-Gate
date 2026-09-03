@@ -1,4 +1,4 @@
-# Story Bible: Thiết Lập Thế Giới (World-Building)
+﻿# Story Bible: Thiết Lập Thế Giới (World-Building)
 
 > **Tệp này là “chân lý tối thượng” về quy tắc, bối cảnh và hệ thống của câu chuyện. Mọi chương viết ra phải tuân thủ nghiêm ngặt các quy tắc dưới đây.**
 >
@@ -122,11 +122,11 @@ Mana không phải “phép thuật” tự thân.
 
 ## 2.2. Ngôn ngữ và cấu trúc ma thuật
 
-### Elvish
+### Asariën
 
-**Elvish** là ngôn ngữ cổ gắn với cấu trúc nguyên thủy của ma thuật.
+**Asariën** là ngôn ngữ cổ gắn với cấu trúc nguyên thủy của ma thuật.
 
-Các hệ thống ma thuật hiện đại phát triển từ việc con người nghiên cứu cấu trúc của Elvish.
+Các hệ thống ma thuật hiện đại phát triển từ việc con người nghiên cứu cấu trúc của Asariën.
 
 Ma thuật có thể được biểu diễn bằng:
 
@@ -150,7 +150,7 @@ Không có một trường phái duy nhất đúng cho toàn thế giới.
 
 Các hệ thống đã được xác nhận gồm:
 
-* **Ma thuật Elvish / Ma thuật công thức.**
+* **Ma thuật Asariën / Ma thuật công thức.**
 * **Ma pháp trận.**
 * **Ma thuật qua đũa / trượng.**
 * **Hand Seals / Ấn pháp.**
@@ -557,7 +557,7 @@ Dienne là **Founder**, nhưng không phải một nhà độc tài toàn quyề
 
 Cấu trúc hiện tại:
 
-* **Dienne:** Master tối cao, chiến lược, định hướng, đối ngoại, giải mã toán học Elvish.
+* **Dienne:** Master tối cao, chiến lược, định hướng, đối ngoại, giải mã toán học Asariën.
 * **Lucien:** Tổng điều phối thông tin, hậu cần, tài chính, giao thương chợ đen.
 * **Ryan:** Trưởng ban kỹ thuật, Magitech, nghiên cứu máy móc và mạch nhị phân (Đệ tử thứ hai, gọi Dienne là "Master").
 * **Soraya:** Người canh giữ phong ấn, Ancient Flame Scepter, Celestial Arcana, linh mạch và nghi lễ sa mạc.
@@ -902,7 +902,7 @@ Là:
 
 * Nữ tư tế sa mạc lai Á - Ả Rập, mang dòng dõi Al-Zahra.
 * Người nắm giữ Ancient Ritual Magic, Celestial Arcana và Vương trượng Cổ Ngọn Lửa.
-* Đối trọng tâm linh, chiêm tinh và phong ấn cổ xưa với tư duy công thức Elvish của Dienne và tư duy máy móc của Ryan.
+* Đối trọng tâm linh, chiêm tinh và phong ấn cổ xưa với tư duy công thức Asariën của Dienne và tư duy máy móc của Ryan.
 
 Không được viết cô thành người “kém hiện đại nên không hiểu công nghệ”, mà cô hiểu bản chất tự nhiên ở tầng vi mô sâu sắc mà máy móc cơ học chưa đo lường hết.
 
@@ -979,7 +979,7 @@ Cô:
 
 Cô:
 
-* Phát hiện sự thật Rhea bị giam trong Dòng Chảy Ma Thuật, khắc Dấu Ấn Hướng Tâm Elvish làm ngọn hải đăng tâm linh.
+* Phát hiện sự thật Rhea bị giam trong Dòng Chảy Ma Thuật, khắc Dấu Ấn Hướng Tâm Asariën làm ngọn hải đăng tâm linh.
 * Louisa vượt Cổng cứu nguy, gia nhập New Arrchirio và chính thức ngồi vào Chiếc Ghế Thứ Hai.
 * Cắt đứt Máy Gia Tốc Dòng Mana của Đế quốc, đưa Cánh Cửa Thứ Hai về ngủ đông.
 * Nhận bức điện tín SOS từ em gái ruột Diana Everhart tại Reverse London. 
@@ -1000,7 +1000,7 @@ Cô:
 3. **Sector 7 (Tàn tích pháo đài)**: *Tổ chức Arrchirio thực sự đã làm gì trong quá khứ? Cân Bằng là lý tưởng cao đẹp hay sự thỏa hiệp đau đớn?*
 4. **Heiankyō Ura & Vùng Đất Spirit Arts**: *Liệu mana có phải chỉ là một dạng năng lượng vô tri để đo đạc và tính toán? Linh hồn của vạn vật nằm ở đâu khi cộng hưởng $\theta = 0$?*
 5. **Reverse London (London Nghịch Đảo)**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
-6. **Cairo / Al-Qahira (Ai Cập)**: *Những trường phái ma thuật cổ xưa không dùng cấu trúc Elvish theo kiểu châu Âu vận hành thế nào? Ma thuật Mặt Trời và nghi lễ cổ đại?*
+6. **Cairo / Al-Qahira (Ai Cập)**: *Những trường phái ma thuật cổ xưa không dùng cấu trúc Asariën theo kiểu châu Âu vận hành thế nào? Ma thuật Mặt Trời và nghi lễ cổ đại?*
 7. **New Rome / Rome**: *Quyền lực, tín ngưỡng giáo hội và pháp chế ma thuật thao túng đức tin con người ra sao?*
 
 ---
@@ -1057,8 +1057,8 @@ Cô:
 
 ### 10.5. Ai Cập (Egypt) — *Cộng Hưởng Hình Học Kim Tự Tháp & Cổ Ngữ Mặt Trời*
 - **Đặc trưng không gian**: Thung lũng sông Nile màu mỡ nằm giữa sa mạc cát vàng rực lửa, quần thể Kim Tự Tháp Giza và các đền thờ chìm sâu dưới lòng cát.
-- **Hiện tượng**: Các Kim Tự Tháp thực chất là những **Tháp Cộng Hưởng Hình Học (Geometric Resonators)** vĩ đại được xây dựng chính xác theo góc nghiêng của các toán tử Elvish nguyên thủy, dùng để điều hòa áp suất năng lượng phát ra từ Cổng sa mạc.
-- **Phương thức tiếp cận**: Ma thuật hệ Mặt Trời, nhiệt năng và linh hồn (Ba & Ka). Cổ ngữ tượng hình (Hieroglyphs) có mối liên hệ ngữ hệ trực tiếp với Cổ ngữ Elvish bậc cao.
+- **Hiện tượng**: Các Kim Tự Tháp thực chất là những **Tháp Cộng Hưởng Hình Học (Geometric Resonators)** vĩ đại được xây dựng chính xác theo góc nghiêng của các toán tử Asariën nguyên thủy, dùng để điều hòa áp suất năng lượng phát ra từ Cổng sa mạc.
+- **Phương thức tiếp cận**: Ma thuật hệ Mặt Trời, nhiệt năng và linh hồn (Ba & Ka). Cổ ngữ tượng hình (Hieroglyphs) có mối liên hệ ngữ hệ trực tiếp với Cổ ngữ Asariën bậc cao.
 
 ---
 
@@ -1109,7 +1109,7 @@ Cô:
 ### 13.3. Mối Quan Hệ Với Loài Người: Sự Thù Địch & Khác Biệt Với Nhóm Dienne
 - **Căng thẳng lịch sử**: Mối quan hệ giữa Elves và loài người vô cùng tồi tệ. Cuộc bành trướng công nghiệp và khai thác ma thạch tàn bạo của Đế quốc Aurelia từng đốn hạ nhiều cánh rừng thiêng, đẩy loài Elves vào thế cô lập thù địch. Họ bắn tên độc cảnh cáo bất kỳ con người nào dám xâm phạm kết giới sương mù.
 - **Thái độ đặc biệt đối với nhóm nhân vật chính**:
-  - **Với Dienne**: Các Trưởng Lão Elves kinh ngạc khi thấy một cô gái con người sử dụng Cổ ngữ Elvish với sự tôn kính, chuẩn xác và không hề có lòng tham chiếm đoạt. Dienne không coi Elvish là công cụ vũ lực, mà coi đó là ngôn ngữ của tự nhiên.
+  - **Với Dienne**: Các Trưởng Lão Elves kinh ngạc khi thấy một cô gái con người sử dụng Cổ ngữ Asariën với sự tôn kính, chuẩn xác và không hề có lòng tham chiếm đoạt. Dienne không coi Asariën là công cụ vũ lực, mà coi đó là ngôn ngữ của tự nhiên.
   - **Với Soraya**: Nhận ra nghi lễ lửa thiêng sa mạc và sự tương đồng về lòng tôn kính đất mẹ.
   - **ĐẶC BIỆT LÀ VỚI LOUISA**: Sự xuất hiện của Louisa gây chấn động toàn bộ hội đồng Elves. Họ không thể ngờ một cô gái xuất thân từ gia tộc phù thủy lại **hoàn toàn không có mana ($\Psi = 0$)**, mang vũ khí trần thế nhưng lại thấu hiểu cấu trúc thần chú hơn cả các pháp sư kiêu ngạo. Louisa không mang lòng tự phụ của giống loài dùng phép, khiến các Elves mở lòng đối thoại bình đẳng.
 

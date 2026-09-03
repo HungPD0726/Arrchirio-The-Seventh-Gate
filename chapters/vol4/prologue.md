@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO (The Ruins of Arrchirio)
 
 ---
@@ -21,7 +21,7 @@ Trên chiếc bàn gỗ sồi thô ráp kê sát bệ lò sưởi, Dienne cẩn 
 
 Thứ nhất là tập hồ sơ bằng giấy da thuộc bị cháy xém một góc, lưu giữ các ghi chép tối mật của chi nhánh Arrchirio ngầm tại Kyoto từ hơn một trăm năm trước.
 
-Thứ hai là cuốn sổ tay bìa da rồng của Người Thầy Già, nay đã được Dienne vẽ thêm hàng chục trang sơ đồ toán học Elvish mới, ghi chép tường tận về hiện tượng kỳ bí mang tên **Sự Cộng Hưởng Xuyên Không Gian**.
+Thứ hai là cuốn sổ tay bìa da rồng của Người Thầy Già, nay đã được Dienne vẽ thêm hàng chục trang sơ đồ toán học Asariën mới, ghi chép tường tận về hiện tượng kỳ bí mang tên **Sự Cộng Hưởng Xuyên Không Gian**.
 
 Thứ ba là những bản phác thảo chi tiết do chính tay Dienne và Lucien vẽ lại: sơ đồ mạng lưới điện cao thế, đường cáp quang truyền dẫn bằng xung ánh sáng laser, các động cơ đốt trong cơ học bốn kỳ chạy bằng xăng khoáng sản, và kết cấu dập nguội của những chiếc lon nhôm mỏng dính có ga.
 
@@ -35,7 +35,7 @@ Người Thầy Già đứng tựa lưng vào bệ đá lò sưởi.
 
 Chiếc áo choàng dạ màu xám sờn rách của ông buông thõng xuống gót chân. Tẩu thuốc bằng gỗ thông trên tay ông đã tắt ngấm tự bao giờ. Đôi mắt đục ngầu, mờ đục vì năm tháng và những vết sẹo trận mạc của cựu chấp pháp viên Arrchirio chậm rãi quét qua từng món đồ bày trên bàn gỗ.
 
-Đầu ngón tay gầy guộc, thô ráp như vỏ cây của ông run rẩy lướt qua dòng chữ Elvish cổ sắc sảo được viết bằng máu khô trên trang bìa lót cuối cùng của tập hồ sơ Kyoto:
+Đầu ngón tay gầy guộc, thô ráp như vỏ cây của ông run rẩy lướt qua dòng chữ Asariën cổ sắc sảo được viết bằng máu khô trên trang bìa lót cuối cùng của tập hồ sơ Kyoto:
 
 > *“Đừng nhầm lẫn sự tương đồng với nguồn gốc.*  
 > *Chúng ta không sinh ra họ, và họ cũng không sinh ra chúng ta.*  
@@ -77,7 +77,7 @@ Cô ngước nhìn người thầy già, từng chữ thốt ra dứt khoát nh�
 
 Bàn tay phải của Dienne nắm chặt lấy vỏ đạn vonfram nặng trịch của Louisa trên bàn:
 
-"Bây giờ... cháu đã có một lý do thực sự để **hồi sinh** nó. Một New Arrchirio mới—nơi kết hợp giữa sự thông tuệ của ma thuật Elvish cổ đại và sức mạnh cơ học thực tế của thế giới thực. Chúng cháu sẽ khép lại những vết nứt... và bảo vệ sự nguyên vẹn của cả hai thế giới."
+"Bây giờ... cháu đã có một lý do thực sự để **hồi sinh** nó. Một New Arrchirio mới—nơi kết hợp giữa sự thông tuệ của ma thuật Asariën cổ đại và sức mạnh cơ học thực tế của thế giới thực. Chúng cháu sẽ khép lại những vết nứt... và bảo vệ sự nguyên vẹn của cả hai thế giới."
 
 Dưới ánh lửa lò sưởi bập bùng giữa thung lũng tuyết phủ.
 

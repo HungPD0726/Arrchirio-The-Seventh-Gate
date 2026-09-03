@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
@@ -25,7 +25,7 @@ Cậu bé mười bốn tuổi đeo chiếc kính bảo hộ ma thuật có ba t
 
 Ryan ngẩng khuôn mặt lấm lem muội than lên, đôi mắt màu hạt dẻ rực sáng sự phấn khích tột cùng khi thấy Dienne bước ngang qua:
 
-"Con vừa cải tiến xong thuật toán phân giải tín hiệu cho mạng lưới cảm biến số 1 đến số 20 dọc theo long mạch phía tây rồi đấy! Thay vì dùng các vòng lặp Elvish cổ điển tốn kém năng lượng, con đã áp dụng phương trình vi tích phân kết hợp cổng logic nhị phân mà Master dạy! Bây giờ chỉ cần một con chuột chũi cào móng vào vách đá cách đây năm dặm, chiếc kim đo trên bảng điều khiển này cũng sẽ nhảy số báo động ngay lập tức!"
+"Con vừa cải tiến xong thuật toán phân giải tín hiệu cho mạng lưới cảm biến số 1 đến số 20 dọc theo long mạch phía tây rồi đấy! Thay vì dùng các vòng lặp Asariën cổ điển tốn kém năng lượng, con đã áp dụng phương trình vi tích phân kết hợp cổng logic nhị phân mà Master dạy! Bây giờ chỉ cần một con chuột chũi cào móng vào vách đá cách đây năm dặm, chiếc kim đo trên bảng điều khiển này cũng sẽ nhảy số báo động ngay lập tức!"
 
 Dienne dừng bước, cúi người xuống nhìn bảng mạch chằng chịt dây đồng và các phiến silicon nhỏ xíu được hàn ghép tinh xảo.
 

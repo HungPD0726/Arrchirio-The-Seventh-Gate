@@ -1,4 +1,4 @@
-# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
+﻿# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
 ### (Echoes of the Frontier & The Spirit Realm)
 
 > **Mục tiêu cốt truyện:** Giải mã hiện tượng Cánh Cửa Thứ Hai phát xung; khám phá bản thiết kế va chạm hai thế giới; cuộc vượt Cổng của **Louisa** sang thế giới phép thuật; làm sáng tỏ sự thật đau đớn về sự biến mất của Rhea Everwy trong **Dòng Chảy Ma Thuật (The Astral Current)**; lấp đầy Chiếc Ghế Sồi Trống Thứ Hai; và nhận bức điện tín từ em gái ruột **Diana Everhart** tại **Reverse London**.
@@ -9,7 +9,7 @@
 
 ### PROLOGUE: BÌNH YÊN TRƯỚC CƠN BÃO
 - Sau khi đánh tan 30 Inquisitors của Thẩm Phán Viện ở Tập 4, pháo đài ngầm Sector 7 bước vào giai đoạn củng cố.
-- Ryan (học trò thứ hai, luôn gọi Dienne là "Master") lắp ráp các cảm biến ma đạo dọc long mạch; Soraya dùng Vương trượng Cổ Ngọn Lửa thiết lập kết giới phong ấn sa mạc; Lucien đau đầu kiểm toán ngân khố cạn kiệt; Master Dienne ngày đêm nghiên cứu Cổ ngữ Elvish.
+- Ryan (học trò thứ hai, luôn gọi Dienne là "Master") lắp ráp các cảm biến ma đạo dọc long mạch; Soraya dùng Vương trượng Cổ Ngọn Lửa thiết lập kết giới phong ấn sa mạc; Lucien đau đầu kiểm toán ngân khố cạn kiệt; Master Dienne ngày đêm nghiên cứu Cổ ngữ Asariën.
 - Tuy nhiên, trong không khí tĩnh lặng, những đợt sóng vi mô ngầm bắt đầu dao động bất thường dưới lòng sâu.
 
 ### CHƯƠNG 1: DẤU VẾT DƯỚI MÀN TUYẾT

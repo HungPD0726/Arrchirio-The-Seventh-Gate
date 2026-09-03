@@ -18,7 +18,7 @@ mylightnovel/
 │   ├── Merlin.md                 <-- Canon về Merlin, Paradox & Gate 7
 │   ├── magic.md                  <-- Triết lý & hệ thống ma thuật tổng quan
 │   ├── mana_physics.md           <-- Động lực học Mana & Toán học ma pháp (3 Định luật Merlin)
-│   ├── elvish_codex.md           <-- Ngôn ngữ Elvish, ngữ pháp 4 pha & thần chú
+│   ├── asarien_codex.md           <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
 │   ├── magic_appendix.md         <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
 │   ├── canon_audit.md            <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
 │   └── state.md                  <-- Trạng thái cốt truyện (Post-Vol 5 Tracker)

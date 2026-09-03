@@ -1,4 +1,4 @@
-# Story Bible: HỆ THỐNG MA THUẬT
+﻿# Story Bible: HỆ THỐNG MA THUẬT
 
 ### Magic System & Languages Bible
 
@@ -10,7 +10,7 @@
 >
 > **Tài liệu tham khảo chuyên sâu liên kết:**
 > - **Động lực học Mana & Toán học ma pháp** (Ký hiệu $\Psi$, đơn vị `man`, hằng số $\varepsilon, \Omega, \lambda$, hai định luật Merlin): [`bible/mana_physics.md`](file:///d:/Workspaces/mylightnovel/bible/mana_physics.md)
-> - **Ngôn ngữ Elvish & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/elvish_codex.md`](file:///d:/Workspaces/mylightnovel/bible/elvish_codex.md)
+> - **Ngôn ngữ Asariën & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/Asariën_codex.md`](file:///d:/Workspaces/mylightnovel/bible/Asariën_codex.md)
 
 ---
 
@@ -59,35 +59,35 @@ Ngược lại, một phép phức tạp không tự động mạnh hơn chỉ v
 
 ---
 
-# 3. ELVISH — NGÔN NGỮ CỔ CỦA MA THUẬT
+# 3. Asariën — NGÔN NGỮ CỔ CỦA MA THUẬT
 
-## 3.1. Vị trí của Elvish
+## 3.1. Vị trí của Asariën
 
-**Elvish** là ngôn ngữ cổ có mối liên hệ trực tiếp với cấu trúc nguyên thủy của ma thuật.
+**Asariën** là ngôn ngữ cổ có mối liên hệ trực tiếp với cấu trúc nguyên thủy của ma thuật.
 
-Con người về sau đã nghiên cứu Elvish và phát hiện rằng các ký tự, cấu trúc và quan hệ trong ngôn ngữ này có thể được dùng để mô tả và điều khiển những quy luật ma thuật.
+Con người về sau đã nghiên cứu Asariën và phát hiện rằng các ký tự, cấu trúc và quan hệ trong ngôn ngữ này có thể được dùng để mô tả và điều khiển những quy luật ma thuật.
 
 Từ đó:
 
-> **Toán học + Elvish + nghiên cứu mana → nền tảng của ma thuật công thức hiện đại.**
+> **Toán học + Asariën + nghiên cứu mana → nền tảng của ma thuật công thức hiện đại.**
 
-Elvish vì vậy không chỉ là một “ngôn ngữ để đọc thần chú”.
+Asariën vì vậy không chỉ là một “ngôn ngữ để đọc thần chú”.
 
 Nó có thể được xem như một **hệ thống biểu diễn cấu trúc ma thuật**.
 
-*(Xem chi tiết bảng từ vựng, ngữ pháp 4 pha và danh mục thần chú tại tệp: `bible/elvish_codex.md`)*
+*(Xem chi tiết bảng từ vựng, ngữ pháp 4 pha và danh mục thần chú tại tệp: `bible/Asariën_codex.md`)*
 
 ---
 
-# 3.2. Elvish không phải ngôn ngữ duy nhất để dùng phép
+# 3.2. Asariën không phải ngôn ngữ duy nhất để dùng phép
 
 Đây là nguyên tắc rất quan trọng.
 
 Một người không nhất thiết phải:
 
-* nói Elvish thành tiếng;
-* viết Elvish;
-* sử dụng ma pháp trận Elvish
+* nói Asariën thành tiếng;
+* viết Asariën;
+* sử dụng ma pháp trận Asariën
 
 mới có thể dùng ma thuật.
 
@@ -95,13 +95,13 @@ Các nền văn minh khác nhau đã tìm ra những con đường khác nhau đ
 
 Vì vậy:
 
-> **Elvish là một nền tảng cổ quan trọng, không phải độc quyền tuyệt đối của ma thuật.**
+> **Asariën là một nền tảng cổ quan trọng, không phải độc quyền tuyệt đối của ma thuật.**
 
 ---
 
-# 3.3. Các lớp của Elvish trong ma thuật
+# 3.3. Các lớp của Asariën trong ma thuật
 
-Có thể hiểu Elvish ma thuật gồm các lớp chức năng:
+Có thể hiểu Asariën ma thuật gồm các lớp chức năng:
 
 ### Từ / Ký hiệu
 
@@ -460,7 +460,7 @@ Nhưng cô vẫn có thể:
 
 Mana là cùng một nền tảng, nhưng mỗi nền văn hóa có thể đặt tên và diễn giải khác nhau.
 
-### Elvish
+### Asariën
 
 Ngôn ngữ cổ gắn với cấu trúc nền tảng của ma thuật.
 
@@ -511,7 +511,7 @@ Ngôn ngữ chỉ là:
 * công cụ truyền đạt;
 * phương tiện điều khiển.
 
-Một pháp sư sử dụng tiếng Nhật, tiếng Anh hay Elvish không làm mana trở thành những loại năng lượng khác nhau.
+Một pháp sư sử dụng tiếng Nhật, tiếng Anh hay Asariën không làm mana trở thành những loại năng lượng khác nhau.
 
 Điểm khác biệt nằm ở:
 
@@ -529,7 +529,7 @@ Là công cụ biểu đạt.
 
 Ví dụ:
 
-* Elvish.
+* Asariën.
 * Tiếng Nhật.
 * Tiếng Anh.
 * Các ngôn ngữ bản địa.
@@ -552,9 +552,9 @@ Một ngôn ngữ cũng có thể được sử dụng trong nhiều hệ thốn
 
 ---
 
-# 12. TẠI SAO ELVISH QUAN TRỌNG?
+# 12. TẠI SAO Asariën QUAN TRỌNG?
 
-Elvish là một trong những chìa khóa cổ xưa nhất để hiểu ma thuật.
+Asariën là một trong những chìa khóa cổ xưa nhất để hiểu ma thuật.
 
 Nó có thể chứa những khái niệm mà ngôn ngữ hiện đại:
 
@@ -562,7 +562,7 @@ Nó có thể chứa những khái niệm mà ngôn ngữ hiện đại:
 * đã đơn giản hóa;
 * hoặc hiểu sai.
 
-Vì vậy nghiên cứu Elvish không chỉ là học cổ ngữ.
+Vì vậy nghiên cứu Asariën không chỉ là học cổ ngữ.
 
 Đối với Dienne, nó là:
 
@@ -570,18 +570,18 @@ Vì vậy nghiên cứu Elvish không chỉ là học cổ ngữ.
 
 Đối với Arrchirio:
 
-> **Elvish là một kho kiến thức lịch sử và kỹ thuật cực kỳ quan trọng.**
+> **Asariën là một kho kiến thức lịch sử và kỹ thuật cực kỳ quan trọng.**
 
 ---
 
-# 13. Dienne và Elvish
+# 13. Dienne và Asariën
 
 Dienne đặc biệt mạnh ở:
 
 * phân tích;
 * toán học;
 * nhận diện cấu trúc;
-* đọc Elvish;
+* đọc Asariën;
 * kết hợp lý thuyết với thực hành.
 
 Tuy nhiên, năng lực của Dienne không có nghĩa:
@@ -607,7 +607,7 @@ Cô cần học cách:
 
 Cô thiên về:
 
-* Elvish;
+* Asariën;
 * công thức;
 * ma trận;
 * phân tích.
@@ -763,7 +763,7 @@ Nếu một hiện tượng không phản ứng như mana:
 Có thể tồn tại hiện tượng:
 
 * không phải mana;
-* không tuân theo các mô hình Elvish hiện tại;
+* không tuân theo các mô hình Asariën hiện tại;
 * không thuộc vật lý mà các nhân vật đang biết;
 * hoặc nằm ngoài phạm vi hiểu biết hiện tại.
 
@@ -777,7 +777,7 @@ Có thể dùng bảng sau như khung phân loại:
 
 | Phương thức    | Công cụ chính        | Điểm mạnh                             | Điểm yếu               |
 | -------------- | -------------------- | ------------------------------------- | ---------------------- |
-| Elvish Formula | Elvish + công thức   | Chính xác                             | Cần hiểu sâu           |
+| Asariën Formula | Asariën + công thức   | Chính xác                             | Cần hiểu sâu           |
 | Magic Circle   | Ma trận              | Ổn định                               | Chuẩn bị lâu           |
 | Chanting       | Lời nói              | Dễ triển khai                         | Có thể bị ngắt         |
 | Wand/Staff     | Vật dẫn              | Nhanh, chính xác                      | Phụ thuộc vật dẫn      |
@@ -883,9 +883,9 @@ Các yếu tố sau chưa được xác nhận đầy đủ trong 4 Volume:
 * Có bao nhiêu “loại mana” nếu xét đến cấp độ học thuật.
 * Mana có thật sự tồn tại trong mọi nơi của thế giới phép thuật với mật độ như nhau hay không.
 * Nguồn gốc tuyệt đối của mana.
-* Nguồn gốc của Elvish.
-* Người đầu tiên phát hiện mối quan hệ giữa Elvish và ma thuật.
-* Elvish có phải ngôn ngữ của một chủng tộc cổ đại hay không.
+* Nguồn gốc của Asariën.
+* Người đầu tiên phát hiện mối quan hệ giữa Asariën và ma thuật.
+* Asariën có phải ngôn ngữ của một chủng tộc cổ đại hay không.
 * Chính xác Spirit Arts tương tác với mana ở tầng nào.
 * Ancient Magic cổ đến mức nào.
 * Có loại ma thuật nào không cần mana hay không.
@@ -900,7 +900,7 @@ Các yếu tố sau chưa được xác nhận đầy đủ trong 4 Volume:
 
 ### Không được:
 
-* Biến Elvish thành “ngôn ngữ thần bí đọc là thắng”.
+* Biến Asariën thành “ngôn ngữ thần bí đọc là thắng”.
 * Cho mana vô hạn.
 * Cho phép pháp sư làm bất cứ thứ gì chỉ vì họ mạnh.
 * Cho mỗi quốc gia một loại năng lượng hoàn toàn riêng biệt nếu không có lý do.
@@ -933,7 +933,7 @@ Có thể tóm toàn bộ hệ thống ma thuật hiện tại bằng:
 
 Trong đó:
 
-**Elvish** là một trong những phương thức lâu đời và chính xác nhất để biểu diễn cấu trúc.
+**Asariën** là một trong những phương thức lâu đời và chính xác nhất để biểu diễn cấu trúc.
 
 **Spirit Arts** nhấn mạnh sự hòa hợp.
 

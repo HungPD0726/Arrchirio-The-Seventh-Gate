@@ -1,4 +1,4 @@
-# STORY BIBLE: ĐỊA LÝ & CÁC THÀNH PHỐ MA THUẬT (Places of the Two Realms)
+﻿# STORY BIBLE: ĐỊA LÝ & CÁC THÀNH PHỐ MA THUẬT (Places of the Two Realms)
 
 > **Triết lý chủ đạo:**  
 > *"Mỗi thành phố là một thế giới nhỏ. Mỗi thế giới nhỏ cho Dienne một mảnh ghép về thế giới lớn. Mỗi thành phố trả lời một câu hỏi hiện sinh."*  
@@ -25,10 +25,10 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 ## 1. EVERHART (Hoàng Thành Sụp Đổ)
 - **Identity**: Cố đô của Vương quốc Everhart, nơi khai sinh dòng máu hoàng gia của Dienne, biểu tượng của sự ngây thơ bị biển lửa thiêu rụi.
   - *Câu hỏi hiện sinh*: *"Một vương triều tôn thờ sự Cân Bằng thuần khiết tại sao lại sụp đổ chỉ sau một đêm?"*
-- **Architecture**: Những tòa lâu đài đá cẩm thạch trắng vút nhọn theo phong cách Gothic Elvish cổ điển, chạm khắc hoa văn hoa hồng trắng và rồng vàng. Vòm trần khảm ngọc phát quang tự nhiên, những hành lang kính màu lọc ánh nắng thành dải quang phổ bảy sắc.
+- **Architecture**: Những tòa lâu đài đá cẩm thạch trắng vút nhọn theo phong cách Gothic Asariën cổ điển, chạm khắc hoa văn hoa hồng trắng và rồng vàng. Vòm trần khảm ngọc phát quang tự nhiên, những hành lang kính màu lọc ánh nắng thành dải quang phổ bảy sắc.
 - **Climate**: Vùng thung lũng ôn đới màu mỡ, từng ngập tràn hương hoa dạ lan hương và cỏ ướt sương mai; hiện tại là vùng bình địa cháy xém tro tàn, quanh năm phảng phất mùi khét lẹt của lửa nguyền lôi điện.
-- **Population**: Từng là nơi sinh sống của các quý tộc ma pháp thanh lịch, học giả Elvish và kỵ sĩ hoàng gia; nay là vùng đất chết cấm kỵ, không một bóng người sinh sống.
-- **Magic**: Trường phái **Hoàng Gia Everhart** dựa trên toán học Elvish 4 pha ngữ pháp chuẩn xác ($\eta \to 95\%$), điều khiển Lam Hỏa (Ngọn Lửa Lam Thuần Khiết) và kết giới hình vuông $\square$ bảo vệ kiên cố.
+- **Population**: Từng là nơi sinh sống của các quý tộc ma pháp thanh lịch, học giả Asariën và kỵ sĩ hoàng gia; nay là vùng đất chết cấm kỵ, không một bóng người sinh sống.
+- **Magic**: Trường phái **Hoàng Gia Everhart** dựa trên toán học Asariën 4 pha ngữ pháp chuẩn xác ($\eta \to 95\%$), điều khiển Lam Hỏa (Ngọn Lửa Lam Thuần Khiết) và kết giới hình vuông $\square$ bảo vệ kiên cố.
 - **Economy**: Từng là trung tâm kinh tế trù phú nhất phương Nam, lưu thông đồng tiền vàng rồng Everhart; nay chỉ còn là đống đổ nát bị lãng quên.
 - **Culture**: Đề cao danh dự hiệp sĩ, sự kiêu hãnh dòng máu, tình cảm gia đình và tri thức uyên bác. Lễ hội Hoa Tuyết từng là ngày hội lớn nhất năm.
 - **Conflict**: Đêm Đại Thanh Trừng 10 năm trước: Sự phản bội từ bên trong của gia tộc Arknight kết hợp cùng cuộc tấn công chớp nhoáng của Thẩm Phán Viện Aurelia san phẳng hoàng thành.
@@ -90,7 +90,7 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 - **Architecture**: Đại sảnh bát giác khổng lồ cao 30 mét dưới độ sâu 100m bằng đá hoa cương đen bóng. Bàn đá tròn ngàn năm tuổi với 8 chiếc ghế gỗ sồi; quả cầu hologram bản đồ ba chiều; Căn phòng bán cầu kim loại đen nguyên khối chứa Cánh Cổng Cổ Đại Thứ Hai.
 - **Climate**: Dưới lòng đất sâu nhưng hệ thống lọc khí cổ đại duy trì không khí mát rượi, thơm mùi thảo dược sa mạc và trầm hương, xua tan mùi dầu máy.
 - **Population**: Chỉ có 5 thành viên nòng cốt của New Arrchirio (Dienne, Lucien, Ryan, Soraya, Louisa) và 30 tù binh Chấp Pháp Viên bị giam cầm dưới hầm phong ấn số 2.
-- **Magic**: Sự giao hòa đỉnh cao: Ma trận Elvish chuẩn xác + Vi mạch nhị phân cảm biến EMP của Ryan + Kết giới thanh tẩy sa mạc của Soraya + Đạn vonfram của Louisa.
+- **Magic**: Sự giao hòa đỉnh cao: Ma trận Asariën chuẩn xác + Vi mạch nhị phân cảm biến EMP của Ryan + Kết giới thanh tẩy sa mạc của Soraya + Đạn vonfram của Louisa.
 - **Economy**: Hoạt động bằng nguồn quỹ tự tích lũy, linh kiện thu mua từ chợ đen và kho kim loại quý của cựu binh Kenneth.
 - **Culture**: Tinh thần gia đình gắn kết, không phân biệt giai cấp hay chủng tộc, tôn trọng tri thức và tự do cá nhân.
 - **Conflict**: Mối đe dọa thường trực từ mạng lưới địa chấn tầm nhiệt của Thẩm Phán Viện và bí ẩn rúng động từ Cánh Cổng Cổ Đại Thứ Hai.
@@ -138,18 +138,18 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 - **Architecture**: Những ngôi đền Thần Đạo bằng gỗ bách ngàn năm tuổi sơn son thiếp vàng trôi nổi trên mặt hồ nước tĩnh lặng; những cây cầu trăng uốn cong vắt qua sương khói; hàng ngàn chiếc đèn lồng giấy phát sáng lơ lửng giữa rừng trúc thiêng.
 - **Climate**: Không khí thanh khiết, tĩnh lặng tuyệt đối, thoang thoảng mùi gỗ tuyết tùng và hoa anh đào nở muộn, nhiệt độ êm dịu quanh năm.
 - **Population**: Các bậc thầy Âm Dương Sư (Onmyōji), các nữ tế đền Thần Đạo, và những tinh linh Fae bản địa.
-- **Magic**: **Linh Thuật (Spirit Arts)**: Hoàn toàn không dùng công thức Elvish hay máy móc; thi triển bằng sự giao hòa tâm thức, bùa chú giấy (Ofuda), thần chú tiếng Phạn/Cổ ngữ Á Đông, và triệu hồi Thức Thần (Shikigami).
+- **Magic**: **Linh Thuật (Spirit Arts)**: Hoàn toàn không dùng công thức Asariën hay máy móc; thi triển bằng sự giao hòa tâm thức, bùa chú giấy (Ofuda), thần chú tiếng Phạn/Cổ ngữ Á Đông, và triệu hồi Thức Thần (Shikigami).
 - **Economy**: Tự cung tự cấp, trao đổi bằng linh ngọc và sương mai thanh tẩy.
 - **Culture**: Tôn sùng thiên nhiên, hòa hợp âm dương, coi trọng sự tĩnh tâm và thiền định.
 - **Conflict**: Tranh cãi sâu sắc giữa phái bảo thủ (muốn đóng kín hoàn toàn với thế giới bên ngoài) và những kẻ muốn lợi dụng linh khí để chống lại Đế quốc.
 - **What the protagonists feel**:
-  - *Dienne*: Bị thử thách mạnh mẽ về tư duy; lần đầu tiên nhận ra các phương trình giải tích Elvish của mình bất lực trước nhịp thở vô hình của linh hồn tự nhiên.
+  - *Dienne*: Bị thử thách mạnh mẽ về tư duy; lần đầu tiên nhận ra các phương trình giải tích Asariën của mình bất lực trước nhịp thở vô hình của linh hồn tự nhiên.
   - *Soraya*: Tìm thấy sự đồng điệu tâm linh sâu sắc giữa Linh Thuật phương Đông và nghi lễ Tinh Tú sa mạc của gia tộc Al-Zahra.
 
 ---
 
 ## 9. CAIRO / AL-QAHIRA (Thánh Địa Sa Mạc & Chiêm Tinh Tinh Tú)
-- **Identity**: Siêu đô thị ma thuật nằm bên bờ sông Nile huyền bí, cái nôi của nền văn minh ma thuật phương Đông ngoài hệ thống Elvish châu Âu.
+- **Identity**: Siêu đô thị ma thuật nằm bên bờ sông Nile huyền bí, cái nôi của nền văn minh ma thuật phương Đông ngoài hệ thống Asariën châu Âu.
   - *Câu hỏi hiện sinh*: *"Lịch sử của ma thuật đã bắt đầu từ đâu trước khi các hoàng đế phương Tây viết lại sách lịch sử?"*
 - **Architecture**: Những kim tự tháp đá sa thạch khổng lồ đóng vai trò như các tụ điện mana vũ trụ; những đại sảnh cột đá chạm khắc chữ tượng hình cổ (Hieroglyphs); các khu chợ trời Bazaar rực rỡ sắc màu trải dài ngút ngàn.
 - **Climate**: Nắng vàng rực rỡ, ban ngày khô nóng bỏng rát, ban đêm lạnh thấu xương; gió sa mạc mang theo mùi hương trầm, quế, nhựa thông và bụi cát đỏ.
@@ -195,17 +195,17 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 ---
 
 ## 12. VÙNG ĐẤT LOÀI ELF (Yggdralis — Rừng Cội Nguồn)
-- **Identity**: Vương quốc rừng rậm cổ xưa nhất lục địa, nơi sinh sống của tộc **Lunar Elves (Asariel)**, cội nguồn tối thượng của Cổ ngữ Elvish.
+- **Identity**: Vương quốc rừng rậm cổ xưa nhất lục địa, nơi sinh sống của tộc **Lunar Elves (Asariel)**, cội nguồn tối thượng của Cổ ngữ Asariën.
   - *Câu hỏi hiện sinh*: *"Bản chất thực sự của ma thuật là món quà của thiên nhiên, hay là một lời nguyền vũ trụ?"*
 - **Architecture**: Không chặt phá một nhánh cây: Các thành phố được kiến tạo trực tiếp bên trong thân và tán của những cây đại thụ ngàn năm cao tới năm trăm mét; những cây cầu dây leo phát quang tự nhiên; các đền thờ Nguyệt Thần bằng đá mặt trăng trôi lơ lửng giữa tán lá.
 - **Climate**: Rừng mưa nhiệt đới cổ sinh, quanh năm ẩm ướt, mây mù bao phủ tán cây, không khí sực nức mùi nhựa cây cổ thụ và hương hoa dạ liên nở dưới ánh trăng.
 - **Population**: Tộc **Lunar Elves (Asariel)** với đôi tai dài thanh tú, mái tóc bạch kim hoặc xanh lục, đôi mắt phát quang màu bạc dưới trăng.
-- **Magic**: **Cổ Ngữ Elvish Nguyên Bản & Nguyệt Ma Thuật**: Không qua phiên dịch hay tính toán toán học; họ hát bằng ngôn ngữ của cây cỏ để điều khiển dòng chảy sinh mệnh.
+- **Magic**: **Cổ Ngữ Asariën Nguyên Bản & Nguyệt Ma Thuật**: Không qua phiên dịch hay tính toán toán học; họ hát bằng ngôn ngữ của cây cỏ để điều khiển dòng chảy sinh mệnh.
 - **Economy**: Hoàn toàn phi tiền tệ; sống bằng sự chia sẻ phước lành của rừng mẹ Yggdralis.
 - **Culture**: Tôn thờ Mặt Trăng, cự tuyệt tuyệt đối người ngoài. Quan hệ với loài người cực kỳ căng thẳng do các cuộc khai thác gỗ và săn bắt ma thú của Đế quốc.
 - **Conflict**: 
   - Đóng kín ranh giới với thế giới loài người.
-  - Tuy nhiên, thái độ của họ đối với nhóm Dienne và Louisa hoàn toàn khác biệt: Họ nhìn thấy ở Dienne sự thuần khiết của toán học Elvish, và nhìn thấy ở Louisa—cô gái $\Psi = 0$—chìa khóa giải mã Sự Khởi Đầu Của Phép Thuật (The Genesis of Magic).
+  - Tuy nhiên, thái độ của họ đối với nhóm Dienne và Louisa hoàn toàn khác biệt: Họ nhìn thấy ở Dienne sự thuần khiết của toán học Asariën, và nhìn thấy ở Louisa—cô gái $\Psi = 0$—chìa khóa giải mã Sự Khởi Đầu Của Phép Thuật (The Genesis of Magic).
 - **What the protagonists feel**:
   - *Dienne*: Cảm giác trở về với nguồn cội của tri thức mà Người Thầy Già đã dạy suốt mười năm.
   - *Louisa*: Tuyến truyện tối hậu của Deuteragonist (Post-Ending) bắt đầu tại đây khi cô bước vào Rừng Cội Nguồn để giải mã vì sao mình sinh ra không có mana.

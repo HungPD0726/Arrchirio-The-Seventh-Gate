@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
@@ -82,7 +82,7 @@ Một vòng tròn đại diện cho thế giới thực của loài người v�
 
 Vùng giao thoa ở chính giữa hai vòng tròn bị một vệt mực đen đậm nét gạch chéo, xóa sổ hoàn toàn. 
 
-Và bên dưới vệt mực đen ấy, một dòng chữ viết tay bằng Cổ ngữ Elvish sắc sảo vẫn còn hằn sâu vào thớ giấy như một lời cảnh báo bí ẩn cho muôn đời sau:
+Và bên dưới vệt mực đen ấy, một dòng chữ viết tay bằng Cổ ngữ Asariën sắc sảo vẫn còn hằn sâu vào thớ giấy như một lời cảnh báo bí ẩn cho muôn đời sau:
 
 > *“Hai thế giới không được sinh ra giống nhau.*  
 > *Vậy tại sao… chúng lại đang ngày càng trở nên giống nhau?*  

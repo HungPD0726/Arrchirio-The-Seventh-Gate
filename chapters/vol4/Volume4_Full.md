@@ -21,7 +21,7 @@ Trên chiếc bàn gỗ sồi thô ráp kê sát bệ lò sưởi, Dienne cẩn 
 
 Thứ nhất là tập hồ sơ bằng giấy da thuộc bị cháy xém một góc, lưu giữ các ghi chép tối mật của chi nhánh Arrchirio ngầm tại Kyoto từ hơn một trăm năm trước.
 
-Thứ hai là cuốn sổ tay bìa da rồng của Người Thầy Già, nay đã được Dienne vẽ thêm hàng chục trang sơ đồ toán học Elvish mới, ghi chép tường tận về hiện tượng kỳ bí mang tên **Sự Cộng Hưởng Xuyên Không Gian**.
+Thứ hai là cuốn sổ tay bìa da rồng của Người Thầy Già, nay đã được Dienne vẽ thêm hàng chục trang sơ đồ toán học Asariën mới, ghi chép tường tận về hiện tượng kỳ bí mang tên **Sự Cộng Hưởng Xuyên Không Gian**.
 
 Thứ ba là những bản phác thảo chi tiết do chính tay Dienne và Lucien vẽ lại: sơ đồ mạng lưới điện cao thế, đường cáp quang truyền dẫn bằng xung ánh sáng laser, các động cơ đốt trong cơ học bốn kỳ chạy bằng xăng khoáng sản, và kết cấu dập nguội của những chiếc lon nhôm mỏng dính có ga.
 
@@ -35,7 +35,7 @@ Người Thầy Già đứng tựa lưng vào bệ đá lò sưởi.
 
 Chiếc áo choàng dạ màu xám sờn rách của ông buông thõng xuống gót chân. Tẩu thuốc bằng gỗ thông trên tay ông đã tắt ngấm tự bao giờ. Đôi mắt đục ngầu, mờ đục vì năm tháng và những vết sẹo trận mạc của cựu chấp pháp viên Arrchirio chậm rãi quét qua từng món đồ bày trên bàn gỗ.
 
-Đầu ngón tay gầy guộc, thô ráp như vỏ cây của ông run rẩy lướt qua dòng chữ Elvish cổ sắc sảo được viết bằng máu khô trên trang bìa lót cuối cùng của tập hồ sơ Kyoto:
+Đầu ngón tay gầy guộc, thô ráp như vỏ cây của ông run rẩy lướt qua dòng chữ Asariën cổ sắc sảo được viết bằng máu khô trên trang bìa lót cuối cùng của tập hồ sơ Kyoto:
 
 > *“Đừng nhầm lẫn sự tương đồng với nguồn gốc.*  
 > *Chúng ta không sinh ra họ, và họ cũng không sinh ra chúng ta.*  
@@ -77,7 +77,7 @@ Cô ngước nhìn người thầy già, từng chữ thốt ra dứt khoát nh�
 
 Bàn tay phải của Dienne nắm chặt lấy vỏ đạn vonfram nặng trịch của Louisa trên bàn:
 
-"Bây giờ... cháu đã có một lý do thực sự để **hồi sinh** nó. Một New Arrchirio mới—nơi kết hợp giữa sự thông tuệ của ma thuật Elvish cổ đại và sức mạnh cơ học thực tế của thế giới thực. Chúng cháu sẽ khép lại những vết nứt... và bảo vệ sự nguyên vẹn của cả hai thế giới."
+"Bây giờ... cháu đã có một lý do thực sự để **hồi sinh** nó. Một New Arrchirio mới—nơi kết hợp giữa sự thông tuệ của ma thuật Asariën cổ đại và sức mạnh cơ học thực tế của thế giới thực. Chúng cháu sẽ khép lại những vết nứt... và bảo vệ sự nguyên vẹn của cả hai thế giới."
 
 Dưới ánh lửa lò sưởi bập bùng giữa thung lũng tuyết phủ.
 
@@ -202,7 +202,7 @@ Cô dập tắt ngọn lửa chiếc bật lửa, cất vào túi áo, thanh âm
 
 "Một tổ chức mới...?" Lucien lẩm bẩm, tim đập thình thịch trước khí phách của cô bạn.
 
-"Đúng! Chúng ta sẽ đi tìm những con người mới—những kẻ bị thế giới ma thuật bảo thủ này ruồng bỏ, những thần đồng cơ khí bị tước đoạt cơ hội, những học giả dị giáo bị Thẩm Phán Viện coi là mầm mống nguy hiểm! Chúng ta sẽ tập hợp họ lại, trao cho họ tri thức toán học Elvish và tư duy cơ học của thế giới thực để biến họ thành những trụ cột không thể thay thế!"
+"Đúng! Chúng ta sẽ đi tìm những con người mới—những kẻ bị thế giới ma thuật bảo thủ này ruồng bỏ, những thần đồng cơ khí bị tước đoạt cơ hội, những học giả dị giáo bị Thẩm Phán Viện coi là mầm mống nguy hiểm! Chúng ta sẽ tập hợp họ lại, trao cho họ tri thức toán học Asariën và tư duy cơ học của thế giới thực để biến họ thành những trụ cột không thể thay thế!"
 
 Dienne lật giở cuốn sổ tay Kyoto, chỉ vào một mẩu tin tức chợ đen mà Louisa từng cung cấp trước khi rời đi:
 
@@ -422,7 +422,7 @@ Chiếc nắp tráp bằng đá hoa cương tự động trượt mở.
 
 Bên trong tráp, được bọc cẩn thận bằng một lớp vải lụa tơ tằm thêu gia huy nhánh cây bạc, là một cuốn biên bản hội nghị bằng giấy da thuộc màu xám tro. 
 
-Tập tài liệu này mang tiêu đề dập nổi bằng mực vàng Elvish:
+Tập tài liệu này mang tiêu đề dập nổi bằng mực vàng Asariën:
 
 > **[BIÊN BẢN ĐIỀU TRẦN KỶ LUẬT ĐẶC BIỆT — HỘI ĐỒNG TỐI CAO ARRCHIRIO]**  
 > *Thời gian lập: Ngày 17 tháng 11 năm thứ 38 kỷ nguyên Everhart.*  
@@ -464,11 +464,11 @@ Toàn bộ phần dòng tên của kẻ phản bội, cùng với gia huy dòng 
 
 Vết cháy đen nham nhở, rách toạc một mảng giấy da hình tròn có đường kính hơn mười phân. Toàn bộ thông tin nhân thân đã vĩnh viễn biến thành tro tàn đen kịt, không thể phục hồi bằng bất kỳ thần chú hồi quy nào.
 
-Chỉ duy nhất một dòng chữ nhỏ bằng Cổ ngữ Elvish sắc sảo, được khắc chìm ở góc dưới cùng bên phải của chiếc gia huy bị cháy xém, là còn may mắn thoát khỏi lưỡi hái của axit:
+Chỉ duy nhất một dòng chữ nhỏ bằng Cổ ngữ Asariën sắc sảo, được khắc chìm ở góc dưới cùng bên phải của chiếc gia huy bị cháy xém, là còn may mắn thoát khỏi lưỡi hái của axit:
 
 > **Arknight.**
 
-Dienne nhìn trân trân vào bảy chữ cái Elvish ấy dưới ánh lửa đuốc chập chờn.
+Dienne nhìn trân trân vào bảy chữ cái Asariën ấy dưới ánh lửa đuốc chập chờn.
 
 *Ark-night.*
 
@@ -480,7 +480,7 @@ Thế nhưng, luồng năng lượng tàn dư bốc lên từ vết cháy đen c
 
 "Arknight..." Dienne khẽ lẩm bẩm, thanh âm run rẩy giữa hầm mộ đá.
 
-"Cậu có biết cái tên này không Dienne?" Lucien bước tới, nhíu mày nhìn dòng chữ Elvish.
+"Cậu có biết cái tên này không Dienne?" Lucien bước tới, nhíu mày nhìn dòng chữ Asariën.
 
 "Tớ không biết," Dienne lắc đầu, bàn tay cô siết chặt lấy thanh kiếm gỗ sồi của Rhea sau lưng. "Nhưng tớ biết một điều: Kẻ này vẫn còn sống. Một kẻ dám phản bội cả một nền văn minh vì lý tưởng Trật Tự Duy Nhất sẽ không bao giờ chết một cách dễ dàng trong bóng tối."
 
@@ -527,7 +527,7 @@ Nằm bẹp dưới gầm của một cỗ máy nén áp suất mana khổng l�
 
 Cậu bé trạc mười bốn tuổi, thân hình gầy gò, khoác trên mình chiếc quần yếm bằng vải bạt thô dính đầy dầu máy đen sì. Mái tóc xù màu hạt dẻ bết dính muội than, trên trán gác lệch một chiếc kính bảo hộ ma thuật có ba tròng kính phóng đại gắn cơ cấu xoay tròn. Đôi bàn tay nhỏ nhắn nhưng gân guốc của cậu đang thoăn thoắt dùng một chiếc cờ-lê mỏ lết cỡ lớn gồng mình siết chặt một con ốc đồng trên van xả áp.
 
-"Chết tiệt thật chứ!" Cậu bé nghiến răng ken két, mồ hôi nhễ nhại chảy ròng ròng trên má làm lem luốc những vệt than đen. "Mạch Elvish bậc hai này cứ đến chu kỳ dao động thứ mười lăm là lại đoản mạch trào ngược! Lũ khốn ở Phường Hội Thợ Rèn toàn dùng mấy cái công thức cổ lỗ sĩ từ thời đồ đá!"
+"Chết tiệt thật chứ!" Cậu bé nghiến răng ken két, mồ hôi nhễ nhại chảy ròng ròng trên má làm lem luốc những vệt than đen. "Mạch Asariën bậc hai này cứ đến chu kỳ dao động thứ mười lăm là lại đoản mạch trào ngược! Lũ khốn ở Phường Hội Thợ Rèn toàn dùng mấy cái công thức cổ lỗ sĩ từ thời đồ đá!"
 
 "Cậu dùng nhầm vector điều hướng rồi," Dienne đứng bên mép bàn, thong thả lên tiếng.
 
@@ -581,7 +581,7 @@ Toàn bộ cơ thể gầy gò của Ryan run bắn lên như bị điện giậ
 
 Chiếc giẻ lau trên tay Ryan rơi tuột xuống sàn. Cậu bé vồ lấy chiếc kính lúp điện tử ma đạo trên bàn, bật nguồn phóng đại lên một ngàn lần, săm soi từng đường rãnh siêu vi nano chạy dọc trên bề mặt phiến silicon màu xanh:
 
-"Cấu trúc vật liệu này... hoàn toàn không có điện trở ma thuật?! Không có ma trận Elvish?! Các đường rãnh dẫn truyền bên trong... tại sao chúng lại không phân nhánh theo đồ thị hình sao cổ điển... mà lại nối tiếp nhau theo một mạng lưới cổng logic nhị phân tuần tự?!"
+"Cấu trúc vật liệu này... hoàn toàn không có điện trở ma thuật?! Không có ma trận Asariën?! Các đường rãnh dẫn truyền bên trong... tại sao chúng lại không phân nhánh theo đồ thị hình sao cổ điển... mà lại nối tiếp nhau theo một mạng lưới cổng logic nhị phân tuần tự?!"
 
 Ryan nuốt ực một ngụm nước bọt nghẹn ngào, hai bàn tay run rẩy đến mức suýt đánh rơi phiến vi mạch:
 
@@ -597,13 +597,13 @@ Dienne nhìn cậu bé, khóe môi khẽ mỉm cười:
 
 Cô chỉ tay vào khối máy nén áp suất mana đang nằm chết đứng giữa xưởng:
 
-"Cậu đang bế tắc ở khối máy nén này đúng không? Chu kỳ dao động thứ mười lăm bị đoản mạch trào ngược vì cậu đang cố áp dụng công thức Elvish bậc hai của Đế quốc vào một buồng đốt cơ khí."
+"Cậu đang bế tắc ở khối máy nén này đúng không? Chu kỳ dao động thứ mười lăm bị đoản mạch trào ngược vì cậu đang cố áp dụng công thức Asariën bậc hai của Đế quốc vào một buồng đốt cơ khí."
 
 Dienne bước tới bên cạnh cỗ máy, rút chiếc bút lông ma đạo ngòi đồng trong túi áo ra. 
 
-Bằng những nét vẽ dứt khoát, thanh thoát và chuẩn xác đến từng milimet, Dienne vạch ba đường toán tử Elvish kết hợp với hàm logic nhị phân trực tiếp lên bề mặt ống dẫn bằng đồng của cỗ máy:
+Bằng những nét vẽ dứt khoát, thanh thoát và chuẩn xác đến từng milimet, Dienne vạch ba đường toán tử Asariën kết hợp với hàm logic nhị phân trực tiếp lên bề mặt ống dẫn bằng đồng của cỗ máy:
 
-"Một phương trình tích phân vi phân Elvish kết hợp điều kiện biên logic nhị phân. Khi dòng mana đạt ngưỡng áp suất tới hạn, cổng logic sẽ tự động ngắt pha trong một phần nghìn giây để triệt tiêu sóng phản chấn."
+"Một phương trình tích phân vi phân Asariën kết hợp điều kiện biên logic nhị phân. Khi dòng mana đạt ngưỡng áp suất tới hạn, cổng logic sẽ tự động ngắt pha trong một phần nghìn giây để triệt tiêu sóng phản chấn."
 
 Dienne gõ nhẹ ngòi bút lên công tắc khởi động:
 
@@ -740,7 +740,7 @@ Nàng công chúa mười sáu tuổi không hề rút kiếm, cũng không hề
 
 Cô đứng giữa ranh giới của tấm thảm tinh tú bị bôi bẩn và bức tường lửa rực cháy. Đôi bàn tay nhỏ nhắn của Dienne khẽ nâng lên ngang ngực.
 
-Bằng một cử chỉ thanh thoát, chuẩn xác và kỳ ảo như một điệu múa cổ xưa, ngón trỏ tay phải của Dienne vạch một đường vòng cung Elvish trong không trung, trong khi các ngón tay trái khẽ bung ra như một nụ hoa tuyết nở rộ.
+Bằng một cử chỉ thanh thoát, chuẩn xác và kỳ ảo như một điệu múa cổ xưa, ngón trỏ tay phải của Dienne vạch một đường vòng cung Asariën trong không trung, trong khi các ngón tay trái khẽ bung ra như một nụ hoa tuyết nở rộ.
 
 Một ma pháp trận trung hòa hình elip màu lam ngọc dịu mát lập tức bừng sáng giữa không gian!
 
@@ -748,7 +748,7 @@ Không có tiếng nổ long trời lở đất.
 
 Chỉ có một luồng gió mát rượi, êm đềm như hơi thở của màn đêm sa mạc lan tỏa ra bốn phía. 
 
-Ma trận Elvish của Dienne nhẹ nhàng trườn qua bức tường lửa của Soraya. Nó không dập tắt ngọn lửa bằng bạo lực; nó nhẹ nhàng tái cấu trúc lại các vector phân tán nhiệt lượng của ngọn lửa cổ, đưa các dòng đối lưu hỗn loạn của Soraya vào một quỹ đạo tuần hoàn khép kín hoàn hảo. 
+Ma trận Asariën của Dienne nhẹ nhàng trườn qua bức tường lửa của Soraya. Nó không dập tắt ngọn lửa bằng bạo lực; nó nhẹ nhàng tái cấu trúc lại các vector phân tán nhiệt lượng của ngọn lửa cổ, đưa các dòng đối lưu hỗn loạn của Soraya vào một quỹ đạo tuần hoàn khép kín hoàn hảo. 
 
 Bức tường lửa đang gầm rú bỗng nhiên dịu lại, biến thành một dải lụa ánh sáng vàng kim êm đềm bao bọc lấy quảng trường, nhiệt lượng dư thừa bị triệt tiêu sạch sẽ mà không làm tổn thương lấy một ngọn cỏ khô ven đá!
 
@@ -867,7 +867,7 @@ Ba người đứng quanh đống lửa, tiếng cãi vã, la hét và đập b�
 
 Đứng ở tâm bão của mớ hỗn độn đầy những vết nứt tính cách ấy, Dienne Everhart nãy giờ vẫn ngồi im lặng bên cạnh một mỏm đá nhô ra.
 
-Cô gái mười sáu tuổi khoác chiếc áo sơ mi trắng giản dị, thanh kiếm gỗ sồi sứt sẹo của Rhea đặt ngang trên hai đầu gối. Trước mặt cô là cuốn sổ tay chép các phương trình Elvish và chiếc bật lửa kim loại của Louisa.
+Cô gái mười sáu tuổi khoác chiếc áo sơ mi trắng giản dị, thanh kiếm gỗ sồi sứt sẹo của Rhea đặt ngang trên hai đầu gối. Trước mặt cô là cuốn sổ tay chép các phương trình Asariën và chiếc bật lửa kim loại của Louisa.
 
 Dienne không hề lên tiếng quát tháo. 
 
@@ -911,11 +911,11 @@ Dienne rút chiếc bút lông ma đạo ra, nhặt một phiến đá phẳng �
 
 Ryan và Soraya đồng loạt nghiêng đầu nhìn xuống phiến đá.
 
-Dienne dùng ngòi bút lông vạch một phương trình toán học Elvish độc nhất vô nhị:
+Dienne dùng ngòi bút lông vạch một phương trình toán học Asariën độc nhất vô nhị:
 
 "Chúng ta sẽ không dùng bộc phá nổ của Ryan, cũng không dùng nghi lễ diện rộng của Soraya. Ryan, con hãy tháo bỏ buồng đốt thuốc nổ của khẩu súng, thay vào đó lắp một chiếc lăng kính thạch anh chuẩn trực để thu nhận ngọn lửa tinh tú từ vương trượng của Soraya."
 
-Dienne chỉ vào công thức Elvish:
+Dienne chỉ vào công thức Asariën:
 
 "Soraya sẽ rót một tia Cổ Ngọn Lửa nhỏ bằng sợi chỉ vào buồng nén. Bằng mạch logic nhị phân của Ryan, chúng ta sẽ bẻ cong tia lửa thành một **chùm xung quang học siêu hẹp (Optical Mana Pulse)**. Chùm xung này sẽ xuyên qua khe nứt địa tầng như một chiếc kim chỉ nam, phản xạ lại đáy hồ trong vòng một phần mười giây mà không hề gây ra một rung chấn hay một tia nhiệt dư thừa nào ra môi trường bên ngoài!"
 
@@ -925,7 +925,7 @@ Bộ óc thiên tài cơ khí của cậu bé mười bốn tuổi lập tức n
 
 "Tuyệt đỉnh! Chuẩn trực chùm tia bằng thạch anh! Bằng cách này, lượng ma thạch tiêu hao giảm đi chín mươi lăm phần trăm, và công suất thu nhận tín hiệu tăng gấp năm lần! Master, người đúng là thiên tài!"
 
-Soraya cũng cúi đầu nhìn phương trình Elvish, đôi mắt hổ phách ánh lên sự thán phục không thể giấu giếm:
+Soraya cũng cúi đầu nhìn phương trình Asariën, đôi mắt hổ phách ánh lên sự thán phục không thể giấu giếm:
 
 "Dùng ngọn lửa sa mạc làm nguồn phát quang học... Gia tộc của ta chưa từng nghĩ tới việc ma thuật cổ xưa có thể được ứng dụng một cách tinh vi và chính xác đến mức này."
 
@@ -1030,9 +1030,9 @@ Chắn ngang đáy giếng đứng là một cánh đại môn khổng lồ cao 
 
 Bề mặt cánh cổng không hề có một vết rỉ sét nào sau hai mươi năm chìm trong bóng tối. 
 
-Chính giữa cánh cổng là một phù điêu khổng lồ chạm khắc hình nhánh cây bách quấn quanh thanh kiếm gãy của Arrchirio. Và xung quanh phù điêu ấy là ba vòng tròn đồng tâm chứa hàng trăm ký tự Cổ ngữ Elvish đang phát ra ánh sáng màu lam thẫm mờ ảo—đó là **Khóa Phong Ấn Ma Trận Phân Kì Ba Tầng** tối thượng!
+Chính giữa cánh cổng là một phù điêu khổng lồ chạm khắc hình nhánh cây bách quấn quanh thanh kiếm gãy của Arrchirio. Và xung quanh phù điêu ấy là ba vòng tròn đồng tâm chứa hàng trăm ký tự Cổ ngữ Asariën đang phát ra ánh sáng màu lam thẫm mờ ảo—đó là **Khóa Phong Ấn Ma Trận Phân Kì Ba Tầng** tối thượng!
 
-"Cánh cửa này..." Soraya bước tới, đầu ngón tay khẽ lướt qua các ký tự Elvish lạnh ngắt, đôi mắt hổ phách tràn ngập sự kính sợ: "...nó được khóa bằng toán tử ma trận phân kì vĩ mô. Nếu bấm sai một ký tự, toàn bộ cơ cấu lò xo áp suất bên trong sẽ kích nổ khối ma thạch tự hủy, chôn vùi vĩnh viễn lối vào."
+"Cánh cửa này..." Soraya bước tới, đầu ngón tay khẽ lướt qua các ký tự Asariën lạnh ngắt, đôi mắt hổ phách tràn ngập sự kính sợ: "...nó được khóa bằng toán tử ma trận phân kì vĩ mô. Nếu bấm sai một ký tự, toàn bộ cơ cấu lò xo áp suất bên trong sẽ kích nổ khối ma thạch tự hủy, chôn vùi vĩnh viễn lối vào."
 
 "Để tôi dùng máy khoan sóng siêu âm đục mạch xem—" Ryan hăm hở xách đồ nghề bước lên.
 
@@ -1040,9 +1040,9 @@ Chính giữa cánh cổng là một phù điêu khổng lồ chạm khắc hìn
 
 Nàng công chúa mười sáu tuổi bước lên trước đại môn. 
 
-Đôi mắt màu lam thẫm của cô gái nhỏ không hề chớp. Trí óc thiên tài của Dienne bắt đầu bóc tách từng chuỗi ký tự Elvish đang chuyển động trên ba vòng tròn đồng tâm thành một ma trận phương trình vi phân:
+Đôi mắt màu lam thẫm của cô gái nhỏ không hề chớp. Trí óc thiên tài của Dienne bắt đầu bóc tách từng chuỗi ký tự Asariën đang chuyển động trên ba vòng tròn đồng tâm thành một ma trận phương trình vi phân:
 
-"Vòng tròn thứ nhất là chuỗi số Fibonacci Elvish. Vòng tròn thứ hai là hàm logarit điều phối áp suất. Và vòng tròn thứ ba là toán tử phủ định không gian."
+"Vòng tròn thứ nhất là chuỗi số Fibonacci Asariën. Vòng tròn thứ hai là hàm logarit điều phối áp suất. Và vòng tròn thứ ba là toán tử phủ định không gian."
 
 Dienne nâng bàn tay phải lên. 
 
@@ -1084,7 +1084,7 @@ Thế nhưng, Dienne không hề nhìn quả cầu ánh sáng rực rỡ ấy.
 
 Ánh mắt cô gái nhỏ bị thu hút bởi một chiếc bục đá cẩm thạch đen kê ở góc trang trọng nhất của gian phòng chỉ huy.
 
-Trên bục đá, được đặt ngay ngắn dưới một lớp lồng kính bảo vệ chân không, là một cuốn sổ da thuộc bìa bọc da rồng màu lam sẫm mang dòng chữ mạ vàng Elvish:
+Trên bục đá, được đặt ngay ngắn dưới một lớp lồng kính bảo vệ chân không, là một cuốn sổ da thuộc bìa bọc da rồng màu lam sẫm mang dòng chữ mạ vàng Asariën:
 
 > **[DANH BỘ NHÂN SỰ CHIẾN LƯỢC — TỔ CHỨC ARRCHIRIO TOÀN CÕI]**
 
@@ -1098,7 +1098,7 @@ Thế nhưng, khi lật sang những trang sau...
 
 Bên cạnh tên tuổi của hàng chục vị Trưởng Lão, cựu chỉ huy trưởng các phân khu, các đại tế lễ sa mạc và những kiếm sĩ kiệt xuất thuộc bốn gia tộc sáng lập... hoàn toàn **không có con dấu đỏ xác nhận tử vong** của Đế quốc!
 
-Thay vào đó, bên cạnh tên của họ, là một dòng chữ viết tay bằng mực lam ngọc Elvish sắc sảo:
+Thay vào đó, bên cạnh tên của họ, là một dòng chữ viết tay bằng mực lam ngọc Asariën sắc sảo:
 
 > **"Không xác định tử vong. Tình trạng: Phân tán vào màn đêm."**  
 > **"Mất tích trong không-thời gian. Tình trạng: Chờ đợi ngọn cờ mới."**
@@ -1240,7 +1240,7 @@ Từ phía sau lưng Dienne, Soraya vung nhẹ Vương trượng Cổ Ngọn L�
 
 Cùng một nhịp thở ấy, Dienne lướt người tới với một tốc độ kinh hoàng. 
 
-Không dùng đao khí sát thương, cô gái nhỏ kích hoạt một ma trận Elvish triệt tiêu chấn động điểm phát hỏa ngay trên thân kiếm gỗ sồi của Rhea, gạt mạnh vào sống thanh kiếm rỉ sét của Vane với một lực đạo góc nghiêng bốn mươi lăm độ hoàn hảo!
+Không dùng đao khí sát thương, cô gái nhỏ kích hoạt một ma trận Asariën triệt tiêu chấn động điểm phát hỏa ngay trên thân kiếm gỗ sồi của Rhea, gạt mạnh vào sống thanh kiếm rỉ sét của Vane với một lực đạo góc nghiêng bốn mươi lăm độ hoàn hảo!
 
 *XOẢNG—!*
 
@@ -1375,7 +1375,7 @@ Soraya mỉm cười kiêu sa sau tấm mạng che mặt, khẽ nâng Vương tr
 
 Dienne đặt tay lên chuôi thanh kiếm gỗ sồi của Rhea:
 
-"Và cuối cùng: **Tôi** sẽ chịu trách nhiệm về phương hướng chiến lược tối cao, giải mã các công thức toán học Elvish cổ đại, chỉ huy tác chiến thực địa và bảo vệ an toàn tính mạng cho tất cả mọi người."
+"Và cuối cùng: **Tôi** sẽ chịu trách nhiệm về phương hướng chiến lược tối cao, giải mã các công thức toán học Asariën cổ đại, chỉ huy tác chiến thực địa và bảo vệ an toàn tính mạng cho tất cả mọi người."
 
 Không khí trong đại sảnh bỗng trở nên vô cùng ấm áp và thiêng liêng.
 
@@ -1418,7 +1418,7 @@ Sau khi đại sảnh trung tâm của pháo đài ngầm được vận hành �
 
 Nơi đây tách biệt hoàn toàn với hệ thống thông gió và ánh sáng lam ngọc của đại sảnh chỉ huy.
 
-Con đường dẫn xuống đáy hầm là một đường hầm dốc thoai thoải lát bằng những khối đá hắc thạch đen nhánh, không khí lạnh buốt đến mức phả ra từng làn khói trắng. Hai bên vách đá được gia cố bằng ba tầng mạng lưới phong ấn Elvish cổ đại dày đặc, liên tục phát ra những âm thanh vo ve trầm đục như tiếng ong vỡ tổ.
+Con đường dẫn xuống đáy hầm là một đường hầm dốc thoai thoải lát bằng những khối đá hắc thạch đen nhánh, không khí lạnh buốt đến mức phả ra từng làn khói trắng. Hai bên vách đá được gia cố bằng ba tầng mạng lưới phong ấn Asariën cổ đại dày đặc, liên tục phát ra những âm thanh vo ve trầm đục như tiếng ong vỡ tổ.
 
 Đi hết con dốc, một cánh cửa vòm bằng thép dày nửa mét tự động trượt mở sang hai bên.
 
@@ -1432,9 +1432,9 @@ Sừng sững đứng đó trong bóng tối câm lặng ngàn năm là một **
 
 Khung cổng cao hơn mười mét, rộng sáu mét, được dựng đứng trên một bệ đá bát giác màu xám tro. 
 
-Thế nhưng, khác xa với Cổng Hoàng Gia ở Everhart năm xưa—nơi ngập tràn những phù điêu rồng vàng và Cổ ngữ Elvish hoa mỹ—và cũng hoàn toàn khác biệt với những Cổng Rò Rỉ nhỏ hẹp chập chờn dẫn sang Kyoto...
+Thế nhưng, khác xa với Cổng Hoàng Gia ở Everhart năm xưa—nơi ngập tràn những phù điêu rồng vàng và Cổ ngữ Asariën hoa mỹ—và cũng hoàn toàn khác biệt với những Cổng Rò Rỉ nhỏ hẹp chập chờn dẫn sang Kyoto...
 
-Bề mặt của Cánh Cổng này hoàn toàn không hề có lấy một chữ cái Elvish nào!
+Bề mặt của Cánh Cổng này hoàn toàn không hề có lấy một chữ cái Asariën nào!
 
 Thay vào đó, toàn bộ thân cổng bằng kim loại màu xám tro được khắc chìm những hoa văn hình học trừu tượng đến mức kỳ dị: những đường cong hypecbol đan chéo nhau, những hình khối fractal tự lặp lại vô tận, và các ma trận tô-pô đa chiều uốn lượn như đang chuyển động ngầm dưới thớ kim loại lạnh ngắt!
 
@@ -1559,7 +1559,7 @@ Lucien vừa nhấp một ngụm trà nóng vừa rút xấp giấy da in mực 
 
 "Mạng lưới buôn lậu ma thạch thô và cổ vật cấm xuyên qua các Cổng Rò Rỉ ở phương Đông bên thế giới thực... đang bị đảo lộn hoàn toàn! Có một cơn bão kinh hoàng đang quét qua thế giới ngầm ở cố đô Kyoto!"
 
-Dienne lập tức ngẩng đầu lên khỏi cuốn sổ tay toán học Elvish, đôi mắt màu lam thẫm sáng rực:
+Dienne lập tức ngẩng đầu lên khỏi cuốn sổ tay toán học Asariën, đôi mắt màu lam thẫm sáng rực:
 
 "Chuyện gì đã xảy ra ở Kyoto, Lucien?"
 
@@ -1573,7 +1573,7 @@ Ryan đẩy chiếc kính bảo hộ lên trán, đôi mắt hạt dẻ mở to 
 
 Lucien nhìn sang Dienne, thanh âm nhấn mạnh từng chữ:
 
-"Và điều kỳ dị nhất là: Toàn bộ cơ thể của cô gái đó **hoàn toàn không có lấy một giọt mana nào tồn tại ($\Psi = 0$)**! Cô ta không dùng bùa chú, không niệm thần chú. Cô ta dùng còi bạc phá sóng âm, dùng bẫy dây thép cơ học, và dùng những viên đạn hợp kim vonfram bắn nát các điểm nút ma trận Elvish trong một phần mười giây! Tên của cô ta là **Louisa**!"
+"Và điều kỳ dị nhất là: Toàn bộ cơ thể của cô gái đó **hoàn toàn không có lấy một giọt mana nào tồn tại ($\Psi = 0$)**! Cô ta không dùng bùa chú, không niệm thần chú. Cô ta dùng còi bạc phá sóng âm, dùng bẫy dây thép cơ học, và dùng những viên đạn hợp kim vonfram bắn nát các điểm nút ma trận Asariën trong một phần mười giây! Tên của cô ta là **Louisa**!"
 
 "Cái gì cơ?!"
 
@@ -1625,7 +1625,7 @@ Dienne ngước nhìn lên quả cầu bản đồ ba chiều đang xoay tròn t
 
 Hai người ở hai thế giới khác nhau. 
 
-Một người chiến đấu bằng kiếm gỗ và ma trận Elvish giữa lòng pháo đài ngầm; một người chiến đấu bằng súng giảm thanh và đạn vonfram giữa phố xá hiện đại. 
+Một người chiến đấu bằng kiếm gỗ và ma trận Asariën giữa lòng pháo đài ngầm; một người chiến đấu bằng súng giảm thanh và đạn vonfram giữa phố xá hiện đại. 
 
 Thế nhưng, linh hồn của họ đã hòa làm một trên cùng một chiến tuyến bảo vệ sự cân bằng của tạo hóa.
 

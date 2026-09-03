@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ## TẬP 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC (The Princess Who Lost Her Kingdom)
 
 ---
@@ -61,7 +61,7 @@ Rhea dừng bước trước bệ đá trung tâm, vội vã đặt đứa trẻ
 
 "Aethel vaelyn… vincar…"
 
-Rhea dồn một luồng mana màu bạc từ cơ thể rót vào khe rãnh cổ tự. Một vòng tròn ma pháp xanh thẳm lập tức hiện ra dưới chân, các ký tự Elvish phát quang xoay tròn theo chiều kim đồng hồ, tiếng cơ quan đá cổ đại bắt đầu rít lên ken két dưới lòng đất.
+Rhea dồn một luồng mana màu bạc từ cơ thể rót vào khe rãnh cổ tự. Một vòng tròn ma pháp xanh thẳm lập tức hiện ra dưới chân, các ký tự Asariën phát quang xoay tròn theo chiều kim đồng hồ, tiếng cơ quan đá cổ đại bắt đầu rít lên ken két dưới lòng đất.
 
 Nhưng ngay khoảnh khắc chốt khóa ma thuật chuẩn bị mở bung—
 
@@ -235,7 +235,7 @@ Dienne giơ phắt cánh tay nhỏ nhắn lên ngay tắp lự, đôi mắt sán
 
 Vị học giả khẽ lắc đầu, khóe môi thoáng một nụ cười hiền hậu: "Đó là cách thi sĩ làm thơ, điện hạ. Trong giới học thuật ma pháp chân chính, câu trả lời đó chưa chuẩn xác."
 
-Dienne chau đôi mày thanh tú lại. Cô bé chống cằm, ngón tay trỏ nhỏ xíu gõ nhịp lách cách xuống mặt bàn gỗ theo thói quen mỗi khi tập trung suy nghĩ. Đôi mắt màu lam thẫm của cô dừng lại ở cuốn sách da cừu cổ ngữ Elvish mở rộng trước mặt.
+Dienne chau đôi mày thanh tú lại. Cô bé chống cằm, ngón tay trỏ nhỏ xíu gõ nhịp lách cách xuống mặt bàn gỗ theo thói quen mỗi khi tập trung suy nghĩ. Đôi mắt màu lam thẫm của cô dừng lại ở cuốn sách da cừu cổ ngữ Asariën mở rộng trước mặt.
 
 "Mana là…" Dienne ngập ngừng, cẩn thận lựa chọn từng từ ngữ, "...là một trường năng lượng đặc biệt, thông qua cấu trúc ngôn từ và ma trận để chuyển hóa ý chí của con người thành các trật tự vật lý của thực tại?"
 
@@ -265,7 +265,7 @@ Vị học giả già thu tay lại, vẻ mặt trở nên nghiêm cẩn:
 
 "Điện hạ còn quá nhỏ. Ngay cả Viện Hàn Lâm Ma Đạo danh tiếng nhất của Đế quốc cũng chỉ tiếp nhận học viên từ mười lăm tuổi, khi kinh mạch và tâm tính đã phát triển hoàn chỉnh."
 
-"Nhưng con đọc xong hết bộ ngữ pháp Elvish căn bản rồi!" Dienne chỉ tay vào chồng sách chép tay cao ngất ngưởng bên cạnh. "Con nhận diện được toàn bộ ba mươi sáu ký tự cổ rồi! Con điều khiển được luồng ánh sáng trong quả cầu này xoay ngược chiều kim đồng hồ rồi mà!"
+"Nhưng con đọc xong hết bộ ngữ pháp Asariën căn bản rồi!" Dienne chỉ tay vào chồng sách chép tay cao ngất ngưởng bên cạnh. "Con nhận diện được toàn bộ ba mươi sáu ký tự cổ rồi! Con điều khiển được luồng ánh sáng trong quả cầu này xoay ngược chiều kim đồng hồ rồi mà!"
 
 Để chứng minh lời mình nói, Dienne khẽ siết ngón tay. Luồng sáng màu xanh lam bên trong quả cầu lập tức đổi hướng, xoay tít theo quỹ đạo ngược lại với độ chuẩn xác tuyệt đối.
 
@@ -303,7 +303,7 @@ Buổi chiều hôm ấy bắt đầu bằng thứ tĩnh lặng thanh bình đ�
 
 Ánh nắng vàng óng ả của những ngày cuối thu rọi nghiêng qua tán cây phong cổ thụ nơi sân sau hoàng cung Everhart. Từng chiếc lá đỏ thắm khẽ chao liệng trong làn gió hiu hiu, rơi nhẹ xuống mặt cỏ xanh mướt được cắt tỉa cẩn thận. 
 
-Dienne ngồi xếp bằng trên thảm cỏ, tấm váy lụa trắng xòe rộng xung quanh. Trên đùi cô bé là một cuốn sách da thú dày cộp, mép giấy đã ngả màu ố vàng vì thời gian—cuốn *Khái Luận Về Cổ Ngữ Elvish & Các Cổng Không Gian* mà cô đã lén lấy trộm từ chiếc tủ gỗ khóa kín trong thư phòng của phụ hoàng vào tối hôm qua.
+Dienne ngồi xếp bằng trên thảm cỏ, tấm váy lụa trắng xòe rộng xung quanh. Trên đùi cô bé là một cuốn sách da thú dày cộp, mép giấy đã ngả màu ố vàng vì thời gian—cuốn *Khái Luận Về Cổ Ngữ Asariën & Các Cổng Không Gian* mà cô đã lén lấy trộm từ chiếc tủ gỗ khóa kín trong thư phòng của phụ hoàng vào tối hôm qua.
 
 Đôi mắt màu lam thẫm của Dienne chăm chú dõi theo từng nét vẽ hình học phức tạp. Bàn tay nhỏ nhắn khẽ lướt dọc theo một ma trận tròn có ký hiệu $\Omega$ ở trung tâm.
 
@@ -355,7 +355,7 @@ Nền trời đỏ rực nứt toác ra thành từng mảng đen đặc. Không
 
 Từ sâu trong vết rách không gian đen ngòm ấy, một cấu trúc ma đạo quy mô hủy diệt bắt đầu hiện hình.
 
-Đó là một vòng tròn ma pháp khổng lồ đường kính lên tới hàng ngàn mét, phát ra những tia chớp màu tím lịm nghẹt thở. Các ký tự cổ ngữ Elvish xoay chuyển cuồng loạn như một cơn lốc xoáy năng lượng khổng lồ đang nghiền nát bầu khí quyển.
+Đó là một vòng tròn ma pháp khổng lồ đường kính lên tới hàng ngàn mét, phát ra những tia chớp màu tím lịm nghẹt thở. Các ký tự cổ ngữ Asariën xoay chuyển cuồng loạn như một cơn lốc xoáy năng lượng khổng lồ đang nghiền nát bầu khí quyển.
 
 Đó không phải là cổng thông thương hàng hóa của các thương đoàn. Càng không phải cổng kết nối ranh giới thông thường giữa hai thế giới.
 
@@ -465,7 +465,7 @@ Dưới đáy sâu nhất của hoàng cung Everhart là một căn hầm bằng
 
 Không khí nơi đây lạnh buốt và ẩm ướt, nồng mùi rêu phong cổ thụ.
 
-Ở trung tâm căn hầm, một cánh cửa đá khổng lồ cao hơn mười mét sừng sững đứng đó tựa như một bia mộ ngàn năm—The Everhart Gate. Bề mặt nhẵn bóng của phiến đá được bao phủ bởi những đường vân ma thuật Elvish cổ xưa, phát ra những tia lân tinh mờ ảo màu xanh biển sâu.
+Ở trung tâm căn hầm, một cánh cửa đá khổng lồ cao hơn mười mét sừng sững đứng đó tựa như một bia mộ ngàn năm—The Everhart Gate. Bề mặt nhẵn bóng của phiến đá được bao phủ bởi những đường vân ma thuật Asariën cổ xưa, phát ra những tia lân tinh mờ ảo màu xanh biển sâu.
 
 Rhea đặt Dienne xuống bệ đá nhô ra ở chân cột trụ. 
 
@@ -659,9 +659,9 @@ Người thầy già bắt cô phải học mọi thứ với sự nghiêm khắ
 
 Mỗi ngày của Dienne bắt đầu từ lúc bốn giờ sáng, khi trời còn tối mịt và tuyết rơi dày đến nửa đầu gối. 
 
-Bên ánh đèn dầu le lói bốc mùi mỡ cá tanh nồng, cô phải vùi đầu vào cuốn sách chép tay cũ nát bìa bọc da rồng mang tên *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Elvish Cổ*. 
+Bên ánh đèn dầu le lói bốc mùi mỡ cá tanh nồng, cô phải vùi đầu vào cuốn sách chép tay cũ nát bìa bọc da rồng mang tên *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Asariën Cổ*. 
 
-Cô phải học cách phân tích ba tầng ngữ nghĩa ẩn sau từng ký tự Elvish cổ ngữ; học cách tính toán các phương trình bảo toàn năng lượng để giải phóng mana mà không bị thất thoát; học cách dùng đầu ngón tay rớm máu vẽ từng đường nét ma pháp trận chính xác đến từng milimet trên mặt bàn đá lạnh buốt; và học cách vung thanh kiếm gỗ sứt sẹo của Rhea hàng ngàn lần mỗi ngày cho đến khi hai lòng bàn tay rách toạc, máu tươi hòa cùng mồ hôi dính chặt vào lớp da bọc chuôi kiếm.
+Cô phải học cách phân tích ba tầng ngữ nghĩa ẩn sau từng ký tự Asariën cổ ngữ; học cách tính toán các phương trình bảo toàn năng lượng để giải phóng mana mà không bị thất thoát; học cách dùng đầu ngón tay rớm máu vẽ từng đường nét ma pháp trận chính xác đến từng milimet trên mặt bàn đá lạnh buốt; và học cách vung thanh kiếm gỗ sứt sẹo của Rhea hàng ngàn lần mỗi ngày cho đến khi hai lòng bàn tay rách toạc, máu tươi hòa cùng mồ hôi dính chặt vào lớp da bọc chuôi kiếm.
 
 Nhưng bài học đầu tiên mà cô nhận được từ người thầy già luôn là: Sự bất lực tuyệt đối.
 
@@ -703,7 +703,7 @@ Cách đó không xa, người thầy già ngồi vắt vẻo trên một tảng
 
 "Chứ không phải phép thuật là biến ý chí thành hiện thực sao?!" Dienne chống hai tay rát bỏng xuống nền tuyết, ngẩng mặt lên gắt gao, giọng nghẹn lại vì uất ức.
 
-"Đó là thứ lý thuyết rác rưởi của bọn thực dụng Đế quốc," ông lão gõ nhẹ đầu tẩu thuốc vào tảng đá, tàn lửa đỏ rơi lả tả xuống tuyết rồi tắt ngấm. "Ngôn ngữ Elvish cổ đại không ra lệnh cho thế giới. Nó đối thoại với thế giới."
+"Đó là thứ lý thuyết rác rưởi của bọn thực dụng Đế quốc," ông lão gõ nhẹ đầu tẩu thuốc vào tảng đá, tàn lửa đỏ rơi lả tả xuống tuyết rồi tắt ngấm. "Ngôn ngữ Asariën cổ đại không ra lệnh cho thế giới. Nó đối thoại với thế giới."
 
 Ông lão nhìn thẳng vào mắt cô bé, ánh mắt sắc như lưỡi dao mổ:
 
@@ -761,7 +761,7 @@ Dienne khẽ nhắm mắt lại, hít một hơi thật sâu, rồi mở ra.
 
 Trong đáy mắt màu lam thẫm, thế giới không còn là một bức tranh phong cảnh tĩnh lặng. 
 
-Đó là một hệ thống ma trận của các phương trình vật lý và toán học. Dao động phân tử của không khí. Hệ số hấp thụ nhiệt của mặt đá. Cấu trúc ngữ pháp bốn pha của cổ ngữ Elvish: Khởi nguyên — Toán tử — Định hình — và Điểm neo biên giới.
+Đó là một hệ thống ma trận của các phương trình vật lý và toán học. Dao động phân tử của không khí. Hệ số hấp thụ nhiệt của mặt đá. Cấu trúc ngữ pháp bốn pha của cổ ngữ Asariën: Khởi nguyên — Toán tử — Định hình — và Điểm neo biên giới.
 
 Toán học và ngôn từ cổ xưa hòa làm một trong tư duy sắc bén của cô bé mười hai tuổi.
 
@@ -771,9 +771,9 @@ Dienne khẽ xoay nhẹ cổ tay phải.
 
 *XOẠT!*
 
-Một vòng tròn ma pháp phức tạp bằng ánh sáng vàng kim rực rỡ bừng nở ngay dưới chân cô, đường kính chừng hai mét. Ba lớp vòng tròn đồng tâm xoay chuyển mượt mà, các ký tự Elvish cổ xoay quanh các cạnh hình tam giác $\triangle$ bên trong như những bánh răng đồng hồ được chế tác chuẩn xác đến từng phần mười milimet.
+Một vòng tròn ma pháp phức tạp bằng ánh sáng vàng kim rực rỡ bừng nở ngay dưới chân cô, đường kính chừng hai mét. Ba lớp vòng tròn đồng tâm xoay chuyển mượt mà, các ký tự Asariën cổ xoay quanh các cạnh hình tam giác $\triangle$ bên trong như những bánh răng đồng hồ được chế tác chuẩn xác đến từng phần mười milimet.
 
-Dienne cất tiếng ngâm xướng câu thần chú Elvish chuẩn xác đến từng âm tiết:
+Dienne cất tiếng ngâm xướng câu thần chú Asariën chuẩn xác đến từng âm tiết:
 
 *"Aethel pyr evocar, syl-vinculum formar, caerulea scissar!"*
 
@@ -903,7 +903,7 @@ Mười năm rèn giũa giữa băng tuyết và sự khắc nghiệt của số
 
 Đồ đạc mang theo chẳng có gì nhiều ngoài những thứ quan trọng nhất gắn liền với sinh mệnh và sứ mệnh của cô:
 
-Cuốn sách chép tay bìa da rồng *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Elvish Cổ* được bọc cẩn thận trong lớp vải dầu chống nước, đặt sâu trong đáy túi hành lý. 
+Cuốn sách chép tay bìa da rồng *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Asariën Cổ* được bọc cẩn thận trong lớp vải dầu chống nước, đặt sâu trong đáy túi hành lý. 
 
 Chiếc huy hiệu bạc Arrchirio với hình nhánh cây quấn thanh kiếm gãy được cài chặt vào bên trong ngực áo, sát nơi lồng ngực đập từng nhịp vững chãi.
 

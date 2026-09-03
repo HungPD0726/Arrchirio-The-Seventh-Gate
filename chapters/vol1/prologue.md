@@ -1,4 +1,4 @@
-# TẬP 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC
+﻿# TẬP 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC
 
 ---
 
@@ -60,7 +60,7 @@ Rhea dừng bước trước bệ đá trung tâm, vội vã đặt đứa trẻ
 
 "Aethel vaelyn… vincar…"
 
-Rhea dồn một luồng mana màu bạc từ cơ thể rót vào khe rãnh cổ tự. Một vòng tròn ma pháp xanh thẳm lập tức hiện ra dưới chân, các ký tự Elvish phát quang xoay tròn theo chiều kim đồng hồ, tiếng cơ quan đá cổ đại bắt đầu rít lên ken két dưới lòng đất.
+Rhea dồn một luồng mana màu bạc từ cơ thể rót vào khe rãnh cổ tự. Một vòng tròn ma pháp xanh thẳm lập tức hiện ra dưới chân, các ký tự Asariën phát quang xoay tròn theo chiều kim đồng hồ, tiếng cơ quan đá cổ đại bắt đầu rít lên ken két dưới lòng đất.
 
 Nhưng ngay khoảnh khắc chốt khóa ma thuật chuẩn bị mở bung—
 

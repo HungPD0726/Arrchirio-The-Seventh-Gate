@@ -1,4 +1,4 @@
-# PHỤ LỤC: HỆ THỐNG MA THUẬT HIỆN ĐẠI & MA PHÁP TRẬN
+﻿# PHỤ LỤC: HỆ THỐNG MA THUẬT HIỆN ĐẠI & MA PHÁP TRẬN
 ### Appendix: Modern Magic System & Circle Topology
 
 > **Tài liệu phụ lục chính thức dành cho tác phẩm.**
@@ -13,7 +13,7 @@
 | Ký hiệu | Ý nghĩa | Đơn vị | Giải thích thực tế |
 |:---|:---|:---|:---|
 | **Ψ** | Mana (năng lượng phép thuật) | `man` | Đại lượng đo tổng trữ lượng hoặc năng lượng tiêu hao của phép. |
-| **ε** | Hằng số Elvish | `man` | Lượng mana tối thiểu để kích hoạt một dao động cơ bản của ngữ âm Elvish. |
+| **ε** | Hằng số Asariën | `man` | Lượng mana tối thiểu để kích hoạt một dao động cơ bản của ngữ âm Asariën. |
 | **f** | Tần số dao động của mana | `Hz` (hoặc bội số $\varepsilon$) | Quyết định loại hình năng lượng (nhiệt, ánh sáng, sóng chấn động). |
 | **C** | Hệ số cấu trúc của ma pháp trận | không thứ nguyên | Quyết định hình thái giải phóng (tỏa tròn, đâm xuyên, lốc xoáy). |
 | **η** | Hiệu suất chuyển hóa | `%` | Tỷ lệ giữa mana sinh công hữu ích và tổng mana cung cấp. |
@@ -37,7 +37,7 @@
 | **→** | Mũi tên dẫn hướng | Điều hướng dòng chảy mana theo một vector hoặc quỹ đạo xác định. |
 | **⇌** | Mũi tên hai chiều | Trao đổi năng lượng giữa hai điểm, dùng cho phép chuyển hóa thuộc tính, cộng hưởng hoặc liên kết đồng đội. |
 | **≈** | Sóng dao động | Điều chỉnh tần số rung động $f$ của mana, dùng cho phép sóng âm, làm lạnh, hoặc triệt tiêu dao động nhiệt. |
-| **⌘** | Nút thắt (Loop) | Khóa hoặc mở khóa một luồng mạch mana, then chốt trong các ổ khóa Elvish và ma cụ. |
+| **⌘** | Nút thắt (Loop) | Khóa hoặc mở khóa một luồng mạch mana, then chốt trong các ổ khóa Asariën và ma cụ. |
 
 ---
 
@@ -62,7 +62,7 @@ Màu sắc phát quang của vòng tròn ma pháp phản ánh trực tiếp bả
 
 | Màu sắc | Thuộc tính chính | Ứng dụng thực tế |
 |:---|:---|:---|
-| **Xanh lam (Azure)** | Thủy, Hàn băng, Ổn định, Ngọn lửa nén | Ma trận Elvish chuẩn xác của Dienne; động cơ tàu Magitech. |
+| **Xanh lam (Azure)** | Thủy, Hàn băng, Ổn định, Ngọn lửa nén | Ma trận Asariën chuẩn xác của Dienne; động cơ tàu Magitech. |
 | **Đỏ (Crimson)** | Hỏa, Nổ, Xung lực phá hủy | Ma thuật tấn công tầm gần, hỏa tiễn của lính đánh thuê. |
 | **Xanh lục (Jade)** | Phong, Sinh mệnh, Hồi phục, Tự nhiên | Linh khí thảo dược; cầm máu khẩn cấp, dao gió xé cỏ. |
 | **Vàng kim (Gold)** | Thánh, Trật tự, Bảo vệ, Phong ấn kiên cố | Ma trận cổ điển Everhart; ngọn lửa tinh tú sa mạc của Soraya; lá chắn hình vuông $\square$ của Dienne. |

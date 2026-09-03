@@ -1,4 +1,4 @@
-# Story Bible: ĐỘNG LỰC HỌC MANA & TOÁN HỌC MA PHÁP
+﻿# Story Bible: ĐỘNG LỰC HỌC MANA & TOÁN HỌC MA PHÁP
 ### Mana Dynamics & Magical Mathematics (The Exact Sciences of Arcane)
 
 > **Mục đích:** Tệp này là "sách giáo khoa chuẩn hóa" về các đại lượng, hằng số, định luật vật lý ma pháp và công thức toán học được các pháp sư, học giả và kỹ sư Magitech sử dụng trong thế giới.
@@ -27,9 +27,9 @@
 
 Các hằng số này là bất biến trong vũ trụ ma thuật, tương tự như $c$ (tốc độ ánh sáng) hay $h$ (hằng số Planck) trong thế giới thực:
 
-### 2.1. Hằng số Elvish ($\varepsilon$ - Epsilon)
-- **Định nghĩa**: Lượng mana tối thiểu (lượng tử mana) cần thiết để kích hoạt một dao động ngữ nghĩa cơ bản của ngôn ngữ Elvish.
-- **Ý nghĩa**: Đại diện cho "nhịp cầu" nối giữa cấu trúc ngôn từ và thế giới vật chất. Mọi từ Elvish khi phát âm chuẩn xác đều tiêu tốn một lượng mana bằng bội số nguyên của $\varepsilon$:
+### 2.1. Hằng số Asariën ($\varepsilon$ - Epsilon)
+- **Định nghĩa**: Lượng mana tối thiểu (lượng tử mana) cần thiết để kích hoạt một dao động ngữ nghĩa cơ bản của ngôn ngữ Asariën.
+- **Ý nghĩa**: Đại diện cho "nhịp cầu" nối giữa cấu trúc ngôn từ và thế giới vật chất. Mọi từ Asariën khi phát âm chuẩn xác đều tiêu tốn một lượng mana bằng bội số nguyên của $\varepsilon$:
   $$\Psi_{\text{tối thiểu}} = k \cdot \varepsilon \quad (k \in \mathbb{N}^*)$$
 
 ### 2.2. Hằng số Cổng Không Gian ($\Omega$ - Omega)
@@ -59,7 +59,7 @@ $$\Psi_{\text{cung cấp}} = \Psi_{\text{hiệu quả}} + \Psi_{\text{thất tho
 Trong đó:
 - **$\Psi_{\text{cung cấp}}$**: Tổng mana pháp sư rót vào ma trận (từ cơ thể hoặc rút từ môi trường).
 - **$\Psi_{\text{hiệu quả}}$**: Lượng mana thực sự tạo ra hiệu ứng mong muốn (nhiệt lượng quả cầu lửa, sức cắt lưỡi dao gió).
-- **$\Psi_{\text{thất thoát}}$**: Mana bị rò rỉ ra môi trường do ma trận vẽ không kín, phát âm Elvish lệch âm, hoặc phản chấn ngược vào kinh mạch pháp sư (gây mệt mỏi, kiệt sức).
+- **$\Psi_{\text{thất thoát}}$**: Mana bị rò rỉ ra môi trường do ma trận vẽ không kín, phát âm Asariën lệch âm, hoặc phản chấn ngược vào kinh mạch pháp sư (gây mệt mỏi, kiệt sức).
 
 ### Hiệu suất thi triển phép ($\eta$ - Eta):
 $$\eta = \frac{\Psi_{\text{hiệu quả}}}{\Psi_{\text{cung cấp}}} \times 100\%$$
@@ -82,7 +82,7 @@ $$\text{Hiệu Ứng} = \Psi \times f \times C$$
 
 Trong đó:
 - **$\Psi$**: Khối lượng năng lượng mana đầu vào.
-- **$f$ (Tần số dao động)**: Được điều chỉnh bằng cao độ, nhịp điệu và ngữ âm Elvish (hoặc tần số ý niệm):
+- **$f$ (Tần số dao động)**: Được điều chỉnh bằng cao độ, nhịp điệu và ngữ âm Asariën (hoặc tần số ý niệm):
   - **Tần số thấp ($f_{\text{low}}$)**: Tạo ra hiệu ứng cơ học, chấn động, hàn băng, làm chậm dao động phân tử.
   - **Tần số cao ($f_{\text{high}}$)**: Kích động dao động phân tử, sinh nhiệt, tạo lửa, tia chớp, plasma.
   - **Tần số cộng hưởng đặc biệt**: Bẻ cong ánh sáng (tàng hình), sóng âm, tương tác tinh thần.
@@ -101,7 +101,7 @@ Trong đó:
 
 ### A. Chuyển Đổi Hai Chiều (Bi-directional Translation)
 Pháp sư bậc cao không bị bó buộc vào câu thần chú cố định:
-1. **Từ Ngôn Ngữ $\to$ Ma Pháp Trận**: Khi nghe hoặc đọc một câu thần chú Elvish, pháp sư lập tức giải mã các tham số ($\Psi, f, C$, vector hướng) để tái tạo ma pháp trận tương ứng mà không cần nhìn bản gốc.
+1. **Từ Ngôn Ngữ $\to$ Ma Pháp Trận**: Khi nghe hoặc đọc một câu thần chú Asariën, pháp sư lập tức giải mã các tham số ($\Psi, f, C$, vector hướng) để tái tạo ma pháp trận tương ứng mà không cần nhìn bản gốc.
 2. **Từ Ma Pháp Trận $\to$ Ngôn Ngữ**: Khi quan sát ma pháp trận của đối thủ, pháp sư đọc được chính xác câu thần chú, bản chất nguyên tố và thời điểm bộc phát đòn đánh.
 
 ### B. Nguyên Tắc Phá Giải Ma Pháp Trận (Counter-Spelling & Topological Disruption)
@@ -180,7 +180,7 @@ Khi Dienne hoặc các pháp sư hiện đại vẽ ma pháp trận bằng ngón
                           │
        ┌──────────────────▼──────────────────┐
        │   VÒNG GIỮA (Syntax & Operator):    │
-       │   - Các ký hiệu toán học & Elvish   │
+       │   - Các ký hiệu toán học & Asariën   │
        │   - Các phương trình điều phối Psi  │
        │   - Tham số: f, eta, epsilon        │
        └──────────────────┬──────────────────┘
@@ -218,7 +218,7 @@ Khi Dienne hoặc các pháp sư hiện đại vẽ ma pháp trận bằng ngón
 ### 6.3. Bảng màu sắc quang phổ ma pháp trận
 | Màu sắc | Thuộc tính chính | Ứng dụng thực tế |
 |:---|:---|:---|
-| **Xanh lam** | Thủy, Hàn băng, Ổn định | Ma trận Elvish chuẩn xác của Dienne; động cơ Magitech. |
+| **Xanh lam** | Thủy, Hàn băng, Ổn định | Ma trận Asariën chuẩn xác của Dienne; động cơ Magitech. |
 | **Đỏ** | Hỏa, Nổ, Tấn công | Ma thuật công phá tầm gần, hỏa tiễn của lính đánh thuê. |
 | **Xanh lục** | Phong, Hồi phục, Tự nhiên | Thảo dược thanh tẩy; cầm máu khẩn cấp, dao gió xé cỏ. |
 | **Vàng kim** | Thánh, Bảo vệ, Phong ấn | Ma trận hoàng gia Everhart; ngọn lửa tinh tú sa mạc của Soraya; lá chắn $\square$ của Dienne. |
@@ -232,7 +232,7 @@ Khi Dienne hoặc các pháp sư hiện đại vẽ ma pháp trận bằng ngón
 
 | Nhân Vật | Góc Nhìn Về Mana | Phương Thức Vận Hành | Thế Mạnh Cốt Lõi |
 | :--- | :--- | :--- | :--- |
-| **Dienne Everhart** | **Toán học & Ngữ pháp Elvish** | Tối ưu hóa $\eta \to 95\%$, tính toán phương trình tức thời trong đầu. | Tiết kiệm mana tối đa, xuất chiêu chuẩn xác, không có động tác thừa. |
+| **Dienne Everhart** | **Toán học & Ngữ pháp Asariën** | Tối ưu hóa $\eta \to 95\%$, tính toán phương trình tức thời trong đầu. | Tiết kiệm mana tối đa, xuất chiêu chuẩn xác, không có động tác thừa. |
 | **Ryan** | **Kỹ thuật & Mạch điện Magitech** | Chuyển đổi $\Psi$ thành Watt/Volt, dùng hệ nhị phân, cuộn cảm ứng và vi mạch. | Cơ giới hóa ma thuật, tạo bẫy EMP phá vỡ các mạch mana truyền thống. |
 | **Soraya** | **Chiêm tinh & Cổ Ngọn Lửa sa mạc** | Kết nối linh mạch thiên văn, mượn lực hấp dẫn của các vì sao và ngọn lửa tinh tú. | Hòa hợp tuyệt đối ($\theta = 0$), thanh tẩy, kết giới thiêng và đọc vị mạch đá cổ xưa. |
 | **Louisa** | **Thực dụng & Điểm chịu lực vật lý** | Bản thân có $\Psi = 0$, nhưng hiểu quy luật triệt tiêu pha ($\cos \theta = -1$) và cơ học va chạm. | Dùng súng, còi âm tần và đạn hợp kim vonfram bắn vỡ điểm nút ma trận khi nó đang tích năng lượng. |

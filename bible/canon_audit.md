@@ -1,4 +1,4 @@
-# Story Bible: CANON AUDIT TOÀN DỰ ÁN (VOL 1–4)
+﻿# Story Bible: CANON AUDIT TOÀN DỰ ÁN (VOL 1–4)
 ### Master Continuity & Hard Magic Canon Verification
 
 > **Trạng thái:** ĐÃ KIỂM ĐỊNH & KHÓA CANON (FROZEN & LOCKED)  
@@ -13,7 +13,7 @@ Mọi tệp trong kho lưu trữ (`chapters/`, `outline/`, `bible/`) bắt buộ
 | Năm / Mốc | Sự kiện chính | Tuổi Dienne | Tuổi Rhea | Nhân vật khác & Trạng thái |
 |:---|:---|:---:|:---:|:---|
 | **Năm 0** | **Đêm Everhart sụp đổ**. Quân đoàn Chấp Pháp thiêu rụi hoàng cung. Rhea bọc hậu tại Everhart Gate, Dienne trốn dưới gầm bàn rồi được đưa vào thung lũng tuyết. | **6 tuổi** | **22 tuổi** | Người thầy già bắt đầu nuôi dạy Dienne tại thung lũng tuyết. |
-| **Năm 6** | Dienne rèn luyện thể chất, toán học và ngữ pháp Elvish cổ suốt 6 năm. | **12 tuổi** | 28 tuổi | Dienne ngưng tụ thành công ngọn lửa màu lam đầu tiên (*Vol 1 Ch 8*). |
+| **Năm 6** | Dienne rèn luyện thể chất, toán học và ngữ pháp Asariën cổ suốt 6 năm. | **12 tuổi** | 28 tuổi | Dienne ngưng tụ thành công ngọn lửa màu lam đầu tiên (*Vol 1 Ch 8*). |
 | **Năm 9** | Dienne đón sinh nhật 15 tuổi. Người thầy dẫn xuống căn hầm Arrchirio, hé lộ sự phản bội của gia tộc Arknight và trao huy hiệu nhánh cây bạc. | **15 tuổi** | 31 tuổi | Lâu đài Everhart bị san phẳng 9 năm trước (*Vol 1 Ch 9*). |
 | **Năm 10 (Đầu năm)** | Dienne tròn 16 tuổi. Quyết định rời thung lũng tuyết. Chia tay Người Thầy Già bên hàng rào tuyết (*Vol 1 Ch 10*). | **16 tuổi** | **32 tuổi** | **Người Thầy Già vẫn sống** ở căn lều tuyết làm người canh giữ thung lũng. Rhea ở tiền đồn tuyết biên cương (*Vol 1 Epilogue*). |
 | **Năm 10 (Tháng 1–3)** | **Volume 2**: Bước chân ra thế giới bên ngoài. Trạm Lumeris $\to$ Oakhaven $\to$ Học viện Aetheris $\to$ Gặp Lucien Vale (17 tuổi) $\to$ Đột nhập kho lưu trữ $\to$ Thẩm Phán Viện truy sát. | **16 tuổi** | 32 tuổi | Lucien: 17 tuổi. Dienne mang kiếm gỗ của Rhea và la bàn mana của Lucien. |
@@ -36,7 +36,7 @@ Mọi tệp trong kho lưu trữ (`chapters/`, `outline/`, `bible/`) bắt buộ
 
 ## 3. BỘ QUY TẮC "HARD MAGIC" CANON CỨNG (KHÔNG THỂ PHÁ VỠ)
 
-Kể từ Volume 5 trở đi, mọi phân cảnh ma thuật đều phải tuân thủ nghiêm ngặt các nguyên lý đã ban hành trong `bible/mana_physics.md` và `bible/elvish_codex.md`:
+Kể từ Volume 5 trở đi, mọi phân cảnh ma thuật đều phải tuân thủ nghiêm ngặt các nguyên lý đã ban hành trong `bible/mana_physics.md` và `bible/Asariën_codex.md`:
 
 ### 3.1. Đại Lượng & Đơn Vị Đo Lường
 - **Ký hiệu năng lượng**: Luôn dùng **$\Psi$**.
@@ -55,8 +55,8 @@ Kể từ Volume 5 trở đi, mọi phân cảnh ma thuật đều phải tuân 
 - **Cộng hưởng cùng pha ($\theta = 0, \cos\theta = 1$)**: Chiêm Tinh Tinh Tú & Ngọn Lửa Cổ của Soraya, hòa nhịp thở tự nhiên để khuếch đại sức mạnh mà không tốn mana nội tại.
 - **Triệt tiêu ngược pha ($\theta = \pi, \cos\theta = -1$)**: Cơ chế Counter-Spell tối thượng (Dienne vẽ ma trận triệt tiêu; Louisa dùng còi bạc phát sóng âm cơ học ngược pha làm nổ tung lá chắn đối phương).
 
-### 3.4. Cổ Ngữ Elvish: Cấu Trúc Ngữ Pháp 4 Pha Bắt Buộc
-Mọi câu chú Elvish xuất hiện trong truyện phải tuân thủ đúng 4 pha ngữ pháp:
+### 3.4. Cổ Ngữ Asariën: Cấu Trúc Ngữ Pháp 4 Pha Bắt Buộc
+Mọi câu chú Asariën xuất hiện trong truyện phải tuân thủ đúng 4 pha ngữ pháp:
 1. **Pha 1 (Khai mở / Kích hoạt)**: *Ex-, En-, Vaelyn, Dura...*
 2. **Pha 2 (Định dạng / Bản chất)**: *ignis, aether, sylva, lignum...*
 3. **Pha 3 (Hội tụ / Động thái)**: *spirare, nodi, scissar, armis...*

@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ## TẬP 2: NHỮNG THÀNH PHỐ KHÔNG CÓ TRÊN BẢN ĐỒ (The Cities Beyond the Map)
 
 ---
@@ -17,7 +17,7 @@ Hành trang cô mang theo bước vào thế giới rộng lớn chỉ vỏn v�
 
 Chiếc trâm cài tóc bằng vàng ròng chạm khắc hình rồng vương tộc Everhart được giấu kín sâu dưới đáy túi.
 
-Cuốn sách chép tay bìa da rồng ghi chép các phương trình động lực học mana và biến thể ngữ pháp Elvish của người thầy quá cố.
+Cuốn sách chép tay bìa da rồng ghi chép các phương trình động lực học mana và biến thể ngữ pháp Asariën của người thầy quá cố.
 
 Huy hiệu nhánh cây bạc quấn thanh kiếm gãy của tổ chức Arrchirio cài sát bên ngực trong, nơi nhịp tim đập đều đặn từng nhịp vững chãi.
 
@@ -79,7 +79,7 @@ Dienne sững người như bị sét đánh ngang tai.
 
 "Lumeris…?" Đôi mày thanh tú của cô chau chặt lại. "Chẳng lẽ sau Hiệp Ước Tro Tàn, Đế quốc vẫn chưa thôn tính toàn bộ các vương quốc trên lục địa này sao?"
 
-Suốt mười năm ròng rã trong thung lũng tuyết, người thầy già chỉ dạy cô về động lực học mana, các cấu trúc ngữ pháp Elvish và kiếm thuật giết người. Ông tuyệt nhiên chưa từng một lần đả động đến tình hình chính trị của thế giới bên ngoài. 
+Suốt mười năm ròng rã trong thung lũng tuyết, người thầy già chỉ dạy cô về động lực học mana, các cấu trúc ngữ pháp Asariën và kiếm thuật giết người. Ông tuyệt nhiên chưa từng một lần đả động đến tình hình chính trị của thế giới bên ngoài. 
 
 Trong tâm trí non nớt mang đầy vết thương của đứa trẻ sáu tuổi ngày nào, ngọn lửa thiêu rụi lâu đài Everhart đồng nghĩa với việc bóng tối của Đế quốc Aurelia đã nuốt chửng toàn bộ thế giới loài người.
 
@@ -313,7 +313,7 @@ Có những công tử, tiểu thư quý tộc khoác trên mình những chiế
 
 Dienne đăng ký kỳ thi dưới thân phận một cô gái tị nạn mồ côi mang tên giả từ một thị trấn biên cảnh vô danh đã bị tàn phá bởi chiến tranh.
 
-Bài kiểm tra năng lực đầu vào của Aetheris gồm ba phần khắt khe: Đo lường dung lượng mana dự trữ ($\Psi$), tốc độ tính toán phương trình ma trận ($\eta$), và độ chuẩn xác trong việc giải mã cổ ngữ Elvish.
+Bài kiểm tra năng lực đầu vào của Aetheris gồm ba phần khắt khe: Đo lường dung lượng mana dự trữ ($\Psi$), tốc độ tính toán phương trình ma trận ($\eta$), và độ chuẩn xác trong việc giải mã cổ ngữ Asariën.
 
 Trong phòng thi lý thuyết ngầm dưới lòng đất, khi hàng trăm thí sinh khác đang toát mồ hôi hột, cắn chặt đuôi bút lông trước những phương trình động lực học ma pháp phức tạp bậc ba, thì ngòi bút của Dienne lướt đi trên mặt giấy da cừu nhanh như gió thoảng.
 
@@ -347,7 +347,7 @@ Dienne ngồi ở hàng ghế cuối cùng trong góc tối của khán phòng, 
 
 Cô nhìn thấy trong ánh mắt của người đàn ông quyền lực ấy sự kiêu ngạo tột cùng của giới học thuật hiện đại. Họ tự hào vì đã thuần hóa được mana, nhưng họ hoàn toàn không hiểu gì về linh hồn của nó. Họ tước bỏ sự đối thoại hài hòa giữa con người và tự nhiên, biến phép thuật thành một công cụ khai thác tài nguyên lạnh lùng và trơ trụi.
 
-Đó là lý do vì sao họ không bao giờ có thể chạm tới bản chất thực sự của Cổ Ngữ Elvish.
+Đó là lý do vì sao họ không bao giờ có thể chạm tới bản chất thực sự của Cổ Ngữ Asariën.
 
 ---
 
@@ -415,11 +415,11 @@ Dienne bắt lấy quả táo bằng tay trái, nhưng không ăn. Cô đứng t
 
 Dienne nheo mắt nhìn cậu thiếu niên đối diện: "Cậu muốn gì ở tôi?"
 
-"Sự sòng phẳng," Lucien nháy mắt, rút từ trong ngăn kéo ra một mảnh bản thảo cổ rách mép bằng da dê. "Tôi quan sát cô em suốt ba giờ trong phòng thi lý thuyết sáng nay. Cách cô em giải phương trình ma trận bốn pha Elvish không phải là thứ học vẹt từ giáo trình chuẩn của Đế quốc. Nó nhanh hơn, tinh giản hơn và hiệu suất cao hơn ít nhất mười lăm phần trăm."
+"Sự sòng phẳng," Lucien nháy mắt, rút từ trong ngăn kéo ra một mảnh bản thảo cổ rách mép bằng da dê. "Tôi quan sát cô em suốt ba giờ trong phòng thi lý thuyết sáng nay. Cách cô em giải phương trình ma trận bốn pha Asariën không phải là thứ học vẹt từ giáo trình chuẩn của Đế quốc. Nó nhanh hơn, tinh giản hơn và hiệu suất cao hơn ít nhất mười lăm phần trăm."
 
 Cậu ta đẩy mảnh bản thảo về phía mép bàn:
 
-"Đây là một trang bản đồ địa tầng cổ bị mã hóa bằng ngôn ngữ Elvish bậc ba, được đào lên từ một di chỉ tàn tích dưới đáy hồ. Tôi đã vật lộn với nó suốt ba tháng mà không thể giải nổi thuật toán để tìm ra tọa độ vào Khu Kho Lưu Trữ Cấm. Giải nó cho tôi, đổi lại, tôi sẽ dẫn cô em vào căn hầm sâu nhất của Aetheris—nơi cất giữ những hồ sơ về Arrchirio mà cô em đang tìm kiếm."
+"Đây là một trang bản đồ địa tầng cổ bị mã hóa bằng ngôn ngữ Asariën bậc ba, được đào lên từ một di chỉ tàn tích dưới đáy hồ. Tôi đã vật lộn với nó suốt ba tháng mà không thể giải nổi thuật toán để tìm ra tọa độ vào Khu Kho Lưu Trữ Cấm. Giải nó cho tôi, đổi lại, tôi sẽ dẫn cô em vào căn hầm sâu nhất của Aetheris—nơi cất giữ những hồ sơ về Arrchirio mà cô em đang tìm kiếm."
 
 Dienne bước tới gần bàn làm việc. 
 
@@ -427,7 +427,7 @@ Dienne bước tới gần bàn làm việc.
 
 Đôi mắt màu lam thẫm của cô lướt nhanh qua từng ký tự: *Vaelyn... septem... nodi limes...* 
 
-Đó là ngôn ngữ Elvish chính thống của thời kỳ tiền Đại Chiến. Những cấu trúc hình học tam giác lồng ghép vào nhau để mô tả sự biến dạng của không gian.
+Đó là ngôn ngữ Asariën chính thống của thời kỳ tiền Đại Chiến. Những cấu trúc hình học tam giác lồng ghép vào nhau để mô tả sự biến dạng của không gian.
 
 "Đây không phải là bản đồ tàn tích thông thường," Dienne ngước nhìn Lucien, giọng trầm xuống. "Đây là sơ đồ phong ấn một vết nứt ranh giới."
 
@@ -453,7 +453,7 @@ Nước hồ lạnh ngắt ngập tới tận thắt lưng, nhưng áp suất kh
 
 Cuối đường ống là một cánh cổng bằng hợp kim đồng đen phủ đầy rêu xanh, bị niêm phong bởi một ổ khóa ma thuật ba tầng ký tự. 
 
-Dienne bước lên phía trước. Không cần chìa khóa vật lý, cô áp bàn tay lên bề mặt ổ khóa, khẽ nhắm mắt để cảm nhận dòng dao động mana bên trong. Vận dụng phương trình giải mã Elvish vừa tính toán lúc tối, cô dùng đầu ngón tay xoay nhẹ ba điểm nút chịu lực theo ngược chiều kim đồng hồ:
+Dienne bước lên phía trước. Không cần chìa khóa vật lý, cô áp bàn tay lên bề mặt ổ khóa, khẽ nhắm mắt để cảm nhận dòng dao động mana bên trong. Vận dụng phương trình giải mã Asariën vừa tính toán lúc tối, cô dùng đầu ngón tay xoay nhẹ ba điểm nút chịu lực theo ngược chiều kim đồng hồ:
 
 *CẠCH! CẠCH! TÁCH!*
 
@@ -614,7 +614,7 @@ Lưỡi hái ma thuật màu đen tuyền của tên Thẩm Phán dẫn đầu c
 
 Dienne không lùi. Đôi mắt màu lam thẫm của cô gái mười sáu tuổi rực lên một tia sáng lạnh buốt.
 
-Cô cắn răng, ngâm xướng câu chú rút gọn bậc hai bằng cổ ngữ Elvish chuẩn xác trong tích tắc:
+Cô cắn răng, ngâm xướng câu chú rút gọn bậc hai bằng cổ ngữ Asariën chuẩn xác trong tích tắc:
 
 *"Dura thera, lignum aeth-armis!"*
 

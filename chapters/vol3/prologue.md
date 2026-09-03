@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
@@ -17,7 +17,7 @@ Mùi lưu huỳnh cháy dở. Mùi ozone ngai ngái phát sinh khi không khí b
 
 "Mày… con nhãi ranh kia! Mày dồn bọn tao vào đường cùng làm cái quái gì?!"
 
-Tiếng thở dốc hồng hộc vang lên, đứt quãng và hoảng loạn. Ba gã đàn ông khoác áo choàng xám tro sũng nước đang lùi dần vào chân tường gạch bám đầy rêu xanh. Bàn tay run rẩy của chúng lăm lăm ba thanh đoản đao rỉ sét, trên sống dao khắc chằng chịt các ma văn Elvish biến dạng đang chập chờn tỏa ra luồng nhiệt lượng màu đỏ quạch. 
+Tiếng thở dốc hồng hộc vang lên, đứt quãng và hoảng loạn. Ba gã đàn ông khoác áo choàng xám tro sũng nước đang lùi dần vào chân tường gạch bám đầy rêu xanh. Bàn tay run rẩy của chúng lăm lăm ba thanh đoản đao rỉ sét, trên sống dao khắc chằng chịt các ma văn Asariën biến dạng đang chập chờn tỏa ra luồng nhiệt lượng màu đỏ quạch. 
 
 Dưới chân chúng, hai chiếc vali bọc hợp kim nhôm đã bị cạy bung khóa, để lộ ra hàng chục khối ma thạch thô chưa qua tinh chế và những cuộn giấy da bùa chú cấm. Đó là những món hàng tuồn lậu qua một Cổng Rò Rỉ nằm đâu đó dưới chân cầu đền cổ—thứ phế phẩm ma thuật mà lũ tội phạm đào tẩu từ thế giới phép thuật mang sang trần thế để bán cho những kẻ săn lùng dị vật với giá cắt cổ.
 

@@ -1,4 +1,4 @@
-# Master Plot: Dàn Ý Cốt Truyện Tổng Thể
+﻿# Master Plot: Dàn Ý Cốt Truyện Tổng Thể
 
 > **TRỤC PHÁT TRIỂN LỚN NHẤT TOÀN SERIES**
 > Câu hỏi xuyên suốt: **“Nếu hai thế giới không phải toàn bộ thực tại, vậy con người nên đứng ở đâu giữa chúng?”**
@@ -38,7 +38,7 @@
 
 #### Volume 1: Công Chúa Mất Đi Vương Quốc (The Fallen Princess)
 - **Chủ đề**: Bi kịch, cô lập, sinh tồn và khởi đầu.
-- **Nội dung chính**: Everhart bị Đế quốc Aurelia thanh trừng. Rhea bọc hậu tại Everhart Gate với lời thề móc ngoéo. Dienne được người thầy già nuôi dạy 9 năm trong thung lũng tuyết, học Elvish toán học và nhận huy hiệu Arrchirio rời núi năm 15 tuổi.
+- **Nội dung chính**: Everhart bị Đế quốc Aurelia thanh trừng. Rhea bọc hậu tại Everhart Gate với lời thề móc ngoéo. Dienne được người thầy già nuôi dạy 9 năm trong thung lũng tuyết, học Asariën toán học và nhận huy hiệu Arrchirio rời núi năm 15 tuổi.
 - **Kết thúc (Epilogue)**: Merlin tại khoảng hư không quan sát thấy Cổng thứ bảy dao động.
 
 #### Volume 2: Những Thành Phố Không Có Trên Bản Đồ (The Cities Beyond the Map)

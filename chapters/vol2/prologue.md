@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 2: NHỮNG THÀNH PHỐ KHÔNG CÓ TRÊN BẢN ĐỒ (The Cities Beyond the Map)
 
 ---
@@ -17,7 +17,7 @@ Hành trang cô mang theo bước vào thế giới rộng lớn chỉ vỏn v�
 
 Chiếc trâm cài tóc bằng vàng ròng chạm khắc hình rồng vương tộc Everhart được giấu kín sâu dưới đáy túi.
 
-Cuốn sách chép tay bìa da rồng ghi chép các phương trình động lực học mana và biến thể ngữ pháp Elvish của người thầy quá cố.
+Cuốn sách chép tay bìa da rồng ghi chép các phương trình động lực học mana và biến thể ngữ pháp Asariën của người thầy quá cố.
 
 Huy hiệu nhánh cây bạc quấn thanh kiếm gãy của tổ chức Arrchirio cài sát bên ngực trong, nơi nhịp tim đập đều đặn từng nhịp vững chãi.
 

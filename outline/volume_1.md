@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### VOLUME 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC
 
 PROLOGUE: Nữ hiệp sĩ
@@ -69,7 +69,7 @@ Người thầy mỉm cười nhẹ. "Gần đúng hơn rồi."
 Dienne nhìn chằm chằm vào quả cầu pha lê trước mặt. Bên trong nó, một luồng ánh sáng màu lam nhạt đang chầm chậm xoay chuyển, phản chiếu rực rỡ trong đáy mắt cô.
 "Con muốn học phép thực thụ. Không phải đọc lý thuyết nữa."
 "Điện hạ còn quá nhỏ. Ngay cả học viện của Đế quốc cũng chỉ nhận học viên từ mười lăm tuổi."
-"Con đọc xong hết bộ ngữ pháp Elvish căn bản rồi. Con điều khiển được quả cầu này rồi mà."
+"Con đọc xong hết bộ ngữ pháp Asariën căn bản rồi. Con điều khiển được quả cầu này rồi mà."
 "Phép thuật không chỉ là kiến thức, nó đòi hỏi sự kiểm soát tâm tính. Đốt cháy giai đoạn chỉ dẫn tới hủy diệt."
 "Con không sợ hủy diệt." Dienne ngẩng cao đầu, giọng điệu dứt khoát.
 Ở góc hành lang bên ngoài, Rhea dựa lưng vào tường, nghe trọn vẹn từng lời. Cô khẽ mỉm cười, nhưng ánh mắt thoáng vẻ trầm tư. Đứa trẻ này mang trong mình dòng máu quá kiêu hãnh, không biết sợ hãi bất cứ điều gì.
@@ -155,7 +155,7 @@ Dienne siết chặt nắm tay, lau phắt nước mắt trên má. "Ông là ai
 CHƯƠNG 7: Mana
 Những năm tháng sau đó là chuỗi ngày nghiệt ngã không có điểm dừng.
 Không còn lâu đài xa hoa, không còn những chiếc đầm lụa hay những buổi tiệc trà. Dienne sống trong một căn lều gỗ sâu trong thung lũng tuyết phủ, nơi mà dòng mana hoang dã cuộn chảy hỗn loạn.
-Người thầy già bắt cô học mọi thứ từ cuốn sách chép tay cũ nát bìa da rồng mang tên *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Elvish Cổ*: cách phân tích ba tầng ngữ nghĩa của từng ký tự Elvish; cách tính toán phương trình nhiệt động lực học để chuyển hóa năng lượng mà không hao hụt; cách khắc ma pháp trận bằng chính máu tươi khi kiệt sức; và cách vung thanh kiếm gỗ hàng ngàn lần mỗi ngày cho đến khi hai bàn tay rách toạc.
+Người thầy già bắt cô học mọi thứ từ cuốn sách chép tay cũ nát bìa da rồng mang tên *Nguyên Lý Động Lực Học Mana & Cấu Trúc Ngữ Pháp Asariën Cổ*: cách phân tích ba tầng ngữ nghĩa của từng ký tự Asariën; cách tính toán phương trình nhiệt động lực học để chuyển hóa năng lượng mà không hao hụt; cách khắc ma pháp trận bằng chính máu tươi khi kiệt sức; và cách vung thanh kiếm gỗ hàng ngàn lần mỗi ngày cho đến khi hai bàn tay rách toạc.
 Nhưng bài học đầu tiên cô nhận được từ ông luôn là: Sự bất lực.
 Dienne đứng giữa sân tuyết, hai tay đưa ra phía trước, hơi thở phả ra khói trắng. Cô muốn tạo ra một ngọn lửa.
 Không có gì xảy ra.
@@ -165,7 +165,7 @@ BÙM!
 Một luồng ma lực phản phệ (Backlash) nổ tung. Sóng xung kích hất văng Dienne ngã nhào ra nền tuyết, tóc mai cháy xém một mảng, hai bàn tay rát bỏng tê dại.
 Người thầy già ngồi trên tảng đá gần đó, ung dung phả một làn khói thuốc. "Cháu đang coi mana là nô lệ. Cháu dùng sự tức giận để ép nó phục tùng."
 "Chứ không phải phép thuật là biến ý chí thành hiện thực sao?!" Dienne gắt lên từ dưới tuyết.
-"Ngôn ngữ Elvish không ra lệnh cho thế giới. Nó đối thoại với thế giới." Ông lão gõ nhẹ đầu tẩu thuốc vào tảng đá. "Mana tự nhiên có tần số dao động riêng. Khi tâm trí cháu gào thét căm hận, sóng ma lực của cháu ngược pha với môi trường xung quanh, triệt tiêu lẫn nhau và tự phát nổ. Ngưng gào thét trong đầu đi. Nhắm mắt lại và lắng nghe."
+"Ngôn ngữ Asariën không ra lệnh cho thế giới. Nó đối thoại với thế giới." Ông lão gõ nhẹ đầu tẩu thuốc vào tảng đá. "Mana tự nhiên có tần số dao động riêng. Khi tâm trí cháu gào thét căm hận, sóng ma lực của cháu ngược pha với môi trường xung quanh, triệt tiêu lẫn nhau và tự phát nổ. Ngưng gào thét trong đầu đi. Nhắm mắt lại và lắng nghe."
 Dienne nghiến răng, nhưng rồi cô ngoan ngoãn ngồi xếp bằng trên nền tuyết lạnh ngắt. Cô gạt bỏ hình ảnh lâu đài bốc cháy, gạt bỏ sự căm hận Đế quốc, gạt bỏ cả nỗi sợ hãi.
 Không gian xung quanh dần tĩnh lặng.
 Và rồi, lần đầu tiên trong đời, Dienne cảm nhận được nó.
@@ -178,9 +178,9 @@ Vóc dáng cô bé ngày nào đã cao lớn hơn, đôi mắt màu lam thẫm s
 Cô đứng giữa khoảng đất trống trong rừng, đối diện với một tảng đá phủ băng dày đặc.
 "Đừng vẽ ngọn lửa trong tâm trí." Tiếng người thầy vang lên đều đều phía sau. "Hãy hiểu nó. Phép thuật không phải phép màu sinh ra từ hư vô, nó là định luật bảo toàn. Muốn có nhiệt, phải có sự kích động liên kết phân tử và một biên giới để giữ nhiệt lượng không bị tiêu tán."
 Dienne khẽ nhắm mắt, rồi mở ra.
-Sự dao động của các phần tử. Sự giải phóng liên kết nhiệt. Cấu trúc ngữ pháp bốn pha của Elvish cổ: Khởi nguyên, Toán tử, Định hình và Điểm neo.
-Toán học và ngôn từ cổ xưa hòa làm một trong tư duy của cô. Không có một động tác thừa, không có một tiếng gào thét. Dienne chỉ khẽ xoay cổ tay, một vòng tròn ma pháp phức tạp bằng ánh sáng vàng kim hiện ra dưới chân, các ký tự Elvish xoay chuyển mượt mà như những bánh răng đồng hồ chuẩn xác.
-Cô cất tiếng ngâm xướng câu chú Elvish chuẩn xác đến từng âm tiết:
+Sự dao động của các phần tử. Sự giải phóng liên kết nhiệt. Cấu trúc ngữ pháp bốn pha của Asariën cổ: Khởi nguyên, Toán tử, Định hình và Điểm neo.
+Toán học và ngôn từ cổ xưa hòa làm một trong tư duy của cô. Không có một động tác thừa, không có một tiếng gào thét. Dienne chỉ khẽ xoay cổ tay, một vòng tròn ma pháp phức tạp bằng ánh sáng vàng kim hiện ra dưới chân, các ký tự Asariën xoay chuyển mượt mà như những bánh răng đồng hồ chuẩn xác.
+Cô cất tiếng ngâm xướng câu chú Asariën chuẩn xác đến từng âm tiết:
 "Aethel pyr evocar, syl-vinculum formar, caerulea scissar!"
 Âm thanh phát ra vang vọng, thanh thoát như tiếng chuông đồng ngân vang giữa rừng tuyết vắng. Mana xung quanh lập tức tụ lại trong lòng bàn tay cô, không hề phát nổ, không hề hỗn loạn.
 PHÙ!

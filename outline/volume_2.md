@@ -1,10 +1,10 @@
-VOLUME 2: NHỮNG THÀNH PHỐ KHÔNG CÓ TRÊN BẢN ĐỒ (The Cities Beyond the Map)
+﻿VOLUME 2: NHỮNG THÀNH PHỐ KHÔNG CÓ TRÊN BẢN ĐỒ (The Cities Beyond the Map)
 PROLOGUE: Bước chân đầu tiên
 Mùi tuyết tan ẩm ướt lùi dần lại sau lưng.
 Dienne dừng chân ở đỉnh con đèo đá dốc đứng, nơi ranh giới của thung lũng sương mù hoàn toàn chấm dứt. Gió từ bình nguyên thốc ngược lên, thổi tung chiếc áo choàng đen đã sờn rách nơi gấu áo.
 Suốt tám năm qua, thế giới của cô thu bé lại vừa bằng một căn chòi gỗ, một khoảng sân tuyết phủ và một căn hầm nồng nặc mùi giấy mục. Hành trang cô mang theo vỏn vẹn trong chiếc túi da thô:
 Chiếc trâm cài vương tộc Everhart giấu kín dưới đáy túi.
-Tập ghi chép các biến thể ngữ pháp Elvish của người thầy.
+Tập ghi chép các biến thể ngữ pháp Asariën của người thầy.
 Huy hiệu nhánh cây bạc Arrchirio cài sát bên ngực trong.
 Một túi tiền gồm vài chục đồng bạc cũ kỹ.
 Và thanh kiếm gỗ sứt sẹo của Rhea, giắt chặt bên hông trái.
@@ -60,21 +60,21 @@ Cô không có câu trả lời. Và câu hỏi ấy khiến vết thương tron
 CHƯƠNG 5: Học viện Aetheris
 Để tra cứu những hồ sơ lưu trữ cổ mà chính quyền không công khai, Dienne buộc phải tìm cách vào Aetheris—học viện ma thuật độc lập danh tiếng nằm trên dải đất trung lập.
 Aetheris duy trì một nguyên tắc tuyệt đối suốt hàng thế kỷ: không can thiệp chính trị, không tra xét xuất thân. Học viện tổ chức các kỳ khảo thí mở mỗi quý; bất kỳ ai, từ quý tộc Đế quốc cho đến người tị nạn không giấy tờ, chỉ cần vượt qua bài thi năng lực đều được bước qua cổng trường.
-Dưới cái tên "Dienne Hart", cô vượt qua bài thi lý thuyết với số điểm tối đa nhờ vốn ngữ pháp Elvish nguyên bản.
+Dưới cái tên "Dienne Hart", cô vượt qua bài thi lý thuyết với số điểm tối đa nhờ vốn ngữ pháp Asariën nguyên bản.
 Tại đây, bức tường thành định kiến về ma thuật của Dienne bị phá vỡ hoàn toàn khi chứng kiến các trường phái giao thoa:
-Modern Magic: Hệ thống cô được học—dựa trên nền tảng ngữ pháp Elvish, các công thức toán học và sự cộng hưởng mana trong khí quyển.
+Modern Magic: Hệ thống cô được học—dựa trên nền tảng ngữ pháp Asariën, các công thức toán học và sự cộng hưởng mana trong khí quyển.
 Onmyōdō Viễn Đông: Không cần đọc chuỗi thần chú dài dòng, những học viên đến từ đảo quốc phía Đông sử dụng bùa giấy, kết thủ ấn linh hoạt và điều phối linh lực cơ thể.
 Magina Ả Rập: Sử dụng các ma trận hình học đa chiều kết hợp với âm luật cộng hưởng để bẻ cong không gian cục bộ.
 Spirit Arts phương Đông: Dẫn dòng linh khí tuần hoàn trực tiếp qua các kinh mạch, biến quyền cước thành vũ khí phá hủy ma pháp mà không cần dùng gậy hay đũa.
 Trong một buổi thảo luận chuyên đề tại đại giảng đường, Dienne giơ tay chất vấn giáo sư hướng dẫn:
-"Tại sao cùng bắt nguồn từ năng lượng tự nhiên, con người lại phải phân chia ra hàng chục trường phái mâu thuẫn nhau như vậy? Đưa tất cả về quy chuẩn công thức Elvish gốc không phải sẽ tối ưu hơn sao?"
+"Tại sao cùng bắt nguồn từ năng lượng tự nhiên, con người lại phải phân chia ra hàng chục trường phái mâu thuẫn nhau như vậy? Đưa tất cả về quy chuẩn công thức Asariën gốc không phải sẽ tối ưu hơn sao?"
 Vị giáo sư già nhìn cô học trò mới qua cặp kính tròn, khẽ mỉm cười:
 "Bởi vì ma thuật không phải là toán học thuần túy, trò Hart. Phép thuật chính là lăng kính phản chiếu cách một nền văn hóa nhìn nhận thế giới. Con người không nhìn thấy tự nhiên theo cùng một cách, do đó, ma thuật vĩnh viễn không thể bị đồng hóa thành một mẫu số chung."
 Dienne sững sờ. Lần đầu tiên, cô hiểu rằng những gì mình được học suốt tám năm qua không phải là chân lý duy nhất của thế giới.
 CHƯƠNG 6: Nhát chém không có công thức
 Sự tự tin của Dienne về kiến thức ma thuật đã vỡ vụn ngay trong tuần thứ hai tại sàn đấu thực chiến của học viện.
 Đối thủ của cô là Kael—một học viên năm ba xuất thân từ lính đánh thuê biên giới, sở hữu lượng mana ít ỏi tới mức chỉ xếp hạng đáy của khóa.
-Trận đấu vừa bắt đầu. Dienne lập tức lùi lại ba bước, bắt đầu nhẩm tính công thức ma pháp bậc ba bằng tiếng Elvish. Quỹ đạo gió, mật độ hạt mana và điểm hội tụ nhiệt lượng hình thành chuẩn xác trong đầu cô chỉ trong vòng một giây.
+Trận đấu vừa bắt đầu. Dienne lập tức lùi lại ba bước, bắt đầu nhẩm tính công thức ma pháp bậc ba bằng tiếng Asariën. Quỹ đạo gió, mật độ hạt mana và điểm hội tụ nhiệt lượng hình thành chuẩn xác trong đầu cô chỉ trong vòng một giây.
 Nhưng cô chưa kịp khép khẩu hình của âm tiết cuối cùng.
 BỘP!
 Một vốc cát trộn bột ma thạch cay nồng bay thẳng vào hốc mắt cô.
@@ -90,7 +90,7 @@ Hắn buông một câu cụt lủn rồi quay lưng bước thẳng ra khỏi s
 CHƯƠNG 7: Đồng minh bất đắc dĩ
 Kẻ duy nhất tìm đến Dienne sau thất bại bẽ bàng ấy là Lucien Vale—học viên chuyên ngành Chế tác Ma cụ.
 Khác với vẻ trầm mặc của Dienne, Lucien là một kẻ thực dụng, lắm lời và luôn tìm cách xoay tiền từ các kẽ hở luật lệ của học viện. Cậu ta có mái tóc nâu rối bù, ngón tay luôn dính muội than ma thạch và một chiếc túi da nhét đầy những phát minh dở dang.
-"Tôi thấy bài thi giải cấu trúc cổ ngữ Elvish của cậu rồi," Lucien ngồi phịch xuống cạnh Dienne trên bậc thềm thư viện, ném cho cô một mẩu bánh nướng. "Cậu giải nhanh gấp ba lần đám mọt sách trong viện. Nhưng cậu nghèo kiết xác và chẳng biết chút gì về cách thế giới này vận hành."
+"Tôi thấy bài thi giải cấu trúc cổ ngữ Asariën của cậu rồi," Lucien ngồi phịch xuống cạnh Dienne trên bậc thềm thư viện, ném cho cô một mẩu bánh nướng. "Cậu giải nhanh gấp ba lần đám mọt sách trong viện. Nhưng cậu nghèo kiết xác và chẳng biết chút gì về cách thế giới này vận hành."
 Dienne không buồn nhìn mẩu bánh. "Tôi không có nhu cầu làm quen."
 "Đây là giao dịch," Lucien hạ thấp giọng, hé mở một góc tấm bản đồ da cừu cũ kỹ trong áo khoác. "Tôi cần một người giải mã văn bản phong ấn của các kho tài liệu tầng ngầm. Cậu cần thông tin mà học viện không bao giờ giảng dạy công khai. Tôi có chìa khóa vượt qua các bùa báo động. Chúng ta đổi chác sòng phẳng."
 Ánh mắt Dienne khựng lại ở mép tấm bản đồ—nơi có một ký hiệu hình nhánh cây bạc quen thuộc bị che khuất một nửa.
@@ -104,7 +104,7 @@ Những cứ điểm điều tiết ranh giới từng tồn tại song song: Lo
 Arrchirio không phục vụ bất kỳ ngai vàng nào; nhiệm vụ duy nhất của họ là ngăn chặn sự rò rỉ ma lực làm sụp đổ thế giới loài người và giữ vững các Cổng Nguyên Thủy.
 Nhưng trang cuối cùng khiến ngón tay Dienne run rẩy.
 Một danh sách các cứ điểm đã bị thanh trừng trong cuộc biến loạn hai mươi năm trước. Hầu hết đều có dấu mộc đỏ xác nhận "Xóa sổ hoàn toàn".
-Duy chỉ có nhánh tại Kyoto, bên cạnh vết mực đỏ lại có một dấu chấm hỏi mờ nhạt kèm dòng mật mã Elvish viết vội:
+Duy chỉ có nhánh tại Kyoto, bên cạnh vết mực đỏ lại có một dấu chấm hỏi mờ nhạt kèm dòng mật mã Asariën viết vội:
 "Ngọn lửa tàn vẫn âm ỉ dưới đáy hồ tro. Nếu một ngày Arrchirio biến mất, đừng tìm chúng ta ở nơi chúng ta từng tồn tại."
 Arrchirio không chỉ còn lại một mình người thầy của cô. Bản đồ thế giới vừa mở ra một cánh cửa khác.
 CHƯƠNG 9: Đêm của Thẩm Phán
@@ -121,7 +121,7 @@ BÙM!
 Màn khói tím dày đặc bùng lên, che khuất tầm nhìn.
 Dienne nhớ lại bài học của Kael. Cô không đứng yên niệm chú. Rút phắt thanh kiếm gỗ bên hông bằng tay trái, tay phải cô đập mạnh xuống nền đất lầy lội, truyền một luồng mana thô vào mạch nước ngầm dưới rễ cây. Áp suất nước tăng vọt làm bật tung thảm bùn đất thành một bức tường chắn tạm thời.
 Kẻ dẫn đầu vung lưỡi hái ma thuật chém toạc bức tường đất, lao thẳng tới như một bóng ma.
-Dienne không lùi. Cô cắn răng ngâm xướng câu chú rút gọn bậc hai bằng tiếng Elvish: *"Dura thera, lignum aeth-armis!"* Dòng mana màu lam thẫm lập tức luân chuyển dọc các thớ gỗ sồi, nén chặt các liên kết phân tử thành một lớp giáp năng lượng cứng như kim cương. Cô nghiêng người vung thanh kiếm gỗ gạt phăng đường chém hiểm hóc.
+Dienne không lùi. Cô cắn răng ngâm xướng câu chú rút gọn bậc hai bằng tiếng Asariën: *"Dura thera, lignum aeth-armis!"* Dòng mana màu lam thẫm lập tức luân chuyển dọc các thớ gỗ sồi, nén chặt các liên kết phân tử thành một lớp giáp năng lượng cứng như kim cương. Cô nghiêng người vung thanh kiếm gỗ gạt phăng đường chém hiểm hóc.
 XOẢNG!
 Lực va chạm kim loại và ma lực cực mạnh hất văng Dienne ra sau. Thanh kiếm gỗ không gãy, nhưng chấn động truyền qua cánh tay khiến khớp vai cô trật khớp, máu tươi ứa ra nơi khóe miệng. Khoảng cách thực chiến quá lớn; tên Thẩm Phán áp đảo hoàn toàn về tốc độ lẫn áp lực ma lực.
 Hắn vung tay, sợi xích đen quất thẳng vào mạn sườn Dienne, hất cô ngã nhào xuống vệ cỏ.
@@ -158,7 +158,7 @@ Một cô gái châu Á có vóc dáng thanh mảnh, khoác chiếc áo bomber �
 "Ừ, không có. Thế thì làm sao? Không có mana thì không được đi dạo đêm à?"
 Cô gái nhếch mép cười khẩy, bất thình lình rút từ túi áo ra một chiếc còi bạc kỳ quái đưa lên miệng thổi mạnh.
 TÚTTTT—!
-Một âm thanh chói tai mang tần số cộng hưởng âm luật đặc biệt rít lên giữa màn mưa. Vòng tròn ma pháp màu đỏ rực của tên tội phạm lập tức bị nhiễu loạn sóng, các ký tự Elvish rung bần bật như muốn vỡ ra.
+Một âm thanh chói tai mang tần số cộng hưởng âm luật đặc biệt rít lên giữa màn mưa. Vòng tròn ma pháp màu đỏ rực của tên tội phạm lập tức bị nhiễu loạn sóng, các ký tự Asariën rung bần bật như muốn vỡ ra.
 "Cái quái gì—"
 Đoàng!
 Trước khi hắn kịp hiểu chuyện gì đang xảy ra, cô gái đã rút phắt một khẩu súng ngắn từ sau lưng nã thẳng một phát. Viên đạn hợp kim nặng trịch không hề mang phép thuật, nhưng nó găm chuẩn xác tuyệt đối vào đúng giao điểm chịu lực đang run rẩy của vòng bảo hộ.

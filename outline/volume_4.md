@@ -1,4 +1,4 @@
-VOLUME 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO
+﻿VOLUME 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO
 
 (The Remnants of Arrchirio)
 
@@ -20,7 +20,7 @@ Bản phác thảo sơ đồ vận hành cơ khí và mạng lưới năng lư�
 Bản đồ đô thị và thiết bị thu phát tín hiệu vô tuyến mang về từ Kyoto.
 
 
-Người thầy già đứng tựa lưng vào bệ lò sưởi, tẩu thuốc trên tay ông đã tắt ngấm tự bao giờ. Ánh mắt đục ngầu lướt qua trang giấy ghi lại dòng Elvish cổ: "Đừng nhầm lẫn sự tương đồng với nguồn gốc."
+Người thầy già đứng tựa lưng vào bệ lò sưởi, tẩu thuốc trên tay ông đã tắt ngấm tự bao giờ. Ánh mắt đục ngầu lướt qua trang giấy ghi lại dòng Asariën cổ: "Đừng nhầm lẫn sự tương đồng với nguồn gốc."
 
 Một khoảng im lặng kéo dài trĩu nặng trong tiếng củi cháy lách tách.
 
@@ -105,7 +105,7 @@ Nhưng toàn bộ dòng tên đã bị ai đó dùng axit ma thuật đốt chá
 
 Arknight.
 
-Dienne nhìn chằm chằm vào cái tên ấy. Cô chưa từng nghe người thầy nhắc đến từ này, nhưng từng nét chữ Elvish khắc họa gia tộc Arknight lại tỏa ra một luồng hàn khí u ám, như một vết nhơ cấm kỵ bị chôn vùi dưới đáy sâu lịch sử.
+Dienne nhìn chằm chằm vào cái tên ấy. Cô chưa từng nghe người thầy nhắc đến từ này, nhưng từng nét chữ Asariën khắc họa gia tộc Arknight lại tỏa ra một luồng hàn khí u ám, như một vết nhơ cấm kỵ bị chôn vùi dưới đáy sâu lịch sử.
 
 CHƯƠNG 4: Cậu bé của xưởng ma đạo
 
@@ -121,7 +121,7 @@ Dienne không tranh cãi. Cô bước tới bàn làm việc của Ryan, rút t�
 
 Mắt Ryan lập tức dán chặt vào mảnh kim loại. Đôi tay cầm cờ-lê của cậu ta cứng đờ.
 
-"Cấu trúc hợp kim này... không có điện trở ma thuật? Ma trận khắc chìm bên trong vận hành theo hệ nhị phân thay vì vòng xoay Elvish đơn thuần?!" Ryan nuốt nước bọt, ngước lên nhìn Dienne bằng đôi mắt rực lửa tò mò. "Thứ này... ở đâu ra?!"
+"Cấu trúc hợp kim này... không có điện trở ma thuật? Ma trận khắc chìm bên trong vận hành theo hệ nhị phân thay vì vòng xoay Asariën đơn thuần?!" Ryan nuốt nước bọt, ngước lên nhìn Dienne bằng đôi mắt rực lửa tò mò. "Thứ này... ở đâu ra?!"
 
 "Trong các căn cứ cổ của Arrchirio còn hàng trăm tài liệu và cổ vật công nghệ vượt xa thứ này," Dienne bình thản nói. "Gia nhập, và cậu sẽ là người đầu tiên được mổ xẻ chúng."
 
@@ -147,7 +147,7 @@ Xung đột lập tức bùng nổ khi Ryan bước vào, càu nhàu về việc
 
 "Còn cô thì đang lãng phí hàng giờ chỉ để cầu nguyện với mấy vì sao trong khi một cái vi mạch có thể xử lý việc đó trong một giây!" Ryan cãi trả, giơ máy đo ma áp lên thách thức.
 
-Đứng giữa hai thái cực mâu thuẫn, Dienne bước lên trước. Cô vung tay, phóng thích một ma trận Elvish cổ kết hợp mượt mà giữa sự tính toán chuẩn xác của toán học và sự giao cảm với ngọn lửa thiêng—dung hòa ngọn lửa của Soraya và làm êm dịu máy đo của Ryan trong tích tắc.
+Đứng giữa hai thái cực mâu thuẫn, Dienne bước lên trước. Cô vung tay, phóng thích một ma trận Asariën cổ kết hợp mượt mà giữa sự tính toán chuẩn xác của toán học và sự giao cảm với ngọn lửa thiêng—dung hòa ngọn lửa của Soraya và làm êm dịu máy đo của Ryan trong tích tắc.
 
 Soraya sững sờ nhìn Dienne.
 
@@ -176,7 +176,7 @@ Soraya kịch liệt phản đối vì cho rằng sóng nhân tạo thô kệch 
 Lucien chỉ muốn chọn phương án nào ít rủi ro và ít tốn kém nhất.
 
 
-Đứng ở trung tâm của mớ hỗn độn ấy, Dienne không hề đóng vai một vị chỉ huy độc đoán. Tiếp nối truyền thống tôn sư trọng đạo của Arrchirio, Dienne hướng dẫn Ryan cách kết nối logic nhị phân với cấu trúc Elvish, khiến Ryan tâm phục khẩu phục gọi cô là **"Master"**. Đồng thời, Dienne trân trọng tri thức nghi lễ của Soraya và tin tưởng tuyệt đối vào tài quản lý của Lucien.
+Đứng ở trung tâm của mớ hỗn độn ấy, Dienne không hề đóng vai một vị chỉ huy độc đoán. Tiếp nối truyền thống tôn sư trọng đạo của Arrchirio, Dienne hướng dẫn Ryan cách kết nối logic nhị phân với cấu trúc Asariën, khiến Ryan tâm phục khẩu phục gọi cô là **"Master"**. Đồng thời, Dienne trân trọng tri thức nghi lễ của Soraya và tin tưởng tuyệt đối vào tài quản lý của Lucien.
 
 Bằng sự kiên nhẫn và năng lực ma thuật vượt trội, Master Dienne trở thành sợi dây liên kết vô hình giữ cho ba cá tính gai góc không tan rã.
 
@@ -186,7 +186,7 @@ Dựa trên sự kết hợp giữa thuật bói toán tinh tú của Soraya và
 
 Địa điểm nằm bên dưới lòng đất của một khu vực hiện mang tên Khu Hành chính Số 7 thuộc Đế quốc. Trên bản đồ hiện đại, không có bất kỳ dấu tích nào của quá khứ. Thành phố cổ từng tồn tại ở đây đã bị Đế quốc san phẳng, đổi tên và xây đè lên một hệ thống nhà máy luyện kim khổng lồ.
 
-Lợi dụng đường xả thải ngầm của nhà máy, cả nhóm thâm nhập sâu vào lòng đất hơn một trăm mét, phá vỡ lớp niêm phong Elvish cổ xưa để bước vào một pháo đài ngầm đồ sộ.
+Lợi dụng đường xả thải ngầm của nhà máy, cả nhóm thâm nhập sâu vào lòng đất hơn một trăm mét, phá vỡ lớp niêm phong Asariën cổ xưa để bước vào một pháo đài ngầm đồ sộ.
 
 Đó là một trung tâm chỉ huy cổ đại chìm trong bụi thời gian.
 
@@ -194,7 +194,7 @@ Tại gian phòng lưu trữ trung tâm, Ryan kích hoạt được mạng lư�
 
 Nhưng thứ khiến Dienne rùng mình là cuốn danh bạ nhân sự chiến lược.
 
-Bên cạnh những cái tên bị đóng dấu đỏ xác nhận đã chết trong đêm thanh trừng, có hàng chục cái tên của các chỉ huy cấp cao được đánh dấu bằng một dòng chữ Elvish màu lam:
+Bên cạnh những cái tên bị đóng dấu đỏ xác nhận đã chết trong đêm thanh trừng, có hàng chục cái tên của các chỉ huy cấp cao được đánh dấu bằng một dòng chữ Asariën màu lam:
 
 "Không xác định tử vong."
 
@@ -224,7 +224,7 @@ Soraya lập tức giơ Vương trượng Cổ Ngọn Lửa thủ thế, còn Di
 
 "Thế thì các ngươi cản đường ta!"
 
-Vane gầm thét lao vào tấn công. Trận chiến diễn ra chóng vánh. Vane tuy có kinh nghiệm nhưng cơ thể đã suy kiệt sau hai mươi năm lẩn trốn. Bằng sự hỗ trợ của những sợi dây trói lửa sa mạc do Soraya phong tỏa và một ma trận Elvish chuẩn xác từ Dienne, thanh kiếm của Vane bị đánh văng xuống sàn.
+Vane gầm thét lao vào tấn công. Trận chiến diễn ra chóng vánh. Vane tuy có kinh nghiệm nhưng cơ thể đã suy kiệt sau hai mươi năm lẩn trốn. Bằng sự hỗ trợ của những sợi dây trói lửa sa mạc do Soraya phong tỏa và một ma trận Asariën chuẩn xác từ Dienne, thanh kiếm của Vane bị đánh văng xuống sàn.
 
 Bị tước vũ khí, Vane quỳ sụp xuống đất, nghiến răng rớm máu. Nhưng ông ta không xin tha, chỉ ngước nhìn Dienne bằng ánh mắt giễu cợt đầy cay đắng:
 
@@ -286,11 +286,11 @@ Dưới ánh sáng xanh lam của đài lửa ngầm, một liên minh non trẻ
 
 CHƯƠNG 10: Cánh cửa thứ hai
 
-Khi khám phá tầng sâu nhất của pháo đài ngầm—nơi bị phong ấn bởi ba tầng khóa Elvish cổ—nhóm của Dienne phát hiện một căn phòng hình bán cầu hoàn toàn bằng kim loại đen nguyên khối.
+Khi khám phá tầng sâu nhất của pháo đài ngầm—nơi bị phong ấn bởi ba tầng khóa Asariën cổ—nhóm của Dienne phát hiện một căn phòng hình bán cầu hoàn toàn bằng kim loại đen nguyên khối.
 
 Ở trung tâm căn phòng dựng đứng một Cổng Cổ Đại.
 
-Nó không hề giống Cổng Everhart hay Cổng Rò Rỉ ở Kyoto. Khung cổng không chạm khắc hoa văn Elvish, mà là những ký tự hình học trừu tượng chưa từng xuất hiện trong bất kỳ cuốn sách lịch sử nào.
+Nó không hề giống Cổng Everhart hay Cổng Rò Rỉ ở Kyoto. Khung cổng không chạm khắc hoa văn Asariën, mà là những ký tự hình học trừu tượng chưa từng xuất hiện trong bất kỳ cuốn sách lịch sử nào.
 
 Ryan cắm máy đo năng lượng vào khe bệ đá, màn hình lập tức nhảy số loạn xạ rồi báo lỗi quá tải.
 

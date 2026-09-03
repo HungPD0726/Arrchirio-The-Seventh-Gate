@@ -1,4 +1,4 @@
-# Story State: Nhật Ký Trạng Thái Hiện Tại (Post-Volume 4)
+﻿# Story State: Nhật Ký Trạng Thái Hiện Tại (Post-Volume 4)
 
 > **CƠ CHẾ BẢO LƯU NGỮ CẢNH (CONTINUITY SYSTEM)**
 > Tệp này ghi nhận chính xác trạng thái thế giới và nhân vật tại thời điểm **kết thúc Volume 4** (điểm bắt đầu cho Volume 5).
@@ -45,7 +45,7 @@
 - **Tài liệu chiến lược**:
   - Bản đồ các Cổng bí mật trên toàn cầu.
   - Danh bạ nhân sự Arrchirio cũ với hàng chục chỉ huy được ghi chú *"Không xác định tử vong"*.
-  - Bản ghi chép Elvish về *"Sự Cộng Hưởng Xuyên Không Gian"*.
+  - Bản ghi chép Asariën về *"Sự Cộng Hưởng Xuyên Không Gian"*.
   - Bản phác thảo nguyên lý máy móc phi ma thuật từ Kyoto.
 
 ### Vật Phẩm Của Dienne:

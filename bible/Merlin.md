@@ -1,4 +1,4 @@
-# Story Bible: MERLIN
+﻿# Story Bible: MERLIN
 
 > **Mục đích:** Tài liệu này là canon nền cho nhân vật Merlin. Mọi lần Merlin xuất hiện, đối thoại, đưa ra giả thuyết hoặc can thiệp vào cốt truyện đều phải tuân thủ các nguyên tắc dưới đây.
 >
@@ -45,7 +45,7 @@ Merlin biết rất nhiều về:
 
 * Mana.
 * Ma thuật cổ.
-* Elvish.
+* Asariën.
 * Cổng.
 * Dao động không gian.
 * Những biến động giữa các thế giới.

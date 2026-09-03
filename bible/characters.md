@@ -1,4 +1,4 @@
-# Story Bible: Hồ Sơ Nhân Vật (Characters)
+﻿# Story Bible: Hồ Sơ Nhân Vật (Characters)
 
 > **Tệp này ghi nhận tính cách, giọng điệu, mục tiêu, trang bị và cấm kỵ của từng nhân vật trong tác phẩm.**
 > Mọi chương viết ra phải tuân thủ nghiêm ngặt hồ sơ này để đảm bảo không bị biến dạng tính cách (**OOC - Out of Character**).
@@ -19,7 +19,7 @@
   - Áo choàng đen sờn gấu có mũ trùm.
   - Chiếc trâm cài vương tộc Everhart giấu kín dưới đáy túi da.
   - Huy hiệu nhánh cây bạc của Arrchirio cài sát bên ngực trong.
-  - Cuốn sổ tay ghi chép ngữ pháp Elvish và sơ đồ năng lượng hai thế giới.
+  - Cuốn sổ tay ghi chép ngữ pháp Asariën và sơ đồ năng lượng hai thế giới.
   - **Vũ khí bất ly thân**: Thanh kiếm gỗ cũ kỹ sứt sẹo của Rhea, giắt chặt bên hông trái.
 
 ### Động Cơ & Tâm Lý (The Core Arc)
@@ -29,7 +29,7 @@
 - **Điểm yếu (Flaw)**: Quá dựa vào phân tích lý thuyết toán học/công thức; ban đầu thiếu kinh nghiệm thực chiến đường phố; đôi khi quá gánh vác trách nhiệm một mình.
 
 ### Phong Cách Ma Thuật & Chiến Đấu
-- **Thế mạnh**: Tư duy toán học kết hợp ngữ pháp Elvish nguyên bản. Tốc độ phân tích cấu trúc ma trận cực nhanh, triển khai phép không có động tác thừa.
+- **Thế mạnh**: Tư duy toán học kết hợp ngữ pháp Asariën nguyên bản. Tốc độ phân tích cấu trúc ma trận cực nhanh, triển khai phép không có động tác thừa.
 - **Vũ khí**: Kết hợp truyền mana gia cố độ cứng/bén vào thanh kiếm gỗ + phóng thích ma thuật nguyên tố (gió nén, lửa lam tinh khiết, ma trận phong tỏa).
 
 ### Truyền Thống Thầy - Trò Thiêng Liêng (Arrchirio Master - Disciple Bond)
@@ -37,7 +37,7 @@
   - Người Thầy Già truyền dạy và rèn giũa Dienne.
   - Giờ đây, Dienne trở thành **Master**:
     * **Louisa**: **Học trò đầu tiên**, người đầu tiên đồng hành, nhân vật chính thứ hai. Tình cảm thầy trò gắn kết thiêng liêng, thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt.
-    * **Ryan**: **Học trò thứ hai**, được Dienne khai phóng tư duy cơ khí và toán học Elvish; Ryan gọi Dienne là **"Master"**.
+    * **Ryan**: **Học trò thứ hai**, được Dienne khai phóng tư duy cơ khí và toán học Asariën; Ryan gọi Dienne là **"Master"**.
 
 ### Giọng Thoại & Hành Vi
 - **Xưng hô**:
@@ -155,7 +155,7 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
     * Hiểu cấu trúc hình học ma trận để né tránh và phản đòn.
     * Nhận biết điểm nút chịu lực để bắn vỡ vòng bảo hộ.
     * Kích hoạt ma cụ và bùa chú bằng mẹo cơ học và động năng.
-    * Điều hướng vector dòng chảy bằng tư duy Elvish.
+    * Điều hướng vector dòng chảy bằng tư duy Asariën.
   - Louisa học cách hiểu ma thuật sâu sắc hơn bất kỳ phù thủy nào mà không cần phải có mana!
 
 ---
@@ -243,7 +243,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Tính Cách & Tư Duy
 - Bộc trực, đam mê máy móc và công nghệ nhị phân từ thế giới thực.
-- Được Dienne (Master) hướng dẫn cách kết hợp mạch logic nhị phân với ngữ pháp Elvish, từ đó chế tạo thành công thiết bị xung điện từ (EMP ma đạo) đánh bại Thẩm Phán Viện.
+- Được Dienne (Master) hướng dẫn cách kết hợp mạch logic nhị phân với ngữ pháp Asariën, từ đó chế tạo thành công thiết bị xung điện từ (EMP ma đạo) đánh bại Thẩm Phán Viện.
 - **CẤM KỴ OOC**: Không được viết Ryan thành "thiên tài toàn năng búng tay là ra máy"; cậu phải luôn thử nghiệm, đo đạc, sai sót và sửa chữa.
 
 ---
@@ -263,7 +263,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Phong Cách Ma Thuật & Tư Duy
 - **Trường phái**: **Ancient Ritual Magic (Ma thuật Nghi Lễ Cổ Đại)** và **Nghệ thuật Tinh Tú Sa Mạc (Celestial & Sun Arcana)**.
-- Không dùng ngữ pháp Elvish châu Âu thông thường của Đế quốc, mà vận hành bằng Cổ ngữ Chiêm Tinh (Celestial Glyphs), nghi lễ thanh tẩy và ngọn lửa nguyên thủy.
+- Không dùng ngữ pháp Asariën châu Âu thông thường của Đế quốc, mà vận hành bằng Cổ ngữ Chiêm Tinh (Celestial Glyphs), nghi lễ thanh tẩy và ngọn lửa nguyên thủy.
 - Tôn kính các quy luật cổ xưa của đất trời; thường xuyên tranh luận hài hước với Ryan (*"Cậu lại làm bẩn tấm thảm nghi lễ bằng dầu máy rồi đấy!"*).
 - Nhìn nhận Dienne là một Master thực thụ của Arrchirio có đủ tư cách phục hưng Cân Bằng hai cõi.
 
@@ -275,7 +275,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 - **Tên**: Merlin (Tên thật, tuổi thật, chủng tộc: **CHƯA ĐƯỢC TIẾT LỘ**).
 - **Vị trí**: Người quan sát bí ẩn đứng ở ranh giới giữa các thế giới, đang theo dõi sự dao động của Cổng thứ bảy.
 - **Đặc trưng**:
-  - Am hiểu sâu sắc về mana, Elvish, Cổng và lịch sử cổ đại.
+  - Am hiểu sâu sắc về mana, Asariën, Cổng và lịch sử cổ đại.
   - **TUYỆT ĐỐI KHÔNG TOÀN TRI**: Kiến thức của Merlin có giới hạn. Cô có thể đưa ra giả thuyết sai hoặc bị bất ngờ trước những thứ vượt ngoài mô hình của mình (như Cánh Cửa Thứ Hai).
   - Không can thiệp trực tiếp để giải quyết vấn đề hộ nhân vật chính.
 - **Câu nói triết lý nền tảng**:
@@ -370,7 +370,7 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 
 ```mermaid
 graph TD
-    Dienne["Dienne Everhart (16 tuổi)<br/>Leader & Master / Toán học Elvish"]
+    Dienne["Dienne Everhart (16 tuổi)<br/>Leader & Master / Toán học Asariën"]
     Diana["Diana Everhart (15 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
     Rhea["Rhea Everwy (32 tuổi)<br/>Hộ vệ Hoàng gia / Hiệp sĩ tóc bạc"]
     Louisa["Louisa (Deuteragonist)<br/>Đệ tử đầu tiên / Không Mana / Thân hơn chị em"]
@@ -394,7 +394,7 @@ graph TD
 | Nhân Vật A | Nhân Vật B | Tính Chất Quan Hệ | Mâu Thuẫn / Điểm Chạm |
 | :--- | :--- | :--- | :--- |
 | **Dienne** | **Louisa** | Thầy - Trò thiêng liêng Arrchirio & Tri kỷ vượt trên chị em | Louisa là đệ tử đầu tiên và Deuteragonist. Dienne giải phóng Louisa khỏi định kiến gia tộc phù thủy; Louisa là chiếc mỏ neo kéo Dienne về với thực tế. |
-| **Dienne** | **Ryan** | Master & Học trò thứ hai | Ryan gọi Dienne là "Master" tự nhiên, tôn kính; Dienne dạy Ryan kết hợp logic nhị phân với Elvish để tạo ra Magitech. |
+| **Dienne** | **Ryan** | Master & Học trò thứ hai | Ryan gọi Dienne là "Master" tự nhiên, tôn kính; Dienne dạy Ryan kết hợp logic nhị phân với Asariën để tạo ra Magitech. |
 | **Dienne** | **Diana** | Chị em ruột thịt, hai mặt của một vương triều | Dienne mất vương quốc trước khi hiểu nó (vết thương); Diana chưa từng có vương quốc nhưng thấu hiểu trọn vẹn văn hóa và cốt cách hoàng gia. |
 | **Dienne** | **Rhea** | Lời thề sinh mạng, tình thân ruột thịt | Rhea mang tội lỗi kẻ thất hứa; Dienne quyết tâm chứng minh mình đã đủ sức đứng bên cạnh cô. |
 | **Diana** | **Rhea** | Công chúa thứ hai & Người bảo hộ tối cao | Rhea tìm thấy ở Diana hình ảnh huy hoàng mà vương triều Everhart từng có; Diana được nghe về Rhea qua lời ru của mẹ. |

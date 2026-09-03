@@ -1,4 +1,4 @@
-# VOLUME 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT
+﻿# VOLUME 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT
 ### (The World Without Magic)
 
 ---
@@ -55,7 +55,7 @@ Không có mật danh huyền bí. Không có thẻ bài khắc mã số. Louisa
 
 ### CHƯƠNG 5: NGƯỜI KHÔNG CÓ MANA
 - Phân tích bản chất đối lập giữa Dienne và Louisa:
-  - Dienne: `Mana nội tại → Ngữ pháp Elvish → Phép thuật` (Toán học & Ma thuật).
+  - Dienne: `Mana nội tại → Ngữ pháp Asariën → Phép thuật` (Toán học & Ma thuật).
   - Louisa: `Đạo cụ trần thế → Phản xạ đường phố → Hiệu quả thực chiến` (Công nghệ & Thực dụng).
 - Louisa là con người 100% bình thường, không có mạch mana. Cô quen với súng, smartphone, tàu điện, điều tra tội phạm.
 - Cô biết về ma thuật không phải do học viện đào tạo, mà qua những thứ xấu xa lọt qua Cổng: ma thạch lậu, ma cụ cấm, những tên tội phạm xuyên giới.
@@ -73,7 +73,7 @@ Không có mật danh huyền bí. Không có thẻ bài khắc mã số. Louisa
 ### CHƯƠNG 8: DIENNE VS LOUISA
 - Xung đột nổ ra khi Louisa muốn dùng bộc phá ma thạch cưỡng chế niêm phong Cổng Rò Rỉ vì nó gây nhiễu sóng viễn thông đô thị; Dienne ngăn cản vì sợ phản chấn không gian.
 - Trận chiến nghẹt thở:
-  - Dienne dùng gió nén Elvish tốc chiến.
+  - Dienne dùng gió nén Asariën tốc chiến.
   - Louisa dùng phản xạ đường phố, góc khuất bờ tường, nã đạn vonfram điểm huyệt vòng tròn ma pháp, đá văng kiếm gỗ và dí dao tantō vào yết hầu Dienne.
   - Dienne lén dùng mũi chân vẽ ma trận ý niệm đông cứng hoạt tính ma thạch của Louisa; Louisa lập tức bỏ dao dùng tay trần cận chiến ghìm chặt Dienne.
   - Dienne dùng gió đẩy cả hai bật ra. Trận đấu kết thúc bất phân thắng bại khi mặt đất rung chuyển vì Cổng bắt đầu co giật.
@@ -91,7 +91,7 @@ Không có mật danh huyền bí. Không có thẻ bài khắc mã số. Louisa
 ### CHƯƠNG 11: DẤU TÍCH ARRCHIRIO TẠI KYOTO
 - Nhóm tìm vào tầng hầm một hiệu sách cổ ở khu phố Gion—trạm liên lạc bí mật cũ của Arrchirio.
 - Tìm thấy tập tài liệu cháy dở về *"Sự Cộng Hưởng Xuyên Không Gian"*.
-- Dòng chữ Elvish răn dạy: *"Đừng nhầm lẫn sự tương đồng với nguồn gốc. Chúng ta không sinh ra họ, và họ cũng không sinh ra chúng ta."*
+- Dòng chữ Asariën răn dạy: *"Đừng nhầm lẫn sự tương đồng với nguồn gốc. Chúng ta không sinh ra họ, và họ cũng không sinh ra chúng ta."*
 
 ### CHƯƠNG 12: HIỂM HỌA LEAK GATE
 - Cổng Rò Rỉ tại đồi Higashiyama nứt toác dữ dội, mana tím đậm tràn sang thế giới thực làm đông lạnh không khí và sinh ra những bóng ma năng lượng dị thường.
