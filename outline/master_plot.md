@@ -61,17 +61,26 @@
 ### [LỘ TRÌNH PHÁT TRIỂN TIẾP THEO: VOLUME 5+]
 
 #### Volume 5: Tiếng Vang Từ Biên Cương (Echoes of the Frontier)
-- **Mục tiêu**: Sự hội ngộ và cuộc điều tra quy mô lớn.
+- **Mục tiêu**: Hội tụ ba mũi lực lượng; ngăn chặn mỏ neo va chạm; tái ngộ Rhea Everwy; và mở khóa mạng lưới toàn cầu.
 - **Xung đột chính**:
-  - Đế quốc Aurelia phong tỏa gắt gao sau sự cố Sector 7, thành lập lực lượng đặc nhiệm săn lùng Arrchirio.
-  - Rhea lần theo dấu vết về phía nam, vô tình đối đầu với các đơn vị của Đế quốc đang truy lùng Dienne.
-  - Cánh Cửa Thứ Hai bắt đầu phát ra những xung động vi mô làm nhiễu loạn đồng thời cả mạng lưới điện Kyoto và linh mạch của Mira.
-- **Điểm bùng nổ**: Dienne và Rhea tái ngộ trong một hoàn cảnh ngặt nghèo—nhưng Rhea mang nặng mặc cảm tội lỗi không dám nhận mặt Dienne ngay lập tức.
+  - Cánh Cửa Thứ Hai phát xung, hé lộ bản thiết kế va chạm cưỡng chế hai thế giới trong vòng 5 tháng.
+  - Ba mũi chuyển động: Nhóm Dienne Bắc tiến, Rhea Nam tiến, 317 vượt Cổng từ Kyoto sang thế giới phép thuật.
+  - Đại chiến tại Cổng Cổ Đại phương Bắc chống lại Quân đoàn Chấp Pháp và Kỵ Sĩ Sắt Đế quốc.
+- **Điểm bùng nổ**: 
+  - Cuộc tái ngộ xúc động đẫm nước mắt và kiếm khí giữa Dienne và Rhea Everwy sau 10 năm xa cách.
+  - Rhea và 317 chính thức tuyên thệ lấp đầy **2 chiếc ghế sồi trống đầu tiên** tại Bàn Tròn Hội Đồng.
+  - Epilogue hé lộ bản đồ Mạng Lưới Cổng Đa Chiều Toàn Cầu (London, Trung Hoa, Mỹ, Ai Cập, Ả Rập) và bức điện tín từ **Diana Sterling** tại London.
 
-#### Volume 6: Bóng Ma Gia Tộc Arknight (The Phantom of Arknight)
-- **Mục tiêu**: Giải mã danh tính kẻ phản bội 20 năm trước.
-- **Nội dung**: Phát hiện mối liên hệ giữa huyết thống vương tộc Everhart và gia tộc Arknight. Dienne phải đối diện với sự thật rằng kẻ phản bội có thể là người thân ruột thịt của mình, kẻ tin rằng việc thống nhất độc tài hai thế giới là cách duy nhất cứu vãn thực tại.
+#### Volume 6: Những Thành Phố Bị Lãng Quên & Bóng Ma Arknight (The Forgotten Cities & The Phantom of Arknight)
+- **Mục tiêu**: Thâm nhập London; hội ngộ **Diana Sterling** (Chiếc ghế thứ ba); điều tra mạng lưới Cổng toàn cầu; và bóc trần sự thật về gia tộc Arknight.
+- **Nội dung chính**:
+  - Dienne, Rhea và 317 sang London sương mù, đối đầu và liên minh với Diana Sterling (Viện Khảo Cứu Hermetic, Cơ khí đồng hồ ma đạo Clockwork Arcana).
+  - Khám phá mạng lưới Cổng thế giới thực: Long mạch Côn Lôn (Trung Hoa), Kim Tự Tháp cộng hưởng (Ai Cập), Ảo ảnh Djinn (Ả Rập), Tổ hợp lượng tử DARPA (Mỹ).
+  - **Cú sốc huyết thống**: Phát hiện người sáng lập Arknight và kẻ ra lệnh thanh trừng Everhart chính là hoàng thúc ruột của Dienne.
+  - Diana chính thức gia nhập Arrchirio, ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba**.
 
 #### Volume 7 - Volume Cuối: Trận Chiến Cân Bằng & Cánh Cửa Cuối Cùng
-- **Mục tiêu**: Đại kết cục, đối đầu với kẻ chủ mưu và Merlin's Paradox.
-- **Nội dung**: Bốn chiếc ghế trống được lấp đầy (Dienne, Lucien, Ryan, Mira, Rhea, 317 và các đại diện mới). Mở khóa bí ẩn Cánh Cửa Thứ Hai: bản chất thật sự của hai thế giới và cứu vãn sự sụp đổ của Cổng thứ bảy.
+- **Mục tiêu**: Đại kết cục, đối đầu với Hoàng đế Aurelia, kẻ chủ mưu Arknight và giải mã Merlin's Paradox.
+- **Nội dung**: 
+  - Chiếc ghế trống thứ tư được lấp đầy (Đại diện Cổ đạo phương Đông).
+  - Liên minh toàn diện giữa các thế giới để giải cứu Cổng Thứ Bảy và thiết lập trật tự Cân Bằng vĩnh cửu.

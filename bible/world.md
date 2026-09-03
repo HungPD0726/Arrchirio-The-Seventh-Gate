@@ -999,3 +999,54 @@ Và từ đây, câu chuyện có thể chuyển sang câu hỏi lớn hơn:
 > **“Nếu hai thế giới không phải toàn bộ thực tại, vậy con người nên đứng ở đâu giữa chúng?”**
 
 Đó nên là trục tư tưởng giữ cho các Volume sau vẫn gắn kết với nền tảng của Volume 1–4.
+
+---
+
+# 10. Mạng Lưới Cổng Đa Chiều Toàn Cầu (The Global Real-World Gate Network)
+
+> **Quy tắc thiết lập thế giới mở rộng:** Thế giới thực không chỉ có duy nhất Kyoto. Bảy Cánh Cổng Nguyên Thủy và vô số Cổng Rò Rỉ (Leak Gates) phân bổ tương ứng với các kinh tuyến địa từ, mạch địa chấn và các trung tâm văn minh cổ xưa của Trái Đất. Mỗi khu vực mang một đặc trưng đối nghịch và cách tiếp cận hoàn toàn khác nhau đối với năng lượng ranh giới.
+
+---
+
+### 10.1. Kyoto (Nhật Bản) — *Mạch Ranh Giới Tĩnh Mịch & Chợ Đen Dị Vật*
+- **Đặc trưng không gian**: Đền chùa cổ kính rêu phong, cổng Torii gỗ son, rừng tre Sagano, các con ngõ ẩm ướt lẩn khuất dưới bóng đèn neon mờ ảo.
+- **Hiện tượng**: Mạch năng lượng rò rỉ âm ỉ dọc theo các đới đứt gãy kiến tạo ngầm kéo dài ra rãnh biển phía đông.
+- **Xã hội & Con người**: Cục An ninh ngầm kiểm soát gắt gao; thị trường chợ đen buôn lậu ma thạch và cổ vật cấm hoạt động trong bóng tối.
+- **Nhân vật tiêu biểu**: **317** (Sát thủ $\Psi = 0$, súng giảm thanh, đạn vonfram, còi bạc EMP).
+
+---
+
+### 10.2. London (Anh Quốc) — *Cơ Khí Đồng Hồ, Giả Kim Thuật & Viện Huyền Bí Hermetic*
+- **Đặc trưng không gian**: Màn sương mù dày đặc buông xuống dòng sông Thames, kiến trúc Gothic thời Victoria hòa quyện với các công trình tài chính hiện đại, Tháp đồng hồ Big Ben và các tầng hầm ngập lụt dưới lòng đất.
+- **Hiện tượng**: Kinh tuyến số 0 (Greenwich Meridian) đóng vai trò là kinh tuyến định chuẩn thời-không. Dưới tầng sâu của Bảo tàng Anh (British Museum) cất giấu kho lưu trữ bí mật của mạng lưới Arrchirio Tây Âu lưu lạc từ thế kỷ 19.
+- **Phương thức tiếp cận**: Không xem ma thuật là phép lạ tôn giáo, mà phân tích nó như **Cơ khí đồng hồ ma đạo (Clockwork Arcana)** và Giả kim thuật phương Tây (Hermetic Alchemy). Sử dụng bánh răng chính xác, áp suất hơi nước và bột bạc tinh chế để khống chế xung động ranh giới.
+- **Nhân vật tiêu biểu**: **Diana Sterling** (Tiểu thư quý tộc, học giả Viện Hermetic, sở hữu cây batoong trắc địa kinh tuyến Greenwich).
+
+---
+
+### 10.3. Trung Hoa (China) — *Long Mạch Phong Thủy, Côn Lôn & Đạo Pháp Thượng Cổ*
+- **Đặc trưng không gian**: Dãy núi Côn Lôn tuyết phủ quanh năm, đỉnh Thái Sơn chọc trời, các thung lũng sương mờ và các siêu đô thị triệu dân đan xen cổ trấn.
+- **Hiện tượng**: Cổng ranh giới được gọi là *"Thiên Môn"* hoặc *"Hư Vô Chi Giới"*. Năng lượng rò rỉ không gọi là "mana" mà được các Đạo sĩ cổ đại định danh là **"Linh Khí"** hoặc **"Tiên Khí"**.
+- **Phương thức tiếp cận**: Vận hành dựa trên thuyết Âm Dương Ngũ Hành, Bát Quái và mạng lưới Cửu Long Địa Mạch. Các đại trận pháp phong ấn bằng cự thạch và ngọc bích được chôn sâu nghìn năm để ghìm chặt các vết nứt không gian. Các viện nghiên cứu dị tượng ngầm của chính phủ kết hợp khí công truyền thống với khoa học hiện đại.
+
+---
+
+### 10.4. Hợp Chủng Quốc Hoa Kỳ (USA) — *Phức Hợp Quân Sự - Lượng Tử & Vũ Khí Hóa Hạt Ranh Giới*
+- **Đặc trưng không gian**: Các sa mạc cằn cỗi ở Nevada, các phòng thí nghiệm ngầm cấp độ tối mật (DARPA, Area 51, Los Alamos), các siêu máy tính lượng tử và máy gia tốc hạt khổng lồ.
+- **Hiện tượng**: Tiếp cận vết nứt không gian thuần túy dưới góc độ vật lý năng lượng cao. 
+- **Phương thức tiếp cận**: Dùng máy gia tốc hạt va chạm để bẻ gãy cấu trúc hạt mana, cố gắng tổng hợp nhân tạo hạt $\Psi$ trong phòng thí nghiệm. Mục tiêu tối thượng: Thương mại hóa nguồn năng lượng vô tận và chế tạo vũ khí xung năng lượng ranh giới để chiếm ưu thế địa chính trị toàn cầu.
+
+---
+
+### 10.5. Ai Cập (Egypt) — *Cộng Hưởng Hình Học Kim Tự Tháp & Cổ Ngữ Mặt Trời*
+- **Đặc trưng không gian**: Thung lũng sông Nile màu mỡ nằm giữa sa mạc cát vàng rực lửa, quần thể Kim Tự Tháp Giza và các đền thờ chìm sâu dưới lòng cát.
+- **Hiện tượng**: Các Kim Tự Tháp thực chất là những **Tháp Cộng Hưởng Hình Học (Geometric Resonators)** vĩ đại được xây dựng chính xác theo góc nghiêng của các toán tử Elvish nguyên thủy, dùng để điều hòa áp suất năng lượng phát ra từ Cổng sa mạc.
+- **Phương thức tiếp cận**: Ma thuật hệ Mặt Trời, nhiệt năng và linh hồn (Ba & Ka). Cổ ngữ tượng hình (Hieroglyphs) có mối liên hệ ngữ hệ trực tiếp với Cổ ngữ Elvish bậc cao.
+
+---
+
+### 10.6. Bán Đảo Ả Rập (Arabia) — *Ảo Ảnh Sa Mạc, Thước Trắc Tinh & Truyền Thuyết Djinn*
+- **Đặc trưng không gian**: Những đụn cát trùng điệp của sa mạc Rub' al Khali, những ốc đảo ngầm huyền bí giấu dưới hẻm đá, mái vòm của các nhà thờ Hồi giáo cổ và bầu trời đêm ngàn sao rực rỡ.
+- **Hiện tượng**: Ranh giới không gian tại đây mỏng manh đến mức thường xuyên tạo ra hiện tượng ảo ảnh khúc xạ không-thời gian (Mirage Gates). Những sinh vật rò rỉ từ thế giới phép thuật qua các vết nứt sa mạc từng được người dân bản địa gọi là **Djinn (Thần đèn / Thực thể Lửa Vô Ảnh)**.
+- **Phương thức tiếp cận**: Giả kim thuật Ả Rập cổ đại (Al-kīmiyā) kết hợp với các thước trắc tinh thiên văn (Astrolabes) bằng đồng thau nạm ngọc, tính toán chuyển động của các chòm sao để dự đoán chính xác giờ khắc Cổng rò rỉ mở ra.
+

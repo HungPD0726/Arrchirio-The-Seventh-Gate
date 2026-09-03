@@ -159,7 +159,34 @@
 
 ---
 
-# 8. CÁC NHÂN VẬT QUAN TRỌNG KHÁC
+# 8. NHÀ NGHIÊN CỨU HUYỀN BÍ LONDON: Diana Sterling
+
+### Thông Tin Cơ Bản
+- **Họ và tên**: Diana Sterling.
+- **Vị trí**: London, thế giới thực (Thành viên cấp cao của Viện Khảo Cứu Huyền Bí Hermetic ngầm tại London; hậu duệ của mạng lưới Arrchirio Tây Âu lưu lạc).
+- **Độ tuổi**: Khoảng 17 – 18 tuổi.
+- **Ngoại hình**: Thiếu nữ mang phong thái quý tộc Anh cổ điển. Mái tóc vàng óng cắt ngắn uốn nhẹ kiểu gợn sóng thập niên, đôi mắt xám tro thông tuệ sau gọng kính mắt tròn bằng đồng thau.
+- **Trang phục & Hành trang**:
+  - Áo khoác măng-tô dạ màu xanh lục sẫm (midnight green) thắt đai gọn gàng.
+  - Chiếc đồng hồ quả quýt bằng bạc cổ khắc bản đồ sao thiên văn và 24 múi giờ ranh giới.
+  - Cây batoong cán bạc chạm khắc biểu tượng nhánh cây và thanh kiếm gãy của Arrchirio phương Tây (bên trong tích hợp cơ cấu kim tiêm đoản mạch và thước đo kinh độ kinh tuyến Greenwich).
+
+### Động Cơ & Tâm Lý
+- **Khao khát bề nổi (Want)**: Bảo tồn các cổ vật huyền học của nhân loại, ngăn chặn sự can thiệp thô bạo của các cơ quan tình báo thế giới thực vào các Cổng ranh giới.
+- **Nhu cầu nội tâm (Need)**: Thoát khỏi sự giam cầm của những giáo điều hàn lâm quý tộc; tìm kiếm những người đồng chí thực sự có khả năng bảo vệ Cân Bằng hai cõi.
+- **Điểm yếu (Flaw)**: Đôi khi quá kiêu kỳ, trọng lễ nghi và đánh giá sự việc thuần túy qua các ghi chép văn bản lịch sử hơn là sự tàn khốc của chiến trường đẫm máu.
+
+### Phong Cách Huyền Học & Chiến Đấu
+- **Thế mạnh**: Bậc thầy về **Cơ khí đồng hồ ma đạo (Clockwork Arcana)**, Giả kim thuật phương Tây (Hermetic Alchemy), và trắc địa kinh tuyến không gian.
+- **Chiến đấu**: Phân tích tần số dao động của không gian thông qua nhịp tích tắc của bánh răng đồng hồ; dùng cơ cấu bẫy cơ học áp suất hơi nước và bột bạc tinh chế để vô hiệu hóa ma trận đối phương mà không cần trực tiếp đối đầu bằng thể lực.
+
+### Giọng Thoại & Quan Hệ
+- **Giọng điệu**: Điềm đạm, mỉa mai một cách lịch thiệp, thường dẫn các câu ngạn ngữ Latin cổ và thuật ngữ vật lý/giả kim thế kỷ 19.
+- **Vai trò**: Đại diện cho **chiếc ghế sồi trống thứ ba** tại Bàn Tròn Arrchirio; người mở khóa kho lưu trữ bí mật nằm sâu dưới lòng hầm Bảo tàng Anh (British Museum).
+
+---
+
+# 9. CÁC NHÂN VẬT QUAN TRỌNG KHÁC
 
 ### Người Thầy Già (Thung lũng tuyết)
 - Tàn dư Arrchirio cũ sống ẩn dật sau cuộc Đại thanh trừng. Áo chùng xám bạc cũ sờn, tẩu thuốc lá.

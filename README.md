@@ -20,12 +20,14 @@ mylightnovel/
 │   ├── magic_appendix.md         <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
 │   ├── canon_audit.md            <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
 │   └── state.md                  <-- Trạng thái cốt truyện (Post-Vol 4 Tracker)
-├── outline/                      <-- Dàn ý chi tiết 4 Volume
-│   ├── master_plot.md            <-- Cốt truyện tổng thể & lộ trình tương lai
+├── outline/                      <-- Dàn ý chi tiết các Volume
+│   ├── master_plot.md            <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-7)
 │   ├── volume_1.md               <-- Dàn ý Tập 1 (Công chúa mất đi vương quốc)
 │   ├── volume_2.md               <-- Dàn ý Tập 2 (Những thành phố không có trên bản đồ)
 │   ├── volume_3.md               <-- Dàn ý Tập 3 (Thế giới không có phép thuật)
-│   └── volume_4.md               <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
+│   ├── volume_4.md               <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
+│   ├── volume_5.md               <-- Dàn ý Tập 5 (Tiếng vang từ biên cương)
+│   └── volume_6.md               <-- Dàn ý Tập 6 (Những thành phố bị lãng quên & Bóng ma Arknight)
 ├── chapters/
 │   ├── vol1/                     <-- Bản thảo Tập 1 (Đã hoàn thành 100% - 122 KB)
 │   │   ├── Volume1_Full.md
@@ -39,10 +41,13 @@ mylightnovel/
 │   │   ├── Volume3_Full.md
 │   │   ├── prologue.md -> ch14.md
 │   │   └── epilogue.md
-│   └── vol4/                     <-- Bản thảo Tập 4 (Đã hoàn thành 100% - 62 KB)
-│       ├── Volume4_Full.md
-│       ├── prologue.md -> ch14.md
-│       └── epilogue.md
+│   ├── vol4/                     <-- Bản thảo Tập 4 (Đã hoàn thành 100% - 62 KB)
+│   │   ├── Volume4_Full.md
+│   │   ├── prologue.md -> ch14.md
+│   │   └── epilogue.md
+│   └── vol5/                     <-- Bản thảo Tập 5 (Đang phát triển)
+│       ├── ch05.md               <-- Chương 5: Tiếng vang dưới lòng đất
+│       └── ch06.md               <-- Chương 6: Những kẻ đón gió
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel
 └── README.md                     <-- Hướng dẫn này
 ```
