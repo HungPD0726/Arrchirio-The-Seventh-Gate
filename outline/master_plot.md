@@ -23,7 +23,7 @@
        │
 [Volume 2: Nhận Thức] ──> "Thế giới này thực sự là gì?" (40 quốc gia, trật tự Đế quốc)
        │
-[Volume 3: Vượt Giới] ──> "Thế giới của chúng ta có phải chỉ có một?" (Kyoto, 317, Không Mana)
+[Volume 3: Vượt Giới] ──> "Thế giới của chúng ta có phải chỉ có một?" (Kyoto, Louisa, Không Mana)
        │
 [Volume 4: Kiến Thiết] ──> "Tôi muốn xây dựng thứ gì?" (Arrchirio mới, Cánh Cửa Thứ Hai)
        │
@@ -44,17 +44,17 @@
 #### Volume 2: Những Thành Phố Không Có Trên Bản Đồ (The Cities Beyond the Map)
 - **Chủ đề**: Khám phá thế giới, va chạm định kiến và bài học thực chiến.
 - **Nội dung chính**: Dienne bước ra thế giới, ngỡ ngàng khi thấy hơn 40 quốc gia và trật tự phồn vinh của Đế quốc tại Oakhaven. Nhập học Aetheris, bị Kael đánh bại trong 3 giây. Kết thân với Lucien Vale, đột nhập Thư viện Khóa phát hiện dấu tích Arrchirio tại Kyoto. Bị Thẩm Phán Viện truy sát phải nhảy thác.
-- **Kết thúc (Epilogue)**: Giới thiệu 317 tại Kyoto dùng súng và còi bạc hạ gục pháp sư buôn lậu.
+- **Kết thúc (Epilogue)**: Giới thiệu Louisa tại Kyoto dùng súng và còi bạc hạ gục nhóm pháp sư buôn lậu ma thạch.
 
 #### Volume 3: Thế Giới Không Có Phép Thuật (The World Without Magic)
 - **Chủ đề**: Đối chiếu hai nền văn minh, sự cộng hưởng không gian.
-- **Nội dung chính**: Dienne và Lucien bước qua Cổng Rò Rỉ sang Kyoto (thế giới thực). Choáng ngợp trước nền văn minh máy móc hoàn toàn không có mana. Đụng độ 317 (trận chiến bất phân thắng bại). Cùng 317 niêm phong Cổng Rò Rỉ đang quá tải. Phát hiện tài liệu cổ về *"Sự Cộng Hưởng Xuyên Không Gian"*.
+- **Nội dung chính**: Dienne và Lucien bước qua Cổng Rò Rỉ sang Kyoto (thế giới thực). Choáng ngợp trước nền văn minh máy móc hoàn toàn không có mana. Chạm trán Louisa (cuộc đối đầu kịch tính giữa kiếm gỗ và súng đạn). Cùng Louisa phong tỏa Cổng Rò Rỉ đang đe dọa lưới điện đô thị; Dienne mời Louisa: *"Cậu có muốn học cách hiểu ma thuật không?"*
 - **Kết thúc (Epilogue)**: Dienne trở về; cuốn sổ da cổ hé lộ câu hỏi: Vì sao hai thế giới đang ngày càng trở nên giống nhau?
 
 #### Volume 4: Những Tàn Tích Của Arrchirio (The Remnants of Arrchirio)
 - **Chủ đề**: Lý tưởng, tuyển mộ và tái thiết.
 - **Nội dung chính**: Dienne quyết định khôi phục Arrchirio. Tuyển mộ Ryan (kỹ sư Magitech 14 tuổi) và Mira (học giả Ancient Magic & Spirit Arts). Tiếp quản pháo đài ngầm Sector 7. Từ chối con đường báo thù mù quáng của Vane. Chế tạo bẫy EMP ma đạo đánh tan tiểu đoàn Thẩm Phán Viện. Lập Hội đồng với 4 chiếc ghế trống và niêm phong Cánh Cửa Thứ Hai.
-- **Kết thúc (Epilogue)**: Rhea Everwy xuất hiện tại thị trấn biên giới, đọc thông báo về Arrchirio.
+- **Kết thúc (Epilogue)**: Tín hiệu từ Dòng Chảy Ma Thuật và tin tức về các hoạt động của Louisa ở Kyoto.
 
 ---
 
@@ -66,17 +66,17 @@
 - **Nội dung chính**:
   - Cánh Cửa Thứ Hai phát xung, đe dọa nén hai thế giới va chạm trong 5 tháng.
   - Nhóm Dienne cùng Mira tiến lên phương Bắc, nơi linh mạch tự nhiên đang kêu gào.
-  - 317 vượt Cổng từ Kyoto sang thế giới phép thuật, mang theo vũ khí động năng và chiến thuật đường phố chi viện cho nhóm.
-  - Đại chiến tại Cổng Cổ Đại: Dienne và 317 ngăn chặn thành công máy gia tốc của Thẩm Phán Viện.
+  - Louisa vượt Cổng từ Kyoto sang thế giới phép thuật, mang theo vũ khí động năng và chiến thuật đường phố chi viện cho nhóm.
+  - Đại chiến tại Cổng Cổ Đại: Dienne và Louisa ngăn chặn thành công máy gia tốc của Thẩm Phán Viện.
   - **Manh mối về Rhea**: Dienne phát hiện tàn dư năng lượng của người hiệp sĩ tại Cổng Cổ Đại không phải là dấu chân lưu lạc, mà là bằng chứng chấn động: **Rhea đã bị Dòng Chảy Ma Thuật (The Astral Current) cuốn trôi vào vết nứt thời-không!**
-  - 317 chính thức nhận **Chiếc Ghế Sồi Trống Thứ Hai** tại Bàn Tròn Arrchirio.
+  - Louisa chính thức nhận **Chiếc Ghế Sồi Trống Thứ Hai** tại Bàn Tròn Arrchirio.
   - **Epilogue**: Nhận được bức điện tín và bài hát ru Everhart từ **Reverse London**, ký tên: **Diana Everhart**!
 
 #### Volume 6: Reverse London & Bóng Ma Gia Tộc Arknight
 - **Thành phố / Bối cảnh**: **Reverse London** (London Nghịch Đảo).
 - **Câu hỏi hiện sinh**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
 - **Nội dung chính**:
-  - Dienne, 317, Lucien, Ryan, Mira sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
+  - Dienne, Louisa, Lucien, Ryan, Mira sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
   - **Nghịch lý hai nàng công chúa**: Dienne (mất vương quốc, Everhart là vết thương) vs Diana (chưa từng có vương quốc, Everhart là nền văn hóa).
   - Khám phá phong cách chiến đấu tuyệt mỹ của Diana: **Kiếm vũ Ballet**, **Ma thuật trong chuyển động** và giọng ca dạ khúc mê hoặc.
   - Khám phá mạng lưới thành phố thế giới thực: Kim Tự Tháp Cairo (Ancient Magic), Côn Lôn (Trung Hoa), Tổ hợp lượng tử DARPA (Mỹ).

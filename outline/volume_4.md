@@ -17,7 +17,7 @@ Ghi chép về hiện tượng "Sự Cộng Hưởng Xuyên Không Gian".
 Bản phác thảo sơ đồ vận hành cơ khí và mạng lưới năng lượng phi ma thuật của thế giới thực.
 
 
-Chiếc thẻ kim loại đen bóng khắc nguệch ngoạc con số 317.
+Bản đồ đô thị và thiết bị thu phát tín hiệu vô tuyến mang về từ Kyoto.
 
 
 Người thầy già đứng tựa lưng vào bệ lò sưởi, tẩu thuốc trên tay ông đã tắt ngấm tự bao giờ. Ánh mắt đục ngầu lướt qua trang giấy ghi lại dòng Elvish cổ: "Đừng nhầm lẫn sự tương đồng với nguồn gốc."
@@ -308,25 +308,25 @@ Cô đứng nhìn cánh cổng câm lặng trong bóng tối. Lời dạy của 
 
 Nhưng nếu ngoài kia tồn tại những thế giới vận hành trên những định luật hoàn toàn không biết đến mana... thì định luật của Merlin rốt cuộc chỉ là cái nhìn hạn hẹp của một kẻ đứng trong một chiếc hộp kín?
 
-CHƯƠNG 11: Tin tức về 317
+CHƯƠNG 11: Tin tức về Louisa
 
 Trong một lần Lucien mạo hiểm lẻn lên thành phố bên trên để mua sắm thêm nhu yếu phẩm, cậu mang về một tập bản tin tình báo chợ đen chuyên thu thập tin tức từ các Cổng Ngầm xuyên giới.
 
 Buổi tối bên bàn họp, Lucien vừa chia tài liệu vừa kể:
 
-"Mạng lưới buôn lậu ma thạch xuyên qua các Cổng Rò Rỉ ở phương Đông bên thế giới thực đang bị náo loạn hoàn toàn. Có một tay thợ săn vô danh đang càn quét sạch sẽ các đường dây tuồn cổ vật cấm."
+"Mạng lưới buôn lậu ma thạch xuyên qua các Cổng Rò Rỉ ở Kyoto bên thế giới thực đang bị náo loạn hoàn toàn. Có một cô gái tên là Louisa đang càn quét sạch sẽ các đường dây tuồn cổ vật cấm."
 
-Dienne ngẩng đầu lên: "Ai làm?"
+Dienne ngẩng đầu lên: "Louisa?"
 
-"Không ai biết danh tính thật. Một cô gái không hề có mana, dùng súng, kiếm ngắn và bẫy mẹo để hạ gục các pháp sư đào tẩu. Sau mỗi vụ việc, hiện trường chỉ còn lại một mảnh kim loại khắc đúng ba con số: 317."
+"Một cô gái người thường hoàn toàn không có mana, dùng súng lục giảm thanh, dao găm và bẫy mẹo để hạ gục các pháp sư đào tẩu gây rối."
 
-Ryan bật cười: "317? Mật danh của đội ám sát ngầm nào à?"
+Ryan bật cười: "Người thường mà dám đi săn pháp sư đào tẩu à? Cô ta điên rồi sao?"
 
-"Không phải tổ chức nào cả," Dienne khẽ mỉm cười, một nụ cười hiếm hoi thoáng qua trên gương mặt trầm mặc. "Chỉ là một kẻ thích ăn kẹo mút và ghét bị người khác làm phiền thôi."
+"Không điên đâu," Dienne khẽ mỉm cười, một nụ cười hiếm hoi thoáng qua trên gương mặt trầm mặc. "Chỉ là một cô gái thích ăn kẹo mút và ghét bị rác ma thuật làm phiền con ngõ nhà mình thôi."
 
 Mira ngạc nhiên nhìn biểu cảm của Dienne: "Cô quen người đó sao?"
 
-"Từng chạm trán," Dienne đáp ngắn gọn, không giải thích thêm. Cô biết 317 đang sống cuộc đời tự do theo cách riêng của mình ở Kyoto, và chừng nào thế giới này chưa đổ sập sang bên kia, con đường của họ sẽ tạm thời không giao nhau.
+"Từng kề vai chiến đấu," Dienne đáp ngắn gọn. Cô biết Louisa đang sống cuộc đời tự do theo cách riêng của mình ở Kyoto, và chừng nào thế giới này chưa đổ sập sang bên kia, con đường của họ sẽ tạm thời chưa gặp lại.
 
 CHƯƠNG 12: Đế quốc bắt đầu chú ý
 

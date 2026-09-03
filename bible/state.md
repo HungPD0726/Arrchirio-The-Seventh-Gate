@@ -25,7 +25,7 @@
 
 ### Nhân Vật Ở Nơi Khác (Off-screen / Theo Dõi Tình Báo):
 - **Rhea Everwy**: Đang ở một thị trấn biên giới hoang vu giáp bình nguyên, vừa nhìn thấy lệnh truy nã của Đế quốc nhắc đến cái tên Arrchirio. Chưa biết Dienne là người sáng lập.
-- **317**: Đang ở Kyoto (thế giới thực), tiếp tục công việc dọn dẹp các đường dây buôn lậu cổ vật qua Cổng Rò Rỉ bằng súng và mẹo bẫy. Giữ liên lạc gián tiếp qua các sự kiện rò rỉ.
+- **Louisa**: Đang ở Kyoto (thế giới thực), dọn dẹp các đường dây tội phạm buôn lậu cổ vật qua Cổng Rò Rỉ bằng súng ngắn giảm thanh và mẹo bẫy. Nhận biết các biến động rò rỉ ranh giới.
 - **Merlin**: Đang ở không gian cự thạch nguyên thủy giữa ranh giới hai thế giới, theo dõi **Cổng thứ bảy** vừa xuất hiện dao động tím.
 - **Người Thầy Già**: Ở lại căn chòi gỗ tại thung lũng tuyết hẻo lánh.
 - **Vane**: Đã rời bỏ pháo đài ngầm, lẩn trốn vào các đường cống ngầm của thế giới bên ngoài với sự căm hận Đế quốc tột cùng.
@@ -52,7 +52,7 @@
 - Thanh kiếm gỗ cũ kỹ của Rhea (vừa được khắc sâu thêm vết xước sau trận đấu với Inquisitors).
 - Chiếc trâm cài vương tộc Everhart.
 - Huy hiệu nhánh cây bạc Arrchirio.
-- Chiếc thẻ kim loại đen bóng khắc số `317`.
+- Thiết bị thu phát tín hiệu vô tuyến đặc chế kết nối với Kyoto của Louisa.
 - Chiếc la bàn ma lực định hướng của Lucien.
 
 ---

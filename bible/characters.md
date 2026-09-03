@@ -108,36 +108,75 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
 
 ---
 
-# 3. CON NGƯỜI KHÔNG MANA: 317
+# 3. NGƯỜI ĐỨNG Ở ĐIỂM GIAO HAI THẾ GIỚI: Louisa
 
 ### Thông Tin Cơ Bản
-- **Tên thường gọi**: **317** (Bắt nguồn từ ngày sinh: 17 tháng 3 $\to$ 3/17 $\to$ 317).
-- **Tên giả ngẫu hứng**: Louisa Swordman (tự nghĩ ra cho ngầu khi trêu tội phạm).
-- **Tên thật**: Chưa từng tiết lộ (cô từ chối dùng tên do người khác đặt).
-- **Độ tuổi**: Khoảng 17 - 19 tuổi.
-- **Thế giới gốc**: **Thế giới thực (Kyoto, Trái Đất)**.
-- **Ngoại hình**: Cô gái châu Á mảnh khảnh. Mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
+- **Tên chính thức và duy nhất**: **Louisa** (Bí danh ngẫu hứng khi trêu tội phạm: *Louisa Swordman*).
+- **Xuất thân & Hoàn cảnh**:
+  - Sinh ra và lớn lên tại **Kyoto (Nhật Bản, Trái Đất)** — một thế giới hoàn toàn hiện đại và phi mana.
+  - Quen thuộc với đời sống đô thị, tàu điện ngầm, smartphone, động cơ đốt trong, súng đạn, điều tra và tội phạm đường phố.
+  - **Không phải mật danh huyền bí, không phải sản phẩm thí nghiệm hay dị nhân**. Cô là một cô gái bình thường của thế giới thực, nhưng vô tình trở thành người am hiểu mặt tối của thế giới phép thuật hơn bất kỳ ai do liên tục va chạm với những thứ rò rỉ qua Cổng (ma thạch lậu, ma cụ chợ đen, pháp sư đào tẩu gây rối).
+- **Độ tuổi**: Khoảng 17 - 18 tuổi.
+- **Ngoại hình**: Cô gái châu Á mảnh khảnh, ánh mắt sắc sảo, mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
 - **Trang bị & Đạo cụ**:
   - Súng lục giảm thanh giắt trong bao da dưới nách (dùng đạn hợp kim nặng trịch phi ma thuật).
   - Dao găm ngắn / tantō dắt ngang thắt lưng sau.
   - Còi bạc cộng hưởng âm tần phá sóng ma trận.
   - Súng phóng dây móc leo trèo.
   - Túi bùa chú yểm sẵn và ma thạch thô (dùng bằng mẹo kích hoạt cơ học chứ không tự dẫn mana).
-  - Thẻ kim loại đen bóng khắc số `317`.
+  - Chiếc smartphone màn hình nứt góc dùng để liên lạc và định vị bản đồ đô thị.
 
-### Bản Chất Năng Lực (Canon Bất Khả Xâm Phạm)
+---
+
+### Bản Chất Năng Lực (Hard Canon Bất Khả Xâm Phạm)
 - **100% Con người bình thường về mặt sinh học**.
-- **HOÀN TOÀN KHÔNG CÓ MANA NỘI TẠI**. Không thể tự sinh mana, không có mạch mana.
-- **Không phải sản phẩm thí nghiệm, không phải dị nhân, không thuộc tổ chức sát thủ bí mật**.
-- Sức mạnh đến từ: Phản xạ thể chất đỉnh cao, chiến thuật đường phố, nắm bắt điểm yếu kết cấu ma pháp trận để bắn phá, cận chiến thực dụng đến tàn nhẫn.
+- **HOÀN TOÀN KHÔNG CÓ MANA NỘI TẠI ($\Psi = 0$)**. Không thể tự sinh mana, không có mạch mana trong cơ thể.
+- **TUYỆT ĐỐI KHÔNG BAO GIỜ THỨC TỈNH MANA**:
+  - Louisa có thể học: Ngữ pháp Elvish cơ bản, cách đọc sơ đồ ma pháp trận, cách nhận diện ma cụ, cách kích hoạt talisman bằng mẹo cơ học, nhận biết điểm yếu của thần chú để bắn phá điểm nút, và phối hợp tác chiến với pháp sư.
+  - Nhưng cơ thể cô vĩnh viễn không có mana. Sức mạnh của Louisa đến từ tư duy thực tế, phản xạ đường phố, công nghệ trần thế và sự bình tĩnh đến tàn nhẫn trước những thứ siêu nhiên.
 
-### Tính Cách & Giọng Thoại
-- Cợt nhả, thích cà khịa, nhây, ăn nói bất cần đời nhưng cực kỳ tỉnh táo trong thực chiến.
-- Rất coi trọng sự tự do cá nhân, ghét những kẻ đạo đức giả hoặc quý tộc phù thủy kiêu ngạo.
-- **CẤM KỴ OOC**:
-  - Tuyệt đối KHÔNG bao giờ tự tạo ra phép thuật bằng cơ thể mình.
-  - Không bao giờ gia nhập Arrchirio hay bất kỳ tổ chức nào với tư cách cấp dưới nhận lệnh.
-  - Không biến thành nhân vật sát thủ u ám "ngầu lòi vô cảm".
+---
+
+### Vai Trò Trong New Arrchirio
+- **Vị trí cốt lõi**: **Trinh sát, Thực chiến đường phố, Am hiểu thế giới thực, Xử lý mục tiêu phi pháp**.
+- **Tầm vóc biểu tượng**: **Người đứng ở điểm giao giữa hai nền văn minh**. Là chiếc cầu nối thực tế giúp Arrchirio không bao giờ rơi vào cái bẫy kiêu ngạo của giới phù thủy.
+
+---
+
+### Quá Trình Gắn Kết & Động Cơ Đồng Hành Cùng Dienne
+Mối quan hệ giữa Dienne và Louisa phát triển tự nhiên theo 4 chặng:
+1. **Đối đầu ban đầu** (Chạm trán tại Cổng Rò Rỉ ở Kyoto, đọ súng và kiếm gỗ).
+2. **Hợp tác bất đắc dĩ** (Cùng phong tỏa Cổng đang đe dọa nổ tung lưới điện đô thị).
+3. **Thấu hiểu lẫn nhau**:
+   > Dienne nhìn Louisa: *"Cậu không có mana."*  
+   > *"Ừ."*  
+   > *"Vậy mà cậu vẫn chiến đấu được như thế... Cậu có muốn học phép thuật không?"*  
+   > Louisa bật cười: *"Tôi không có mana. Vậy học kiểu gì?"*  
+   > Dienne nhìn những mảnh ma cụ vỡ trên mặt đất: *"Học cách hiểu nó."*  
+   > Louisa nhìn cô một lúc lâu: *"...Nghe cũng được."*
+4. **Lời mời đồng hành**:
+   > Dienne: *"Louisa. Cậu có muốn đi cùng tôi không?"*  
+   > *"Đi đâu?"*  
+   > *"Khắp thế giới."*  
+   > *"Nghe giống một câu rủ đi du lịch. Có nguy hiểm không?"*  
+   > *"Có."*  
+   > *"Có tiền không?"*  
+   > Lucien ở phía sau lập tức chen vào: *"Không nhiều."*  
+   > Louisa bật cười: *"Thế thì còn phải suy nghĩ."*
+
+- **Động cơ thực sự của Louisa**:  
+  Louisa đã dành phần lớn tuổi trẻ nhìn thế giới phép thuật từ bên ngoài qua những thứ tồi tệ và xấu xí nhất (buôn lậu, tội phạm, vết nứt rò rỉ). Dienne là người đầu tiên trao cho cô cơ hội: **Đi để nhìn thấy một thế giới phép thuật chân chính mà cô chưa từng được biết**.
+
+---
+
+### Khoảnh Khắc Nhận Chiếc Ghế Trống (Không Long Trọng, Không Bề Trên)
+Louisa không "được tuyển dụng" và không cần thề thốt gia nhập tổ chức. Sự gia nhập của cô là sự công nhận bình đẳng giữa hai người bạn:
+> Dienne đẩy một chiếc ghế về phía cô: *"Ngồi đi."*  
+> Louisa nhìn chiếc ghế: *"Cái gì đây?"*  
+> *"Chỗ của cậu."*  
+> *"Tôi đâu có nói là tôi gia nhập."*  
+> Dienne mỉm cười: *"Tôi cũng đâu hỏi."*  
+> Louisa nhìn cô vài giây... rồi thản nhiên kéo ghế ngồi xuống, nhai kẹo mút: *"Được thôi."*
 
 ---
 
@@ -294,20 +333,20 @@ graph TD
     Dienne["Dienne Everhart (16 tuổi)<br/>Leader / Toán học Elvish"]
     Diana["Diana Everhart (15 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
     Rhea["Rhea Everwy (32 tuổi)<br/>Hộ vệ Hoàng gia / Hiệp sĩ tóc bạc"]
-    User317["317 (Kyoto)<br/>Thực dụng / Không Mana"]
+    Louisa["Louisa (Kyoto)<br/>Thực dụng / Không Mana / Cầu nối"]
     Lucien["Lucien Vale<br/>Hậu cần / Tài chính"]
     Ryan["Ryan (14 tuổi)<br/>Magitech / Cơ khí nhị phân"]
     Mira["Mira<br/>Ancient Magic / Spirit Arts"]
     Merlin["Merlin<br/>Người quan sát bí ẩn"]
 
     Dienne <-->|Chị em ruột / Đối nghịch: Mất vương quốc vs Chưa từng có vương quốc| Diana
-    Dienne <-->|Lời thề móc ngoéo & Tìm kiếm| Rhea
+    Dienne <-->|Lời thề sinh mạng & Tìm kiếm| Rhea
     Diana <-->|Huyết thống hoàng gia & Lòng trung thành tuyệt đối| Rhea
     Dienne <-->|Đồng minh bất đắc dĩ & Bạn cùng tiến| Lucien
     Dienne <-->|Cầu nối tư duy & Khai phóng công nghệ| Ryan
     Dienne <-->|Dung hòa lý thuyết & Cân bằng linh mạch| Mira
-    Dienne <-->|Đối trọng văn minh & Chạm trán nảy lửa| User317
-    Diana <-->|Tương phản văn hóa: Công chúa đài các vs Sát thủ đường phố| User317
+    Dienne <-->|Đối trọng văn minh & Đồng hành: Hiểu mặt tối của phép thuật| Louisa
+    Diana <-->|Tương phản văn hóa: Công chúa đài các vs Nữ trinh sát đường phố| Louisa
     Ryan <-->|Khắc khẩu: Máy móc vs Linh mạch| Mira
     Merlin -.->|Quan sát biến số| Dienne
 ```
@@ -317,8 +356,9 @@ graph TD
 | **Dienne** | **Diana** | Chị em ruột thịt, hai mặt của một vương triều | Dienne mất vương quốc trước khi hiểu nó (vết thương); Diana chưa từng có vương quốc nhưng thấu hiểu trọn vẹn văn hóa và cốt cách hoàng gia. |
 | **Dienne** | **Rhea** | Lời thề sinh mạng, tình thân ruột thịt | Rhea mang tội lỗi kẻ thất hứa; Dienne quyết tâm chứng minh mình đã đủ sức đứng bên cạnh cô. |
 | **Diana** | **Rhea** | Công chúa thứ hai & Người bảo hộ tối cao | Rhea tìm thấy ở Diana hình ảnh huy hoàng mà vương triều Everhart từng có; Diana được nghe về Rhea qua lời ru của mẹ. |
-| **Diana** | **317** | Hai thái cực của thế giới thực | Diana múa ballet giữ trọn lễ nghi quý tộc; 317 ngậm kẹo mút xả đạn giảm thanh — cặp đôi "trái dấu" cực kỳ thú vị khi tác chiến. |
-| **Dienne** | **317** | Hai thái cực của hai thế giới | Dienne dùng mana và tư duy quý tộc; 317 dùng súng, bẫy và phong cách đường phố tự do. |
+| **Diana** | **Louisa** | Hai thái cực của thế giới thực | Diana múa ballet giữ trọn lễ nghi quý tộc; Louisa ngậm kẹo mút xả đạn giảm thanh — cặp đôi "trái dấu" cực kỳ thú vị khi tác chiến. |
+| **Dienne** | **Louisa** | Hai thái cực của hai thế giới | Dienne dùng mana và tư duy chiến lược; Louisa dùng súng, phản xạ đường phố và sự am hiểu mặt tối của rò rỉ ma thuật. |
 | **Ryan** | **Mira** | Kỹ thuật máy móc vs Linh mạch tự nhiên | Tranh cãi triền miên về hiệu suất và tính linh thiêng của ma thuật. |
 | **Dienne** | **Vane** | Bảo vệ Cân Bằng vs Báo thù cực đoan | Vane chế giễu sự non nớt của Dienne; Dienne từ chối biến mình thành kẻ ác như Đế quốc. |
+
 

@@ -1020,7 +1020,7 @@ Cô:
 - **Đặc trưng không gian**: Đền chùa cổ kính rêu phong, cổng Torii gỗ son, rừng tre Sagano, các con ngõ ẩm ướt lẩn khuất dưới bóng đèn neon mờ ảo.
 - **Hiện tượng**: Mạch năng lượng rò rỉ âm ỉ dọc theo các đới đứt gãy kiến tạo ngầm kéo dài ra rãnh biển phía đông.
 - **Xã hội & Con người**: Cục An ninh ngầm kiểm soát gắt gao; thị trường chợ đen buôn lậu ma thạch và cổ vật cấm hoạt động trong bóng tối.
-- **Nhân vật tiêu biểu**: **317** (Sát thủ $\Psi = 0$, súng giảm thanh, đạn vonfram, còi bạc EMP).
+- **Nhân vật tiêu biểu**: **Louisa** (Trinh sát đường phố $\Psi = 0$, súng lục giảm thanh, đạn vonfram, còi bạc EMP, người am hiểu mặt tối của rò rỉ ma thuật).
 
 ---
 

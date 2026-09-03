@@ -143,7 +143,7 @@ Lucien nhìn cô gái nhỏ với bờ vai rớm máu nhưng ánh mắt lạnh l
 Dienne bắt lấy chiếc la bàn bằng tay phải, khẽ gật đầu:
 "Cảm ơn."
 Cô xoay người, cất bước đi về phía con đường mòn dẫn tới bến cảng bí mật ngoài vịnh biển.
-EPILOGUE: 317
+EPILOGUE: LOUISA
 Thế giới thực. Một đêm mưa lạnh lẽo tại con ngõ hẹp phía sau một ngôi đền cổ ở Kyoto.
 Mặt đường nhựa ướt sũng phản chiếu ánh đèn vàng vọt từ cột đèn cũ kỹ. Tiếng thở dốc hoảng loạn vang lên gấp gáp. Một gã đàn ông mặc âu phục đắt tiền đang lùi dần vào chân tường, tay cầm một chiếc trượng ngắn bằng bạc khảm ngọc đỏ. Hắn là một tội phạm buôn lậu cổ vật cấm của Đế quốc, đang tìm đường chuồn qua một Cổng Rò Rỉ sang thế giới ngầm bên kia.
 "Mày là ai?! Đứa nào thuê mày?!" Hắn gào lên, giơ trượng gắt gao định hình một vòng tròn ma pháp phòng hộ màu đỏ rực. Các ký tự xoay chuyển tạo thành một lá chắn năng lượng bao bọc lấy cơ thể.
@@ -170,16 +170,13 @@ Cây trượng bạc văng ra xa, rơi tõm vào vũng nước.
 Mũi dao ngắn lạnh toát lập tức kề sát bên má gã đàn ông. Cô gái cúi người xuống, thổi một quả bóng kẹo cao su to tướng rồi để nó nổ 'bốp' một tiếng ngay trước mũi hắn.
 "Này, lần sau muốn tẩu tán cổ vật cấm thì chạy nhanh hơn một chút nhé. Vừa lười vừa chậm thế này mà cũng đòi làm tội phạm vượt biên à?"
 Gã pháp sư run rẩy như cầy sấy, hàm răng va vào nhau lập cập:
-"Mày... mày là thợ săn của WMC? Hay Thẩm Phán Viện?!"
-"Nhìn cái mặt xinh xắn này mà giống đám công chức nhà nước cứng nhắc đấy à? Chê nhé." Cô gái bĩu môi, tiện tay rút trong túi áo khoác ra một chiếc thẻ kim loại nhỏ kẹp vào cổ áo của hắn, rồi phủi tay đứng dậy. "Ai hỏi thì cứ bảo là tự vấp ngã đập mặt xuống đường đi. Khai tôi ra là lần sau tôi cắt luôn cái trượng thật của bác đấy."
+"Mày... mày là ai?!"
+"Một người dân Kyoto gương mẫu ghét rác ma thuật." Cô gái bĩu môi, nhặt cây trượng bạc lên ném vào chiếc túi vải bạt sau lưng, rồi phủi tay đứng dậy. "Ai hỏi thì cứ bảo là tự vấp ngã đập mặt xuống đường đi. Khai tôi ra là lần sau tôi cắt luôn cái trượng thật của bác đấy."
 Nói xong, cô gái thản nhiên quay lưng đút hai tay vào túi áo, huýt sáo bước đi trong màn mưa đêm.
-Gã đàn ông nằm bẹp dưới đất, run rẩy cầm chiếc thẻ kim loại lên nhìn dưới ánh đèn đường vàng vọt.
-Trên mặt kim loại đen bóng, không có gia huy, không có biểu tượng tổ chức, chỉ có duy nhất ba con số màu trắng được khắc nguệch ngoạc bằng tay:
-317
 Ở đầu con ngõ, dưới chân cánh cổng Torii màu đỏ thẫm dựng sừng sững giữa ranh giới hai thế giới, cô gái dừng chân lại, ngửa mặt đón những hạt mưa mát lạnh.
-Cô rút một chiếc gương tròn nhỏ xíu ra soi, chỉnh lại lọn tóc mái bị ướt, rồi tự lẩm bẩm bằng một giọng điệu chẳng giống ai:
-"Louisa Swordman... nghe cũng ngầu đấy chứ nhỉ? Mà thôi kệ đi, 317 nghe vẫn đỡ đau đầu hơn."
-Cô đút gương vào túi, nhảy chân sáo qua vũng nước rồi biến mất sau khúc quanh của phố cổ Kyoto.
+Cô nhét một que kẹo mút dâu vào miệng, chỉnh lại lọn tóc mái bị ướt, rồi tự lẩm bẩm:
+"Tên mình là Louisa... Louisa Swordman. Nghe cũng ngầu đấy chứ nhỉ?"
+Cô đút tay vào túi áo, nhảy chân sáo qua vũng nước rồi biến mất sau khúc quanh của phố cổ Kyoto.
 HẾT VOLUME 2
 
 

@@ -25,12 +25,13 @@
   *"...Hỡi ngọn lửa xanh trên đỉnh tuyết ngàn năm, bao giờ người lữ hành sẽ trở về nhà?..."*
 
 ### CHƯƠNG 1: BƯỚC VÀO THÀNH PHỐ NGHỊCH ĐẢO
-- Nhóm Arrchirio (Dienne, Rhea, 317, Lucien, Ryan, Mira) vượt qua Cổng Rò Rỉ đặc biệt bước chân vào **Reverse London**.
+- Nhóm Arrchirio (Dienne, Louisa, Lucien, Ryan, Mira) vượt qua Cổng Rò Rỉ đặc biệt bước chân vào **Reverse London**.
 - Không gian giao thoa kỳ ảo: Những cỗ xe ngựa chạy song song với đường ống hơi nước áp suất cao, các quý ông đội mũ phớt và quý bà mặc váy dạ hội xòe rộng.
-- Rhea lần đầu tiên đặt chân sang thế giới này, ngỡ ngàng khi nhìn thấy lá cờ rồng vàng Everhart nhỏ xíu được ai đó khắc kín đáo trên chân cầu đá cổ kính.
+- Louisa thích nghi cực nhanh với thành phố sương mù, mua vài tờ báo buổi sáng của London và bánh mì kẹp nóng hổi cho cả nhóm.
+- Dienne ngỡ ngàng khi nhìn thấy lá cờ rồng vàng Everhart nhỏ xíu được ai đó bí mật khắc trên chân cầu đá cổ kính bên sông Thames.
 
 ### CHƯƠNG 2: NGÔI NHÀ GẠCH ĐỎ
-- Lần theo tần số sóng vô tuyến và bức điện tín ở Tập 5, Dienne và Rhea tìm đến một con ngõ vắng lát đá cuội.
+- Lần theo tần số sóng vô tuyến và bức điện tín ở Tập 5, Dienne và Louisa tìm đến một con ngõ vắng lát đá cuội ở ngoại ô.
 - Trước mắt họ không phải là một cung điện nguy nga hay lâu đài tráng lệ, mà chỉ là một ngôi nhà gạch đỏ hai tầng đơn sơ, có giàn hoa hồng dại quấn quanh hàng rào sắt rỉ sét.
 - Cánh cửa gỗ mở hé. Tiếng hát ru quen thuộc của mẹ năm 6 tuổi bỗng từ trong nhà vọng ra, khiến bước chân Dienne hoàn toàn khựng lại.
 
@@ -42,7 +43,7 @@
   - Diana: Tà váy xếp ly mềm mại thắt eo quý phái, lưng thẳng tắp thanh nhã, mái tóc vàng gợn sóng buông lơi, toát lên khí chất vương giả thuần khiết dù đang đứng ở khoảng sân đất.
 - Dienne ngỡ ngàng nghĩ thầm: *"Em ấy giống một công chúa thực thụ hơn mình..."*
 - Diana từ từ hạ mũi kiếm, ngấn lệ cúi đầu hành lễ hoàng gia chuẩn xác từng góc độ: *"Chị mới là người thực sự sống cuộc đời mà em chỉ được nghe kể... Chị Dienne."*
-- Rhea quỳ sụp một gối xuống sàn đá, nước mắt của người hộ vệ già rơi lã chã.
+- Hai chị em ôm chầm lấy nhau giữa làn sương sớm London, giọt nước mắt lăn dài sau 15 năm xa cách.
 
 ### CHƯƠNG 4: DI SẢN CỦA CHA MẸ
 - Trong căn phòng khách ấm cúng có lò sưởi bập bùng, Diana kể lại toàn bộ câu chuyện:
@@ -60,7 +61,7 @@
 - Diana được Dienne dẫn về pháo đài ngầm Sector 7.
 - Trước Bàn Tròn Hội Đồng, Diana chỉnh lại nếp váy, nghiêng mình chào từng thành viên theo lễ nghi hoàng tộc, khiến Ryan và Lucien tròn xoe mắt thán phục.
 - Diana chính thức đặt con dấu rồng vàng lên mặt đá, ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba** (Đại diện cho Văn hóa Hoàng gia & Nghệ thuật Ranh giới).
-- Hội đồng Arrchirio Mới nay đã có 7 thành viên, chỉ còn thiếu **duy nhất 1 chiếc ghế trống**.
+- Hội đồng Arrchirio Mới nay đã có 6 thành viên, cùng với chiếc ghế thứ nhất mang thanh kiếm gỗ chờ đón Rhea trở về.
 
 ### CHƯƠNG 7: TỌA ĐỘ TOÀN CẦU — LONG MẠCH CÔN LÔN & KIM TỰ THÁP
 - Nhóm kích hoạt Thước Đo Kinh Tuyến Greenwich của Diana kết hợp với máy quét của Ryan, mở rộng bản đồ Cổng thế giới thực:
@@ -72,8 +73,7 @@
 ### CHƯƠNG 8: TẬP KÍCH TRỤ SỞ NGẦM TẠI NGOẠI Ô LONDON
 - Diana cung cấp thông tin tình báo: Một nhánh tài chính ngầm của gia tộc phản bội **Arknight** đang đặt trụ sở tại một nhà ga xe lửa bỏ hoang ở ngoại ô London.
 - Toàn đội phối hợp tác chiến đột kích:
-  - 317 xả đạn vonfram giảm thanh chế áp hỏa lực.
-  - Rhea vung trường kiếm lôi điện chém tan hàng rào thép.
+  - Louisa xả đạn vonfram giảm thanh chế áp hỏa lực và cắt đứt đường dây điện ngầm.
   - Diana lướt đi giữa làn đạn như một vũ công ballet, mũi liễu kiếm điểm huyệt và đoản mạch ma cụ đối phương trong tích tắc.
   - Dienne và Lucien thâm nhập vào phòng lưu trữ tài liệu tuyệt mật.
 
@@ -87,7 +87,7 @@
 - Quân tiếp viện của Arknight và Thẩm Phán Viện kích hoạt cỗ máy nén không gian hòng chôn sống cả khu phố London.
 - Không gian bắt đầu rạn nứt, sóng áp suất cực lớn làm nứt toác sàn đá.
 - Giữa khung cảnh hỗn loạn, **Diana cất tiếng hát**. Bài cổ ca Everhart với âm sắc hoàng gia thuần khiết đã cộng hưởng với sóng mana trong không khí, làm dịu đi sự cuồng bạo của máy nén trong vài giây quý giá.
-- Dienne nắm bắt cơ hội, lao lên cắm phập thanh kiếm gỗ sồi của Rhea vào lõi năng lượng, phá hủy hoàn toàn cỗ máy.
+- Dienne nắm bắt cơ hội, cùng Louisa phối hợp điểm hỏa phá hủy hoàn toàn cỗ máy.
 
 ### CHƯƠNG 11: LỜI TUYÊN CHIẾN VƯƠNG QUYỀN
 - Đứng trên đỉnh Tháp Big Ben trong làn sương mù London, hai chị em Dienne và Diana sánh bước bên nhau.
@@ -98,7 +98,7 @@
 ### CHƯƠNG 12: HƯỚNG VỀ PHƯƠNG ĐÔNG
 - Sau khi bình ổn Reverse London và kho lưu trữ ngầm, nhóm nhận được tín hiệu cầu cứu từ **dãy núi Côn Lôn (Trung Hoa)**:
 - Cổng Cổ Đại phương Đông đang bị tấn công dữ dội. Vị Đạo sĩ trấn giữ cuối cùng đang chờ đợi người kế thừa ngồi vào **Chiếc Ghế Sồi Thứ Tư**.
-- Dienne, Diana, Rhea, 317, Lucien, Ryan, Mira cùng nhau bước lên chuyến tàu xuyên giới, chuẩn bị cho trận chiến tối thượng tại Volume 7!
+- Dienne, Diana, Louisa, Lucien, Ryan, Mira cùng nhau bước lên chuyến tàu xuyên giới, chuẩn bị cho trận chiến tối thượng tại Volume 7!
 
 ### EPILOGUE: NỤ CƯỜI CỦA MERLIN
 - Tại khoảng hư không, Merlin quan sát thấy hai luồng ánh sáng lam ngọc của hai chị em Everhart đã hòa làm một trên bàn cờ định mệnh.
