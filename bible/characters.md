@@ -51,14 +51,60 @@
 - **Ngoại hình**: Dáng người cao ráo, vững chãi. Mái tóc màu bạc cắt ngắn ngang vai. Đôi mắt xám tro lạnh lùng nhưng ấm áp. Giáp nhẹ hoen rỉ mang nhiều vết chém, áo choàng rách mang huy hiệu Everwy phai màu. Bàn tay chằng chịt sẹo kiếm.
 - **Trang bị**: Trường kiếm bạc phát ra luồng kiếm khí sắc lẹm, bão mana màu bạc.
 
-### Tính Cách & Động Cơ
-- **Lý tưởng**: Danh dự của một hiệp sĩ chân chính ("Ta sẽ không để các ngươi chạm vào người").
-- **Vết thương nội tâm**: Nỗi đau dằn vặt vì không thể bảo vệ vương quốc và phụ hoàng của Dienne; phải nói lời nói dối duy nhất trong đời rằng "chúng ta sẽ quay lại".
-- **Hành tung hiện tại**: Sống sót sau trận chiến ở Cổng Cổ Đại, ẩn danh hoạt động ở các vùng biên cương hẻo lánh ngoài tầm với của Đế quốc.
+### Tính Cách & Động Cơ Cốt Lõi
+- **Bản chất của sự biến mất (Twist Vĩ Đại)**:
+  - Rhea **không chết, không bị bắt giam, không phản bội, và tuyệt đối KHÔNG bỏ rơi Dienne**.
+  - Đêm hoàng cung Everhart sụp đổ năm Dienne 6 tuổi, khi một mình bọc hậu dưới chân Cổng Cổ Đại, sự sụp đổ áp suất không gian đã cuốn Rhea vào **Dòng Chảy Ma Thuật (The Astral Current / Mana Current)**.
+  - Rhea bị dòng chảy thời-không nuốt chửng, trôi dạt vô định ngoài dòng thời gian bình thường mà không có bất kỳ cơ hội nào để tự quay trở lại.
+  - Suốt 10 năm Dienne lớn lên trong cô độc, Dienne luôn mang vết thương lòng rằng người hiệp sĩ đã hy sinh hoặc bỏ rơi mình. Nhưng sự thật nghiệt ngã là: **Rhea chưa từng có cơ hội quay lại**.
 
-### Giọng Thoại & Hành Vi
-- Điềm đạm, vững vàng như một bức trường thành. Thích trêu chọc những chỗ trốn ngây ngô của Dienne bé bỏng.
-- **CẤM KỴ OOC**: Tuyệt đối không đầu hàng Đế quốc; không từ bỏ lời hứa tìm lại Dienne; không hành động hèn hạ sau lưng người khác.
+---
+
+### Màn Tái Xuất Ở Trận Đấu Cuối Cùng (The Final Climax Payoff)
+- **Rhea KHÔNG xuất hiện sớm** ở các Volume giữa, mà sự trở lại của cô được giữ kín cho đến **Trận Chiến Cuối Cùng (The Final Battle)** để tạo nên cú nổ cảm xúc lớn nhất toàn bộ series:
+  - Khi New Arrchirio đã liên kết các thành phố ma thuật, tập hợp đủ đồng minh (Lucien, Ryan, Mira, Diana, 317...), nhưng vẫn đứng trước bờ vực diệt vong trước kẻ thù tối thượng.
+  - Căn cứ sụp đổ, hệ thống Cổng vỡ vụn, các đồng minh đều trọng thương, Dienne đứng đơn độc trơ trọi giữa đống đổ nát, cầm thanh kiếm gỗ cũ kỹ chuẩn bị đón nhận đòn kết liễu.
+  - Đúng khoảnh khắc tuyệt vọng nhất: Một khe nứt không gian rách toạc. **Dòng Chảy Ma Thuật tràn ra như một thác lũ ánh sáng bạc**.
+  - Một bóng người bước qua: Áo giáp cũ sứt mẻ, trường kiếm bạc, mái tóc ngắn màu bạc sương gió: **RHEA EVERWY**.
+
+### Cảnh Nhận Ra Nhau (Recognition Scene)
+- Dienne **không nhận ra ngay lập tức**, vì trong tâm trí cô, người phụ nữ ấy đã biến mất hàng chục năm và thuộc về một cõi hư vô xa xăm.
+- Rhea đứng trước mặt Dienne, nhìn cô gái mười mấy tuổi mang thanh kiếm gỗ của mình, rồi thốt lên câu nói in sâu vào ký ức tuổi thơ:
+  > *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*  
+  *(hoặc: "Công chúa không được đứng giữa chiến trường như thế.")*
+- Giây phút ấy, cả thế giới sụp đổ trong Dienne. Cô gái kiên cường như đá tảng chết lặng giữa khói lửa. Người bảo hộ của cô... đã thực sự trở về.
+
+---
+
+### Cảnh "Hai Lựa Chọn" Sau Trận Cuối (The Two Choices)
+Sau khi đánh bại kẻ thù tối thượng, Dòng Chảy Ma Thuật mở ra một lần cuối cùng trước khi khép lại vĩnh viễn, đặt Rhea trước hai ngã rẽ định mệnh:
+1. **Lựa chọn 1 — Quay về quá khứ**:
+   - Dòng chảy có thể đưa Rhea trở về đúng khoảnh khắc đêm Everhart bốc cháy năm Dienne 6 tuổi.
+   - Cô có thể bế cô bé chạy thoát, cứu sống Tiên vương, sửa chữa lại toàn bộ bi kịch quá khứ.
+   - **Cái giá**: Dòng thời gian hiện tại sẽ bị xóa sổ! Dienne của ngày hôm nay, Diana, 317, New Arrchirio, những tình bạn và sự trưởng thành mà họ đã đánh đổi bằng xương máu sẽ tan thành mây khói!
+2. **Lựa chọn 2 — Ở lại tương lai hiện tại**:
+   - Chấp nhận rằng quá khứ đã trôi qua. Nhìn nhận rằng Dienne không còn là cô bé cần người che chở nữa.
+
+### Lời Bộc Bạch & Quyết Định Của Rhea
+Rhea nhìn vào khe nứt không gian đang vẫy gọi về quá khứ, rồi quay lại nhìn Dienne:
+> *"Ta từng nghĩ mình chỉ sống để quay lại... Ta nghĩ nếu có một ngày được trở về, ta sẽ ôm lấy cô bé ấy và nói rằng mọi chuyện rồi sẽ ổn.*  
+> *Nhưng ta đã nhìn thấy em.*  
+> *Em không còn là cô bé mà ta từng mang khỏi Everhart nữa.*  
+> *Em đã có bạn bè. Em đã có một nơi thuộc về mình. Và em đã tự mình đi đến tận đây.*  
+> *Ta không muốn quay về để cứu một quá khứ đã không còn tồn tại.*  
+> *Lần đầu tiên trong đời... ta muốn chọn tương lai."*
+
+### Signature Ending Line Của Series
+Dienne không nói một lời nào, đôi mắt rưng rưng ngấn lệ, từ từ đưa bàn tay đầy vết chai sạn ra phía trước.  
+Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng ngang hàng bên cạnh Dienne, nắm chặt lấy tay cô và nói:
+
+> **“I'll stay by your side.”**
+
+*(Giữ nguyên câu tiếng Anh, không dịch)*.  
+- **Ý nghĩa tối thượng**: 
+  - Trong Tập 1: Rhea nói *"Ta sẽ theo sau em"* nhưng rồi bị cuốn mất.
+  - Tại Trận cuối: **“I'll stay by your side.”** — Lần này, cô thực sự ở lại!
+  - Rhea không ở lại như một người bề tôi phục vụ công chúa bé nhỏ, mà ở lại với tư cách một người đồng đội bình đẳng đứng cạnh người phụ nữ vĩ đại mà Dienne đã tôi luyện trở thành. Đây chính là câu kết thúc hoàn hảo cho toàn bộ thiên sử thi Arrchirio!
 
 ---
 

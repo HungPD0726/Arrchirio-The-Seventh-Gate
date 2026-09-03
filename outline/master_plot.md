@@ -58,29 +58,39 @@
 
 ---
 
-### [LỘ TRÌNH PHÁT TRIỂN TIẾP THEO: VOLUME 5+]
+### [LỘ TRÌNH PHÁT TRIỂN TIẾP THEO: VOLUME 5 - 7]
 
-#### Volume 5: Tiếng Vang Từ Biên Cương (Echoes of the Frontier)
-- **Mục tiêu**: Hội tụ ba mũi lực lượng; ngăn chặn mỏ neo va chạm; tái ngộ Rhea Everwy; và mở khóa mạng lưới toàn cầu.
-- **Xung đột chính**:
-  - Cánh Cửa Thứ Hai phát xung, hé lộ bản thiết kế va chạm cưỡng chế hai thế giới trong vòng 5 tháng.
-  - Ba mũi chuyển động: Nhóm Dienne Bắc tiến, Rhea Nam tiến, 317 vượt Cổng từ Kyoto sang thế giới phép thuật.
-  - Đại chiến tại Cổng Cổ Đại phương Bắc chống lại Quân đoàn Chấp Pháp và Kỵ Sĩ Sắt Đế quốc.
-- **Điểm bùng nổ**: 
-  - Cuộc tái ngộ xúc động đẫm nước mắt và kiếm khí giữa Dienne và Rhea Everwy sau 10 năm xa cách.
-  - Rhea và 317 chính thức tuyên thệ lấp đầy **2 chiếc ghế sồi trống đầu tiên** tại Bàn Tròn Hội Đồng.
-  - Epilogue hé lộ bản đồ Mạng Lưới Cổng Đa Chiều Toàn Cầu (London, Trung Hoa, Mỹ, Ai Cập, Ả Rập) và bức điện tín từ **Diana Sterling** tại London.
-
-#### Volume 6: Những Thành Phố Bị Lãng Quên & Bóng Ma Arknight (The Forgotten Cities & The Phantom of Arknight)
-- **Mục tiêu**: Thâm nhập London; hội ngộ **Diana Sterling** (Chiếc ghế thứ ba); điều tra mạng lưới Cổng toàn cầu; và bóc trần sự thật về gia tộc Arknight.
+#### Volume 5: Tiếng Vang Từ Biên Cương & Vùng Đất Spirit Arts
+- **Thành phố / Bối cảnh**: Biên cương phương Bắc & Vùng Linh Mạch Spirit Arts (Heiankyō Ura).
+- **Câu hỏi hiện sinh**: *Liệu mana có phải chỉ là thứ năng lượng để đo đạc và tính toán? Linh hồn của vạn vật nằm ở đâu khi cộng hưởng $\theta = 0$?*
 - **Nội dung chính**:
-  - Dienne, Rhea và 317 sang London sương mù, đối đầu và liên minh với Diana Sterling (Viện Khảo Cứu Hermetic, Cơ khí đồng hồ ma đạo Clockwork Arcana).
-  - Khám phá mạng lưới Cổng thế giới thực: Long mạch Côn Lôn (Trung Hoa), Kim Tự Tháp cộng hưởng (Ai Cập), Ảo ảnh Djinn (Ả Rập), Tổ hợp lượng tử DARPA (Mỹ).
-  - **Cú sốc huyết thống**: Phát hiện người sáng lập Arknight và kẻ ra lệnh thanh trừng Everhart chính là hoàng thúc ruột của Dienne.
-  - Diana chính thức gia nhập Arrchirio, ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba**.
+  - Cánh Cửa Thứ Hai phát xung, đe dọa nén hai thế giới va chạm trong 5 tháng.
+  - Nhóm Dienne cùng Mira tiến lên phương Bắc, nơi linh mạch tự nhiên đang kêu gào.
+  - 317 vượt Cổng từ Kyoto sang thế giới phép thuật, mang theo vũ khí động năng và chiến thuật đường phố chi viện cho nhóm.
+  - Đại chiến tại Cổng Cổ Đại: Dienne và 317 ngăn chặn thành công máy gia tốc của Thẩm Phán Viện.
+  - **Manh mối về Rhea**: Dienne phát hiện tàn dư năng lượng của người hiệp sĩ tại Cổng Cổ Đại không phải là dấu chân lưu lạc, mà là bằng chứng chấn động: **Rhea đã bị Dòng Chảy Ma Thuật (The Astral Current) cuốn trôi vào vết nứt thời-không!**
+  - 317 chính thức nhận **Chiếc Ghế Sồi Trống Thứ Hai** tại Bàn Tròn Arrchirio.
+  - **Epilogue**: Nhận được bức điện tín và bài hát ru Everhart từ **Reverse London**, ký tên: **Diana Everhart**!
 
-#### Volume 7 - Volume Cuối: Trận Chiến Cân Bằng & Cánh Cửa Cuối Cùng
-- **Mục tiêu**: Đại kết cục, đối đầu với Hoàng đế Aurelia, kẻ chủ mưu Arknight và giải mã Merlin's Paradox.
-- **Nội dung**: 
-  - Chiếc ghế trống thứ tư được lấp đầy (Đại diện Cổ đạo phương Đông).
-  - Liên minh toàn diện giữa các thế giới để giải cứu Cổng Thứ Bảy và thiết lập trật tự Cân Bằng vĩnh cửu.
+#### Volume 6: Reverse London & Bóng Ma Gia Tộc Arknight
+- **Thành phố / Bối cảnh**: **Reverse London** (London Nghịch Đảo).
+- **Câu hỏi hiện sinh**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
+- **Nội dung chính**:
+  - Dienne, 317, Lucien, Ryan, Mira sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
+  - **Nghịch lý hai nàng công chúa**: Dienne (mất vương quốc, Everhart là vết thương) vs Diana (chưa từng có vương quốc, Everhart là nền văn hóa).
+  - Khám phá phong cách chiến đấu tuyệt mỹ của Diana: **Kiếm vũ Ballet**, **Ma thuật trong chuyển động** và giọng ca dạ khúc mê hoặc.
+  - Khám phá mạng lưới thành phố thế giới thực: Kim Tự Tháp Cairo (Ancient Magic), Côn Lôn (Trung Hoa), Tổ hợp lượng tử DARPA (Mỹ).
+  - **Cú sốc huyết thống**: Phát hiện kẻ phản bội đứng đầu Arknight chính là **Hoàng thúc ruột** của Dienne và Diana!
+  - Diana chính thức ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba**.
+
+#### Volume 7 - Volume Cuối: Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục)
+- **Thành phố / Bối cảnh**: **Cairo** (Ai Cập - Ma thuật tượng hình cổ) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
+- **Nội dung & Đại kết cục**:
+  - Nhóm giải mã các Tháp Cộng Hưởng Kim Tự Tháp và thâm nhập đầu não New Rome, lấp đầy chiếc ghế trống thứ tư (Đại diện Cổ đạo).
+  - Trận chiến tối thượng chống lại Hoàng đế Aurelia và kẻ phản bội Arknight.
+  - **Tột cùng tuyệt vọng**: Căn cứ sụp đổ, hệ thống Cổng rạn nứt, toàn bộ đồng minh trọng thương, New Arrchirio trên bờ vực diệt vong. Dienne đứng trơ trọi giữa đống tro tàn giơ thanh kiếm gỗ đón nhận đòn kết liễu.
+  - **SỰ XUẤT HIỆN CỦA RHEA**: Một vết nứt rách toạc, **Dòng Chảy Ma Thuật tràn ra ánh sáng bạc**, Rhea bước ra với giáp cũ và trường kiếm bạc!
+  - **Cảnh nhận ra nhau**: Rhea thốt lên câu nói tuổi thơ: *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*
+  - **Cảnh Hai Lựa Chọn**: Rhea từ chối quay về quá khứ để cứu vương quốc đã mất, quyết định chọn tương lai cùng Dienne.
+  - **Signature Ending Line**: Dienne đưa bàn tay ra, Rhea nắm lấy và nói câu kết thúc lịch sử của series:
+    > **“I'll stay by your side.”**

@@ -982,23 +982,31 @@ Cô:
 
 ---
 
-# 9. Trục phát triển lớn nhất của toàn bộ series
+# 9. Trục phát triển lớn nhất: Hành Trình Du Hành Qua Các Thành Phố Ma Thuật
 
-Có thể xem 4 Volume đầu như một đường tiến hóa:
+> **Triết lý kiến tạo thế giới:**  
+> Thay vì để Dienne bị cuốn vào các âm mưu chính trị đơn điệu, **cuộc đời cô thực sự là một chuyến hành trình đi qua những thành phố kỳ diệu của hai thế giới**.  
+> **"Mỗi thành phố là một thế giới nhỏ. Mỗi thế giới nhỏ cho Dienne một mảnh ghép về thế giới lớn. Mỗi thành phố trả lời một câu hỏi hiện sinh."**
 
-> **Volume 1 — Tôi đã mất gì?**
-> ↓
-> **Volume 2 — Thế giới này thực sự là gì?**
-> ↓
-> **Volume 3 — Thế giới của chúng ta có phải chỉ có một không?**
-> ↓
-> **Volume 4 — Tôi muốn xây dựng thứ gì?**
+---
 
-Và từ đây, câu chuyện có thể chuyển sang câu hỏi lớn hơn:
+### 9.1. Bản Đồ Câu Hỏi Của Các Thành Phố
+1. **Lumeria & Oakhaven**: *Con người đã biến ma thuật thành công nghệ đến mức nào? Và cái giá của sự phân hóa giai cấp đằng sau Magitech là gì?*
+2. **Kyoto**: *Điều gì sẽ xảy ra với một nền văn minh nhân loại hoàn toàn không có mana nhưng sở hữu khoa học kỹ thuật và trật tự trần thế?*
+3. **Sector 7 (Tàn tích pháo đài)**: *Tổ chức Arrchirio thực sự đã làm gì trong quá khứ? Cân Bằng là lý tưởng cao đẹp hay sự thỏa hiệp đau đớn?*
+4. **Heiankyō Ura & Vùng Đất Spirit Arts**: *Liệu mana có phải chỉ là một dạng năng lượng vô tri để đo đạc và tính toán? Linh hồn của vạn vật nằm ở đâu khi cộng hưởng $\theta = 0$?*
+5. **Reverse London (London Nghịch Đảo)**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
+6. **Cairo / Al-Qahira (Ai Cập)**: *Những trường phái ma thuật cổ xưa không dùng cấu trúc Elvish theo kiểu châu Âu vận hành thế nào? Ma thuật Mặt Trời và nghi lễ cổ đại?*
+7. **New Rome / Rome**: *Quyền lực, tín ngưỡng giáo hội và pháp chế ma thuật thao túng đức tin con người ra sao?*
 
-> **“Nếu hai thế giới không phải toàn bộ thực tại, vậy con người nên đứng ở đâu giữa chúng?”**
+---
 
-Đó nên là trục tư tưởng giữ cho các Volume sau vẫn gắn kết với nền tảng của Volume 1–4.
+### 9.2. Hiện Tượng: Dòng Chảy Ma Thuật (The Astral Current / Mana Current)
+- **Bản chất**: Không phải là một cỗ máy thời gian kiểu khoa học viễn tưởng đơn giản. Nó là một **hiện tượng tự nhiên dị thường của không-thời gian** sinh ra khi ranh giới giữa các thế giới bị nứt toác nghiêm trọng tại các Cổng Cổ Đại.
+- **Quy luật vận hành**:
+  - Dòng Chảy Ma Thuật cuốn trôi bất kỳ ai rơi vào tâm chấn xoáy ranh giới, đẩy họ trôi dạt vô định bên ngoài dòng chảy thời gian tuyến tính bình thường.
+  - Người bị cuốn vào **không tự chọn thời điểm đi, không biết mình sẽ trôi dạt về đâu, và tuyệt đối không thể tự quay lại**.
+  - **Số phận của Rhea Everwy**: Đêm Everhart sụp đổ, Rhea bọc hậu dưới chân Cổng Cổ Đại và bị Dòng Chảy Ma Thuật cuốn đi. Suốt 10 năm Dienne lớn lên, Rhea không hề có cơ hội trở về, cho đến khi dòng chảy nứt toác một lần nữa tại Trận Chiến Cuối Cùng của series!
 
 ---
 

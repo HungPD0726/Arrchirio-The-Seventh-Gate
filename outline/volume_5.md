@@ -1,7 +1,7 @@
-# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG
-### (Echoes from the Frontier)
+# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
+### (Echoes of the Frontier & The Spirit Realm)
 
-> **Mục tiêu cốt truyện:** Hội tụ ba mũi lực lượng (Nhóm Arrchirio Mới, Hiệp sĩ Rhea Everwy, và Sát thủ 317); giải mã bản thiết kế va chạm của Cánh Cửa Thứ Hai; ngăn chặn sự sụp đổ tức thời của ranh giới; và mở ra mạng lưới Cổng đa chiều toàn cầu hướng về London.
+> **Mục tiêu cốt truyện:** Giải mã hiện tượng Cánh Cửa Thứ Hai phát xung; khám phá bản thiết kế va chạm hai thế giới; cuộc vượt Cổng của 317 sang thế giới phép thuật; làm sáng tỏ sự thật đau đớn về sự biến mất của Rhea Everwy trong **Dòng Chảy Ma Thuật (The Astral Current)**; lấp đầy Chiếc Ghế Sồi Trống Thứ Hai; và nhận bức điện tín từ em gái ruột **Diana Everhart** tại **Reverse London**.
 
 ---
 
@@ -14,8 +14,8 @@
 
 ### CHƯƠNG 1: DẤU VẾT DƯỚI MÀN TUYẾT
 - Tình báo chợ đen của Lucien mang về tin tức chấn động: Đế quốc Aurelia phong tỏa toàn diện biên giới phương Bắc, điều động các trung đoàn thiết giáp và lính cơ giới ma đạo dồn về các tiền đồn hoang dã.
-- Có tin đồn về một nữ kiếm sĩ tóc bạc mang trường kiếm sứt mẻ đơn thương độc mã tập kích các đoàn xe áp giải cổ vật của Thẩm Phán Viện.
-- Dienne nhận ra dấu hiệu của Rhea Everwy.
+- Có tin đồn về những dao động kiếm khí màu bạc bí ẩn xuất hiện tại Cổng Cổ Đại ở đèo Băng Giá.
+- Dienne nhận ra dấu vết ma lực của thanh kiếm bạc quen thuộc, tin rằng Rhea đang lưu lạc ở phương Bắc.
 
 ### CHƯƠNG 2: MẬT MÃ CỦA KẺ BUÔN LẬU
 - Lucien móc nối với các tuyến vận tải ngầm xuyên biên giới.
@@ -37,12 +37,11 @@
 - Nhóm bốn người thâm nhập tầng đáy, vượt qua ma pháp trận tô-pô tự tái cấu trúc bằng cách khóa 3 điểm neo ($\bigcirc, \to, \⌘$).
 - Dienne nghe thấy tiếng thì thầm *...Dienne...* vang vọng trong huyết quản từ Cánh Cửa.
 - Ryan chụp lại hình ảnh lõi: **Hai vòng tròn hoàn hảo bị một đường thẳng xuyên thủng tâm** — bản thiết kế cưỡng chế kéo hai thế giới va chạm vào nhau.
-- Cùng lúc, Rhea tại thị trấn bão cát và 317 tại Kyoto đồng thời cảm nhận nhịp chấn động.
+- Cùng lúc, 317 tại Kyoto cảm nhận nhịp chấn động khi đèn đường vụt tắt và tàu điện ngầm Tozai phanh khẩn cấp.
 
 ### CHƯƠNG 6: NHỮNG KẺ ĐÓN GIÓ *(Đã viết bản thảo đầy đủ)*
 - Hội đồng Arrchirio họp khẩn: Ryan cảnh báo hạn định 5 tháng trước khi hai thế giới đè bẹp lẫn nhau; Mira phản đối đánh sập mỏ neo vì sẽ tạo lỗ đen xé toạc lục địa.
 - Dienne vạch trần âm mưu của Arknight và Hoàng đế Aurelia: Có kẻ đang kích hoạt Cổng Cổ Đại ở phương Bắc để kéo mỏ neo. Quyết định Bắc tiến.
-- Rhea cảm nhận dao động mana từ thanh kiếm gỗ sồi của Dienne, tuốt gươm rẽ bão cát xuống Nam.
 - 317 nhận cảnh báo từ Cục An ninh ngầm về mức mana rò rỉ tăng 300% đe dọa thiêu rụi lưới điện Nhật Bản; nạp đạn vonfram, dắt đoản đao vượt Cổng sang thế giới phép thuật.
 
 ### CHƯƠNG 7: VƯỢT QUA TRẠM GÁC THIẾT GIÁP
@@ -56,42 +55,47 @@
 - **317** xuất hiện với áo khoác bomber đen, ngậm kẹo mút dâu, xả súng ngắn giảm thanh và dùng còi bạc EMP thổi tung kết giới của pháp sư đối phương.
 - Cuộc tái ngộ dở khóc dở cười: 317 đòi Dienne "thanh toán tiền công giải cứu" và giải thích tại sao cô phải lặn lội sang cái thế giới đầy mùi khói này.
 
-### CHƯƠNG 9: MŨI TÊN ĐƠN ĐỘC
-- Chuyển cảnh sang Rhea Everwy: Một mình đột kích vào pháo đài tiền tiêu của Thẩm Phán Viện ở đèo Băng Giá.
-- Rhea phát hiện tài liệu tác chiến bí mật: Thẩm Phán Viện đang dùng một máy gia tốc dòng mana nhân tạo ép xung Cổng Cổ Đại phương Bắc.
-- Rhea bị phục kích bởi Đại Chỉ Huy Kỵ Sĩ Sắt của Đế quốc; một trận đấu kiếm nảy lửa giữa lôi điện bạc và kiếm thuật cuồng bạo.
+### CHƯƠNG 9: VẾT SẸO CỦA DÒNG CHẢY MA THUẬT
+- Nhóm Dienne cùng 317 thâm nhập vào pháo đài tiền tiêu của Thẩm Phán Viện ở đèo Băng Giá, lần theo dấu vết dao động thanh kiếm bạc.
+- Dienne phát hiện tài liệu tuyệt mật của Đế quốc: Thẩm Phán Viện đang dùng máy gia tốc dòng mana để cố gắng "câu" một thứ gì đó từ vết nứt không-thời gian của Cổng Cổ Đại.
+- Dấu vết mana để lại không phải của một người đang sống bình thường, mà là hiện tượng **tàn dư cộng hưởng thời-không** của thanh trường kiếm bạc mười năm trước!
 
-### CHƯƠNG 10: TÁI NGỘ DƯỚI CHÂN CỔNG CỔ ĐẠI
-- Nhóm Dienne (cùng 317) kịp thời áp sát chiến trường đèo Băng Giá khi Rhea đang bị bao vây.
-- Khoảnh khắc định mệnh sau 10 năm lưu lạc: Dienne lướt qua làn đạn, thanh kiếm gỗ sồi sứt sẹo chạm vào thanh trường kiếm bạc quen thuộc.
-- Hai cặp mắt gặp nhau giữa bão tuyết và ánh lửa mana. Không có lời nói hoa mỹ, chỉ có một cái tựa lưng vào nhau của hai thế hệ Everhart: *"Em đến rồi đây, Rhea."*
+### CHƯƠNG 10: SỰ THẬT VỀ SỰ BIẾN MẤT CỦA RHEA
+- Dienne và 317 đột nhập vào buồng lõi Cổng Cổ Đại.
+- Tại tâm chấn của Cổng, Dienne nhìn thấy một vết rách không gian phát ra ánh sáng bạc huyền ảo: **Dòng Chảy Ma Thuật (The Astral Current)**.
+- Một ảo ảnh thời-không (temporal echo) tái hiện khoảnh khắc bi tráng mười năm trước: 
+  - Rhea đứng bọc hậu giữa biển lửa, áp suất Cổng sụp đổ cuốn phăng cô vào vết nứt không gian.
+  - Trước khi bị dòng chảy nuốt chửng, Rhea vẫn cố vươn cánh tay đầy máu về phía Dienne, đôi môi thốt lên lời hứa không thành tiếng.
+- Dienne chết lặng giữa làn tuyết rơi. Nỗi đau 10 năm qua biến thành sự bừng tỉnh sâu sắc:
+  > **Rhea chưa bao giờ phản bội. Rhea chưa từng có cơ hội quay trở lại.**
 
-### CHƯƠNG 11: MẶC CẢM CỦA KẺ HỘ VỆ
-- Sau khi tạm lui quân vào hang đá, Rhea đối diện với Dienne.
-- Rhea bộc lộ nỗi dằn vặt suốt 10 năm qua: Tự trách mình đã không bảo vệ được vương quốc, thất hứa để Dienne phải trốn chui trốn nhủi trong thung lũng tuyết.
-- Dienne chìa bàn tay đầy vết chai sạn ra, móc ngoéo lại ngón tay út với Rhea: *"Chị không thất hứa. Chị đã dạy em sống sót. Giờ đến lượt chúng ta cùng nhau bảo vệ thế giới."*
-- Băng tan trong lòng người nữ hiệp sĩ.
+### CHƯƠNG 11: LỜI THỀ DƯỚI KHE NỨT THỜI-KHÔNG
+- Dienne quỳ xuống trước vết rách của Dòng Chảy Ma Thuật, áp trần bàn tay lên mặt băng lạnh ngắt.
+- Cô hiểu rằng nếu cố tình dùng bạo lực kéo Rhea ra lúc này, toàn bộ ranh giới thời-không sẽ sụp đổ.
+- Dienne rút thanh kiếm gỗ sồi ra, chạm nhẹ vào khe nứt, để lại một dấu ấn mana dẫn đường:
+  *"Em sẽ không tìm kiếm chị như một đứa trẻ lạc lối nữa, Rhea... Em sẽ xây dựng một thế giới đủ vững vàng để đón chị trở về."*
+- Băng giá trong tâm hồn Dienne tan biến, nhường chỗ cho ý chí sắt đá của một nhà lãnh đạo thực thụ.
 
 ### CHƯƠNG 12: ĐẠI CHIẾN CỔNG PHƯƠNG BẮC
-- Toàn đội (Dienne, Rhea, 317, Ryan, Mira, Lucien) mở cuộc tổng tấn công vào buồng máy gia tốc Cổng Cổ Đại.
-- Phối hợp đa hệ thống đỉnh cao:
-  - 317 và Lucien chế áp hỏa lực tầm xa bằng đạn động năng và bẫy nổ ma thạch.
-  - Ryan thâm nhập hệ thống bảng điều khiển của Đế quốc để giải mã dòng năng lượng.
-  - Mira dùng Linh Thuật khóa các dòng chảy tản nhiệt.
-  - Dienne và Rhea song kiếm hợp bích, lôi điện bạc và lam hỏa Elvish chém tan đội hộ vệ thiết giáp của Đại Chỉ Huy.
+- Quân đoàn thiết giáp và Đại Chỉ Huy Thẩm Phán Viện kéo đến phong tỏa buồng lõi hòng kích hoạt máy gia tốc cưỡng chế Cánh Cửa Thứ Hai.
+- Trận chiến đỉnh cao phối hợp giữa ma thuật và công nghệ:
+  - 317 dùng súng bắn tỉa đạn vonfram và còi bạc EMP phá nát trận hình kết giới đối phương.
+  - Ryan thâm nhập bảng điều khiển ma đạo, bẻ khóa thuật toán dòng chảy.
+  - Mira dùng Linh Thuật mượn sức mạnh thạch mạch đè bẹp các cỗ xe bọc thép.
+  - Dienne dùng kiếm gỗ lam hỏa tung hoành giữa làn đạn, một mình hạ gục Đại Chỉ Huy Đế quốc.
 
 ### CHƯƠNG 13: CẮT ĐỨT NGUỒN PHÁT XUNG
-- Máy gia tốc Cổng phương Bắc bắt đầu quá tải, sắp sửa phóng luồng năng lượng cưỡng chế mỏ neo Cánh Cửa Thứ Hai.
-- Ryan và Dienne tính toán đảo pha sóng ma thuật ($\theta = \pi$). 317 thổi còi bạc EMP kích hoạt xung ngược pha đúng thời điểm $t = 0$.
+- Máy gia tốc Cổng phương Bắc bắt đầu quá tải, chuẩn bị phóng luồng năng lượng cưỡng chế mỏ neo Cánh Cửa Thứ Hai.
+- Ryan và Dienne tính toán điểm đảo pha sóng ma thuật ($\theta = \pi$). 317 thổi còi bạc EMP kích hoạt xung ngược pha đúng thời điểm $t = 0$.
 - Cú nổ cộng hưởng triệt tiêu toàn bộ năng lượng ép xung mà không làm sụp đổ cấu trúc địa tầng. Nguồn phát xung phương Bắc bị ngắt hoàn toàn!
-- Cánh Cửa Thứ Hai tại Sector 7 trở lại trạng thái ngủ đông ổn định. Hiểm họa va chạm 5 tháng tạm thời được chặn đứng.
+- Cánh Cửa Thứ Hai tại Sector 7 trở lại trạng thái ngủ đông an toàn. Hiểm họa va chạm 5 tháng tạm thời được hóa giải.
 
-### CHƯƠNG 14: HAI CHIẾC GHẾ ĐƯỢC LẤP ĐẦY
+### CHƯƠNG 14: CHIẾC GHẾ SỒI THỨ HAI VÀ LỜI HỨA
 - Đội ngũ trở về an toàn tại pháo đài ngầm Sector 7.
 - Lễ tuyên thệ bên Bàn Tròn Hội Đồng:
-  - **Rhea Everwy** chính thức ngồi vào **Chiếc Ghế Trống Thứ Nhất** (Đại diện cho Danh dự Hiệp sĩ & Hộ vệ Hoàng gia).
-  - **317** kéo ghế ngồi vào **Chiếc Ghế Trống Thứ Hai** (Đại diện cho Nhân loại Thế giới thực & Kẻ săn dị vật không mana).
-- Sáu người ngồi quanh bàn tròn, nhưng vẫn còn **2 chiếc ghế trống** đang chờ đợi.
+  - **Chiếc Ghế Trống Thứ Nhất**: Dienne trang trọng đặt thanh kiếm gỗ sồi lên mặt bàn trước chiếc ghế, tuyên bố chiếc ghế này **mãi mãi thuộc về Rhea Everwy** cho đến ngày cô trở về từ Dòng Chảy Ma Thuật.
+  - **Chiếc Ghế Trống Thứ Hai**: **317** kéo ghế ngồi xuống, nhai kẹo mút dâu, chính thức trở thành đại diện cho Nhân loại Thế giới thực & Công nghệ phi mana.
+- Hội đồng Arrchirio Mới đã có 5 người ngồi vào vị trí, hướng ánh nhìn về phương Tây.
 
 ### EPILOGUE: BẢN ĐỒ TOÀN CẦU & BỨC ĐIỆN TỪ REVERSE LONDON
 - Ryan giải mã đĩa dữ liệu thu được từ máy gia tốc Cổng phương Bắc.
@@ -104,6 +108,5 @@
   > *"Hỡi người chị gái mà em chưa từng được gặp mặt... Chiếc đồng hồ Big Ben vừa chạy ngược ba giây, và bài hát ru của mẹ lại vang lên bên bờ sông Thames. Em đang đợi chị tại Reverse London. — Diana Everhart."*
 - Cả căn phòng chấn động. Dienne đứng sững sờ, ngón tay run rẩy chạm vào lồng ngực nơi giấu chiếc trâm cài vương tộc:
   *"Em gái tôi... còn sống?!"*
-- Rhea siết chặt chuôi kiếm bạc, đôi mắt ngấn lệ sau 10 năm câm lặng.
 - Dienne ngẩng đầu lên, ánh mắt lam thẫm rực sáng một quyết tâm chưa từng có:
   *"Mục tiêu tiếp theo của chúng ta: Reverse London."*
