@@ -1063,3 +1063,104 @@ Cô:
 - **Hiện tượng**: Ranh giới không gian tại đây mỏng manh đến mức thường xuyên tạo ra hiện tượng ảo ảnh khúc xạ không-thời gian (Mirage Gates). Những sinh vật rò rỉ từ thế giới phép thuật qua các vết nứt sa mạc từng được người dân bản địa gọi là **Djinn (Thần đèn / Thực thể Lửa Vô Ảnh)**.
 - **Phương thức tiếp cận**: Giả kim thuật Ả Rập cổ đại (Al-kīmiyā) kết hợp với các thước trắc tinh thiên văn (Astrolabes) bằng đồng thau nạm ngọc, tính toán chuyển động của các chòm sao để dự đoán chính xác giờ khắc Cổng rò rỉ mở ra.
 
+---
+
+# 11. Lục Địa Bay Trên Không — Aethelgard (The Floating Continent / Skylands)
+
+> **Khái niệm:**  
+> Một lục địa trôi nổi lơ lửng giữa tầng bình lưu (Stratosphere), hoàn toàn tách biệt khỏi mặt đất của thế giới phép thuật. Nơi đây từng là một huyền thoại trong các câu chuyện cổ, nhưng thực chất là một thực tại địa tầng có thật, được che giấu phía trên các tầng mây vĩnh cửu.
+
+### 11.1. Nguyên Lý Trôi Nổi & Cấu Trúc Địa Chất
+- **Lõi Trọng Lực Nghịch Đảo (Aetherium Monoliths)**: Lục địa bay không rơi xuống mặt đất nhờ vào sự hiện diện của các mỏ khoáng thạch **Aetherium nguyên sinh** cắm sâu trong lớp vỏ móng đá. Loại khoáng thạch này tạo ra trường phản trọng lực tự nhiên khi tương tác với từ trường toàn cầu, triệt tiêu hoàn toàn gia tốc trọng trường Trái Đất.
+- **Biển Mây & Thác Nước Ngân Hà (Celestia Falls)**:
+  - Nguồn nước ngọt trên lục địa bắt nguồn từ sự ngưng tụ hơi ẩm cực độ ở tầng cao. Các con sông uốn lượn qua các bình nguyên thảo nguyên bay, chảy tràn ra mép vực lục địa và đổ thẳng xuống hư không thành những dải lụa nước khổng lồ biến mất vào biển mây trắng xóa.
+  - Các hòn đảo nhỏ trôi nổi phụ thuộc (Satellite Islets) xoay quanh lục địa mẹ như những vệ tinh tự nhiên, được kết nối bằng các cây cầu dây thừng kết bằng dây leo ma thuật hoặc các tuyến cáp treo bay Magitech.
+
+---
+
+# 12. Hệ Sinh Thái & Các Giống Loài Động Vật Ma Thuật (Fauna & Magical Wildlife)
+
+> Thế giới phép thuật và các vùng ranh giới sở hữu một hệ động vật độc nhất vô nhị, tiến hóa song song cùng nồng độ mana môi trường.
+
+### 12.1. Sinh Vật Lục Địa Bay & Tầng Khí Quyển Cao
+- **Kình Ngư Biển Mây (Aether Whales / Ceto)**: Những sinh vật khổng lồ dài hàng trăm mét bơi lội êm ả giữa các tầng mây trắng của Aethelgard. Da của chúng xốp nhẹ, có khả năng hấp thụ mana tự do trong khí quyển để duy trì lực nâng. Tiếng kêu trầm bổng của Kình Ngư có khả năng xoa dịu các cơn bão mana và định hướng cho các đoàn thuyền buồm bay.
+- **Nguyệt Dực Thú (Lunar Wyverns / Selenite Drakes)**: Loài thằn lằn bay có cánh lông vũ mềm mại phát quang dưới ánh trăng. Chúng có thị lực ban đêm tuyệt đỉnh, không phun lửa mà phóng thích những luồng sóng siêu âm làm đông cứng mục tiêu. Được thuần hóa bởi các cư dân bầu trời làm thú cưỡi trinh sát.
+
+### 12.2. Sinh Vật Mặt Đất, Rừng Thiêng & Vùng Biên Cương
+- **Dạ Lang Tinh Thể (Crystal Fenrir)**: Sói săn mồi sống theo bầy tại các dãy núi phương Bắc. Bờm và móng vuốt của chúng mọc ra những phiến thạch anh tự nhiên có khả năng hấp thụ và bẻ gãy các thần chú nguyên tố nhắm vào chúng.
+- **Lôi Điệp (Volt Butterflies)**: Đàn bướm nhỏ có đôi cánh óng ánh kim loại, thường làm tổ gần các mạch dẫn Magitech để hút tàn dư ma lực rò rỉ. Khi bị kinh động, cả đàn phát ra luồng xung điện cao thế làm đoản mạch thiết bị điện tử.
+- **Linh Giác Lộc (Prism Stags)**: Hươu sừng pha lê sống sâu trong các cánh rừng cổ thụ. Cặp sừng nhiều nhánh của chúng đóng vai trò lăng kính tự nhiên, phân giải ánh sáng mana thành cầu vồng bảy sắc để ngụy trang và xua đuổi kẻ săn mồi.
+
+---
+
+# 13. Tiên Tộc (The Lunar Elves — Asariel) & Bí Ẩn Về Khởi Nguồn Ma Thuật
+
+### 13.1. Nơi Sinh Sống & Đô Thị Trên Vòm Cây (Canopy Cities)
+- **Vòm Cổ Thụ Yggdralis**: Loài Elves không xây dựng nhà cửa trên mặt đất. Họ sinh sống trong những thành phố treo tuyệt mỹ dựng trên thân và cành của những cây cổ thụ ngàn năm (Canopy Cities). Những thân cây có đường kính hàng trăm mét, rễ cắm sâu vào mạch ngọc ngầm còn vòm lá xòe rộng che rợp cả bầu trời.
+- **Lối sống hòa hợp tuyệt đối**: Kiến trúc của họ uốn lượn theo vân gỗ tự nhiên, dùng nấm phát quang và hoa dạ thảo để thắp sáng thay cho đuốc lửa thô kệch.
+
+### 13.2. Tín Ngưỡng Nguyệt Thần (Lunar Worship)
+- Loài Elves tôn thờ **Ánh Trăng Bạc (Nguyệt Thần)**. Họ quan niệm Mặt Trời là ngọn lửa thô thiển của sự hủy diệt và tham vọng, còn Mặt Trăng đại diện cho dòng chảy tĩnh lặng, thuần khiết và trí tuệ bất tử của mana nguyên thủy. Mọi nghi lễ ma thuật của họ đều đạt đỉnh cao vào đêm trăng tròn.
+
+### 13.3. Mối Quan Hệ Với Loài Người: Sự Thù Địch & Khác Biệt Với Nhóm Dienne
+- **Căng thẳng lịch sử**: Mối quan hệ giữa Elves và loài người vô cùng tồi tệ. Cuộc bành trướng công nghiệp và khai thác ma thạch tàn bạo của Đế quốc Aurelia từng đốn hạ nhiều cánh rừng thiêng, đẩy loài Elves vào thế cô lập thù địch. Họ bắn tên độc cảnh cáo bất kỳ con người nào dám xâm phạm kết giới sương mù.
+- **Thái độ đặc biệt đối với nhóm nhân vật chính**:
+  - **Với Dienne**: Các Trưởng Lão Elves kinh ngạc khi thấy một cô gái con người sử dụng Cổ ngữ Elvish với sự tôn kính, chuẩn xác và không hề có lòng tham chiếm đoạt. Dienne không coi Elvish là công cụ vũ lực, mà coi đó là ngôn ngữ của tự nhiên.
+  - **Với Soraya**: Nhận ra nghi lễ lửa thiêng sa mạc và sự tương đồng về lòng tôn kính đất mẹ.
+  - **ĐẶC BIỆT LÀ VỚI LOUISA**: Sự xuất hiện của Louisa gây chấn động toàn bộ hội đồng Elves. Họ không thể ngờ một cô gái xuất thân từ gia tộc phù thủy lại **hoàn toàn không có mana ($\Psi = 0$)**, mang vũ khí trần thế nhưng lại thấu hiểu cấu trúc thần chú hơn cả các pháp sư kiêu ngạo. Louisa không mang lòng tự phụ của giống loài dùng phép, khiến các Elves mở lòng đối thoại bình đẳng.
+
+### 13.4. BÍ ẨN TỐI HẬU: SỰ KHỞI ĐẦU CỦA PHÉP THUẬT (The Genesis of Magic)
+> ⚠️ **HARD CANON BẤT KHẢ XÂM PHẠM VỀ BỐ CỤC CỐT TRUYỆN:**
+- Bí ẩn về nguồn gốc nguyên thủy của mana và lý do loài Elves là giống loài đầu tiên tiếp xúc với nó **TUYỆT ĐỐI KHÔNG ĐƯỢC GIẢI QUYẾT TRONG TRẬN ĐÁNH TRÙM CUỐI (FINAL BATTLE)**.
+- Đây là **tuyến truyện hậu kỳ (Post-Ending / Epilogue Arc)** được dành riêng cho **Nhân vật chính thứ hai: LOUISA**!
+- Sau khi trận chiến Cân Bằng tại Volume 7 khép lại và hòa bình được lập lại giữa hai cõi, Louisa—cô gái người thường duy nhất đã đi hết hành trình cùng các phù thủy vĩ đại—sẽ dẫn đầu chuyến thám hiểm tiến sâu vào Rừng Cội Nguồn (Origin Grove) của loài Elves để tìm câu trả lời tối hậu:
+  * *Mana thực chất sinh ra từ đâu?*
+  * *Liệu mana là một ân huệ tiến hóa hay một dạng đột biến năng lượng từ một thảm họa vũ trụ thời tiền sử?*
+  * *Vì sao thế giới thực lại hoàn toàn sạch bóng mana?*
+
+---
+
+# 14. Các Phân Nhánh Chủng Tộc Người (Humanoid Sub-Races) & Cảm Xúc Khám Phá
+
+> Thế giới phép thuật không chỉ có con người thông thường. Mật độ mana đa dạng qua hàng thiên niên kỷ đã phân hóa loài người thành các chủng tộc đặc trưng thích nghi với từng vùng đất.
+
+### 14.1. Midgogant (Tộc Cự Nhân Vùng Đất Giữa)
+- **Đặc điểm sinh học**: Chiều cao từ 2.5 mét đến 3.5 mét. Khung xương nặng nề bọc lớp canxi thạch anh siêu cứng, da dẻ xám xịt như đá hoa cương. Họ sở hữu sức mạnh cơ bắp phi thường và khả năng vận hành Địa Ma Thuật (Earth Arcana) bẩm sinh bằng xúc giác bàn chân.
+- **Tính cách & Văn hóa**: Trầm mặc, trọng danh dự, ghét sự xảo quyệt. Họ là những thợ rèn cự phách có thể đập búa rèn những khối thép ma thuật nặng hàng chục tấn bằng tay trần.
+- **Kiến trúc Cyclopean**: Các đại đô thị khoét sâu vào lòng núi đá, các cánh cổng cự thạch nặng hàng trăm tấn mở bằng cơ cấu đối trọng ma thuật.
+
+### 14.2. Skymar / Skyborn (Tộc Người Bầu Trời)
+- **Đặc điểm sinh học**: Cư dân bản địa của Lục Địa Bay Aethelgard. Thân hình dong dỏng cao, xương xốp rỗng siêu nhẹ nhưng dẻo dai hơn thép, phổi có dung tích lớn để thích nghi với không khí loãng tầng bình lưu. Một số gia tộc quý tộc Skymar sở hữu đôi cánh lông vũ tàng hình hoặc màng lượn dưới cánh tay.
+- **Tính cách & Văn hóa**: Phóng khoáng, yêu chuộng tự do, say mê nghệ thuật bay lượn và thi ca.
+- **Kiến trúc Khí Động Học**: Các tòa nhà hình elip bằng pha lê phản quang uốn lượn theo chiều gió, các bến đỗ thuyền buồm bay lơ lửng giữa biển mây.
+
+### 14.3. Sun-Nomads / Qamar (Tộc Du Mục Lửa Sa Mạc)
+- **Đặc điểm & Dòng dõi**: Đồng tộc cổ xưa của Soraya, sinh sống rải rác quanh các ốc đảo bí mật tại sa mạc Rub' al Khali. Làn da màu đồng bánh mật, đôi mắt màu hổ phách, trang phục dệt bằng sợi bông sa mạc đính kim hoàn vàng và thêu Cổ ngữ Tinh Tú.
+- **Tính cách**: Tôn kính ngọn lửa thanh tẩy, am tường thuật chiêm tinh thiên văn và có mối liên kết tâm linh sâu sắc với nhịp thở của cát.
+
+### 14.4. Cảm Xúc Mới Lạ & Sự Choáng Ngợp Của Nhóm Nhân Vật Chính
+- **Dienne**: Bàng hoàng nhận ra vương triều Everhart hay Đế quốc Aurelia chỉ là những góc nhỏ bé của một bức tranh nhân loại vĩ đại. Lần đầu tiên cô cảm nhận được sự khiêm nhường thực sự của một người bảo vệ Cân Bằng.
+- **Louisa**: Thích thú đến mức bật cười thành tiếng. Là một cô gái quen với các con hẻm chật chội và tàu điện ngầm Kyoto, việc nhìn thấy một người Midgogant dùng cả tảng đá làm ghế ngồi hay một thương nhân Skymar cưỡi Nguyệt Dực Thú đi giao hàng khiến cô nhận ra thế giới phép thuật này không chỉ toàn rác ma thạch lậu và tội phạm.
+- **Ryan**: Mắt sáng rực như đèn pha, liên tục rút sổ tay vẽ lại cơ cấu đúc thép cự nhân và hệ thống khí động học của thuyền bay Skymar.
+- **Lucien**: Đau đầu tìm cách quy đổi giá trị giữa đồng yên Nhật, đồng bạc Đế quốc với các khối tinh thể lông vũ của Skymar và ngọc sa thạch của Sun-Nomads.
+
+---
+
+# 15. Đại Công Trình Siêu Kiến Trúc (Megastructures of High-Mana Realms)
+
+> **Quy luật vật lý ma đạo:**  
+> Tại các vùng đất có mật độ mana tự nhiên cực cao ($\Psi \gg 1$), ma thuật làm suy giảm trường hấp dẫn cục bộ và gia cố liên kết phân tử của vật liệu lên hàng nghìn lần. Việc xây dựng những công trình vượt quá giới hạn chịu lực thông thường của vật lý trở nên cực kỳ dễ dàng.
+
+### 15.1. Tháp Vòm Chọc Trời Aetheris (Aetheris Spire)
+- Chiều cao hơn 3.200 mét, xuyên thủng các tầng mây dày đặc vươn thẳng lên tầng bình lưu. Tháp được đúc từ hợp kim ma dẫn nguyên khối, đóng vai trò một cột thu lôi mana toàn cầu và ngọn hải đăng năng lượng định vị cho các hạm đội bay xuyên lục địa.
+
+### 15.2. Cây Cầu Vòm Xuyên Núi (Bifrost-Arc Bridge)
+- Một nhịp cầu cự thạch bắc ngang qua vực sâu 5.000 mét nối liền hai rặng núi biên cương mà hoàn toàn không có trụ đỡ trung tâm. Toàn bộ trọng lượng cây cầu được treo lơ lửng nhờ ma trận lực căng từ trường vĩnh cửu tích hợp trong lòng đá.
+
+### 15.3. Đại Đập Ngăn Vực Thẳm (The Mana Abyss Dam)
+- Bức tường cự thạch đồ sộ chắn ngang một vết nứt địa tầng khổng lồ, nơi thác mana lỏng nguyên sinh đổ xuống lòng đất sâu. Đập nước này vừa ngăn chặn sự sụp đổ của địa tầng vừa chuyển hóa áp suất mana thành nguồn năng lượng thắp sáng hàng chục đô thị xung quanh.
+
+### 15.4. Thành Phố Treo Ngược Olyndra (The Inverted City)
+- Đô thị kỳ quan được xây dựng treo ngược hoàn toàn bên dưới gầm của Lục Địa Bay Aethelgard. Người dân đi lại trên những trần đá bằng giày ma dẫn từ tính, ngửa đầu nhìn xuống chính là vực sâu thăm thẳm và biển mây cuồn cuộn bên dưới.
+
+

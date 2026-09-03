@@ -94,3 +94,14 @@
   - **Cảnh Hai Lựa Chọn**: Rhea từ chối quay về quá khứ để cứu vương quốc đã mất, quyết định chọn tương lai cùng Dienne.
   - **Signature Ending Line**: Dienne đưa bàn tay ra, Rhea nắm lấy và nói câu kết thúc lịch sử của series:
     > **“I'll stay by your side.”**
+
+---
+
+#### Hậu Truyện (Epilogue Arc / Post-Ending): Khởi Nguồn Phép Thuật & Hành Trình Của Louisa
+- **Bối cảnh**: **Vòm Cổ Thụ Yggdralis (Lunar Elves)** $\to$ **Lục Địa Bay Aethelgard (Skylands & Olyndra)** $\to$ **Rừng Cội Nguồn (Origin Grove)**.
+- **Tâm điểm nhân vật**: **LOUISA (Deuteragonist)**.
+- **Nội dung & Ý nghĩa cốt truyện**:
+  - Trận đánh trùm cuối khép lại mục tiêu Cân Bằng của Dienne, nhưng mở ra câu hỏi lớn nhất về vũ trụ: **Sự Khởi Đầu Của Phép Thuật (The Genesis of Magic)**.
+  - Louisa—cô gái người thường $\Psi = 0$ xuất thân từ gia tộc phù thủy—rời Kyoto và New Arrchirio, dẫn đầu chuyến viễn chinh bước vào thánh địa của loài Tiên tộc Mặt Trăng.
+  - Các Trưởng Lão Lunar Elves trao cho cô chìa khóa tiến vào Cội Nguồn, nơi lưu giữ sự thật về ngày mana lần đầu tiên giáng xuống thực tại thời tiền sử.
+  - Hành trình này khẳng định trọn vẹn vị thế của Louisa: Không cần ma lực để trở thành một huyền thoại, và chính một người bình thường mới là kẻ đủ tư cách để nhìn thấu bản chất nguyên thủy của phép thuật.

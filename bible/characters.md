@@ -201,6 +201,19 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ---
 
+### Tuyến Truyện Tối Hậu Của Deuteragonist: Hành Trình Khám Phá Khởi Nguồn Ma Thuật (Post-Ending / Epilogue Arc)
+- **Định vị cốt truyện**: Tuyệt đối không giải quyết nguồn gốc tối hậu của ma thuật trong trận đánh trùm cuối (để giữ sự tập trung cho trận chiến Cân Bằng của Dienne).
+- **Hành trình riêng biệt của Louisa**:
+  - Sau khi Đại Chiến Cánh Cửa Thứ Bảy kết thúc và hòa bình được tái lập giữa hai thế giới, Dienne lui về giữ trọng trách duy trì Trật Tự Ranh Giới.
+  - Lúc này, **Louisa**—cô gái người thường duy nhất $\Psi = 0$ đã đi qua mọi nẻo đường cùng các bậc thầy ma pháp—bắt đầu cuộc phiêu lưu vĩ đại của riêng mình: **Tiến sâu vào Rừng Cội Nguồn (Origin Grove) của loài Lunar Elves**.
+  - Loài Elves tôn trọng Louisa vì cô thấu hiểu bản chất phép thuật mà không hề có lòng tham ma lực. Họ cho phép cô bước vào Thánh Địa Nguyệt Thần để tìm hiểu **Sự Khởi Đầu Của Phép Thuật (The Genesis of Magic)**:
+    * *Tại sao cô sinh ra trong một gia tộc phù thủy nhưng lại hoàn toàn không có mana?*
+    * *Liệu tổ tiên loài người ở thế giới thực đã từng sở hữu mana trước khi một biến cố địa chất/vũ trụ tước đoạt nó?*
+    * *Bản chất của mana là một quy luật vật lý tự nhiên chưa được đặt tên, hay là một "ký sinh trùng không-thời gian" rò rỉ từ chiều không gian cao hơn?*
+  - Đây là cái kết mở tráng lệ và đầy triết lý, tôn vinh vị thế Deuteragonist của Louisa.
+
+---
+
 # 4. HẬU CẦN & CHẾ TÁC: Lucien Vale
 
 ### Thông Tin Cơ Bản
