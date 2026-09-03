@@ -1,9 +1,9 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
 
-## PROLOGUE: 317
+## PROLOGUE: Louisa
 
 Đêm Kyoto rả rích một màn mưa lạnh.
 
@@ -57,7 +57,7 @@ Trước khi nhảy tót lên bờ tường rào đá để biến mất vào m�
 
 Trên mặt kim loại lạnh ngắt, chỉ khắc đúng ba con số màu trắng nguệch ngoạc:
 
-**317**
+**Louisa**
 
 Không tên tuổi. Không gia tộc. Không tổ chức. 
 

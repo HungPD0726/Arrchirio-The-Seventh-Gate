@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO (The Ruins of Arrchirio)
 
 ---

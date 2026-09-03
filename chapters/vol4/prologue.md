@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO (The Ruins of Arrchirio)
 
 ---
@@ -17,7 +17,7 @@ Cuốn sổ tay ghi chép về hiện tượng huyền bí mang tên "Sự Cộn
 
 Những bản phác thảo chi tiết về mạng lưới điện cao thế, đường cáp quang và các động cơ cơ khí phi ma thuật của con người.
 
-Và cuối cùng… là một chiếc thẻ kim loại nhỏ màu đen bóng, trên mặt khắc nguệch ngoạc ba con số màu trắng: **317**.
+Và cuối cùng… là một chiếc thẻ kim loại nhỏ màu đen bóng, trên mặt khắc nguệch ngoạc ba con số màu trắng: **Louisa**.
 
 Người thầy già đứng tựa lưng vào bệ đá lò sưởi, tẩu thuốc trên tay ông đã tắt ngấm tự bao giờ. Đôi mắt đục ngầu, mờ đục vì năm tháng của ông chậm rãi lướt qua từng trang giấy cổ, dừng lại thật lâu ở dòng chữ Elvish sắc sảo: *"Đừng nhầm lẫn sự tương đồng với nguồn gốc."*
 

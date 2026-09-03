@@ -1,4 +1,4 @@
-# ARRCHIRIO: THE SEVENTH GATE
+﻿# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
@@ -15,7 +15,7 @@ Ngay trước khoảnh khắc vòng xoáy ánh sáng xanh thẳm khép lại vĩ
 
 "Chúng ta… sẽ còn gặp lại nhau chứ?!" Dienne hét lớn qua tiếng rít của gió không gian.
 
-317 không quay đầu lại. 
+Louisa không quay đầu lại. 
 
 Cô gái chỉ giơ một cánh tay lên cao, bàn tay vẫy vẫy nhẹ nhàng trong làn gió sớm của Kyoto, giọng nói vang vọng qua kẽ nứt:
 
