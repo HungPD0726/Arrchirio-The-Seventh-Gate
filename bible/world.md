@@ -1,8 +1,8 @@
-﻿# Story Bible: Thiết Lập Thế Giới (World-Building)
+# Story Bible: Thiết Lập Thế Giới (World-Building)
 
 > **Tệp này là “chân lý tối thượng” về quy tắc, bối cảnh và hệ thống của câu chuyện. Mọi chương viết ra phải tuân thủ nghiêm ngặt các quy tắc dưới đây.**
 >
-> **Phạm vi hiện tại:** Canon được chốt dựa trên 4 Volume đầu tiên. Những chi tiết chưa từng được xác nhận trong 4 Volume này được đánh dấu là **CHƯA CHỐT**, không tự ý bổ sung thành sự thật.
+> **Phạm vi hiện tại:** Canon được chốt vững chắc dựa trên 5 Volume đầu tiên (Volume 1 đến Volume 5 đã hoàn thành 100% bản thảo Webnovel). Những chi tiết từ Volume 6 trở đi được định hình theo Story Bible và các Master Outline.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Master Plot: Dàn Ý Cốt Truyện Tổng Thể
+# Master Plot: Dàn Ý Cốt Truyện Tổng Thể
 
 > **TRỤC PHÁT TRIỂN LỚN NHẤT TOÀN SERIES**
 > Câu hỏi xuyên suốt: **“Nếu hai thế giới không phải toàn bộ thực tại, vậy con người nên đứng ở đâu giữa chúng?”**
@@ -72,19 +72,20 @@
   - Louisa chính thức nhận **Chiếc Ghế Sồi Trống Thứ Hai** tại Bàn Tròn Arrchirio.
   - **Epilogue**: Nhận được bức điện tín và bài hát ru Everhart từ **Reverse London**, ký tên: **Diana Everhart**!
 
-#### Volume 6: Reverse London & Bóng Ma Gia Tộc Arknight
-- **Thành phố / Bối cảnh**: **Reverse London** (London Nghịch Đảo).
+#### Volume 6: Dạ Vũ Trong Sương Mù & Bóng Ma Arknight
+- **Thành phố / Bối cảnh**: **Reverse London** (London Nghịch Đảo — 100% bối cảnh).
 - **Câu hỏi hiện sinh**: *Một xã hội có thể bình thường hóa ma thuật đến đâu? Và phẩm giá của một vương triều lưu vong được gìn giữ thế nào khi không còn ngai vàng?*
 - **Nội dung chính**:
   - Dienne, Louisa, Lucien, Ryan, Soraya sang Reverse London, hội ngộ **Diana Everhart** — em gái ruột của Dienne sinh ra sau khi cha mẹ trốn chạy.
   - **Nghịch lý hai nàng công chúa**: Dienne (mất vương quốc, Everhart là vết thương) vs Diana (chưa từng có vương quốc, Everhart là nền văn hóa).
   - Khám phá phong cách chiến đấu tuyệt mỹ của Diana: **Kiếm vũ Ballet**, **Ma thuật trong chuyển động** và giọng ca dạ khúc mê hoặc.
-  - Khám phá mạng lưới thành phố thế giới thực: Kim Tự Tháp Cairo (Ancient Magic), Côn Lôn (Trung Hoa), Tổ hợp lượng tử DARPA (Mỹ).
-  - **Cú sốc huyết thống**: Phát hiện kẻ phản bội đứng đầu Arknight chính là **Hoàng thúc ruột** của Dienne và Diana!
-  - Diana chính thức ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba**.
+  - Xung đột cảm xúc: Diana ban đầu từ chối rời bỏ London vì đây là mái nhà bình yên cha mẹ để lại; Dienne tôn trọng ranh giới của em gái.
+  - **Cú sốc huyết thống**: Phát hiện kẻ phản bội đứng đầu Arknight chính là **Hoàng thúc ruột Alden Everhart**!
+  - Cùng phối hợp phá cỗ máy nén không gian tại Tháp Big Ben; Diana tự nguyện bước vào **Chiếc Ghế Sồi Trống Thứ Ba**.
+  - Epilogue: Nhận tín hiệu cầu cứu từ Côn Lôn, mở đường cho Đại Viễn Chinh Volume 7.
 
 #### Volume 7 - Volume Cuối: Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục)
-- **Thành phố / Bối cảnh**: **Cairo** (Ai Cập - Ma thuật tượng hình cổ) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
+- **Thành phố / Bối cảnh**: **Côn Lôn** (Trung Hoa - Long mạch & Bát Quái) $\to$ **Cairo** (Ai Cập - Ma thuật tượng hình & Kim Tự Tháp) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
 - **Nội dung & Đại kết cục**:
   - Nhóm giải mã các Tháp Cộng Hưởng Kim Tự Tháp và thâm nhập đầu não New Rome, lấp đầy chiếc ghế trống thứ tư (Đại diện Cổ đạo).
   - Trận chiến tối thượng chống lại Hoàng đế Aurelia và kẻ phản bội Arknight.

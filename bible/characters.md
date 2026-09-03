@@ -1,4 +1,4 @@
-﻿# Story Bible: Hồ Sơ Nhân Vật (Characters)
+# Story Bible: Hồ Sơ Nhân Vật (Characters)
 
 > **Tệp này ghi nhận tính cách, giọng điệu, mục tiêu, trang bị và cấm kỵ của từng nhân vật trong tác phẩm.**
 > Mọi chương viết ra phải tuân thủ nghiêm ngặt hồ sơ này để đảm bảo không bị biến dạng tính cách (**OOC - Out of Character**).
@@ -360,9 +360,12 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 - Học viên năm ba ít mana nhưng giàu kinh nghiệm thực chiến.
 - Người dạy Dienne bài học sấp mặt trong 3 giây bằng nắm cát cay và cán kiếm gỗ: *"Cô tính toán nhanh thật đấy... Nhưng cô quá chậm."*
 
-### Kẻ Phản Bội Arknight
-- Người đứng đầu một trong các gia tộc sáng lập Arrchirio 20 năm trước.
-- Bán đứng tổ chức cho Dominion vì tin rằng hai thế giới song song là nguồn gốc của hỗn loạn, cần một trật tự thống trị độc tài duy nhất. Danh tính cụ thể được bảo mật tuyệt đối.
+### Kẻ Phản Bội: Lord Arknight (Hoàng Thúc Alden Everhart)
+- **Danh tính thật**: Alden Everhart — em trai ruột của Vua cha Dienne, hoàng thúc ruột của Dienne và Diana Everhart.
+- **Lịch sử**: Từng là một trong những học giả ma pháp ranh giới và kiến trúc sư cấu trúc của tổ chức Arrchirio 20 năm trước.
+- **Tư tưởng biến chất**: Hắn tin rằng sự tồn tại song song của hai thế giới là một "lỗi toán học của vũ trụ" khiến nhân loại luôn đứng trước thảm họa diệt vong. Cách duy nhất để cứu vãn thực tại là dùng bàn tay sắt độc tài của Đế quốc Aurelia sáp nhập hoặc tiêu diệt một nửa thế giới để tái lập trật tự vĩnh cửu.
+- **Hành động phản bội**: Bán đứng hoàng thành Everhart và hệ thống phòng thủ Arrchirio cho Đế quốc và Thẩm Phán Viện trong Đêm Đại Thanh Trừng; giấu kín thân phận dưới danh hiệu *Lord Arknight*, thâu tóm mạng lưới tài chính và giới quý tộc ngầm tại Reverse London (Viện Quý Tộc House of Lords).
+- **Ý nghĩa kịch tính**: Tạo nên bi kịch huyết thống sâu sắc nhất cho hai chị em Dienne & Diana tại Volume 6 — kẻ thù lớn nhất không phải là quái vật vô hình, mà là người mang cùng dòng máu hoàng gia đã lựa chọn từ bỏ nhân tính.
 
 ---
 
