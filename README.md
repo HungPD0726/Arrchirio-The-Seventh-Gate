@@ -53,7 +53,8 @@ mylightnovel/
 │   │   └── epilogue.md
 │   └── vol6/                     <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đang sáng tác)
 │       ├── prologue.md           <-- Khúc dạ vũ bên dòng sông Thames
-│       └── ch01.md               <-- Bước vào thành phố nghịch đảo (Mới nhất)
+│       ├── ch01.md               <-- Bước vào thành phố nghịch đảo
+│       └── ch02.md               <-- Ngôi nhà gạch đỏ (Mới nhất)
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel
 └── README.md                     <-- Hướng dẫn này
 ```
