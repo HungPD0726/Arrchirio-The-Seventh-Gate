@@ -30,9 +30,13 @@ mylightnovel/
 │   │   ├── Volume1_Full.md
 │   │   ├── prologue.md -> ch10.md
 │   │   └── epilogue.md
-│   └── vol2/                     <-- Bản thảo Tập 2 (Đã hoàn thành 100% - 66 KB)
-│       ├── Volume2_Full.md
-│       ├── prologue.md -> ch10.md
+│   ├── vol2/                     <-- Bản thảo Tập 2 (Đã hoàn thành 100% - 66 KB)
+│   │   ├── Volume2_Full.md
+│   │   ├── prologue.md -> ch10.md
+│   │   └── epilogue.md
+│   └── vol3/                     <-- Bản thảo Tập 3 (Đã hoàn thành 100% - 63 KB)
+│       ├── Volume3_Full.md
+│       ├── prologue.md -> ch14.md
 │       └── epilogue.md
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel
 └── README.md                     <-- Hướng dẫn này
