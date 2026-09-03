@@ -25,12 +25,16 @@ mylightnovel/
 │   ├── volume_2.md               <-- Dàn ý Tập 2 (Những thành phố không có trên bản đồ)
 │   ├── volume_3.md               <-- Dàn ý Tập 3 (Thế giới không có phép thuật)
 │   └── volume_4.md               <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
-├── chapters/vol1/                <-- Bản thảo Tập 1 (Đã hoàn thành 100%)
-│   ├── Volume1_Full.md           <-- Toàn bộ bản thảo Tập 1 hợp nhất (122 KB)
-│   ├── prologue.md -> ch10.md    <-- Các chương văn xuôi chi tiết
-│   └── epilogue.md               <-- Đoạn kết Tập 1
+├── chapters/
+│   ├── vol1/                     <-- Bản thảo Tập 1 (Đã hoàn thành 100% - 122 KB)
+│   │   ├── Volume1_Full.md
+│   │   ├── prologue.md -> ch10.md
+│   │   └── epilogue.md
+│   └── vol2/                     <-- Bản thảo Tập 2 (Đã hoàn thành 100% - 66 KB)
+│       ├── Volume2_Full.md
+│       ├── prologue.md -> ch10.md
+│       └── epilogue.md
 ├── templates/scene_template.md   <-- Biểu mẫu Scene & Sequel
-├── Volume1.docx                  <-- Tệp Word gốc của tác phẩm
 └── README.md                     <-- Hướng dẫn này
 ```
 
