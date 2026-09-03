@@ -159,30 +159,65 @@
 
 ---
 
-# 8. NHÀ NGHIÊN CỨU HUYỀN BÍ LONDON: Diana Sterling
+# 8. CÔNG CHÚA CHƯA TỪNG CÓ VƯƠNG QUỐC: Diana Everhart
+### (Diana of Reverse London)
 
 ### Thông Tin Cơ Bản
-- **Họ và tên**: Diana Sterling.
-- **Vị trí**: London, thế giới thực (Thành viên cấp cao của Viện Khảo Cứu Huyền Bí Hermetic ngầm tại London; hậu duệ của mạng lưới Arrchirio Tây Âu lưu lạc).
-- **Độ tuổi**: Khoảng 17 – 18 tuổi.
-- **Ngoại hình**: Thiếu nữ mang phong thái quý tộc Anh cổ điển. Mái tóc vàng óng cắt ngắn uốn nhẹ kiểu gợn sóng thập niên, đôi mắt xám tro thông tuệ sau gọng kính mắt tròn bằng đồng thau.
-- **Trang phục & Hành trang**:
-  - Áo khoác măng-tô dạ màu xanh lục sẫm (midnight green) thắt đai gọn gàng.
-  - Chiếc đồng hồ quả quýt bằng bạc cổ khắc bản đồ sao thiên văn và 24 múi giờ ranh giới.
-  - Cây batoong cán bạc chạm khắc biểu tượng nhánh cây và thanh kiếm gãy của Arrchirio phương Tây (bên trong tích hợp cơ cấu kim tiêm đoản mạch và thước đo kinh độ kinh tuyến Greenwich).
+- **Họ và tên**: Diana Everhart (Tên thường gọi tại Reverse London: *Diana Sterling*).
+- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Sinh ra tại **Reverse London** (London Nghịch Đảo) sau khi cha mẹ trốn thoát khỏi đêm thanh trừng của Đế quốc Aurelia.
+- **Độ tuổi**: Khoảng 14 – 15 tuổi (kém Dienne khoảng 1 – 2 tuổi).
+- **Ngoại hình**: Vẻ đẹp thanh tao, đài các toát lên từ trong máu tủy. Mái tóc vàng óng gợn sóng buông nhẹ sau lưng, đôi mắt màu lam trong veo như pha lê (màu mắt đặc trưng của dòng máu hoàng gia Everhart).
+- **Trang phục**: Thường mặc váy dạ hội cách tân hoặc âu phục quý tộc Anh may bằng lụa sẫm màu, tà váy xếp ly mềm mại được thiết kế đặc biệt để mở rộng tối đa theo từng bước xoay người khi múa kiếm.
+- **Vũ khí**: Một thanh liễu kiếm (rapier) bằng bạc tinh luyện mỏng nhẹ và dẻo dai, chuôi kiếm nạm đá sapphire khắc gia huy rồng vàng Everhart.
 
-### Động Cơ & Tâm Lý
-- **Khao khát bề nổi (Want)**: Bảo tồn các cổ vật huyền học của nhân loại, ngăn chặn sự can thiệp thô bạo của các cơ quan tình báo thế giới thực vào các Cổng ranh giới.
-- **Nhu cầu nội tâm (Need)**: Thoát khỏi sự giam cầm của những giáo điều hàn lâm quý tộc; tìm kiếm những người đồng chí thực sự có khả năng bảo vệ Cân Bằng hai cõi.
-- **Điểm yếu (Flaw)**: Đôi khi quá kiêu kỳ, trọng lễ nghi và đánh giá sự việc thuần túy qua các ghi chép văn bản lịch sử hơn là sự tàn khốc của chiến trường đẫm máu.
+---
 
-### Phong Cách Huyền Học & Chiến Đấu
-- **Thế mạnh**: Bậc thầy về **Cơ khí đồng hồ ma đạo (Clockwork Arcana)**, Giả kim thuật phương Tây (Hermetic Alchemy), và trắc địa kinh tuyến không gian.
-- **Chiến đấu**: Phân tích tần số dao động của không gian thông qua nhịp tích tắc của bánh răng đồng hồ; dùng cơ cấu bẫy cơ học áp suất hơi nước và bột bạc tinh chế để vô hiệu hóa ma trận đối phương mà không cần trực tiếp đối đầu bằng thể lực.
+### Nghịch Lý Cốt Lõi: Hai Nàng Công Chúa Của Everhart
+Tác phẩm xây dựng một cặp đối trọng mang tính triết học và cảm xúc sâu sắc giữa hai chị em:
 
-### Giọng Thoại & Quan Hệ
-- **Giọng điệu**: Điềm đạm, mỉa mai một cách lịch thiệp, thường dẫn các câu ngạn ngữ Latin cổ và thuật ngữ vật lý/giả kim thế kỷ 19.
-- **Vai trò**: Đại diện cho **chiếc ghế sồi trống thứ ba** tại Bàn Tròn Arrchirio; người mở khóa kho lưu trữ bí mật nằm sâu dưới lòng hầm Bảo tàng Anh (British Museum).
+> **"Dienne là công chúa đã mất vương quốc."**  
+> *(The Princess Who Lost Her Kingdom)*  
+> **"Diana là công chúa chưa từng có vương quốc."**  
+> *(The Princess Who Never Had A Kingdom)*
+
+- **Dienne**: Bị tước đoạt vương quốc lúc 6 tuổi, lớn lên trong thung lũng tuyết giá lạnh, ăn bánh mì khô, mặc áo choàng sờn gấu, dùng kiếm gỗ sứt sẹo, tư duy bằng toán học và sự tàn khốc của sinh tồn. Dienne lớn lên gần như quên mất thế nào là cuộc sống hoàng gia. Với Dienne, *Everhart là một vết thương rỉ máu*.
+- **Diana**: Sinh ra trong một ngôi nhà bình dân ở Reverse London, nơi cha mẹ cô phải giấu thân phận, dùng tên giả và làm lụng như thường dân để mưu sinh. Nhưng trong căn nhà bình thường ấy, cha mẹ đã dồn hết tâm huyết âm thầm truyền dạy cho cô mọi chuẩn mực của hoàng tộc: lễ nghi, văn hóa, lịch sử, khiêu vũ, âm nhạc, kiếm thuật và ma thuật. Với Diana, *Everhart là một nền văn hóa, một bản trường ca đẹp đẽ chưa từng được nhìn thấy bằng mắt thường*.
+
+### Khoảnh Khắc Hội Ngộ Giữa Hai Chị Em
+- Khi Dienne nhìn Diana: *"Em ấy trông giống một công chúa thực thụ hơn mình..."*
+- Khi Diana nhìn Dienne: *"Chị mới là người thực sự sống cuộc đời mà em chỉ được nghe kể qua lời ru của cha mẹ..."*
+
+---
+
+### Khí Chất & Phong Thái Tự Nhiên
+- Diana không bao giờ phải cố tỏ ra sang chảnh. Khí chất vương giả đã ăn sâu vào phản xạ vô thức:
+  - Người khác bước vào phòng: Kéo ghế ngồi bệt xuống.
+  - Diana bước vào phòng: Vô thức chỉnh lại nếp váy, giữ lưng thẳng tắp thanh nhã, mỉm cười và cúi chào mọi người chuẩn xác theo lễ nghi hoàng gia cổ xưa.
+- **Tài năng đặc biệt — Giọng hát mê hoặc**: Diana sở hữu giọng hát trong trẻo và truyền cảm tuyệt mỹ. Những bài dạ khúc và cổ ca Everhart cô hát có khả năng tạo ra sự cộng hưởng âm học đặc biệt, xoa dịu những mạch mana đang co giật hoặc đánh thức những ký ức bị phong ấn.
+
+---
+
+### Phong Cách Chiến Đấu: Kiếm Vũ Ballet & Ma Thuật Trong Chuyển Động
+
+#### 1. Kiếm Thuật Ballet (Ballet-Swordsmanship):
+Kiếm pháp của Diana hoàn toàn không dựa vào cơ bắp hay những cú chém nặng nề. Nó là sự tinh hoa của: **Bước chân (Footwork) $\to$ Thăng bằng (Balance) $\to$ Xoay mũi chân (Pirouette) $\to$ Trọng tâm $\to$ Nhịp điệu $\to$ Độ chính xác tuyệt đối**.
+- Nhìn từ bên ngoài, đối thủ ngỡ như cô đang biểu diễn một khúc múa ba-lê cổ điển trên sân khấu. Nhưng thực chất, mỗi bước trượt, mỗi cú xoay người đều là một quỹ đạo chết người:
+  > *Diana xoay tròn trên mũi chân. Mũi liễu kiếm lướt qua khoảng không như một nét cọ bạc mảnh mai. Một bước. Hai bước. Tà váy xếp ly bung xòe theo chuyển động cơ thể. Đối thủ vừa kịp nhận ra mình đã bị áp sát thì lưỡi kiếm lạnh toát đã dừng chuẩn xác ngay trước yết hầu.*
+
+#### 2. Ma Thuật Dệt Trong Vũ Điệu (Magic in Motion):
+Khác với Dienne: `[Phân tích] -> [Tính toán] -> [Dựng ma trận] -> [Thi triển]`.  
+Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [Thi triển]`.
+- Diana không bao giờ đứng yên một chỗ để niệm chú hay vẽ ma pháp trận.
+- **Cô múa kiếm để vẽ nên ma pháp trận ngay trong chuyển động**:
+  - Mỗi bước nhón chân thay đổi một dòng chảy mana tự nhiên.
+  - Mỗi vòng xoay tròn dệt nên một cấu trúc hình học phát quang.
+  - Mỗi cú vung mũi kiếm thay đổi hướng vector của thông lượng $\Psi$.
+  - Kiếm thuật và ma thuật hòa quyện thành một bản vũ khúc liên tục không có điểm đứt gãy.
+
+---
+
+### Vai Trò Trong Hội Đồng Arrchirio
+- Đại diện chính thức cho **Chiếc Ghế Sồi Trống Thứ Ba** tại Bàn Tròn Hội Đồng (Đại diện cho Huyết thống Everhart Hải ngoại & Huyền thuật Reverse London).
 
 ---
 
@@ -206,30 +241,38 @@
 
 ---
 
-# 9. MA TRẬN QUAN HỆ & ĐỐI TRỌNG CỐT LÕI
+# 10. MA TRẬN QUAN HỆ & ĐỐI TRỌNG CỐT LÕI
 
 ```mermaid
 graph TD
-    Dienne["Dienne Everhart (16 tuổi)<br/>Leader / Elvish Math"]
-    Rhea["Rhea Everwy<br/>Người bảo vệ / Hiệp sĩ tóc bạc"]
+    Dienne["Dienne Everhart (16 tuổi)<br/>Leader / Toán học Elvish"]
+    Diana["Diana Everhart (15 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
+    Rhea["Rhea Everwy (32 tuổi)<br/>Hộ vệ Hoàng gia / Hiệp sĩ tóc bạc"]
     User317["317 (Kyoto)<br/>Thực dụng / Không Mana"]
     Lucien["Lucien Vale<br/>Hậu cần / Tài chính"]
     Ryan["Ryan (14 tuổi)<br/>Magitech / Cơ khí nhị phân"]
     Mira["Mira<br/>Ancient Magic / Spirit Arts"]
     Merlin["Merlin<br/>Người quan sát bí ẩn"]
 
+    Dienne <-->|Chị em ruột / Đối nghịch: Mất vương quốc vs Chưa từng có vương quốc| Diana
     Dienne <-->|Lời thề móc ngoéo & Tìm kiếm| Rhea
+    Diana <-->|Huyết thống hoàng gia & Lòng trung thành tuyệt đối| Rhea
     Dienne <-->|Đồng minh bất đắc dĩ & Bạn cùng tiến| Lucien
     Dienne <-->|Cầu nối tư duy & Khai phóng công nghệ| Ryan
     Dienne <-->|Dung hòa lý thuyết & Cân bằng linh mạch| Mira
     Dienne <-->|Đối trọng văn minh & Chạm trán nảy lửa| User317
+    Diana <-->|Tương phản văn hóa: Công chúa đài các vs Sát thủ đường phố| User317
     Ryan <-->|Khắc khẩu: Máy móc vs Linh mạch| Mira
     Merlin -.->|Quan sát biến số| Dienne
 ```
 
 | Nhân Vật A | Nhân Vật B | Tính Chất Quan Hệ | Mâu Thuẫn / Điểm Chạm |
 | :--- | :--- | :--- | :--- |
+| **Dienne** | **Diana** | Chị em ruột thịt, hai mặt của một vương triều | Dienne mất vương quốc trước khi hiểu nó (vết thương); Diana chưa từng có vương quốc nhưng thấu hiểu trọn vẹn văn hóa và cốt cách hoàng gia. |
 | **Dienne** | **Rhea** | Lời thề sinh mạng, tình thân ruột thịt | Rhea mang tội lỗi kẻ thất hứa; Dienne quyết tâm chứng minh mình đã đủ sức đứng bên cạnh cô. |
+| **Diana** | **Rhea** | Công chúa thứ hai & Người bảo hộ tối cao | Rhea tìm thấy ở Diana hình ảnh huy hoàng mà vương triều Everhart từng có; Diana được nghe về Rhea qua lời ru của mẹ. |
+| **Diana** | **317** | Hai thái cực của thế giới thực | Diana múa ballet giữ trọn lễ nghi quý tộc; 317 ngậm kẹo mút xả đạn giảm thanh — cặp đôi "trái dấu" cực kỳ thú vị khi tác chiến. |
 | **Dienne** | **317** | Hai thái cực của hai thế giới | Dienne dùng mana và tư duy quý tộc; 317 dùng súng, bẫy và phong cách đường phố tự do. |
 | **Ryan** | **Mira** | Kỹ thuật máy móc vs Linh mạch tự nhiên | Tranh cãi triền miên về hiệu suất và tính linh thiêng của ma thuật. |
 | **Dienne** | **Vane** | Bảo vệ Cân Bằng vs Báo thù cực đoan | Vane chế giễu sự non nớt của Dienne; Dienne từ chối biến mình thành kẻ ác như Đế quốc. |
+

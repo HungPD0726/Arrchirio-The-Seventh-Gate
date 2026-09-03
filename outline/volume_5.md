@@ -93,13 +93,17 @@
   - **317** kéo ghế ngồi vào **Chiếc Ghế Trống Thứ Hai** (Đại diện cho Nhân loại Thế giới thực & Kẻ săn dị vật không mana).
 - Sáu người ngồi quanh bàn tròn, nhưng vẫn còn **2 chiếc ghế trống** đang chờ đợi.
 
-### EPILOGUE: BẢN ĐỒ TOÀN CẦU & BỨC ĐIỆN TỪ LONDON
+### EPILOGUE: BẢN ĐỒ TOÀN CẦU & BỨC ĐIỆN TỪ REVERSE LONDON
 - Ryan giải mã đĩa dữ liệu thu được từ máy gia tốc Cổng phương Bắc.
 - Một bản đồ địa cầu hoàn toàn mới hiện ra trên màn hình tinh thể ma đạo:
   - Cổng ranh giới không chỉ nối với Kyoto!
   - Một mạng lưới đa chiều toàn cầu lộ diện: **Kyoto (Nhật Bản), Trung Hoa (Đạo pháp Côn Lôn), Mỹ (Tổ hợp lượng tử), Ai Cập (Kim Tự Tháp), Ả Rập (Sa mạc Djinn)**...
-  - Và ngay tại trung tâm của kinh tuyến số 0: **London (Anh Quốc)** đang phát ra một tín hiệu điện tín ma đạo mã hóa bí ẩn.
-- Bức điện từ London chỉ vỏn vẹn một câu tiếng Latin cổ:
-  > *"Hỡi những kẻ canh giữ Cân Bằng, chiếc đồng hồ Big Ben vừa chạy ngược ba giây. Tôi đang đợi các người tại kho ngầm Bảo tàng Anh. — Diana Sterling."*
-- Dienne siết chặt thanh kiếm gỗ, ánh mắt hướng về phương Tây xa xôi:
-  *"Mục tiêu tiếp theo của chúng ta: London."*
+  - Và ngay tại trung tâm của kinh tuyến số 0: **Reverse London (London Nghịch Đảo)** đang phát ra một tín hiệu điện tín ma đạo mã hóa đặc biệt.
+- Kèm theo sóng vô tuyến là một đoạn âm thanh ngắn vang lên giữa đại sảnh pháo đài: Một giọng hát thiếu nữ trong veo, u sầu và quý phái đang hát bài dạ khúc hoàng gia Everhart—bài hát ru mà chỉ những người mang dòng máu vương tộc mới được nghe trước khi đi ngủ!
+- Bức điện giải mã hiện ra dòng chữ:
+  > *"Hỡi người chị gái mà em chưa từng được gặp mặt... Chiếc đồng hồ Big Ben vừa chạy ngược ba giây, và bài hát ru của mẹ lại vang lên bên bờ sông Thames. Em đang đợi chị tại Reverse London. — Diana Everhart."*
+- Cả căn phòng chấn động. Dienne đứng sững sờ, ngón tay run rẩy chạm vào lồng ngực nơi giấu chiếc trâm cài vương tộc:
+  *"Em gái tôi... còn sống?!"*
+- Rhea siết chặt chuôi kiếm bạc, đôi mắt ngấn lệ sau 10 năm câm lặng.
+- Dienne ngẩng đầu lên, ánh mắt lam thẫm rực sáng một quyết tâm chưa từng có:
+  *"Mục tiêu tiếp theo của chúng ta: Reverse London."*

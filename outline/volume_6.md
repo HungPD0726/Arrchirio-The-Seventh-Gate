@@ -1,99 +1,106 @@
 # DÀN Ý CHI TIẾT VOLUME 6: NHỮNG THÀNH PHỐ BỊ LÃNG QUÊN & BÓNG MA ARKNIGHT
 ### (The Forgotten Cities & The Phantom of Arknight)
 
-> **Mục tiêu cốt truyện:** Mở rộng chiến trường ra phạm vi toàn cầu của thế giới thực; thâm nhập **London** sương mù để hội ngộ **Diana Sterling**; lấp đầy chiếc ghế sồi trống thứ ba; giải mã mạng lưới Cổng ranh giới tại Trung Hoa, Ai Cập, Ả Rập, Mỹ; và bóc trần chân tướng kinh hoàng về huyết thống gia tộc phản bội Arknight.
+> **Mục tiêu cốt truyện:** Thâm nhập **Reverse London** (London Nghịch Đảo); cuộc tái ngộ định mệnh giữa hai nàng công chúa Everhart (**Dienne & Diana**); lấp đầy Chiếc Ghế Sồi Trống Thứ Ba; khám phá mạng lưới Cổng ranh giới toàn cầu (Trung Hoa, Ai Cập, Ả Rập, Mỹ); và bóc trần chân tướng bi kịch về huyết thống kẻ phản bội gia tộc Arknight.
 
 ---
 
-## BỐ CỤC CHƯƠNG DỰ KIẾN
+## NGHỊCH LÝ CỐT LÕI CỦA TẬP 6
 
-### PROLOGUE: BÁNH RĂNG DƯỚI DÒNG SÔNG THAMES
-- Đêm sương mù dày đặc buông xuống dòng sông Thames tại thủ đô London.
-- Dưới tầng hầm ngập nước của Tháp đồng hồ Big Ben, một thiếu nữ mặc áo măng-tô dạ màu xanh lục sẫm, đeo kính mắt tròn gọng đồng đang dùng cây batoong cán bạc vặn chặt một bánh răng khổng lồ: **Diana Sterling**.
-- Chiếc đồng hồ quả quýt trên tay cô rung lên dữ dội khi kim giây nhảy ngược ba nhịp. Tín hiệu phản hồi từ Sector 7 xuyên qua kinh tuyến số 0.
-- Diana mỉm cười bí ẩn: *"Cuối cùng thì những con chim tuyết phương Bắc cũng đã cất cánh."*
+> **"Dienne là công chúa đã mất vương quốc. Diana là công chúa chưa từng có vương quốc."**  
+> *(Dienne is the princess who lost her kingdom. Diana is the princess who never had a kingdom.)*
 
-### CHƯƠNG 1: BƯỚC QUA KINH TUYẾN SỐ 0
-- Nhóm Arrchirio (Dienne, Rhea, 317, Lucien, Ryan, Mira) sử dụng Cổng Rò Rỉ đặc biệt do 317 dẫn đường để vượt biên sang London.
-- Khác với sự tĩnh lặng mang phong vị Á Đông của Kyoto ở Tập 3, London chào đón họ bằng tiếng còi tàu hơi nước, những ống khói công nghiệp, những con ngõ lát đá ẩm ướt và ánh đèn khí ga mờ ảo.
-- Rhea lần đầu tiên bước chân sang thế giới không có mana, choáng ngợp trước những cỗ xe hơi và kiến trúc đồ sộ của nhân loại.
+- **Dienne Everhart**: Lớn lên trong tuyết lạnh, mang thanh kiếm gỗ sứt sẹo, tư duy bằng toán học và sinh tồn khốc liệt. Với Dienne, *Everhart là một vết thương*.
+- **Diana Everhart**: Lớn lên trong ngôi nhà bình dân ở Reverse London, chưa từng có một ngày ngồi trên ngai vàng, nhưng được cha mẹ âm thầm truyền dạy trọn vẹn lễ nghi, khiêu vũ, ca hát và kiếm thuật hoàng gia. Với Diana, *Everhart là một nền văn hóa và niềm kiêu hãnh bất diệt*.
 
-### CHƯƠNG 2: MÊ CUNG BẢO TÀNG ANH
-- Đội ngũ thâm nhập vào khu vực cấm dưới lòng Bảo tàng Anh (British Museum) theo chỉ dẫn của bức điện tín.
-- Vượt qua các cạm bẫy cơ học hơi nước, các dãy tủ trưng bày xác ướp và cổ vật huyền học thời Victoria.
-- Một cái bẫy áp suất bột bạc tinh chế bất ngờ kích hoạt, phong tỏa toàn bộ đường dẫn mana của Dienne và Rhea!
+---
 
-### CHƯƠNG 3: CUỘC SO TÀI DƯỚI BÓNG ĐÊM — GẶP GỠ DIANA
-- **Diana Sterling** xuất hiện từ trong bóng tối, tay chống cây batoong đo kinh tuyến Greenwich.
-- Một cuộc đối đầu nghẹt thở giữa **Cơ khí đồng hồ ma đạo (Clockwork Arcana)** của Diana và chiến thuật thực dụng đường phố của 317.
-- Dienne dùng tư duy toán học giải mã chu kỳ quay của các bánh răng bẫy cơ học trong vòng 10 giây, chứng minh bản lĩnh của người thừa kế Arrchirio.
-- Diana hạ vũ khí, cúi chào theo phong cách quý tộc chuẩn mực: *"Rất hân hạnh được diện kiến công chúa của vương triều sụp đổ."*
+## BỐ CỤC CHƯƠNG CHI TIẾT
 
-### CHƯƠNG 4: HỒ SƠ THẾ KỶ 19 CỦA ARRCHIRIO TÂY ÂU
-- Diana dẫn nhóm vào thư viện ngầm của Viện Khảo Cứu Huyền Bí Hermetic.
-- Tiết lộ lịch sử: Sau cuộc Đại thanh trừng 20 năm trước, một nhánh học giả Arrchirio đã chạy trốn sang phương Tây của thế giới thực, thành lập mạng lưới quan sát ngầm tại London.
-- Diana trao cho Dienne cuốn sổ tài chính mật: Toàn bộ vũ khí ma thạch và tiền bạc thanh trừng Everhart năm xưa đều được rửa qua các tập đoàn tài chính phương Tây dưới trướng một cái tên bí ẩn: **Arknight**.
+### PROLOGUE: KHÚC DẠ VŨ BÊN DÒNG SÔNG THAMES
+- Đêm sương mù dày đặc buông xuống thành phố ranh giới **Reverse London**. Ánh đèn khí ga vàng vọt soi bóng Tháp Big Ben xuống mặt nước sông Thames ma ảo.
+- Trong sân sau của một căn nhà gạch đỏ giản dị ở ngoại ô, một thiếu nữ mười lăm tuổi đang một mình múa kiếm dưới trăng: **Diana Everhart**.
+- Chuyển động của cô không giống bất kỳ kiếm sĩ nào: Nhẹ nhàng, uyển chuyển, xoay tròn trên mũi chân như một vũ công ballet cổ điển. Thanh liễu kiếm bạc mỏng manh lướt qua không trung như nét cọ, mỗi nhịp chân nhón dệt nên một cấu trúc ma trận lam ngọc phát quang.
+- Vừa múa kiếm, đôi môi cô khẽ cất lên bài dạ khúc hoàng gia Everhart. Tiếng hát trong trẻo, u sầu ngân vang qua làn sương buốt giá:
+  *"...Hỡi ngọn lửa xanh trên đỉnh tuyết ngàn năm, bao giờ người lữ hành sẽ trở về nhà?..."*
 
-### CHƯƠNG 5: CHIẾC GHẾ SỒI THỨ BA
-- Diana hiểu rõ mối đe dọa của Cánh Cửa Thứ Hai và sự va chạm hai thế giới.
-- Cô đồng ý gia nhập liên minh, trở thành đại diện cho **Chiếc Ghế Sồi Trống Thứ Ba** tại Bàn Tròn Hội Đồng (Đại diện cho Cơ khí học & Huyền học Tây Âu).
-- Diana giao nộp chìa khóa cơ khí định vị tọa độ toàn cầu: **Thước Đo Kinh Tuyến Greenwich**.
+### CHƯƠNG 1: BƯỚC VÀO THÀNH PHỐ NGHỊCH ĐẢO
+- Nhóm Arrchirio (Dienne, Rhea, 317, Lucien, Ryan, Mira) vượt qua Cổng Rò Rỉ đặc biệt bước chân vào **Reverse London**.
+- Không gian giao thoa kỳ ảo: Những cỗ xe ngựa chạy song song với đường ống hơi nước áp suất cao, các quý ông đội mũ phớt và quý bà mặc váy dạ hội xòe rộng.
+- Rhea lần đầu tiên đặt chân sang thế giới này, ngỡ ngàng khi nhìn thấy lá cờ rồng vàng Everhart nhỏ xíu được ai đó khắc kín đáo trên chân cầu đá cổ kính.
 
-### CHƯƠNG 6: TỌA ĐỘ PHƯƠNG ĐÔNG — LONG MẠCH CÔN LÔN
-- Nhóm phân tích bản đồ Cổng toàn cầu: Điểm neo năng lượng thứ ba nằm tại dãy núi **Côn Lôn (Trung Hoa)**.
-- Tình báo cho thấy các Đạo sĩ trấn giữ *"Thiên Môn"* tại Côn Lôn đang bị một tổ chức đánh thuê bí ẩn tấn công.
-- 317 và Lucien móc nối với các đường dây ngầm châu Á để mở đường bay sang phương Đông.
+### CHƯƠNG 2: NGÔI NHÀ GẠCH ĐỎ
+- Lần theo tần số sóng vô tuyến và bức điện tín ở Tập 5, Dienne và Rhea tìm đến một con ngõ vắng lát đá cuội.
+- Trước mắt họ không phải là một cung điện nguy nga hay lâu đài tráng lệ, mà chỉ là một ngôi nhà gạch đỏ hai tầng đơn sơ, có giàn hoa hồng dại quấn quanh hàng rào sắt rỉ sét.
+- Cánh cửa gỗ mở hé. Tiếng hát ru quen thuộc của mẹ năm 6 tuổi bỗng từ trong nhà vọng ra, khiến bước chân Dienne hoàn toàn khựng lại.
 
-### CHƯƠNG 7: BẬT MÃ TỪ VÙNG CÁT VÀNG — KIM TỰ THÁP AI CẬP
-- Trong khi Dienne và Diana giải mã cổ ngữ, Ryan phát hiện các Kim Tự Tháp tại **Ai Cập** đang phát ra sóng cộng hưởng hình học đối xứng với Cánh Cửa Thứ Hai.
-- Các cổ ngữ tượng hình trên lăng mộ Pharaoh có chung gốc từ vựng với Cổ ngữ Elvish sơ khai.
-- Giả thuyết chấn động: Bảy Cánh Cổng không phải sản phẩm ngẫu nhiên, mà là di sản của một nền văn minh siêu việt từng thống nhất cả hai cõi hàng vạn năm trước.
+### CHƯƠNG 3: HAI NÀNG CÔNG CHÚA — CUỘC HỘI NGỘ ĐỊNH MỆNH
+- Dienne bước vào khoảng sân. Trước mắt cô là Diana đang hoàn tất một cú xoay người *pirouette* trên đầu ngón chân. 
+- Thanh liễu kiếm bạc vung ra trong tích tắc, dừng lại cách yết hầu Dienne đúng nửa đốt ngón tay. Nhưng khi ánh mắt màu lam trong veo của Diana chạm vào đôi mắt màu lam thẫm sâu thẳm của Dienne—thời gian dường như ngưng đọng.
+- Sự tương phản chấn động:
+  - Dienne: Áo choàng đen sờn gấu, thắt lưng da thô mộc, tay siết thanh kiếm gỗ sứt sẹo, phong trần và sắc lạnh như băng tuyết.
+  - Diana: Tà váy xếp ly mềm mại thắt eo quý phái, lưng thẳng tắp thanh nhã, mái tóc vàng gợn sóng buông lơi, toát lên khí chất vương giả thuần khiết dù đang đứng ở khoảng sân đất.
+- Dienne ngỡ ngàng nghĩ thầm: *"Em ấy giống một công chúa thực thụ hơn mình..."*
+- Diana từ từ hạ mũi kiếm, ngấn lệ cúi đầu hành lễ hoàng gia chuẩn xác từng góc độ: *"Chị mới là người thực sự sống cuộc đời mà em chỉ được nghe kể... Chị Dienne."*
+- Rhea quỳ sụp một gối xuống sàn đá, nước mắt của người hộ vệ già rơi lã chã.
 
-### CHƯƠNG 8: TỔ HỢP LƯỢNG TỬ TẠI SA MẠC HOA KỲ
-- Dữ liệu rò rỉ từ các phòng thí nghiệm bí mật của Mỹ (DARPA / Vùng 51): Một tập đoàn quân sự tư nhân đang dùng máy gia tốc hạt cố gắng "nhân bản vô tính" hạt mana $\Psi$.
-- Kẻ tài trợ đứng sau tập đoàn đó chính là bóng ma của gia tộc Arknight.
-- Chúng muốn dùng năng lượng mana nhân tạo để kích nổ Cổng, xóa sổ thế giới phép thuật và biến thế giới thực thành lãnh địa độc tài của chúng.
+### CHƯƠNG 4: DI SẢN CỦA CHA MẸ
+- Trong căn phòng khách ấm cúng có lò sưởi bập bùng, Diana kể lại toàn bộ câu chuyện:
+  - Sau đêm hoàng cung bốc cháy, cha mẹ đã trốn thoát sang Reverse London để bảo toàn huyết mạch, sống cuộc đời thường dân làm lụng mưu sinh.
+  - Cha mẹ đã dồn hết tâm huyết dạy dỗ Diana trở thành một công chúa đích thực trong chính căn nhà nghèo nàn này. Họ vừa qua đời vì bạo bệnh hai năm trước, để lại cho Diana cuốn biên niên sử hoàng gia và con dấu tối mật của Everhart.
+- Diana không hề căm ghét số phận. Với cô, vương quốc Everhart chưa từng mất đi—nó sống trong từng bước khiêu vũ, từng lời ca và từng cử chỉ mà cha mẹ đã truyền lại.
 
-### CHƯƠNG 9: ẢO ẢNH SA MẠC Ả RẬP
-- Nhóm nhận được cảnh báo về hiện tượng *"Mirage Gates"* tại sa mạc Rub' al Khali (Ả Rập): Các sinh vật nguyên tố lửa (Djinn) tràn qua vết nứt thiêu rụi các ốc đảo.
-- Mạng lưới Cổng toàn cầu đang đồng loạt suy sụp vì áp lực của mỏ neo Cánh Cửa Thứ Hai.
-- Thời gian đếm ngược của Ryan chỉ còn chưa đầy ba tháng.
+### CHƯƠNG 5: VŨ KHÚC KIẾM & MA THUẬT CHUYỂN ĐỘNG
+- Một màn so tài kiếm thuật và ma pháp diễn ra giữa hai chị em:
+  - Dienne đại diện cho **Toán học & Cấu trúc tĩnh**: Đứng yên phân tích, tính toán vector, tung kiếm gỗ bọc mana lam nén như sấm sét.
+  - Diana đại diện cho **Vũ đạo & Dòng chảy động**: Kiếm vũ ballet, vừa nhón chân xoay người vừa dệt nên các ma pháp trận phòng ngự và phản đòn uốn lượn như nước chảy mây trôi.
+- Sự kết hợp hoàn mỹ: Khi hai phong cách giao thoa, họ tạo nên một thế trận công thủ toàn diện mà không một học viện ma thuật nào của Đế quốc có thể giải mã nổi!
 
-### CHƯƠNG 10: TẬP KÍCH TRỤ SỞ NGẦM ARKNIGHT TẠI LONDON
-- Diana và Lucien lần ra sào huyệt ngầm của chi nhánh Arknight đặt ngay dưới nhà ga xe lửa cũ bỏ hoang ở ngoại ô London.
-- Toàn đội mở cuộc đột kích phối hợp:
-  - 317 và Rhea xung phong cận chiến.
-  - Diana và Ryan dùng thiết bị phá sóng vô hiệu hóa mạng lưới phòng thủ điện từ.
-  - Dienne và Mira tiến vào phòng lưu trữ trung tâm.
+### CHƯƠNG 6: CHIẾC GHẾ SỒI TRỐNG THỨ BA
+- Diana được Dienne dẫn về pháo đài ngầm Sector 7.
+- Trước Bàn Tròn Hội Đồng, Diana chỉnh lại nếp váy, nghiêng mình chào từng thành viên theo lễ nghi hoàng tộc, khiến Ryan và Lucien tròn xoe mắt thán phục.
+- Diana chính thức đặt con dấu rồng vàng lên mặt đá, ngồi vào **Chiếc Ghế Sồi Trống Thứ Ba** (Đại diện cho Văn hóa Hoàng gia & Nghệ thuật Ranh giới).
+- Hội đồng Arrchirio Mới nay đã có 7 thành viên, chỉ còn thiếu **duy nhất 1 chiếc ghế trống**.
 
-### CHƯƠNG 11: BỨC MÀN BÍ MẬT BỊ XÉ TOẠC — HUYẾT THỐNG EVERHART
-- Dienne tìm thấy gia phả gốc nguyên bản của gia tộc Arknight bị đốt dở năm xưa.
-- **Sự thật kinh hoàng lộ diện**: Gia tộc Arknight không phải là một nhánh ngoại lai.
-- Người sáng lập ra Arknight và kẻ ký lệnh thanh trừng lâu đài Everhart… chính là **hoàng thúc ruột của Dienne** (người em trai cùng cha khác mẹ của Tiên vương Everhart).
-- Người này tin rằng hai thế giới song song là một căn bệnh ung thư của vũ trụ; cách duy nhất để cứu vãn thực tại khỏi sụp đổ là tiêu diệt một nửa và dùng ách thống trị sắt máu của Đế quốc để cai trị nửa còn lại!
+### CHƯƠNG 7: TỌA ĐỘ TOÀN CẦU — LONG MẠCH CÔN LÔN & KIM TỰ THÁP
+- Nhóm kích hoạt Thước Đo Kinh Tuyến Greenwich của Diana kết hợp với máy quét của Ryan, mở rộng bản đồ Cổng thế giới thực:
+  - **Trung Hoa (Côn Lôn)**: Mạch Cửu Long đang gầm rú; các đạo sĩ phái Côn Lôn phong ấn *"Thiên Môn"* bằng trận pháp Bát Quái cổ.
+  - **Ai Cập (Giza)**: Các Kim Tự Tháp đóng vai trò Tháp Cộng Hưởng Hình Học đang phát sáng đối xứng với Cánh Cửa Thứ Hai.
+  - **Ả Rập (Rub' al Khali)**: Ảo ảnh Mirage Gates rách toạc, các thực thể lửa Djinn tràn qua thiêu rụi các ốc đảo.
+  - **Mỹ (DARPA)**: Máy gia tốc hạt ngầm đang cố gắng tổng hợp nhân tạo hạt $\Psi$.
 
-### CHƯƠNG 12: ĐỐI ĐẦU BÓNG MA CỦA QUÁ KHỨ
-- Tàn dư hộ vệ Arknight kích hoạt cỗ máy nén không gian hòng đánh sập khu phố London để bịt đầu mối.
-- Trận chiến đỉnh cao giữa các hệ thống: Kiếm thuật lôi điện của Rhea, súng ngắn đạn vonfram của 317, bùa linh khí của Mira, cơ khí bánh răng của Diana và ma thuật lam hỏa của Dienne.
-- Cỗ máy bị vô hiệu hóa trong gang tấc nhờ sự phối hợp tuyệt hảo của Dienne và Diana.
+### CHƯƠNG 8: TẬP KÍCH TRỤ SỞ NGẦM TẠI NGOẠI Ô LONDON
+- Diana cung cấp thông tin tình báo: Một nhánh tài chính ngầm của gia tộc phản bội **Arknight** đang đặt trụ sở tại một nhà ga xe lửa bỏ hoang ở ngoại ô London.
+- Toàn đội phối hợp tác chiến đột kích:
+  - 317 xả đạn vonfram giảm thanh chế áp hỏa lực.
+  - Rhea vung trường kiếm lôi điện chém tan hàng rào thép.
+  - Diana lướt đi giữa làn đạn như một vũ công ballet, mũi liễu kiếm điểm huyệt và đoản mạch ma cụ đối phương trong tích tắc.
+  - Dienne và Lucien thâm nhập vào phòng lưu trữ tài liệu tuyệt mật.
 
-### CHƯƠNG 13: LỜI TUYÊN CHIẾN GỬI HOÀNG ĐẾ AURELIA
-- Dienne thu hồi toàn bộ con dấu và tài liệu phản quốc của Arknight.
-- Cô gửi một thông điệp ma đạo mã hóa xuyên qua Cổng gửi thẳng tới cung điện Hoàng đế Aurelia:
-  > *"Kẻ chiến thắng từng viết lại lịch sử hai mươi năm trước. Nhưng hôm nay, những người bảo vệ Cân Bằng đã trở lại để đòi lại sự thật."*
+### CHƯƠNG 9: BỨC MÀN XÉ TOẠC — HOÀNG THÚC ARKNIGHT
+- Dienne tìm thấy cuốn gia phả hoàng tộc Everhart bị đốt dở trong két sắt ma đạo.
+- **SỰ THẬT KINH HOÀNG LỘ DIỆN**:
+  - Người đứng đầu gia tộc Arknight—kẻ đã phản bội Arrchirio 20 năm trước và ra lệnh cho quân đoàn Đế quốc san phẳng Everhart… chính là **Hoàng thúc ruột của Dienne và Diana**!
+  - Lý tưởng bệnh hoạn của kẻ phản bội: Hắn tin rằng hai thế giới song song là một lỗi toán học của vũ trụ. Cách duy nhất để ngăn chặn sự sụp đổ của Cổng Thứ Bảy là dùng bàn tay sắt của Đế quốc tiêu diệt một nửa thực tại và cai trị độc tài nửa còn lại.
 
-### CHƯƠNG 14: BÀN CỜ ĐÃ ĐỦ BẢY NGƯỜI
-- Trở về pháo đài Sector 7, Diana Sterling chính thức đặt chiếc đồng hồ quả quýt lên bàn tròn và ngồi vào **Chiếc Ghế Trống Thứ Ba**.
-- Đội hình Hội đồng Arrchirio Mới hiện tại:
-  1. Dienne Everhart (Thủ lĩnh / Toán học Elvish)
-  2. Rhea Everwy (Tổng chỉ huy Hộ vệ)
-  3. 317 (Chuyên gia Đột kích & Công nghệ Thế giới thực)
-  4. Diana Sterling (Chiến lược gia Cơ khí & Giả kim thuật Tây Âu)
-  5. Lucien Vale (Hậu cần & Mạng lưới Tình báo)
-  6. Ryan (Trưởng ban Kỹ thuật Magitech)
-  7. Mira (Trưởng ban Cân bằng Linh mạch & Cổ học)
-- Chỉ còn lại **duy nhất một chiếc ghế trống cuối cùng** dành cho đại diện của phương Đông (Trung Hoa/Ai Cập) chuẩn bị cho trận chiến tối thượng tại Volume 7!
+### CHƯƠNG 10: TIẾNG HÁT GIỮA LỬA ĐẠN
+- Quân tiếp viện của Arknight và Thẩm Phán Viện kích hoạt cỗ máy nén không gian hòng chôn sống cả khu phố London.
+- Không gian bắt đầu rạn nứt, sóng áp suất cực lớn làm nứt toác sàn đá.
+- Giữa khung cảnh hỗn loạn, **Diana cất tiếng hát**. Bài cổ ca Everhart với âm sắc hoàng gia thuần khiết đã cộng hưởng với sóng mana trong không khí, làm dịu đi sự cuồng bạo của máy nén trong vài giây quý giá.
+- Dienne nắm bắt cơ hội, lao lên cắm phập thanh kiếm gỗ sồi của Rhea vào lõi năng lượng, phá hủy hoàn toàn cỗ máy.
 
-### EPILOGUE: ÁNH NHÌN TỪ KHOẢNG HƯ VÔ
-- Tại ranh giới vĩnh hằng giữa các thế giới, Merlin đứng nhìn bảy ngọn đèn sáng rực trên ma trận toàn cầu.
-- Merlin khẽ mỉm cười: *"Cô bé đã gom đủ các mảnh ghép của con người... Nhưng liệu bấy nhiêu đó có đủ để đối mặt với Merlin's Paradox khi Cánh Cửa Thứ Bảy mở ra?"*
+### CHƯƠNG 11: LỜI TUYÊN CHIẾN VƯƠNG QUYỀN
+- Đứng trên đỉnh Tháp Big Ben trong làn sương mù London, hai chị em Dienne và Diana sánh bước bên nhau.
+- Dienne cầm thanh kiếm gỗ, Diana cầm liễu kiếm bạc.
+- Dienne phát đi thông điệp ma đạo xuyên qua Cổng gửi thẳng tới Đế quốc Aurelia và gia tộc Arknight:
+  > *"Hai mươi năm trước, các người đã xé nát vương triều của chúng tôi và viết lại lịch sử bằng máu. Nhưng các người không thể giết chết Everhart. Chúng tôi đã trở lại để bảo vệ Cân Bằng."*
+
+### CHƯƠNG 12: HƯỚNG VỀ PHƯƠNG ĐÔNG
+- Sau khi bình ổn Reverse London và kho lưu trữ ngầm, nhóm nhận được tín hiệu cầu cứu từ **dãy núi Côn Lôn (Trung Hoa)**:
+- Cổng Cổ Đại phương Đông đang bị tấn công dữ dội. Vị Đạo sĩ trấn giữ cuối cùng đang chờ đợi người kế thừa ngồi vào **Chiếc Ghế Sồi Thứ Tư**.
+- Dienne, Diana, Rhea, 317, Lucien, Ryan, Mira cùng nhau bước lên chuyến tàu xuyên giới, chuẩn bị cho trận chiến tối thượng tại Volume 7!
+
+### EPILOGUE: NỤ CƯỜI CỦA MERLIN
+- Tại khoảng hư không, Merlin quan sát thấy hai luồng ánh sáng lam ngọc của hai chị em Everhart đã hòa làm một trên bàn cờ định mệnh.
+- Merlin lẩm bẩm:
+  > *"Một người mất vương quốc... Một người chưa từng có vương quốc... Khi hai nửa của vết thương và nền văn hóa hợp nhất, có lẽ con người thực sự có thể phá vỡ được nghịch lý của ta."*

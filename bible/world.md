@@ -1016,11 +1016,16 @@ Và từ đây, câu chuyện có thể chuyển sang câu hỏi lớn hơn:
 
 ---
 
-### 10.2. London (Anh Quốc) — *Cơ Khí Đồng Hồ, Giả Kim Thuật & Viện Huyền Bí Hermetic*
-- **Đặc trưng không gian**: Màn sương mù dày đặc buông xuống dòng sông Thames, kiến trúc Gothic thời Victoria hòa quyện với các công trình tài chính hiện đại, Tháp đồng hồ Big Ben và các tầng hầm ngập lụt dưới lòng đất.
-- **Hiện tượng**: Kinh tuyến số 0 (Greenwich Meridian) đóng vai trò là kinh tuyến định chuẩn thời-không. Dưới tầng sâu của Bảo tàng Anh (British Museum) cất giấu kho lưu trữ bí mật của mạng lưới Arrchirio Tây Âu lưu lạc từ thế kỷ 19.
-- **Phương thức tiếp cận**: Không xem ma thuật là phép lạ tôn giáo, mà phân tích nó như **Cơ khí đồng hồ ma đạo (Clockwork Arcana)** và Giả kim thuật phương Tây (Hermetic Alchemy). Sử dụng bánh răng chính xác, áp suất hơi nước và bột bạc tinh chế để khống chế xung động ranh giới.
-- **Nhân vật tiêu biểu**: **Diana Sterling** (Tiểu thư quý tộc, học giả Viện Hermetic, sở hữu cây batoong trắc địa kinh tuyến Greenwich).
+### 10.2. Reverse London (London Nghịch Đảo / Anh Quốc) — *Thành Phố Nơi Ẩn Náu & Kiếm Vũ Hoàng Gia*
+- **Bản chất không gian**: **Reverse London (London Nghịch Đảo)** là một thành phố ranh giới phản chiếu, tồn tại kẹp giữa màn sương mù dày đặc của London thế giới thực và dòng chảy ma đạo của thế giới phép thuật. Kiến trúc Victorian Gothic cổ kính, tháp đồng hồ Big Ben rêu phong soi bóng xuống dòng sông Thames ma ảo, nơi các cỗ xe ngựa chạy song song với những đường ống áp suất hơi nước.
+- **Vị trí lịch sử đối với Vương tộc Everhart**: 
+  - Sau đêm hoàng cung Everhart sụp đổ trong biển lửa, cha mẹ của Dienne đã bí mật vượt qua Cổng Rò Rỉ tìm đến Reverse London để lánh nạn.
+  - Tại đây, họ sống cuộc đời của những thị dân bình thường trong một ngôi nhà gạch đỏ giản dị, làm lụng mưu sinh và cố gắng không để lộ tung tích vương triều.
+  - **Diana Everhart** đã được sinh ra và lớn lên trong chính ngôi nhà ấy. Dù sống giữa đời thường, cha mẹ đã âm thầm truyền dạy trọn vẹn văn hóa, lễ nghi, kiếm thuật và ma thuật hoàng gia cho Diana.
+- **Đặc trưng ma pháp & Văn hóa**:
+  - Kinh tuyến Greenwich (Kinh tuyến số 0) đóng vai trò trục định vị thời-không.
+  - Thay vì ma pháp cứng nhắc, nơi đây phát triển trường phái **Ma thuật trong chuyển động** kết hợp **Kiếm thuật Ballet** và **Cơ khí đồng hồ ma đạo (Clockwork Arcana)**.
+- **Nhân vật tiêu biểu**: **Diana Everhart** (Công chúa thứ hai của Everhart, em gái ruột của Dienne; sở hữu kiếm vũ ballet tuyệt kỹ và giọng ca dạ khúc mê hoặc).
 
 ---
 
