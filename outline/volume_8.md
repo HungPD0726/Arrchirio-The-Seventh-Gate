@@ -2,7 +2,7 @@
 ### (The Ancient Cities & The Battle of Balance) — ĐẠI KẾT CỤC TỐI THƯỢNG
 
 > **Mục tiêu cốt truyện:** 
-> Hành trình tối thượng khép lại thiên sử thi Arrchirio. Toàn bộ 7 thành viên Hội Đồng New Arrchirio tiến quân theo Trục Long Mạch toàn cầu: từ đại bản doanh **Pháo đài Sector 7** $\to$ vượt biển cát đến **Quần Thể Kim Tự Tháp Cairo (Ai Cập)** để giải mã ma thuật tượng hình và kích hoạt Tháp Cộng Hưởng ngầm $\to$ đột kích vào trung tâm quyền lực của Đế quốc tại **Thành Phố Tòa Thánh New Rome** $\to$ trận quyết chiến tối hậu tại **Điểm Kỳ Dị Cánh Cửa Thứ Bảy**; đối đầu với **Hoàng đế Aurelia** và **Hoàng thúc Alden Everhart (Lord Arknight)**; chứng kiến khoảnh khắc tột cùng tuyệt vọng và **SỰ TRỞ LẠI CỦA RHEA EVERWY** từ Dòng Chảy Ma Thuật; khép lại vòng lặp thù hận và tái lập sự Cân Bằng vĩnh hằng giữa các thực tại.
+> Hành trình tối thượng khép lại thiên sử thi Arrchirio. Toàn bộ 7 thành viên Hội Đồng New Arrchirio tiến quân theo Trục Long Mạch toàn cầu: từ đại bản doanh **Pháo đài Sector 7** $\to$ vượt biển cát đến **Quần Thể Kim Tự Tháp Cairo (Ai Cập)** để giải mã ma thuật tượng hình và kích hoạt Tháp Cộng Hưởng ngầm $\to$ đột kích vào trung tâm quyền lực của Đế quốc tại **Thành Phố Tòa Thánh New Rome** $\to$ trận quyết chiến tối hậu tại **Điểm Kỳ Dị Cánh Cửa Thứ Bảy**; đối đầu với **Hoàng đế Aurelia** và **Hoàng thúc Alden Everhart (Lord Arknight)**; chứng kiến khoảnh khắc tột cùng tuyệt vọng và **SỰ TRỞ LẠI CỦA RHEA EVERWY** từ Dòng Chảy Ma Thuật; khép lại vòng lặp thù hận bằng một nền hòa bình phải được duy trì bằng luật lệ, giám sát và những cái giá còn lưu lại trên thân thể người sống sót.
 
 ---
 
@@ -68,14 +68,14 @@
 
 #### CHƯƠNG 9: VỰC HƯ KHÔNG CỦA THỰC TẠI
 - **Bối cảnh**: Không gian phi Euclid nơi giao nhau giữa 7 thế giới. Các mảnh vỡ của kiến trúc London, thung lũng tuyết, Kyoto và Côn Lôn trôi nổi bồng bềnh giữa biển sao vô tận.
-- **Đối đầu tối thượng**: Đội hình 7 người New Arrchirio đối đầu với Alden Everhart — kẻ đã dung hợp linh hồn với cỗ máy Cánh Cửa, nắm giữ năng lượng $\Psi$ gần như vô tận.
+- **Đối đầu tối thượng**: Đội hình 7 người New Arrchirio đối đầu với Alden Everhart — kẻ đã dung hợp linh hồn với cỗ máy Cánh Cửa, liên tục rút một kho dự trữ $\Psi$ cực lớn nhưng hữu hạn. Mỗi nhịp xả đều buộc cỗ máy mở một cửa nạp năng lượng: tử huyệt duy nhất của hắn.
 
 #### CHƯƠNG 10: SỰ HY SINH CỦA CÂN BẰNG
 - **Tuyệt vọng leo thang**: Sức mạnh áp đảo của cỗ máy bẻ cong định luật vật lý.
 - Toàn bộ đồng đội lần lượt ngã xuống để che chắn: Ryan hy sinh ba-lô công nghệ bảo vệ Soraya; Lucien gãy kính và trúng chấn động; Lục Thanh Vân vỡ nát kiếm gỗ đào; Diana kiệt sức vì điệu múa dạ khúc; Louisa trúng đạn trọng thương vẫn cố bóp cò phát đạn cuối cùng.
 
 #### CHƯƠNG 11: TỘT CÙNG TUYỆT VỌNG & SỰ XUẤT HIỆN CỦA RHEA EVERWY
-- **Tình thế nghìn cân treo sợi tóc**: Căn cứ nứt toạc, toàn bộ đồng minh nằm bất động trên vũng máu. Dienne một mình đứng giữa đống tro tàn, cạn kiệt mana ($\Psi \approx 0$), giơ thanh kiếm gỗ sồi sứt sẹo đón nhận đòn hủy diệt của Alden.
+- **Tình thế nghìn cân treo sợi tóc**: Căn cứ nứt toạc, toàn bộ đồng minh trọng thương. Dienne một mình đứng giữa đống tro tàn, cạn kiệt mana ($\Psi \approx 0$), giơ thanh kiếm gỗ sồi sứt sẹo đón nhận đòn hủy diệt của Alden.
 - **KHOẢNH KHẮC HUYỀN THOẠI**:
   - Không gian rách toạc bằng một tiếng nổ xé lòng.
   - **Dòng Chảy Ma Thuật (Astral Current)** tuôn trào ánh sáng bạc chói lòa!
@@ -85,9 +85,9 @@
   > *“Ta đã bảo em bao nhiêu lần rồi, Dienne? Đừng bao giờ để thanh kiếm nằm quá xa tay...”*
 
 #### CHƯƠNG 12: ĐÒN PHẢN CÔNG CỦA CÂN BẰNG — HAI LỰA CHỌN
-- **Đại hợp lực**: Dienne và Rhea đứng tựa lưng vào nhau. Lam Hỏa dung hợp với Ngân Quang Astral tạo nên phương trình cộng hưởng hoàn hảo ($\theta = 0, \eta = 100\%$).
-- **Đập tan Arknight**: Alden gục ngã trước sự thức tỉnh của bản chất Cánh Cửa. Cỗ máy sụp đổ.
-- **Hai Lựa Chọn Của Rhea**: Cánh Cửa cho phép Rhea quay về 10 năm trước để cứu vương quốc Everhart khỏi cảnh tàn sát. Nhưng Rhea mỉm cười từ chối: Quá khứ đã định hình nên một Dienne vĩ đại của hôm nay. Nàng chọn tương lai.
+- **Đại hợp lực có giới hạn**: Rhea chỉ còn một lượng $\Psi$ hữu hạn cô giữ được trong giáp bạc qua Dòng Chảy Ma Thuật; cô chuyển cho Dienne lượng tối thiểu để dựng ma trận. Hai người đồng pha với nhau ($\theta = 0$), sau đó Dienne xoay pha thành $\theta = \pi$ tại cửa nạp của cỗ máy. Với $\eta \approx 91\%$, phần nhiệt phản chấn $Q$ làm chảy giáp bạc của Rhea, bỏng bàn tay Dienne và phá hủy vĩnh viễn đường dẫn Astral của Rhea.
+- **Đập tan Arknight**: Không cần áp đảo kho năng lượng của Alden. Cú triệt tiêu ép cỗ máy tự nuốt nhịp xả kế tiếp và tản năng lượng vào chính các vành tản nhiệt bằng đá bazan; lõi sụp đổ khi Alden không còn giữ được vòng nạp.
+- **Hai Lựa Chọn Của Rhea, quyết định của Dienne**: Lõi hỏng mở lại tọa độ Everhart mười năm trước. Rhea có thể bước vào, nhưng cửa thời gian sẽ kéo theo các Cổng đang ổn định. Rhea chọn ở lại; Dienne tự tay chêm thanh kiếm gỗ vào trục neo, hủy con đường quay về để đóng vòng lặp.
 - **Signature Line**:
   > Dienne đưa bàn tay run rẩy ra. Rhea nắm chặt lấy, ánh mắt ngập tràn sự dịu dàng vĩnh cửu:  
   > **“I'll stay by your side.”**
@@ -97,15 +97,15 @@
 ### PHẦN 4: HẬU TRUYỆN — LOUISA & CỘI NGUỒN PHÉP THUẬT (CHƯƠNG 13 – CHƯƠNG 14)
 
 #### CHƯƠNG 13: BÀN TRÒN VIÊN MÃN
-- **Bối cảnh**: Hội đồng New Arrchirio tại Sector 7. 
-- **Chiếc Ghế Sồi Thứ Nhất**: Rhea Everwy chính thức ngồi vào chiếc ghế để trống 10 năm qua. Mối dây liên kết 5 chiếc ghế tạo nên mạng lưới hòa bình vĩnh cửu giữa thế giới thực và thế giới ma pháp.
+- **Bối cảnh**: Sáu tuần sau tại Sector 7. Vết thương đã khép nhưng không biến mất: giáp bạc của Rhea bị nung chảy, bàn tay Dienne còn băng bó, Ryan vẫn hạn chế cử động cánh tay bỏng.
+- **Chiếc Ghế Sồi Thứ Nhất**: Rhea Everwy chính thức ngồi vào chiếc ghế để trống 10 năm qua. Bàn Tròn không tự tạo hòa bình; hội đồng thương lượng một Hiệp ước Đình chiến Ba Năm, yêu cầu mỗi Cổng có sự đồng thuận của hai thế giới và một bên giám sát độc lập.
 
 #### CHƯƠNG 14: BƯỚC CHÂN CỦA NGƯỜI KHÔNG MANA
 - **Tâm điểm**: **Louisa**. Sau khi hòa bình lập lại, Louisa nhận ra một câu hỏi lớn hơn: *Tại sao mana lại sinh ra? Tại sao nhân loại thế giới thực lại mất đi nó?*
-- **Quyết định lên đường**: Louisa khoác áo bomber, ngậm que kẹo mút dâu, vác súng và tantō bước qua Cổng tới **Vòm Cổ Thụ Yggdralis (Lunar Elves)** để bắt đầu cuộc hành trình riêng của mình.
+- **Quyết định lên đường**: Louisa khoác áo bomber, đeo thanh Đại Thái Đao vỏ gỗ Côn Lôn, mang súng, tantō và còi bạc EMP. Cô dẫn một đoàn thám hiểm nhỏ qua tuyến Cổng được giám sát tới **Vòm Cổ Thụ Yggdralis (Lunar Elves)**, để lần theo câu hỏi về nguồn gốc mana thay vì biến thành biểu tượng ngồi yên tại Sector 7.
 
 ---
 
 ### EPILOGUE: CÁNH CỬA MỞ VỀ NGÀY MAI
 - **Khung cảnh**: Thung lũng tuyết phương Bắc. Dienne và Rhea đứng bên hàng rào tuyết gặp lại Người Thầy Già nhả khói tẩu.
-- **Thông điệp kết thúc**: Thế giới không còn bị chia cắt bởi bức tường sợ hãi. Cánh Cửa Thứ Bảy không đóng lại, mà trở thành cây cầu nối liền những trái tim dũng cảm.
+- **Cảnh chốt**: Dienne và Rhea về căn chòi của Người Thầy Già với dấu tích trận cuối còn trên người. Thay cho lời tổng kết, Người Thầy Già mở cửa mời họ vào ăn; cánh cửa gỗ khép lại trước cơn tuyết muộn.

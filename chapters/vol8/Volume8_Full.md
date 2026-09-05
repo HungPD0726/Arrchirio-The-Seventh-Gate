@@ -1,4 +1,4 @@
-﻿# ARRCHIRIO: THE SEVENTH GATE
+# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG (The Ancient Cities & The Battle of Balance)
 
 ---
@@ -157,7 +157,6 @@ Dienne bước lên mép thềm cửa, ánh mắt cô đanh lại:
 
 Và lần đầu tiên kể từ khi Cánh Cửa Thứ Hai xuất hiện—không một công thức hay thiết bị nào trong căn phòng có thể đo được thứ đang đợi họ ở phía bên kia.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -239,7 +238,6 @@ Nàng rút thanh kiếm gỗ sồi ra nửa gang tay, ngọn Lam Hỏa Asariën 
 
 "Chúng ta tiến vào Cairo."
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -331,7 +329,6 @@ Dienne thở ra một làn hơi nhẹ, nàng quay sang nhìn về phía cuối �
 
 Nơi đó, một cánh cửa vòm khổng lồ bằng đá bazan đen nhánh vừa tự động mở ra. Từ bên trong căn phòng trung tâm, một luồng ánh sáng màu vàng cam rực rỡ và tiếng gầm rú của một cỗ máy công nghiệp khổng lồ vọng lại, xé toạc không gian ngàn năm tĩnh lặng của lòng đất Cairo.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -433,7 +430,6 @@ Mọi ánh mắt lập tức đổ dồn về phía Soraya.
 
 Nàng thiếu nữ sa mạc nhìn vào ngọn lửa đang giãy giụa trong khối đá thạch anh, khóe môi khẽ run rẩy nhưng ánh mắt bỗng trở nên thanh thản lạ kỳ. Nàng siết chặt Vương trượng Cổ Ngọn Lửa, cất bước tiến thẳng về phía đài tế lễ nhô ra giữa biển dung nham.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -524,7 +520,6 @@ Nàng quay lại nhìn toàn đội, ánh mắt rực sáng sự quyết tâm đ
 
 "Điểm dừng chân tiếp theo: **Thành Phố Tòa Thánh New Rome**. Đã đến lúc đối mặt với Hoàng thúc Alden và kết thúc triều đại bóng tối của Arknight!"
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -602,7 +597,6 @@ Chuông nhà thờ lớn St. Peter ngân vang sáu tiếng điểm giờ hoàng 
 
 Đã đến lúc bước vào dạ hội của những kẻ thống trị.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -712,7 +706,6 @@ Alden khẽ mỉm cười, lùi lại một bước vào khoảng tối của ba
 
 "Đã quá muộn để tranh luận rồi, cháu gái bé bỏng của ta. Cỗ máy Cánh Cửa Thứ Bảy dưới đồi Vatican... đã chính thức thức tỉnh."
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -822,7 +815,6 @@ Phía dưới đáy sâu ấy... là một vòng xoáy năng lượng khổng l�
 
 Cánh Cửa Thứ Bảy đang nằm ngay bên dưới chân họ.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -910,7 +902,6 @@ Dienne cất tiếng, giọng nàng đanh thép át cả tiếng gầm rú của
 
 "Trận chiến vì sự Cân Bằng bắt đầu!"
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1014,7 +1005,6 @@ Alden nâng thanh trường kiếm đen lên trời cao.
 
 Năng lượng của Cỗ Máy Nén Cánh Cửa Thứ Bảy dồn hết vào lưỡi kiếm, ngưng tụ thành một quả cầu hủy diệt màu đen tuyền khổng lồ, bao trùm toàn bộ không gian trong sự tĩnh lặng của cái chết.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1142,7 +1132,6 @@ Nàng không cầu xin. Nàng không lùi bước.
 
 Nàng đứng đó—một mình giữa đống tro tàn của vũ trụ—chuẩn bị đón nhận đòn kết liễu của định mệnh.
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1261,7 +1250,6 @@ Nàng nhặt thanh kiếm gỗ sồi lên, đặt lại vào tay Dienne:
 
 "Bây giờ... hãy cùng ta kết thúc chuyện này."
 
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1273,132 +1261,148 @@ Nàng nhặt thanh kiếm gỗ sồi lên, đặt lại vào tay Dienne:
 
 Dienne và Rhea đứng tựa lưng vào nhau.
 
-Tấm áo choàng đen rách nát của nàng công chúa mười sáu tuổi và tấm áo choàng lụa bạc sờn cũ của người hộ vệ hoàng gia tung bay trong cùng một làn gió vũ trụ. 
+Không ai trong hai người lành lặn. Máu từ vết rách ở sườn Dienne thấm qua lớp áo choàng đen, lạnh ngắt dưới gió chân không. Bàn tay phải của nàng cứng lại quanh chuôi kiếm gỗ sồi. Phía sau lưng, hơi thở Rhea chạm vào gáy nàng, đứt quãng nhưng đều.
 
-Hai thanh kiếm—một thanh gỗ sồi sứt sẹo của người học trò và một thanh trường kiếm bạc của người thầy—song song hướng thẳng về phía trước.
+"Đừng rót mana vào em," Dienne nói.
 
-Một luồng năng lượng màu bạc ấm áp từ tấm lưng của Rhea truyền thẳng vào lồng ngực Dienne. Lượng mana cạn kiệt trong cơ thể Dienne lập tức được rót đầy bởi **Dòng Chảy Ma Thuật** nguyên thủy. Những vết thương rách da thịt trên người nàng khép miệng lại; nhịp tim đập nhanh hồi phục về trạng thái cân bằng tuyệt đối.
+"Ta không định chữa cho em." Giọng Rhea thấp hẳn. "Trong giáp bạc còn ba trăm hai mươi man. Nó giữ được mười hai nhịp tim nữa."
 
-"Công thức sóng giao thoa, Dienne," giọng Rhea vang lên trầm tĩnh bên tai nàng: "Hiệu số góc pha bằng bao nhiêu?"
+"Chừng ấy không đủ để đọ với hắn."
 
-Khóe môi Dienne khẽ cong lên một nụ cười rạng rỡ:
+"Vậy đừng đọ."
 
-"Góc pha $\theta = 0$. $\cos\theta = 1$. Cộng hưởng cùng pha tuyệt đối!"
+Dienne nhìn qua vai Rhea.
 
-*“Ngông cuồng!”*
+Alden đang đứng giữa những mảnh kính đen và dây cáp cháy dở. Mỗi lần lồng ngực ông phồng lên, cỗ máy đồng hồ cát phía sau lại rút một luồng $\Psi$ từ kho dự trữ, bơm vào lớp giáp hắc ma thạch. Ánh tím chạy qua các khớp nối. Rồi, trong một khoảnh khắc ngắn trước khi ông xả đòn, vòng nạp ở ngực trái mở ra.
 
-Alden Everhart gầm lên như một con thú dữ bị dồn vào đường cùng. 
+Một cửa hở.
 
-Khuôn mặt ông vặn vẹo vì phẫn nộ và cuồng loạn. Ông giật đứt toàn bộ các sợi cáp nối trên lưng, cưỡng bức rút cạn toàn bộ năng lượng còn lại của cỗ máy Cánh Cửa Thứ Bảy vào cơ thể mình! 
+"Mỗi tám phần mười giây," Dienne nói. Nàng cắn môi đến bật vị tanh. "Hắn không mang năng lượng vô tận. Hắn đang nạp lại."
 
-Cơ thể ông phình to ra, bao bọc bởi một lớp giáp năng lượng đen kịt cao tới bốn mét. Thanh trường kiếm đen trong tay ông biến thành một lưỡi hái bóng tối khổng lồ xé toạc bầu trời!
+Rhea không quay đầu. "Em cần gì?"
 
-*“Dù có là Rhea Everwy trở về từ cõi chết thì các ngươi cũng chỉ là hai con thiêu thân lao vào lửa! Chết đi!”*
+"Mười chín man. Chỉ để dựng một vòng nhỏ." Dienne hạ mũi kiếm xuống mặt đá. "Phần còn lại, chị giữ lấy cho nhát chém."
 
-Alden dậm chân xuống sàn đá, cả người hóa thành một cơn lốc hủy diệt màu đen lao thẳng vào hai người!
+Rhea đặt bàn tay không đeo găng lên lưng nàng. Một luồng lạnh bạc mảnh như kim khâu xuyên qua lớp áo rách, ghim vào mạch mana đã trống rỗng. Dienne khụy một gối. Chỉ mười chín man, nhưng kinh mạch khô kiệt của nàng co giật như bị dội nước sôi.
 
-"Đi thôi, Dienne!"
+"Chín phần trăm sẽ thành nhiệt," nàng thở ra. "Đừng để lưỡi kiếm chạm vào em khi nó bật lại."
 
-"Vâng, Rhea!"
+"Ta nghe rồi."
 
-Hai bóng người cùng lúc phóng vút lên không trung!
+Alden kéo phăng những sợi cáp còn lại khỏi lưng. Máu đen bắn lên nền đá.
 
-Không có động tác thừa. Không có một phần vạn giây do dự.
+*“Hai đứa vẫn chưa hiểu sao?”*
 
-Rhea vung thanh trường kiếm bạc, một vệt sáng màu ngân hà rực rỡ xé rách màn đêm, bổ thẳng vào vai phải của Alden; cùng lúc đó, Dienne xoay người thực hiện một nhát chém Asariën bằng thanh kiếm gỗ sồi phủ ngập Lam Hỏa, đâm thẳng vào tâm chấn hắc ma thạch trên ngực ông!
+Ông giơ thanh trường kiếm. Cỗ máy phía sau rung lên, từng bánh răng nứt vỡ nghiến vào nhau như hàm răng khổng lồ.
 
-Hai luồng năng lượng—Bạc và Lam—hòa quyện vào nhau, tạo thành một phương trình cộng hưởng ánh sáng hoàn hảo!
+*“Trật tự không cần các ngươi hiểu. Nó chỉ cần các ngươi phục tùng.”*
 
-*“Vaelyn ignis astral fiat!”*
+Dienne quỳ thấp xuống. Đầu ngón tay cháy xém của nàng vạch một vòng tròn bé bằng miệng bát trên mặt đá. Bốn nét ký tự hiện lên, không sáng rực mà sắc và mỏng như vết nứt trên băng.
 
-*OÀNG!*
+"Chúng ta đồng pha với nhau trước," nàng nói. "Sau đó em lật pha tại cửa nạp. Không chém Alden. Chém nhịp nạp của hắn."
 
-Một tiếng nổ chấn động toàn bộ đa thực tại!
+"Nếu trượt?"
 
-Lưỡi kiếm bóng tối của Alden vỡ vụn thành hàng vạn mảnh tinh thể đen! Lớp giáp hắc ma thạch trên người ông nứt toác, nổ tung thành tro bụi!
+"Cỗ máy sẽ nuốt cả hai chúng ta."
 
-Sức mạnh của nhát chém liên hợp đánh bật Alden văng ngược trở lại bệ điều khiển trung tâm, ngã quỵ xuống sàn đá lơ lửng. Cỗ máy đồng hồ cát khổng lồ phía sau ông phát ra những tiếng *rắc… rắc…* dữ dội rồi sụp đổ hoàn toàn thành một đống phế tích sắt vụn!
+Rhea siết chuôi trường kiếm bạc. "Thế thì đừng trượt."
 
-Bão tan.
+Alden lao tới.
 
-Ánh sáng đen biến mất.
+Lưỡi hái đen quét ngang. Không khí bị kéo rít thành một tiếng huýt dài, ép máu ở vết thương Dienne trào thêm dưới áo.
 
-Căn phòng Điểm Kỳ Dị từ từ khôi phục lại trạng thái tĩnh lặng. Bầu trời vũ trụ màu tím thẫm trở nên trong trẻo, lấp lánh hàng triệu vì sao hòa bình.
+Rhea bước lên một bước.
 
-Alden nằm trên mặt đá, chiếc nhẫn obsidian vỡ vụn, máu tươi ứa ra từ khóe miệng. Đôi mắt xám tro của ông nhìn lên hai bóng người đang bước lại gần, giọng ông khàn đặc, chua xót:
+Thanh trường kiếm bạc hất đòn chém sang bên. Kim loại va vào hư vô nghe như một cái chuông bị đánh vỡ. Cánh tay Rhea run bắn tới khuỷu tay; lớp giáp bạc trên vai trái đỏ lên.
 
-"Thất bại rồi... Trật tự của ta..."
+"Bây giờ!" nàng quát.
 
-Dienne đứng trước mặt người chú ruột. Nàng hạ thanh kiếm gỗ sồi xuống:
+Dienne bẻ đầu ngón tay vào nét cuối của ma trận.
 
-"Trật tự của thúc không cứu được ai cả, Hoàng thúc. Thế giới này không cần một bạo chúa để tồn tại. Nó chỉ cần sự dũng cảm để tha thứ và xây dựng lại từ đầu."
+"**Vaelyn — nullar — umbra — quiescat.**"
 
-Alden nhắm mắt lại. Một giọt nước mắt lăn dài trên gò má nhăn nheo của người đàn ông phản bội. Ông không nói thêm lời nào nữa.
+Bốn nhịp. Nguồn. Toán tử. Vùng triệt tiêu. Điểm neo.
 
-Đúng lúc đó, từ trung tâm đống đổ nát của cỗ máy Cánh Cửa Thứ Bảy...
+Rhea xoay người, dồn ba trăm lẻ một man còn lại vào một đường kiếm không nhắm vào Alden mà nhắm vào chiếc vòng đen vừa mở ở ngực ông. Dienne giữ nhịp bạc ấy cùng pha với ma trận của mình. Đến đúng khoảnh khắc cỗ máy hút dòng $\Psi$ tiếp theo, nàng vặn cổ tay.
 
-Một cánh cổng ánh sáng hình vòm khổng lồ tự động mở ra.
+$\theta = \pi$.
 
-Bên trong cánh cổng ấy, không phải là hư không, mà là một bức tranh sống động của mười năm về trước:
+Âm thanh biến mất.
 
-Đó là khung cảnh hoàng hôn thanh bình trên những tòa tháp nhọn của **Lâu đài Everhart**. Đức vua và Hoàng hậu đang mỉm cười đứng bên ban công; những người kỵ sĩ hoàng gia trẻ tuổi đang luyện kiếm dưới sân cỏ; và một đứa bé gái sáu tuổi tóc bạch kim đang đuổi bắt những cánh bướm ma thuật trong vườn hoa cúc trắng.
+Lớp giáp của Alden phồng lên rồi lún vào chính nó. Những dòng năng lượng đen không tìm thấy đường đi ra; chúng dội ngược qua dây cáp, chui vào các vành tản nhiệt bằng đá bazan dưới chân cỗ máy. Đá chuyển từ xám sang đỏ, rồi trắng lóa. Hơi nước kim loại bốc lên, khét mùi đồng cháy và máu.
 
-Một giọng nói vô hình, cổ xưa và trầm mặc của vũ trụ vang lên từ cánh cổng:
+Nhiệt phản chấn $Q$ quật trả qua hai thanh kiếm.
 
-*“Hỡi Rhea Everwy... Người bảo vệ trung thành của Dòng Chảy Ma Thuật.*  
-*Ngươi đã hoàn thành sứ mệnh cân bằng thực tại.*  
-*Cánh Cửa Thứ Bảy ban cho ngươi một ân huệ tối thượng:*  
-*Ngươi có thể bước qua cánh cổng này, trở về mười năm trước, đảo ngược đêm Everhart sụp đổ, cứu sống đức vua và vương quốc của ngươi...*  
-*Hoặc ngươi chọn ở lại cõi thực tại này, nơi vương quốc chỉ còn là tro tàn và ký ức.”*
+Rhea nghiến răng, kéo Dienne lùi ra sau lưng mình. Lớp giáp bạc trên cánh tay cô chảy thành những giọt sáng rơi xuống đá. Bàn tay phải của Dienne bỏng rát đến mức ngón út co quắp; mùi da cháy lẫn trong vị ozone đắng nghét nơi cuống họng.
 
-Hai Lựa Chọn.
+Nhưng vòng nạp đã khép.
 
-Một bên là quá khứ nguyên vẹn, nơi nàng có lại tất cả những gì đã mất.
+Cỗ máy không còn nguồn để tự cứu. Nó rung thêm một lần, rắc toạc từ lõi đồng hồ cát đến các trụ đá, rồi sụp xuống thành một đống sắt nung đỏ.
 
-Một bên là thực tại đổ nát, nơi những vết sẹo không bao giờ lành lại.
+Alden bị hất văng khỏi bệ điều khiển. Thanh kiếm đen tan thành những mảnh xỉ than quanh người ông.
 
-Dienne nín thở. Trái tim nàng thắt nghẹn lại. Nàng nhìn cánh cổng quá khứ tuyệt đẹp ấy, rồi nhìn sang Rhea. Nàng không nói một lời nào, bởi nàng biết nỗi đau mười năm qua của Rhea lớn hơn bất kỳ ai trên cõi đời này.
+Ông nằm bất động hồi lâu. Khi mở mắt, màu tím trong đồng tử đã tắt. Chỉ còn một người đàn ông già với máu ở khóe môi, nhìn phần cơ thể từng được ông bọc trong giáp.
 
-Rhea đứng lặng người trước cánh cổng ánh sáng.
+Dienne chống kiếm đứng dậy. Nàng không giơ lưỡi kiếm về phía ông.
 
-Nàng nhìn thấy hình bóng của các chiến hữu năm xưa đang vẫy tay gọi nàng. Nàng nhìn thấy quốc vương mỉm cười...
+"Ông sẽ phải trả lời trước những người ông đã nhốt," nàng nói. "Không phải trước em."
 
-Một giọt nước mắt khẽ lăn qua vết sẹo trên gò má của người hiệp sĩ tóc bạc.
+Không có câu đáp lại.
 
-Nhưng rồi... Rhea từ từ quay lưng lại với cánh cổng quá khứ.
+Phía sau đống máy vỡ, một tiếng ngân mỏng vang lên.
 
-Nàng nhìn xuống đống đổ nát của chiến trường hiện tại.
+Một vòng ánh sáng mở ra trên không. Không phải giọng nói ban ơn, cũng không phải lời gọi từ cõi chết. Đó là giao diện cuối cùng của Cánh Cửa Thứ Bảy đang cố khởi động lại theo tọa độ còn lưu trong trục neo: Everhart, mười năm trước.
 
-Nàng nhìn thấy Diana đang gượng dậy ôm vết thương sườn mỉm cười; nàng nhìn thấy Louisa đã mở mắt, yếu ớt ngậm chiếc que kẹo dâu; nàng nhìn thấy Ryan, Lucien, Soraya và Lục Thanh Vân đang dìu nhau đứng dậy trong ánh sáng bình minh.
+Qua mặt sáng run rẩy là ban công đá của lâu đài cũ. Cờ hiệu vàng đỏ còn nguyên. Một Dienne sáu tuổi chạy qua vườn cúc, tóc bạch kim đuổi theo những con bướm phát sáng. Xa hơn, nhà vua đang cười với hoàng hậu.
 
-Và trên hết... nàng nhìn thấy Dienne.
+Rhea đứng sững.
 
-Một Dienne mười sáu tuổi kiên cường, dũng cảm, người đã trở thành linh hồn của sự Cân Bằng, người đã xây dựng nên một gia đình mới từ đống tro tàn của số phận.
+"Nếu ta bước vào..." cô nói, giọng khô như cát.
 
-Khóe môi Rhea nở một nụ cười thanh thản tuyệt đối.
+"Cửa sẽ cần một đường cấp năng lượng mới," Dienne đáp. Nàng nhìn các vết rạn đang bò từ vòng sáng sang những Cổng khác trên trần không gian. "Nó sẽ mở lại toàn bộ mạng lưới."
 
-Nàng tra thanh trường kiếm bạc vào bao kiếm bên hông, quay hẳn lưng lại với quá khứ. Cánh cổng mười năm trước chầm chậm khép lại sau lưng nàng rồi tan biến thành những hạt bụi sao lấp lánh.
+"Ta có thể cứu họ."
 
-Rhea bước tới trước mặt Dienne.
+Dienne nắm chuôi kiếm đến khi lớp băng máu dưới móng tay nứt ra. Nàng muốn nói hãy đi. Muốn nói đừng đi. Cả hai câu đều mắc lại trong lồng ngực.
 
-Dienne run rẩy đưa bàn tay phải ra. Bàn tay nhỏ bé dính đầy bụi than và những vết chai sạn của mười năm cầm kiếm.
+"Em không có quyền giữ chị ở đây," nàng nói. "Nhưng em cũng không để chị phải chọn trong khi hệ thống đang lấy sự sống của người khác làm giá."
 
-Rhea đưa bàn tay bọc giáp sắt sứt sẹo của mình ra, nắm chặt lấy bàn tay Dienne.
+Rhea nhìn về phía lâu đài. Gương mặt cô không còn dáng vẻ của một vị thần hộ vệ; chỉ có một vết sẹo cũ ở gò má và đôi mắt của người đã bỏ lỡ quá nhiều năm.
 
-Sự ấm áp của hai bàn tay siết chặt lấy nhau xua tan toàn bộ cái lạnh buốt giá của mười năm xa cách.
+Ở bên kia vòng sáng, đứa trẻ Dienne ngẩng đầu. Không thể thấy họ. Không thể nghe họ.
 
-Đôi mắt xám bạc của người hiệp sĩ nhìn sâu vào đôi mắt màu lam thẫm của nàng công chúa, cất lên câu nói định mệnh khép lại toàn bộ thiên sử thi:
+Rhea hít vào thật chậm.
 
-> **“I'll stay by your side.”**  
-> *(Ta sẽ mãi mãi ở bên cạnh em.)*
+"Đóng nó đi," cô nói.
 
-Dienne mỉm cười, những giọt nước mắt hạnh phúc lăn dài trên má.
+Dienne gật đầu, nhưng không rời mắt khỏi cô.
 
-Ánh bình minh đầu tiên của một kỷ nguyên mới chiếu rọi qua những cột đá bazan, sưởi ấm những người bảo vệ của sự Cân Bằng.
+Rhea bước đến. Bàn tay trần của cô, còn nóng vì giáp chảy, đặt lên bàn tay bỏng rát của Dienne.
 
-Chiến tranh đã kết thúc.
+"Ta không quay về để lấy lại một đời cũ."
 
----
+Rồi cô nắm lấy tay nàng.
+
+> **“I'll stay by your side.”**
+
+Dienne rút thanh kiếm gỗ sồi ra khỏi nền đá. Không còn mana để kích hoạt ma trận; chỉ còn sức nặng của gỗ, cánh tay run rẩy và một lựa chọn không thể làm lại. Nàng cắm mũi kiếm vào khe hẹp của trục neo, nơi ánh sáng đang nuốt dần những bánh răng cuối cùng.
+
+Gỗ sồi rít lên. Mép kiếm cháy sẫm.
+
+Dienne dồn vai vào chuôi kiếm.
+
+*RẮC.*
+
+Trục neo gãy.
+
+Vòng sáng chao đảo. Lâu đài Everhart mờ đi sau một lớp bụi bạc, rồi tắt hẳn. Đầu mũi kiếm gỗ để lại một vết cháy đen hình nửa vầng trăng.
+
+Trong khoảng lặng sau đó, Louisa ho khan ở phía xa. Diana đã mở mắt. Ryan cử động được những ngón tay dính máu. Không ai đứng dậy ngay; mọi người chỉ thở, từng nhịp nặng nhọc, giữa mùi đá nóng và bầu trời vừa ngừng nứt.
+
+Dienne để thanh kiếm chạm xuống nền.
+
+Rhea vẫn không buông tay nàng.
+
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1408,67 +1412,68 @@ Chiến tranh đã kết thúc.
 
 ## CHƯƠNG 13: BÀN TRÒN VIÊN MÃN
 
-Một tháng sau trận chiến tại Điểm Kỳ Dị Cánh Cửa Thứ Bảy.
+Sáu tuần sau trận chiến tại Điểm Kỳ Dị Cánh Cửa Thứ Bảy, Pháo đài Sector 7 vẫn còn mùi đá ẩm, dầu máy và thuốc sát trùng.
 
-Pháo đài ngầm Sector 7 không còn là một tiền đồn ẩn dật lạnh lẽo của những kẻ bị săn đuổi. Giờ đây, những ngọn đèn ma đạo tỏa ánh sáng màu vàng ấm áp khắp các hành lang đá; những lá cờ thêu huy hiệu cành bạc Arrchirio tung bay kiêu hãnh bên cạnh các bản hiệp ước đình chiến được ký kết bởi bốn mươi quốc gia độc lập và chính phủ mới của Đế quốc Aurelia.
+Trong Đại sảnh Bàn Tròn, những lá cờ Arrchirio chỉ chiếm một góc tường. Phần còn lại là phù hiệu của bốn mươi phái đoàn: các thành bang độc lập, chính phủ lâm thời của Aurelia, đại diện từ Kyoto, Reverse London và Cairo. Chúng không tung bay. Chúng được ghim thẳng xuống vải bố bằng đinh đồng, ngay hàng như những mục trong một bản hợp đồng khó nuốt.
 
-Trong Đại sảnh Bàn Tròn, một buổi lễ trang nghiêm và thiêng liêng nhất trong lịch sử tổ chức Arrchirio đang diễn ra.
+Lucien đứng bên bàn đá, đẩy gọng kính mới lên sống mũi. Trước mặt cậu là bốn mươi bản Hiệp ước Đình chiến Ba Năm, mép giấy vẫn nhăn vì vừa đi qua mưa tuyết đường hầm.
 
-Tám con người tề tựu đông đủ xung quanh Bàn Tròn bằng đá granite xám.
+"Điều ba: mỗi lần mở Cổng phải có chữ ký của hai đầu thế giới và một người giám sát không thuộc hai bên," Lucien đọc, ngón tay gõ nhịp lên con dấu sáp. "Điều bảy: New Arrchirio không có quyền tự ý đóng tuyến giao thương. Điều mười một: chúng ta gia hạn hay không sau ba năm thì phải ngồi lại từ đầu."
 
-Vết thương của mọi người đã lành lặn. Diana mặc chiếc váy dạ hội nhung đen trang nhã, vết rạn xương sườn đã hồi phục hoàn toàn nhờ dược liệu sa mạc của Soraya; Louisa khoác chiếc áo bomber đen mới có miếng vá hình ngôi sao bạc trên vai trái, khóe môi vẫn ngậm que kẹo mút dâu tây quen thuộc; Lục Thanh Vân mang trên lưng một thanh kiếm gỗ đào mới do chính tay Ryan đẽo gọt từ lõi cây bách ngàn năm của Côn Lôn; Lucien đeo chiếc kính cận gọng vàng mới, thoăn thoắt ghi chép các điều khoản thương mại tự do giữa hai thế giới; Ryan ngồi cạnh lò sưởi cười toe toét; và Soraya thanh thản nâng tách trà bạc hà nóng hổi.
+Ryan huýt sáo nhỏ. Cánh tay trái của cậu còn bó chặt từ vai đến cổ tay, lớp băng trắng đã lốm đốm dầu đen.
 
-Và ở vị trí trang trọng nhất phía đầu Bàn Tròn...
+"Nói cách khác, không ai được biến cái bàn này thành ngai vàng."
 
-Tấm vải lụa bạc phủ trên **Chiếc Ghế Sồi Thứ Nhất**—chiếc ghế đã để trống suốt mười năm ròng rã kể từ ngày vương quốc Everhart sụp đổ—từ từ được Dienne nhấc lên.
+"Cuối cùng cậu cũng đọc được một văn bản không có sơ đồ mạch điện," Lucien đáp.
 
-Dienne đứng thẳng lưng bên cạnh chiếc ghế. Nàng mặc bộ trang phục người sáng lập màu đen thêu chỉ bạc, thanh kiếm gỗ sồi sứt sẹo giắt bên hông. Nàng mỉm cười, ánh mắt ngập tràn sự kính trọng và yêu thương hướng về phía người phụ nữ tóc bạc đang đứng cạnh mình:
+Ở phía đối diện, Louisa ngậm que kẹo dâu, lấy mũi dao găm gõ lên tấm bản đồ Cổng. Một vết sẹo mảnh còn đỏ chạy từ xương đòn xuống dưới cổ áo bomber.
 
-"Suốt mười năm qua, chiếc ghế này chưa từng có ai ngồi lên. Chúng em giữ nó nguyên vẹn, bởi vì chúng em biết chiếc ghế này chỉ thuộc về một người duy nhất."
+"Thêm một dòng nữa," cô nói. "Ai muốn mở tuyến Kyoto thì phải hỏi người Kyoto trước. Đừng có gọi nó là cân bằng rồi bật đèn cho cả thành phố cháy như lần trước."
 
-Dienne cúi đầu, hai tay làm động tác cung kính của một người học trò:
+Dienne đứng gần cửa sổ thông gió. Bàn tay phải của nàng quấn băng đen tới cổ tay; khi cố nắm lại, các ngón tay chỉ khép được nửa chừng. Thanh kiếm gỗ sồi cháy sẫm một cạnh đặt trên bệ đá cạnh nàng.
 
-"Kính mời Hộ Vệ Vương Quyền tối cao của Arrchirio... **Rhea Everwy** an tọa."
+"Thêm vào điều ba," nàng nói. "Người giám sát phải công bố số liệu $Ψ$ và thời gian mở tuyến. Không ai được giữ một kho dự trữ ngoài sổ sách."
 
-Rhea bước tới.
+Soraya khẽ gật đầu. Mùi trà bạc hà bốc lên từ tách sứ trước mặt nàng, át bớt mùi cồn i-ốt.
 
-Nàng đã cởi bỏ bộ chiến giáp sứt sẹo, thay vào đó là một bộ quân phục kỵ sĩ màu lam thẫm viền bạc phẳng phiu. Mái tóc bạch kim dài được tết gọn gàng sau lưng; đôi mắt xám bạc của nàng nhìn lướt qua từng khuôn mặt trẻ trung đang mỉm cười xung quanh bàn tròn.
+"Một lời thề không có người chứng kiến thì chỉ là tiếng nói trong sa mạc," nàng nói. "Hãy để họ nhìn thấy cái giá trước khi nghe lời hứa."
 
-Nàng đưa bàn tay trần chạm nhẹ vào tựa lưng bằng gỗ sồi mát rượi.
+Lục Thanh Vân đặt bàn tay lên chuôi thanh kiếm gỗ đào mới. Thanh cũ đã tan thành mùn cưa trong Điểm Kỳ Dị; Ryan đẽo thanh này từ lõi bách Côn Lôn, thô và chưa kịp đánh bóng.
 
-Mười năm trôi dạt giữa Dòng Chảy Ma Thuật. Mười năm chiến đấu trong cô độc giữa những cơn bão thời-không vô tận... Giờ đây, nàng đã thực sự trở về nhà.
+"Ba năm là đủ để biết một cây cầu có chịu được mùa lũ hay không," cậu nói. "Không đủ để tin rằng nó sẽ không sập."
 
-Rhea từ từ ngồi xuống **Chiếc Ghế Sồi Thứ Nhất**.
+Không ai phản bác.
 
-*OÒNG...*
+Ở đầu bàn, tấm vải lụa bạc vẫn phủ lên Chiếc Ghế Sồi Thứ Nhất.
 
-Ngay khi Rhea an tọa, một luồng ánh sáng màu bạc dịu mát bùng lên từ chân ghế sồi, chạy dọc theo các đường vân đá của Bàn Tròn, kết nối hoàn hảo với bốn chiếc ghế còn lại:
+Dienne đi tới. Nàng dùng tay trái nhấc tấm vải. Dưới lớp bụi mỏng, mặt gỗ sồi hiện ra với những vết xước cũ như đường chỉ tay.
 
-- **Chiếc Ghế Thứ Nhất (Rhea Everwy)**: Biểu tượng của Lời Thề Hộ Vệ & Ký Ức Thời Gian.
-- **Chiếc Ghế Thứ Hai (Louisa)**: Biểu tượng của Nhân Loại Thế Giới Thực & Ý Chí Phi Ma Thuật ($\Psi = 0$).
-- **Chiếc Ghế Thứ Ba (Diana Everhart)**: Biểu tượng của Hoàng Gia Lưu Vong & Nghệ Thuật Biểu Diễn.
-- **Chiếc Ghế Thứ Tư (Lục Thanh Vân)**: Biểu tượng của Cổ Đạo Phương Đông & Long Mạch Tự Nhiên.
-- Và ở vị trí trung tâm, **Dienne Everhart**: Người kết nối, chỉ huy chiến lược và người gìn giữ sự Cân Bằng.
+Rhea đứng cách đó vài bước, mặc quân phục lam thẫm giản dị. Bộ giáp bạc từng mang về từ Dòng Chảy Ma Thuật được đặt trong một hòm gỗ mở nắp bên tường. Phần giáp vai đã chảy quặp, không còn khả năng nối mạch mana. Cô liếc qua nó một lần rồi quay lại nhìn chiếc ghế.
 
-Bàn Tròn năm chiếc ghế đã hoàn toàn viên mãn!
+"Ta không biết ngồi ở đây có đúng không," Rhea nói.
 
-Một mạng lưới liên kết tâm linh vững như bàn thạch bao trùm lấy căn phòng. Trên quả cầu bản đồ ba chiều Magitech, các điểm nút ranh giới giữa thế giới thực và thế giới phép thuật không còn nhấp nháy màu đỏ cảnh báo nguy hiểm nữa. Chúng chuyển sang một màu lam ngọc hiền hòa, biểu thị một trạng thái cân bằng động ổn định chưa từng có trong lịch sử ngàn năm.
+"Không ai biết," Dienne đáp. "Vì thế chúng ta mới viết điều mười một."
 
-"Thưa các thành viên Hội đồng," Dienne cất tiếng, giọng nàng vang vọng dõng dạc khắp đại sảnh:
+Khóe miệng Rhea động nhẹ.
 
-"Bảy Cánh Cửa không còn là mối đe dọa nuốt chửng thực tại. Chúng ta đã biến chúng thành những cây cầu giao thương, văn hóa và học thuật. Từ hôm nay, thế giới không có ma thuật và thế giới ngập tràn mana sẽ học cách chung sống hòa bình dưới sự giám sát công bằng của New Arrchirio."
+Nàng bước đến, đặt bàn tay lên tựa ghế. Không có ánh sáng bùng lên. Chỉ có tiếng gỗ kêu khẽ dưới sức nặng của một người vừa trở về từ nơi không có đất để đứng.
 
-Louisa khẽ nhếch mép cười, cụng ly nước ngọt có gas vào tách trà của Lục Thanh Vân:
+Rhea ngồi xuống.
 
-"Nói hay lắm, Master Dienne. Giờ thì tôi có thể yên tâm về Kyoto mở tiệm sửa chữa súng và bán đồ chơi cơ khí rồi."
+Từng người còn lại kéo ghế về phía bàn. Diana vẫn thở nông vì xương sườn chưa lành hẳn, nhưng cô tự đặt chiếc liễu kiếm bạc xuống bên cạnh tập văn kiện. Ryan dùng tay phải đẩy hộp dụng cụ xa khỏi vùng giấy tờ. Lucien chia con dấu sáp. Soraya rót trà. Louisa vặn nắp chai nước có ga bằng răng rồi đặt nó cạnh bình mực.
 
-Mọi người cùng bật cười rộn rã. Tiếng cười ấm áp vang vọng giữa vách đá hoa cương, xua tan đi những năm tháng u tối của chiến tranh và chia cắt.
+Dienne cầm bút bằng tay trái. Nét chữ đầu tiên run lên, làm mực lam loang một vệt mỏng trên trang giấy.
 
-Bàn Tròn đã trọn vẹn.
+Nàng không xé bản mới.
 
-Hòa bình đã trở lại.
+Nàng ký tiếp.
 
----
+Rhea ký sau cùng. Khi con dấu Arrchirio ép xuống sáp đỏ, tiếng *cộp* khô khốc vang lên giữa căn phòng đá.
+
+Ngoài hành lang, một chiếc chuông hiệu chuẩn Cổng rung ba tiếng ngắn. Ryan ngẩng đầu, lắng nghe nhịp máy chạy đều trở lại.
+
+Louisa nhặt ba lô từ chân ghế lên.
+
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1478,79 +1483,64 @@ Hòa bình đã trở lại.
 
 ## CHƯƠNG 14: BƯỚC CHÂN CỦA NGƯỜI KHÔNG MANA
 
-Hai giờ sáng.
+Một giờ sau khi sáp trên hiệp ước nguội đi, kho dã chiến phía đông Sector 7 sáng bằng một ngọn đèn măng-sông nhỏ.
 
-Kho chứa đồ dã chiến ở tầng hầm phía đông Pháo đài Sector 7 chìm trong ánh sáng trắng nhờ nhạt của chiếc đèn măng-sông chạy bằng pin thế giới thực.
+Louisa ngồi trên thùng đạn gỗ thông, ép viên đạn vonfram cuối cùng vào hộp tiếp đạn. Tiếng *tách... tách... cạch* đều đến mức nghe giống một chiếc đồng hồ cố tình làm người ta mất ngủ.
 
-Louisa ngồi trên mép chiếc thùng đạn gỗ thông, thoăn thoắt lắp từng viên đạn vonfram vào hộp tiếp đạn của khẩu súng ngắn giảm thanh. Tiếng *tách… tách… cạch…* kim khí vang lên đều đặn, sắc gọn giữa đêm khuya.
+Chiếc ba lô vải dù dưới chân nàng nặng trĩu. Bên hông là súng lục giảm thanh, tantō và còi bạc EMP. Thanh Đại Thái Đao vỏ gỗ bách Côn Lôn được quấn chéo sau lưng bằng hai dải da mới; nó dài quá vai nàng một đoạn, khiến cả chiếc ba lô nghiêng hẳn sang trái.
 
-Chiếc ba-lô du lịch vải dù rằn ri đặt cạnh chân nàng đã được xếp đầy: ba hộp đạn dự phòng, hai lưỡi dao găm tantō được mài sắc lẹm, chiếc còi bạc EMP, một túi nilông chứa đầy kẹo mút dâu tây của thế giới thực, và một tấm bản đồ da thú cổ xưa vẽ về **Vòm Cổ Thụ Yggdralis** của loài Tiên tộc Mặt Trăng (Lunar Elves).
+Dienne dừng ở ngưỡng cửa. Tay phải của nàng vẫn bọc băng đen. Nàng không bước vào ngay.
 
-Tiếng bước chân nhẹ êm như nhung dừng lại ngoài thềm cửa đá.
+"Cậu mang quá nhiều đồ," nàng nói.
 
-Louisa không ngẩng đầu lên, tay vẫn tiếp tục đẩy viên đạn cuối cùng vào hộp tiếp đạn:
+"Đó là câu nói của người chưa từng bị kẹt trong rừng cổ mà hết đạn." Louisa không ngẩng lên. "Cửa tới Yggdralis chỉ mở mười bốn phút. Đừng đứng chắn ánh sáng."
 
-"Cậu không đi ngủ à, công chúa? Ngày mai là lễ diễu hành mừng hòa bình ở Oakhaven đấy."
+"Tớ không chắn ánh sáng." Dienne nhìn bản đồ da thú trải trên thùng. Những nét mực bạc chạy qua Vòm Cổ Thụ Yggdralis, rồi dừng ở một dấu chấm không có tên trong Rừng Cội Nguồn. "Tớ đang kiểm tra điều kiện biên."
 
-Dienne bước vào phòng, tựa lưng vào khung cửa gỗ. Nàng không mặc lễ phục của người sáng lập, mà mặc chiếc áo len đen giản dị thuở ở thung lũng tuyết. Ánh mắt màu lam thẫm của nàng nhìn vào chiếc ba-lô đã được kéo khóa chặt:
+Louisa hừ một tiếng. "Hai học giả Asariel chờ ở trạm bên kia. Ryan đã gắn bộ ghi chép lên đoàn khảo sát. Lucien giữ bản kê hậu cần. Soraya gửi thứ bột màu vàng kia để xua côn trùng. Đủ điều kiện chưa, công chúa?"
 
-"Cậu không có ý định quay về Kyoto mở tiệm sửa súng, đúng không Louisa?"
+Dienne không trả lời ngay. Nàng chạm đầu ngón tay trái vào mép bản đồ.
 
-Động tác của Louisa khựng lại nửa nhịp. 
+"Cổng chỉ chịu mở khi người dẫn đường có $\Psi = 0$. Nó không phải lời mời. Nó là một cái khóa."
 
-Nàng khẽ thở dài một tiếng êm ru, đặt hộp tiếp đạn vào bao da bên hông. Nàng rút chiếc que kẹo mút dâu tây ra khỏi miệng, ngước nhìn người bạn đồng hành:
+"Ừ." Louisa đẩy hộp tiếp đạn vào túi áo. "Và tớ là cái chìa khóa xấu tính nhất ở đây."
 
-"Quả nhiên là không qua mắt được bộ óc giải toán của cậu."
+Nụ cười của Dienne đến rất nhanh rồi tắt. Bên ngoài, cánh quạt thông gió quay cộc cộc. Mùi dầu súng, vải ẩm và đường dâu nhân tạo bám trong căn kho nhỏ.
 
-Louisa đứng dậy, bước lại gần khung cửa sổ đá nhìn ra cánh rừng thông phủ tuyết trắng xóa dưới ánh trăng rằm:
+"Cậu không cần chứng minh mình xứng đáng với Chiếc Ghế Thứ Hai bằng cách đi một mình," Dienne nói.
 
-"Kể từ cái đêm tôi gặp cậu ở Kyoto mười tháng trước... Tôi đã luôn tự hỏi một điều, Dienne à."
+Louisa ngậm lại que kẹo mút. Lần này nàng nhìn thẳng vào Dienne.
 
-Giọng nàng trầm xuống, không còn vẻ giễu cợt bất cần đời thường thấy, mà đong đầy sự trăn trở của một tâm hồn từng bị ruồng bỏ:
+"Tớ không đi để được gọi là xứng đáng. Tớ đi vì từ Kyoto đến giờ, tất cả mọi người cứ bảo mana là thứ họ hiểu. Rồi một cánh cổng chọn một đứa không có mana. Tớ muốn biết nó đang giấu cái gì."
 
-"Tại sao phép thuật lại tồn tại? Tại sao thế giới của các cậu lại ngập tràn mana, trong khi thế giới thực của tôi lại cằn cỗi và khô khốc đến thế? Liệu có phải tổ tiên loài người bên thế giới của tôi từng có phép thuật, nhưng đã bị một vị thần nào đó trừng phạt và tước đoạt đi không?"
+Nàng đeo ba lô lên vai. Dải da cọ vào vết thương cũ ở xương đòn khiến cơ mặt nàng giật rất khẽ, rồi bình thản trở lại.
 
-Nàng quay lại nhìn Dienne, đôi mắt màu nâu sắc sảo bừng lên một tia sáng kiên định chưa từng thấy:
+Dienne mở bàn tay trái. Trong lòng bàn tay là một huy hiệu cành bạc nhỏ, mặt sau không có ma trận hay lời bảo hộ nào. Chỉ có một vết xước thô, Rhea khắc bằng mảnh kim loại còn sót lại từ bộ giáp đã chảy.
 
-"Trận chiến vì Cân Bằng của cậu đã kết thúc mỹ mãn. Bảy Cánh Cửa đã được kiểm soát. Nhưng câu hỏi của tôi... cuộc hành trình tìm kiếm nguồn gốc của chính mình... giờ mới thực sự bắt đầu."
+"Mang cái này," Dienne nói. "Không phải để mở đường. Để khi cậu gửi điện tín, bọn tớ biết thư nào là của cậu."
 
-Nàng chỉ tay vào tấm bản đồ da thú trên bàn:
+Louisa nhìn huy hiệu một lúc rồi giật lấy. Nàng ghim nó vào cổ áo bomber.
 
-"Ba ngày trước, một sứ giả của loài Lunar Elves từ Vòm Cổ Thụ Yggdralis đã bí mật gửi thư cho tôi. Họ nói rằng sâu bên trong **Rừng Cội Nguồn (Origin Grove)**—nơi lưu giữ sự thật về ngày mana lần đầu tiên rơi xuống Trái Đất từ các vì sao thời tiền sử—có một cánh cổng cấm kỵ mà bất kỳ ai có mana chạm vào đều sẽ bị thiêu rụi kinh mạch."
+"Thế mới phải chứ. Một cái huy hiệu biết nhắc nợ."
 
-Louisa nhếch mép cười, nụ cười kiêu hãnh của một cô gái đường phố:
+Một tiếng chuông vọng qua đường hầm. Ryan ở đâu đó hét lớn về điện áp. Lần chuông thứ hai ngân lên, nền đá dưới chân rung rất nhẹ.
 
-"Chỉ có một kẻ hoàn toàn không có một giọt mana nào như tôi ($\Psi = 0$) mới có đủ tư cách bước vào đó. Họ mời tôi làm người dẫn đường."
+Dienne lùi sang một bên khỏi ngưỡng cửa.
 
-Dienne nhìn người bạn thân nhất của mình. Nàng không can ngăn, bởi nàng hiểu hơn ai hết: Louisa không sinh ra để làm một tượng đài ngồi yên trên Chiếc Ghế Sồi Thứ Hai. Bản tính của Louisa là một con mèo hoang dũng cảm, luôn khao khát vượt qua những ranh giới cấm kỵ để tìm kiếm chân lý.
+"Đoàn khảo sát đang chờ. Cửa mở rồi."
 
-Dienne thò tay vào túi áo, lấy ra một chiếc huy hiệu cành bạc Arrchirio nhỏ xíu cỡ đồng xu. 
+Louisa chạm hai ngón tay lên vành mũ, một cái chào nửa vời. Rồi nàng bước tới ôm Dienne thật nhanh, vai nàng lạnh mùi gió đêm và da súng.
 
-Chiếc huy hiệu này không làm bằng bạc thông thường, mà được rèn từ một mảnh giáp kỵ sĩ của Rhea và được chính tay Dienne khắc một chuỗi phương trình Asariën bảo hộ 4 pha lên mặt sau.
+"Đừng đốt thêm tay nào nữa," Louisa nói sát tai nàng. "Tớ không thích làm Master thay cậu."
 
-Dienne bước tới, cẩn thận ghim chiếc huy hiệu bạc lên cổ áo khoác bomber của Louisa:
+"Tớ sẽ cố."
 
-"Dù cậu đi tới Vòm Cổ Thụ Yggdralis, tới Lục Địa Bay Aethelgard, hay bước vào Rừng Cội Nguồn... Cậu vẫn luôn là học trò đầu tiên của tôi, là Deuteragonist của cuộc đời tôi, và là chủ nhân vĩnh cửu của Chiếc Ghế Sồi Thứ Hai."
+"Cố cho ra hồn."
 
-Dienne mỉm cười, đôi mắt nàng long lanh:
+Louisa buông ra, quay người đi. Ở cuối hành lang, ánh Cổng mở thành một vệt xanh lục mờ giữa lớp sương rừng, kéo theo mùi lá mục và đất ướt chưa từng có ở Sector 7.
 
-"Đừng quên gửi điện tín cho tôi... và nhớ mang theo đủ kẹo dâu đấy."
+Thanh Đại Thái Đao va nhẹ vào khung cửa đá khi nàng khuất trong ánh sáng.
 
-Louisa cúi nhìn chiếc huy hiệu bạc lấp lánh trên ngực áo. 
-
-Nàng khẽ cắn môi, rồi bằng một cử chỉ bất ngờ, nàng bước tới ôm chầm lấy Dienne thật chặt trong hai giây. Một cái ôm ấm áp, không cần lời nói, chứa đựng trọn vẹn sự tri ân và tình bạn thiêng liêng giữa hai thiếu nữ của hai thế giới.
-
-Louisa buông Dienne ra, khoác chiếc ba-lô nặng trịch lên vai. Nàng nhét một chiếc kẹo mút mới vào khóe môi, vẫy tay mà không ngoái đầu lại:
-
-"Bảo trọng nhé, công chúa. Khi nào tìm ra cội nguồn của phép thuật... tôi sẽ quay về đòi cậu tiền công dẫn đường đấy."
-
-Cánh cửa Cổng ranh giới trong phòng mở ra một dải sáng màu xanh ngọc bích của rừng rậm ngàn năm.
-
-Bóng dáng mảnh khảnh trong chiếc áo bomber đen của Louisa bước qua cánh cổng, hòa vào biển sương mù huyền bí của xứ sở Tiên tộc Mặt Trăng.
-
-Hành trình của Người Không Mana chính thức bắt đầu.
-
----
 
 # ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
@@ -1560,77 +1550,39 @@ Hành trình của Người Không Mana chính thức bắt đầu.
 
 ## EPILOGUE: CÁNH CỬA MỞ VỀ NGÀY MAI
 
-Cuối mùa đông.
+Cuối mùa đông, Thung Lũng Tuyết nhận trận tuyết muộn cuối cùng của năm thứ mười.
 
-Thung Lũng Tuyết phương Bắc đón những đợt tuyết rơi muộn màng cuối cùng của năm thứ mười.
+Gió lùa qua rừng sồi, đưa theo mùi nhựa thông và khói than ẩm. Trên mái căn chòi dưới gốc sồi già, tuyết tan từng giọt, rơi đều lên chiếc thùng nước gỗ đặt dưới hiên.
 
-Tuyết trắng phủ dày hơn một thước trên những tán rừng sồi cổ thụ, bao trùm lên toàn bộ không gian một sự tĩnh lặng thanh khiết, êm đềm như một giấc ngủ say sau mười năm giông bão. Không khí trong thung lũng lạnh khô khốc, trong vắt đến mức có thể nghe thấy tiếng một cành thông khô gãy *rắc* dưới sức nặng của lớp băng tuyết ở phía sườn đồi xa xôi.
+Người Thầy Già đứng cạnh hàng rào. Ông khoác áo da cừu cũ, chiếc tẩu gỗ anh đào ngậm hờ ở khóe miệng. Khói thuốc mỏng cuộn qua chòm râu bạc, mùi cỏ khô lẫn vỏ quế giữ lại một góc ấm trong không khí buốt đến rát phổi.
 
-Bên cạnh căn chòi gỗ quen thuộc nép mình dưới gốc cây sồi nghìn năm, một làn khói lam nhạt từ ống khói đá vẫn lững lờ bốc lên trời cao.
+Tiếng giày giẫm tuyết vọng từ con đường mòn.
 
-Người Thầy Già đứng tựa lưng vào hàng rào gỗ mộc mạc tuyết phủ.
+Ông ngẩng đầu.
 
-Ông khoác chiếc áo da cừu cũ kỹ sờn rách, chiếc tẩu thuốc bằng gỗ anh đào kẹp giữa hai kẽ răng vàng ố. Từng ngụm khói thuốc màu xanh lam thơm mùi cỏ khô và vỏ quế bốc lên, tan biến vào làn sương lạnh giá. 
+Dienne đi trước, áo len đen phủ dưới áo choàng mỏng. Bàn tay phải của nàng vẫn quấn băng; bàn tay trái nắm thanh kiếm gỗ sồi đã cháy sẫm một cạnh. Rhea bước bên cạnh, không còn mặc giáp. Cô chỉ khoác quân phục lam thẫm, trường kiếm bạc đeo sau lưng, cổ tay trái có một vệt da đỏ mới liền.
 
-Đôi mắt đục mờ của ông lão nhìn chăm chú xuống con đường mòn phủ đầy tuyết trắng dẫn ra khỏi thung lũng—con đường mà một buổi sáng mùa đông mười năm trước, ông từng dắt tay một đứa bé gái sáu tuổi đầy sợ hãi bước vào; và cũng là con đường mà gần một năm trước, một cô bé mười sáu tuổi đã mang theo thanh kiếm gỗ sồi bước chân ra thế giới bên ngoài.
+Hai người dừng trước hàng rào.
 
-Tiếng bước chân giẫm trên tuyết xốp *lạo… xạo… lạo… xạo…* bỗng nhiên vọng lại từ phía bìa rừng sồi.
+"Thưa Thầy," Dienne nói. Giọng nàng khàn vì gió lạnh. "Chúng con về rồi."
 
-Người Thầy Già ngừng nhả khói tẩu. Đôi lông mày bạc trắng của ông khẽ nhướng lên.
+Rhea cúi đầu, một tay đặt lên ngực theo lễ của kỵ sĩ.
 
-Hai bóng người đang chầm chậm sánh bước bên nhau đi lên dốc tuyết.
+"Tôi nợ Người lời cảm ơn vì đã giữ cô bé này sống sót," cô nói.
 
-Đi bên trái là một thiếu nữ mười sáu tuổi khoác chiếc áo choàng len đen quen thuộc, mái tóc bạch kim buộc gọn sau gáy, bên hông giắt thanh kiếm gỗ sồi sứt sẹo ram ráp.
+Người Thầy Già nhìn băng quấn trên tay Dienne trước, rồi nhìn thanh kiếm cháy sém. Ông gõ tẩu lên cột rào, *cốc* một tiếng.
 
-Và đi bên phải nàng là một nữ hiệp sĩ tóc bạc cao lớn trong bộ quân phục kỵ sĩ màu lam thẫm, chiếc áo choàng lụa trắng viền bạc khẽ tung bay trong gió tuyết, thanh trường kiếm bạc lấp lánh bên hông.
+"Lại đốt đồ của ta dạy rồi à?"
 
-Dienne Everhart và Rhea Everwy.
+Dienne liếc vết cháy ở mũi kiếm. "Lần này con không có cách nào sạch hơn."
 
-Mười năm lưu lạc giữa đao kiếm, máu lửa, những Cổng ranh giới và bão táp thời-không... Cuối cùng, hai người họ đã cùng nhau quay trở về nơi tất cả bắt đầu.
+"Thế thì vào nhà, kể sau." Ông quay lưng, đẩy cánh cửa gỗ. "Súp củ cải sắp khê. Người bị thương mà để mất bữa tối thì uổng hơn mất cả ma trận."
 
-Hai bóng người dừng lại cách hàng rào gỗ năm bước chân.
+Rhea nhìn Dienne. Dienne mím môi, rồi bật ra một tiếng cười nhỏ. Cả hai cùng bước qua hàng rào.
 
-Dienne tháo mũ trùm đầu xuống, những bông tuyết trắng mịn vương trên mái tóc nàng. Nàng nhìn người thầy già với đôi mắt màu lam thẫm ngập tràn sự biết ơn và ấm áp:
+Trước khi vào nhà, Dienne đặt thanh kiếm gỗ lên giá cạnh cửa. Vết cháy đen nằm im trên thớ sồi. Ngoài hiên, tuyết tiếp tục rơi lách tách lên mái tôn.
 
-"Thưa Thầy... Chúng con đã về rồi."
-
-Rhea Everwy bước lên nửa bước. Người hiệp sĩ kiêu hãnh của vương triều Everhart cúi gập người, một tay đặt lên ngực áo làm lễ tiết trang nghiêm nhất của một kỵ sĩ trước mặt người thầy đã nuôi dạy công chúa của mình:
-
-"Kính chào Người Canh Giữ Thung Lũng. Cảm ơn Người vì mười năm qua đã che chở và rèn giũa công chúa Dienne nên người."
-
-Người Thầy Già đứng lặng nhìn hai người học trò hồi lâu. 
-
-Tàn thuốc trong tẩu khẽ lóe lên một đóa tàn lửa đỏ cam. Bờ môi nứt nẻ của ông lão bỗng nở một nụ cười móm mém, hiền từ và mãn nguyện chưa từng có. Ông rít một hơi thuốc dài, nhả ra một làn khói trắng cuộn tròn vào gió lạnh:
-
-"Thế nào... Ta đã bảo rồi mà. Công chúa không chết dễ dàng thế đâu."
-
-Ông gõ nhẹ chiếc tẩu thuốc vào thanh gỗ hàng rào phát ra tiếng *cốc… cốc…* thanh thản:
-
-"Thế giới bên ngoài thế nào rồi, Dienne? Những bài toán Asariën của ta có đủ dùng để cứu thế giới không?"
-
-Dienne mỉm cười rạng rỡ, nụ cười đẹp nhất trong cuộc đời mười sáu năm của nàng. Nàng nắm chặt lấy bàn tay Rhea bên cạnh:
-
-"Thưa Thầy... Thế giới rộng lớn hơn một phương trình rất nhiều. Nhưng nhờ có những phương trình của Thầy, con mới học được cách lắng nghe tiếng nói của những người bạn không có mana, học được cách hòa nhịp vào dạ khúc London, và hiểu được sự vô vi của đạo pháp phương Đông."
-
-Nàng ngước nhìn lên bầu trời xanh ngắt của thung lũng tuyết:
-
-"Bảy Cánh Cửa đã được mở toang. Nhưng chúng không còn là mối đe dọa nữa. Chúng đã trở thành cây cầu kết nối những con người dũng cảm."
-
-Người Thầy Già gật đầu chậm rãi. Ông xoay người, đẩy nhẹ cánh cửa gỗ của căn chòi nhỏ:
-
-"Vào nhà đi. Nồi súp củ cải và thịt hươu hầm lửa than trên bếp vừa chín tới rồi đấy. Hôm nay... chúng ta uống trà tuyết mừng ngày gia đình đoàn tụ."
-
-Rhea nhìn Dienne, Dienne nhìn Rhea. Hai người cùng mỉm cười, nắm chặt tay nhau bước qua hàng rào gỗ, theo chân người thầy già bước vào căn chòi ấm cúng ngập tràn ánh lửa bập bùng.
-
-Phía sau lưng họ:
-
-Mặt trời mùa đông từ từ lặn xuống sau những rặng núi tuyết trùng điệp của phương Bắc, rải xuống mặt tuyết trắng muốt một dải lụa màu vàng cam ấm áp và rạng rỡ.
-
-Bên cạnh hàng rào, nhánh cây bạc Arrchirio cắm sâu trong lòng tuyết đã bắt đầu đâm chồi nảy lộc những chiếc lá xanh non đầu tiên của mùa xuân.
-
-Trang sách của mười năm lưu lạc đã chính thức khép lại.
-
-Nhưng cánh cửa của một ngày mai ngập tràn ánh sáng và hy vọng... chỉ vừa mới bắt đầu mở ra.
+Cánh cửa khép lại sau lưng họ.
 
 ---
 

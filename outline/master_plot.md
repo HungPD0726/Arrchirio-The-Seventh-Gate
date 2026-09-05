@@ -8,7 +8,7 @@
 ## 1. Tóm Tắt Tác Phẩm (Logline & Core Theme)
 
 - **Tên Series Chính Thức**: **ARRCHIRIO: THE SEVENTH GATE** *(Arrchirio: Cánh Cửa Thứ Bảy)*.
-- **Logline**: Sau khi quê hương bị Đế quốc san phẳng và người hộ vệ duy nhất hy sinh bọc hậu, nàng công chúa mất nước Dienne Everhart dấn thân vào hành trình khám phá những ranh giới cấm kỵ giữa thế giới phép thuật và thế giới thực, giải mã bí ẩn Cánh Cửa Thứ Bảy và tái lập hội kín cổ đại Arrchirio để bảo vệ sự Cân Bằng trước những âm mưu thống trị thực tại.
+- **Logline**: Sau khi quê hương bị Đế quốc san phẳng và người hộ vệ duy nhất mất tích khi bọc hậu, nàng công chúa mất nước Dienne Everhart dấn thân vào hành trình khám phá những ranh giới cấm kỵ giữa thế giới phép thuật và thế giới thực, giải mã bí ẩn Cánh Cửa Thứ Bảy và tái lập hội kín cổ đại Arrchirio để bảo vệ sự Cân Bằng trước những âm mưu thống trị thực tại.
 - **Chủ đề tư tưởng (Theme & Message)**:
   - *Bản chất của Trật tự và Tự do*: Đế quốc mang lại ấm no bằng sự độc tài kiểm soát, trong khi Cân Bằng đòi hỏi sự tôn trọng dị biệt và trả giá.
   - *Ma thuật là tấm gương phóng đại con người*: Năng lượng không tự quyết định thiện ác; chính lựa chọn và đạo đức của con người mới định hình thế giới.
@@ -38,7 +38,7 @@
 
 #### Volume 1: Công Chúa Mất Đi Vương Quốc (The Fallen Princess)
 - **Chủ đề**: Bi kịch, cô lập, sinh tồn và khởi đầu.
-- **Nội dung chính**: Everhart bị Đế quốc Aurelia thanh trừng. Rhea bọc hậu tại Everhart Gate với lời thề móc ngoéo. Dienne được người thầy già nuôi dạy 9 năm trong thung lũng tuyết, học Asariën toán học và nhận huy hiệu Arrchirio rời núi năm 15 tuổi.
+- **Nội dung chính**: Everhart bị Đế quốc Aurelia thanh trừng. Rhea bọc hậu tại Everhart Gate với lời thề móc ngoéo rồi mất tích trong Dòng Chảy Ma Thuật. Dienne được người thầy già nuôi dạy 9 năm trong thung lũng tuyết, học Asariën toán học, nhận huy hiệu Arrchirio năm 15 tuổi và rời núi ở tuổi 16.
 - **Kết thúc (Epilogue)**: Merlin tại khoảng hư không quan sát thấy Cổng thứ bảy dao động.
 
 #### Volume 2: Những Thành Phố Không Có Trên Bản Đồ (The Cities Beyond the Map)
@@ -58,7 +58,7 @@
 
 ---
 
-### [LỘ TRÌNH PHÁT TRIỂN TIẾP THEO: VOLUME 5 - 7]
+### [CANON ĐÃ HOÀN TẤT: VOLUME 5 - 8]
 
 #### Volume 5: Tiếng Vang Từ Biên Cương & Vùng Đất Spirit Arts
 - **Thành phố / Bối cảnh**: Biên cương phương Bắc & Vùng Linh Mạch Spirit Arts (Heiankyō Ura).

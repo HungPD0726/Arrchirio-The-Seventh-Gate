@@ -2,30 +2,30 @@
 
 > **CƠ CHẾ BẢO LƯU NGỮ CẢNH (CONTINUITY SYSTEM)**
 > Tác phẩm **ARRCHIRIO: THE SEVENTH GATE** đã chính thức hoàn thành trọn vẹn 8 Volume!
-> Toàn bộ diễn biến từ Đêm Everhart sụp đổ (Năm 0) đến Đại Kết Cục Tối Thượng (Năm 10) đã được khép lại mỹ mãn.
+> Toàn bộ diễn biến từ Đêm Everhart sụp đổ (Năm 0) đến Đại Kết Cục Tối Thượng (Năm 10) đã khép lại; trạng thái dưới đây bảo lưu cả những giới hạn và dư chấn còn lại sau chiến thắng.
 
 ---
 
 ## 1. Mốc Thời Gian & Tình Trạng Thế Giới (Grand Series Finale)
 
 - **Mốc thời gian**: Cuối mùa đông năm thứ 10 sau đêm Everhart sụp đổ.
-- **Tình trạng hòa bình**:
+- **Tình trạng sau chiến tranh**:
   - Cỗ máy Cánh Cửa Thứ Bảy của Lord Alden Everhart đã bị phá hủy hoàn toàn.
-  - Bảy Cánh Cửa được bình ổn, chuyển hóa thành những cây cầu giao thương, văn hóa và học thuật giữa hai thế giới.
-  - Bốn mươi quốc gia độc lập và chính phủ mới của Đế quốc Aurelia ký kết Hiệp ước Hòa bình vĩnh viễn dưới sự bảo chứng của New Arrchirio.
-  - Hoàng thúc Alden Everhart bị phế bỏ năng lượng, sám hối trong ngục thất Vatican; Thẩm Phán Viện Malakor tan rã hoàn toàn.
+  - Bảy Cánh Cửa đã ổn định nhưng chỉ được mở theo lịch hiệu chuẩn và cơ chế đồng thuận giữa hai đầu Cổng; đường quay về Everhart mười năm trước đã bị phá hủy vĩnh viễn.
+  - Bốn mươi quốc gia độc lập và chính phủ lâm thời của Đế quốc Aurelia ký **Hiệp ước Đình chiến Ba Năm**. New Arrchirio là một bên giám sát, không phải chính quyền đứng trên các thế giới.
+  - Hoàng thúc Alden Everhart bị phế bỏ năng lượng và giam chờ xét xử; Thẩm Phán Viện Malakor tan rã, nhưng mạng lưới quyền lực cũ vẫn cần được xử lý qua ngoại giao và pháp lý.
 
 ---
 
 ## 2. Hội Đồng Bàn Tròn New Arrchirio (Viên Mãn 5 Chiếc Ghế)
 
-1. **Chiếc Ghế Sồi Thứ Nhất**: **Rhea Everwy (32 tuổi)** — Hộ Vệ Vương Quyền Tối Cao. Đã trở về từ Dòng Chảy Ma Thuật, từ chối quay lại quá khứ mười năm trước, chọn ở lại bên cạnh Dienne: *“I'll stay by your side.”*
-2. **Chiếc Ghế Sồi Thứ Hai**: **Louisa (18 tuổi)** — Học trò đầu tiên & Deuteragonist. Đại diện cho Nhân Loại Thế Giới Thực ($\Psi = 0$). Mang theo thanh Đại Thái Đao (Ōdachi) vỏ gỗ Côn Lôn và súng lục giảm thanh. Hiện đang dẫn đầu đoàn thám hiểm tới Vòm Cổ Thụ Yggdralis (Lunar Elves) và Rừng Cội Nguồn (Origin Grove) để giải mã sự khởi đầu của phép thuật.
+1. **Chiếc Ghế Sồi Thứ Nhất**: **Rhea Everwy (32 tuổi)** — Hộ Vệ Vương Quyền Tối Cao. Đã trở về từ Dòng Chảy Ma Thuật và chọn ở lại bên cạnh Dienne: *“I'll stay by your side.”* Giáp bạc bị nung chảy ở trận cuối; đường dẫn Astral trong cơ thể cô đã cạn, không thể dùng lại để mở hay vượt Cổng.
+2. **Chiếc Ghế Sồi Thứ Hai**: **Louisa (18 tuổi)** — Học trò đầu tiên & Deuteragonist. Đại diện cho Nhân Loại Thế Giới Thực ($\Psi = 0$). Mang theo thanh Đại Thái Đao (Ōdachi) vỏ gỗ Côn Lôn, súng lục giảm thanh, tantō và còi bạc EMP. Hiện dẫn một đoàn thám hiểm nhỏ tới Vòm Cổ Thụ Yggdralis (Lunar Elves) và Rừng Cội Nguồn (Origin Grove) để giải mã sự khởi đầu của phép thuật.
 3. **Chiếc Ghế Sồi Thứ Ba**: **Diana Everhart (15 tuổi)** — Công chúa thứ hai. Đại diện cho Văn Hóa Hoàng Gia Lưu Vong & Nghệ thuật biểu diễn London. Chủ trì đại sứ quán New Arrchirio tại Reverse London.
 4. **Chiếc Ghế Sồi Thứ Tư**: **Lục Thanh Vân (17–18 tuổi)** — Thanh Hư Đạo Sĩ. Đại diện cho Cổ Đạo Phương Đông & Long Mạch Côn Lôn. Tiếp tục tu tập và giảng dạy đạo thuật âm dương hòa hợp tại Thiên Môn Đạo Quán.
-5. **Vị Trí Trung Tâm**: **Dienne Everhart (16 tuổi)** — Người sáng lập, Master, Chỉ huy tối cao của sự Cân Bằng. Mang thanh kiếm gỗ sồi của Rhea, kết hợp toán học Asariën và tình yêu thương con người.
+5. **Vị Trí Trung Tâm**: **Dienne Everhart (16 tuổi)** — Người sáng lập, Master, Chỉ huy điều phối của sự Cân Bằng. Mang thanh kiếm gỗ sồi của Rhea, nay cháy sẫm một cạnh sau khi phá trục neo thời gian. Bàn tay phải còn sẹo bỏng nhiệt lượng $Q$; cô phải tập lại các ma trận mật độ cao thay vì đạt hiệu suất cũ ngay lập tức.
 6. **Ban Cố Vấn & Kỹ Thuật**:
-   - **Ryan (14 tuổi)**: Trưởng ban Kỹ thuật Magitech thế hệ mới.
+   - **Ryan (14 tuổi)**: Trưởng ban Kỹ thuật Magitech thế hệ mới; cánh tay trái còn di chứng bỏng từ ba-lô che chắn ở Điểm Kỳ Dị.
    - **Lucien Vale (17 tuổi)**: Tổng quản lý Ngân khố và Bản đồ địa chính trị đa thế giới.
    - **Soraya (18 tuổi)**: Đại Tư Tế Sa Mạc Al-Zahra, người canh giữ Trục Long Mạch Kim Tự Tháp Cairo.
 7. **Hậu Phương Vững Chắc**:
