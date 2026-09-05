@@ -50,6 +50,15 @@ Tổ chức phân tách rành mạch giữa 3 khái niệm: **Class** (Chuyên m
    - Người ngoài muốn vào Arrchirio phải trải qua sát hạch cực kỳ ngặt nghèo của các Class Masters.
    - Nhưng nếu được Grandmaster hoặc một Master nhận làm **Học trò trực truyền (Disciple)** thì cánh cửa gia nhập sẽ rộng mở và tự nhiên hơn rất nhiều (Ví dụ: Người Thầy Già $\to$ Dienne $\to$ Louisa, Ryan).
    - Một môn đệ có thể theo học một Master mà chưa chính thức bị đóng khung vào một Class cụ thể.
+3. **Định mệnh Hội Trưởng của Dienne Everhart (Omni-Class Mastery - Thức Tỉnh Toàn Hệ):**
+   - Trong lịch sử hàng ngàn năm, mỗi Hội Trưởng thường chỉ xuất thân và thành thạo một Class chủ chốt (như Arknight hoặc Cipher-Weaver).
+   - **Dienne là trường hợp duy nhất được định mệnh lựa chọn để trở thành Hội Trưởng thức tỉnh và thành thạo TOÀN BỘ các class có thể thức tỉnh:**
+     - *Toán học & Ngữ pháp Asariën đỉnh cao* $\to$ Kế thừa và vượt tầm **Cipher-Weaver**.
+     - *Kiếm thuật bảo hộ sồi bạc của Rhea* $\to$ Đạt chuẩn mực **Arknight**.
+     - *Cơ khí ứng dụng, phân tích mạch & tư duy phi mana của Ryan & Louisa* $\to$ Làm chủ tư duy **Magi-Artificer**.
+     - *Hòa nhịp cùng dòng chảy long mạch & tinh tú của Soraya & Thanh Vân* $\to$ Kết nối bản chất **Astral-Seeker**.
+     - *Thấu cảm nỗi đau mất mát, tiếp cận cấm thuật triệt tiêu & hoạt động vùng xám* $\to$ Thức tỉnh căn bản của **Umbraguard**.
+   - Dienne chính là chiếc chìa khóa hợp nhất toàn bộ các nhánh rẽ Arrchirio trở lại thành một khối hoàn chỉnh!
 
 ---
 
@@ -76,13 +85,37 @@ Quy tắc thiết kế huy hiệu của Arrchirio:
 * **Bản sắc:** Đây là **niềm vinh dự tối cao của một gia tộc**. Được phong tước Arknight đồng nghĩa với việc gia tộc đó mang phẩm giá hộ vệ vương triều.
 * **Quy chuẩn sức mạnh:** Arknight **không phải là bảng xếp hạng chiến đấu mạnh nhất**. Đó là một truyền thống chiến đấu công khai. Một Arknight có thể thắng thế trên chiến trường mở, nhưng hoàn toàn có thể bị hạ gục bởi một Umbraguard trong vùng tối hoặc bị vô hiệu hóa bởi một Cipher-Weaver.
 
-### 4.2. ☾ UMBRAGUARD (Dạ Dực Giả)
+### 4.2. ☾ UMBRAGUARD (Dạ Dực Giả / Cấm Vệ Vùng Tối)
 * **Ký hiệu:** Hai Lưỡi Dao Găm chéo nhau bên dưới Vầng Trăng Khuyết (Twin Daggers & Crescent Moon) giữa Đôi Cánh.
-* **Lĩnh vực:** Bí mật, phản gián, xâm nhập, giải quyết các mối nguy hiểm đe dọa Cân Bằng mà không thể đưa ra ánh sáng.
-* **Bản sắc:** **Tuyệt đối không gọi là "Class Bóng Tối" hay "Sát thủ"**. Ám sát chỉ là công cụ cuối cùng. Sứ mệnh của họ là hoạt động trong vùng xám để bảo vệ thực tại mà không để lại vết tích.
+* **Lĩnh vực:** Bí mật, tình báo, phản gián, xâm nhập, triệt tiêu hiểm họa vô hình, giám sát các thực thể cổ đại.
+* **Bản sắc:** **Tuyệt đối không gọi là "Sát thủ" hay "Phù thủy đen" đơn thuần**. Ám sát chỉ là biện pháp kỹ thuật cuối cùng. Sứ mệnh của họ là hoạt động như một bức tường chắn vô hình bảo vệ Cân Bằng mà không để lại vết tích.
 * **Khẩu hiệu đối lập:**
-  - Arknight: *“Hãy nhìn thấy ta.”* (Đứng trước ánh sáng che chắn cho nhân loại).
-  - Umbraguard: *“Không ai được biết ta tồn tại.”* (Bước vào bóng tối để dọn sạch mối nguy).
+  - Arknight: *“Hãy nhìn thấy ta.”* (Đứng trước ánh sáng che chở nhân loại).
+  - Umbraguard: *“Không ai được biết ta tồn tại.”* (Bước vào bóng tối để dọn sạch vực sâu).
+
+#### A. Quy Trình Tuyển Mộ Khắt Khe Tuyệt Đối (The Covert 5-Layer Vetting)
+Umbraguard **không mở trường lớp công khai, không nhận đơn ứng tuyển**. Nếu một người biết mình đang bị thi sát hạch, người đó đã bị loại. Họ sử dụng cơ chế "Quan sát thụ động dài hạn" thông qua mạng lưới tai mắt rải khắp xã hội:
+1. **Thẩm tra Lý lịch 3 Đời (Genealogy & Entanglements):** Xem xét cặn kẽ gốc gác gia đình, các mối quan hệ xã hội, nợ nần, thù oán và ràng buộc chính trị. Người có quá nhiều vướng bận danh gia vọng tộc sẽ không bao giờ được chọn.
+2. **Xuất thân & Thử thách Nghịch cảnh (Background & Resilience):** Ưu tiên những cá nhân xuất sắc có nghị lực phi thường, từng trải qua nghịch cảnh sinh tử nhưng không đánh mất nhân tính và sự tỉnh táo.
+3. **Học lực & Năng lực Tư duy Thực tế (Academic & Practical Acumen):** Điểm số xuất sắc trong các môn giải phẫu cấu trúc, địa lý, ngôn ngữ học và logic toán học; khả năng phản ứng và tìm đường sống trong tình thế ngặt nghèo khi không có mana.
+4. **Trắc nghiệm Tâm lý & Độ Lạnh Lùng (Psychological Fortitude):** Khả năng chịu áp lực cực hạn, giữ bí mật tuyệt đối dưới sự tra tấn, không dao động trước tiền tài, danh vọng, nhục dục hay quyền lực; sự ổn định cảm xúc khi phải hành động trong cô độc nhiều năm.
+5. **Bộ Lọc Bản Ngã (The Ego Filter - Tiêu chí loại trừ lớn nhất):** Bất kỳ kẻ nào khao khát được cả thế giới ca tụng, thích đeo huân chương vinh quang hay đòi hỏi người đời biết ơn đều bị **loại ngay lập tức**. Thành viên Umbraguard phải chấp nhận: *Sống vô danh, hành động không bia đá, và chết không để lại nấm mồ.*
+
+#### B. Khung Huấn Luyện Toàn Diện (The Umbraguard Curriculum)
+Các cá nhân được chọn sẽ được huấn luyện bí mật thành những cỗ máy sinh tồn hoàn mỹ:
+* **Khí tài & Vũ khí toàn năng (Universal Weaponry):** Tinh thông mọi loại vũ khí từ đoản đao, kiếm dài, cung nỏ, ám khí tẩm độc, dây siết garrote cho đến các loại hỏa khí hiện đại, súng cơ khí giảm thanh của thế giới không ma thuật.
+* **Ma pháp Thực chiến & Hắc Ám Cấm Thuật (Dark & Nullification Arts):**
+  - *Ma pháp triệt tiêu hiện diện:* Kỹ thuật bẻ cong ánh sáng, ghìm sóng mana ngược pha ($\theta \to \pi$), hạ thân nhiệt và làm ngưng trệ nhịp tim để hòa tan hoàn toàn vào môi trường (nhiệt lượng $Q \to 0$).
+  - *Hắc ám & Ăn mòn cấu trúc:* Ma pháp ăn mòn kết giới phòng ngự, phân rã lõi ma pháp trận từ bên trong, bẫy linh hồn chống tra khảo tâm linh, và kỹ thuật phong tỏa tâm trí chống thôi miên/đoạt hồn.
+* **Nghiệp vụ Tình báo, Cắt Đuôi & Xâm Nhập (Covert Tradecraft):**
+  - Kỹ thuật cắt đuôi và phản trinh sát thượng thừa trong các đô thị chật chội cũng như nơi hoang dã.
+  - Nghệ thuật dụ dỗ, thao túng tâm lý xã hội (social engineering), thẩm vấn mềm, thâm nhập và điều khiển các tổ chức quyền lực từ bên trong.
+* **Quy Trình Nhận Diện Đồng Đội & Vạch Trần Kẻ Địch (Identification Protocols):**
+  - Cách nhận ra đồng nghiệp ngầm giữa chốn đông người mà không cần mở miệng: thông qua nhịp gõ ngón tay, hướng nhìn vi mô, góc đặt ly nước, hoặc nếp gấp áo đặc thù.
+  - Cách soi ra kẻ thù cải trang và điệp viên trà trộn qua vết chai tay đặc thù của từng loại vũ khí, nhịp thở vô thức và phản xạ co giãn đồng tử.
+* **Hệ Thống Ám Ký & Ngôn Ngữ Mật Mã (Ciphers & Covert Signaling):**
+  - Hệ thống thủ ấn chiến thuật (Tactical Hand Signs) im lặng tuyệt đối trong bóng tối.
+  - Ngôn ngữ mật mã hình học Asariën cổ đại ẩn giấu dưới dạng các vết xước trên tường đá, hoa văn đồng tiền xu, hoặc mực ma thuật chỉ phát quang dưới bước sóng mana đặc biệt.
 
 ### 4.3. ✒ CIPHER-WEAVER (Mật Văn Sư)
 * **Ký hiệu:** Ngòi Bút Lông Ma Đạo vắt chéo Cuộn Da Công Thức (Quill & Formula Scroll) giữa Đôi Cánh.
@@ -103,20 +136,34 @@ Quy tắc thiết kế huy hiệu của Arrchirio:
 
 ---
 
-## 5. BÍ MẬT VỀ UMBRAGUARD & THỰC TẾ QUYỀN LỰC THẾ GIỚI
+## 5. BÍ MẬT UMBRAGUARD: ARRCHIRIO BÓNG TỐI & GIAO THỨC TỐI HẬU
 
-### 5.1. "Điểm Mù" Của Người Thầy Già
-* Trong quá khứ, **chỉ có duy nhất Grandmaster mới biết được danh tính và mạng lưới của Umbraguard**. Các Arknight thậm chí còn không biết Umbraguard có thật hay chỉ là tin đồn.
-* Khi cuộc Đại thanh trừng của Đế quốc san phẳng Arrchirio, **Người Thầy Già chỉ là một đứa trẻ sống sót**. Cấp bậc của một đứa trẻ không bao giờ được phép tiếp cận hồ sơ của Umbraguard. Do đó, Người Thầy Già hoàn toàn không biết nhánh này tồn tại.
+### 5.1. Nguồn Gốc Thành Lập: Nỗi Sợ Của Hội Trưởng Cổ Đại Vaelen (Grandmaster Vaelen the Far-Seer)
+* Cách đây hàng ngàn năm, vào thời kỳ hoàng kim rực rỡ nhất của Arrchirio, vị Hội Trưởng cổ đại mang tên **Vaelen Ar-Sovereign (Kẻ Canh Giữ Vô Hình)** đã nhìn thấy một hiểm họa chí mạng:
+  - *Ánh sáng càng chói lọi, cái bóng càng kéo dài.* Khi các Arknight được vinh danh khắp các vương quốc, tổ chức sẽ dần trở nên kiêu ngạo, quan liêu, và bị cuốn vào vòng xoáy chính trị thế tục.
+  - Ông lo sợ một ngày nào đó, **toàn bộ hệ thống Arrchirio sẽ mất kiểm soát, bị tha hóa từ bên trong, hoặc mù quáng trước những mối đe dọa thực sự từ ngoài vũ trụ.**
+* Vì vậy, Vaelen đã âm thầm thành lập **Umbraguard** như một **cơ chế tự hủy/bảo hộ dự phòng tối hậu (The Ultimate Failsafe)**. 
+* Ông giữ kín sự tồn tại của Umbraguard ngay cả với các Class Masters khác. Từ đó trở đi, Umbraguard phát triển song song như một **"Arrchirio Bóng Tối" (The Parallel Shadow Order)**.
 
-### 5.2. Umbraguard Đã Sống Sót Như Thế Nào?
-* Dù hệ thống trung tâm sụp đổ, **Umbraguard chưa từng bị tiêu diệt**. Họ âm thầm rút vào các tầng sâu của xã hội ở cả thế giới ma thuật lẫn thế giới thực.
-* Thành viên của Umbraguard hiện nay đang nắm giữ những vị trí then chốt trong các tập đoàn tài chính, mạng lưới buôn lậu, cơ quan tình báo ngoại giao và các viện nghiên cứu ngầm.
+### 5.2. "Điểm Mù" Của Người Thầy Già & Sự Sống Sót Kì Diệu
+* Trong truyền thống cổ xưa, chỉ có duy nhất Grandmaster đương nhiệm mới nắm giữ phong ấn liên lạc với Umbraguard.
+* Khi cuộc Đại thanh trừng của Đế quốc diễn ra, **Người Thầy Già chỉ là một đứa trẻ sống sót**. Một đứa trẻ học đồ hoàn toàn không có thẩm quyền chạm vào hồ sơ Umbraguard. Đó là lý do Người Thầy Già tin rằng Arrchirio đã bị xóa sổ gần hết ngoài bản thân mình.
+* Nhưng trên thực tế, Umbraguard chưa từng gục ngã. Họ hòa tan vào các tầng sâu của xã hội: tập đoàn tài chính, mạng lưới thông tin ngầm, hải cảng và viện nghiên cứu ở cả hai thế giới.
 
-### 5.3. Triết Lý Sinh Tồn Gai Góc: "Không Thể Ăn Ma Thuật Để Sống"
-* **Bản chất của thế giới:** Những kẻ thực sự điều khiển các bánh răng của thực tại không phải là những pháp sư kiêu ngạo phóng hỏa cầu trên tháp ngà.
-* Đối với một phù thủy bình thường, **"họ không thể ăn ma thuật để sống"** — họ vẫn cần tiền, thức ăn, vật tư ma thạch, chuỗi cung ứng và hệ thống ngân hàng.
-* Những con người bình thường (hoặc người ít mana) dùng **cái đầu, tài chính, luật pháp và sự tổ chức** mới là những kẻ giật dây thế giới. Umbraguard đã cắm rễ vào chính cấu trúc thực tế này suốt hàng trăm năm qua để bảo vệ sự Cân Bằng mà không một pháp sư nào hay biết.
+### 5.3. Nguyên Tắc Tuyệt Đối Bất Can Thiệp (The Absolute Non-Intervention Doctrine)
+Umbraguard tuân thủ một giới luật sắt đá:
+* **Không can thiệp chính trị thế tục:** Họ tuyệt đối không xen vào các cuộc đảo chính vương quyền, tranh chấp ngai vàng, hay xung đột biên giới của người phàm. Kể cả khi một triều đại sụp đổ hay một cuộc chiến tranh nổ ra, Umbraguard chỉ đứng ngoài quan sát.
+* **"Không thể ăn ma thuật để sống":** Umbraguard hiểu rõ bản chất trần trụi của xã hội. Họ chi phối thế giới bằng **tài chính, hậu cần, chuỗi cung ứng và luật pháp** chứ không phô trương hỏa cầu.
+
+### 5.4. Giao Thức Kích Hoạt Tối Hậu: Khi Nào Umbraguard Rút Kiếm? (The Primordial Awakening Protocol)
+Umbraguard CHỈ lộ diện và can thiệp khi:
+1. **Cán cân thực tại hoàn toàn mất kiểm soát:** Toàn bộ phòng tuyến bề mặt của Arrchirio sụp đổ hoặc bị phản bội từ bên trong.
+2. **Những Thực Thể Cổ Xưa / Vực Sâu Thức Giấc (Primordial & Eldritch Entities):** Những thực thể kinh hoàng từ Cánh Cửa Thứ Bảy hoặc những quái vật hư vô ngoài ranh giới không-thời gian thức tỉnh—những hiểm họa mà ma pháp thông thường của các Arknight không thể nào thanh tẩy nổi.
+
+### 5.5. Vai Trò Kịch Bản: Hậu Thuẫn Vô Hình Cho Dàn Nhân Vật Chính
+* Umbraguard là **quân bài chiến lược được giữ kín cho giai đoạn sau (Endgame / High Stakes)**.
+* Khi nhóm bạn trẻ của Dienne (Louisa, Ryan, Soraya, Thanh Vân) chạm trán những thực thể cổ xưa ở tầng sâu nhất, họ sẽ dần phát hiện ra dấu vết của một lực lượng ngầm đã âm thầm dọn dẹp các hiểm họa vô hình và che chở họ từ phía sau.
+* Và định mệnh tối cao sẽ là khoảnh khắc **Dienne chính thức tiếp quản cương vị Grandmaster, thức tỉnh toàn bộ các class và trở thành người duy nhất hợp nhất cả Ánh Sáng (Arknight) lẫn Bóng Tối (Umbraguard)!**
 
 ---
 
@@ -143,3 +190,5 @@ Quy tắc thiết kế huy hiệu của Arrchirio:
 ## 7. TRUYỀN THỐNG THẤT TRUYỀN (THE FORGOTTEN SIXTH PATH)
 * Hồ sơ chính thống ghi nhận 5 Class. Nhưng trong các văn tự tiền sử, người ta từng tìm thấy một mảnh phù hiệu vỡ thứ sáu không có tên.
 * Giả thuyết tối hậu: Rất có thể **Arknight và Umbraguard thời cổ xưa nhất vốn là một thể thống nhất** sinh ra từ Hai Chị Em, trước khi bị lịch sử phân tách thành hai nhánh Ánh Sáng và Bóng Tối.
+* **Sự Thống Nhất Của Dienne:** Khi Dienne thức tỉnh toàn hệ, cô không chỉ tái sinh một vị Hội Trưởng toàn năng, mà chính là người đầu tiên sau kỷ nguyên tối cổ khôi phục lại **Nhánh Thứ Sáu Thất Truyền** — dung hòa trọn vẹn cả thanh gươm trước cửa và lưỡi dao sau lưng!
+
