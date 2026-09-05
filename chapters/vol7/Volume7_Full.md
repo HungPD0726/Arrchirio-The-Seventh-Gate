@@ -79,7 +79,6 @@ Gió tuyết lại gầm lên từng hồi lạnh buốt.
 
 Vị đạo sĩ trẻ chậm rãi đứng dậy, tay cầm thanh kiếm gỗ đào, tà đạo bào xanh ngọc bích tung bay phần phật trên đỉnh trời Côn Lôn.
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -172,7 +171,6 @@ Dienne mở cửa xe bước xuống nền đất lạnh, chiếc áo choàng đ
 Nàng ngẩng đầu nhìn lên đỉnh núi tuyết mờ ảo sau tầng mây trắng, tay siết chặt chuôi kiếm gỗ sồi:
 
 "Xuống xe thôi. Đoạn đường còn lại... chúng ta phải tự đi bằng đôi chân của mình."
-
 
 ---
 
@@ -301,7 +299,6 @@ Lục Thanh Vân chắp hai tay trước ngực, khẽ cúi đầu thi lễ theo
 
 "Bần đạo Lục Thanh Vân... bái kiến những người kế thừa ngọn cành bạc Arrchirio đã vượt vạn dặm đường xa đến với đỉnh trời phương Đông."
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -413,7 +410,6 @@ Lục Thanh Vân đứng dậy, vươn tay nhấc thanh kiếm gỗ đào đặt
 
 "Trên Thạch Đài Bát Quái ngoài kia, gió mây đang rất đẹp. Mời hai vị công chúa cùng bần đạo bước ra đài cao so tài đôi chiêu."
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -423,19 +419,88 @@ Lục Thanh Vân đứng dậy, vươn tay nhấc thanh kiếm gỗ đào đặt
 
 ## CHƯƠNG 4: SO TÀI ÂM DƯƠNG — KIẾM GỖ ĐÀO & LIỄU KIẾM BẠC
 
-Gió núi thổi lồng lộng trên Thạch Đài Bát Quái, cuốn theo những dải mây trắng mỏng manh trôi là là sát mặt đá hoa cương.
+Trước khi bước ra Thạch Đài Bát Quái nửa giờ, Louisa đã không chịu ngồi yên trong gian thiền thất.
 
-Thạch đài hình tròn có đường kính hơn ba mươi mét nhô hẳn ra ngoài vách đá dựng đứng, bên dưới là biển mây vạn trượng cuộn sóng. 
+Tính khí của một đứa trẻ lớn lên từ các khu chợ đen Kyoto khiến cô không bao giờ đặt trọn niềm tin vào sự bình yên của một nơi chốn xa lạ. Trong khi Dienne và Diana ngồi đàm đạo cùng Lục Thanh Vân về cấu trúc Long Mạch, Louisa đã luồn qua lối cửa nách phía sau đạo quán, men theo triền dốc phủ tuyết để khảo sát địa hình thoát hiểm.
+
+Gió phương Bắc rít từng cơn buốt óc qua khe đá. 
+
+Ở độ cao gần bốn ngàn mét, không khí loãng và khô khốc. Nhưng đôi bốt da mềm của Louisa bám móng rất chắc trên mặt đá rêu phong đóng băng. Cô vừa nhai kẹo cao su, vừa đưa mắt quét qua các gờ đá cheo leo. 
+
+Và rồi, phía sau một rặng tùng tuyết cổ thụ cắm rễ vào vách đá dựng đứng, cô nhìn thấy một khe nứt tự nhiên.
+
+Lối vào chỉ vừa vặn một người lách qua, bị che khuất bởi những phiến thạch nhũ băng rủ xuống như rèm cửa. Louisa thò đầu nhìn vào trong. Không có mùi thú dữ, không có mùi lưu huỳnh của quái vật ma thạch, chỉ có luồng khí lạnh tĩnh mịch như đã bị phong kín cả thế kỷ.
+
+Cô rút khẩu súng ngắn giảm thanh cầm xuôi bên đùi, bật đèn pin rọi vào bóng tối rồi lách người bước vào.
+
+Lòng hang không quá sâu, chỉ rộng chừng mươi bước chân. Mặt đất khô ráo, phủ một lớp bụi tuyết mịn màng.
+
+Và ở phiến đá bằng phẳng nằm ngay chính giữa hang động—
+
+Một bộ xương khô đang ngồi xếp bằng.
+
+Dáng ngồi thẳng tắp, lưng tựa như cây tùng vách núi, hai hốc mắt trống rỗng hướng thẳng ra phía cửa hang nhìn về phía biển mây ngút ngàn. Không có dấu vết của sự giằng co, không có thương tổn trên khung xương, cũng không có vẻ gì là người bị sát hại. Người này đã chết trong tư thế tĩnh tọa tuyệt đối.
+
+Và đặt ngang trên hai ống chân bằng xương khô ấy là một thanh trường kiếm dài bất thường.
+
+Thanh kiếm dài gần một mét rưỡi. Vỏ kiếm không bóng bẩy như kiếm của giới quý tộc, mà được đẽo gọt mộc mạc từ một khối gỗ bách Côn Lôn, các đường vân gỗ thô ráp được quấn chặt bằng những dải vải chàm nhuộm thủ công đã ngả màu xám tro theo năm tháng.
+
+Louisa hạ nòng súng, rọi luồng sáng đèn pin lên vách đá hoa cương phía sau bộ xương.
+
+Trên mặt đá lạnh buốt, ai đó đã dùng đầu ngón tay hoặc mũi thép khắc sâu vào hai hàng chữ Hán:
+
+> **「敗天下第一劍於此。」**  
+> *(Bại thiên hạ đệ nhất kiếm vu thử.)*  
+> **「劍不擇主，人自擇劍。」**  
+> *(Kiếm bất trạch chủ, nhân tự trạch kiếm.)*
+
+Louisa đứng lặng giữa hang đá. 
+
+Là một đứa trẻ lăn lộn ở Kyoto, cô đọc hiểu từng nét chữ. *Đánh bại kẻ được gọi là đệ nhất kiếm thiên hạ tại nơi này. Kiếm không chọn chủ, người tự chọn kiếm.*
+
+Bộ xương khô này là ai? 
+
+Là người đã đánh bại viên kiếm khách phương xa kia? Hay là người đã nhận lại thanh kiếm sau trận quyết đấu? Hay chỉ là kẻ canh giữ cuối cùng ngồi lại nơi đây cho đến hơi thở tàn? Hang đá không có câu trả lời. Chỉ có tiếng gió tuyết rít từng hồi ngoài khe nứt.
+
+Louisa bước lại gần, cúi người xuống.
+
+Cô đưa bàn tay đeo găng cụt ngón chạm vào chuôi đao quấn dây dù đen sờn mép.
+
+Một cảm giác nặng trịch, chắc nịch và lạnh ngắt truyền thẳng qua lớp da tay. Không có bất kỳ luồng mana nào phản hồi. Cơ thể cô $\Psi = 0$, và thanh kiếm này cũng hoàn toàn trơ lỳ trước trường năng lượng xung quanh. Không rung động, không phát sáng, tựa như một khối vật chất cô đặc tuyệt đối giữa trời đất.
+
+Cô khẽ đẩy nhẹ ngón tay cái vào miếng chắn (tsuba) bằng sắt đen.
+
+*Tách.*
+
+Một tấc lưỡi đao trượt ra khỏi vỏ gỗ bách.
+
+Mặt thép đen ánh vân mây mờ ảo như vảy cá hiện ra dưới ánh đèn pin—loại thép đặc biệt được rèn đúc thủ công từ thời chiến tranh xa xưa của xứ sở phù tang, qua hàng chục năm vùi trong băng tuyết vẫn không hề vướng một hạt gỉ sét, mép lưỡi bén ngót toát lên luồng hàn khí thấu xương.
+
+Louisa chớp mắt.
+
+"Không có mana à..."
+
+Cô nhìn thanh kiếm.
+
+"Giống tôi."
+
+Ánh mắt cô chuyển sang bộ xương khô đang ngồi tĩnh tọa trước mặt. Không dài dòng, không màu mè, cô gái Kyoto khẽ gật đầu:
+
+"Cho tôi mượn nhé."
+
+Cô nhấc thanh đại đao lên khỏi phiến đá. Sức nặng của nó khiến cơ cổ tay cô hơi chùng xuống, nhưng điểm cân bằng giữa chuôi và lưỡi lại hoàn hảo đến mức đáng kinh ngạc. Louisa tháo dải dây dù, quàng chéo thanh đao khổng lồ qua lưng chiếc áo khoác bomber rộng thùng thình của mình.
+
+Khi cô bước ra khỏi khe nứt quay trở lại đạo quán, gió núi trên Thạch Đài Bát Quái vừa lúc thổi bạt đi lớp mây sớm.
+
+Gió núi thổi lồng lộng trên thạch đài hình tròn có đường kính hơn ba mươi mét nhô hẳn ra ngoài vách đá dựng đứng, bên dưới là biển mây vạn trượng cuộn sóng. 
 
 Ở trung tâm thạch đài, một đồ hình Thái Cực Âm Dương khổng lồ được ghép bằng hai phiến đá hắc thạch đen tuyền và bạch ngọc trắng muốt, phân chia không gian thành hai nửa đối xứng hoàn mỹ.
 
-Louisa nhảy tót lên ngồi vắt vẻo trên một trụ đá lan can, hai chân đung đưa ngoài khoảng không vực thẳm, miệng nhai kẹo mút dâu, tay cầm cuốn sổ ghi chép:
+Diana và Dienne nhìn thấy thanh đao dài ngoẵng bọc vỏ gỗ thô mộc vắt chéo sau lưng Louisa, cả hai thoáng chớp mắt ngạc nhiên. Nhưng Louisa chẳng buồn giải thích, chỉ thản nhiên nhảy tót lên ngồi vắt vẻo trên một trụ đá lan can, hai chân đung đưa ngoài khoảng không vực thẳm, miệng ngậm que kẹo mút dâu, tay cầm cuốn sổ ghi chép:
 
 "Trọng tài Louisa chính thức nhận nhiệm vụ. Quy tắc cũ: Không chơi đòn độc, không đánh vào mặt, chạm y phục ba lần là tính điểm. Hai bên chuẩn bị!"
 
-Lục Thanh Vân bước vào nửa vòng tròn màu đen (Âm trận). 
-
-Chàng đạo sĩ trẻ khẽ phất tà đạo bào xanh ngọc bích, thanh kiếm gỗ đào ngàn năm cầm xuôi bên cánh tay phải, mũi kiếm chúc xuống đất theo một góc nghiêng thanh thoát. Thân hình cậu đứng thẳng nhưng buông lỏng, tựa như một nhánh trúc non đang khẽ đung đưa theo từng nhịp gió ngàn.
+Lục Thanh Vân bước vào nửa vòng tròn màu đen (Âm trận). Ánh mắt chàng đạo sĩ trẻ khẽ lướt qua dải vải chàm quấn trên vỏ gỗ bách sau lưng Louisa, đuôi mày khẽ nhướng lên một thoáng kinh ngạc sâu kín, nhưng cậu không hỏi nửa lời, chỉ mỉm cười thu kiếm chúc xuống đất theo thế chào thanh thoát. Thân hình cậu đứng thẳng nhưng buông lỏng, tựa như một nhánh trúc non đang khẽ đung đưa theo từng nhịp gió ngàn.
 
 Ở phía đối diện, Diana bước vào nửa vòng tròn màu trắng (Dương trận).
 
@@ -565,7 +630,6 @@ Nụ cười trên môi Lục Thanh Vân lắng dịu lại, thay vào đó là 
 
 "Mời các vị theo bần đạo. Trụ Cột Long Mạch... nằm ở ngay dưới đáy Thạch Đài Bát Quái này."
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -687,7 +751,6 @@ Từ phía cửa hang xoắn ốc, Louisa và Lucien hớt hải lao xuống, m�
 
 "Master! Kẻ địch khai hỏa rồi!" Louisa giật mạnh nòng súng ngắn, hơi thở dồn dập: "Một lữ đoàn thiết giáp Hắc Ma Thạch do tên Tướng quân Sát Phá Lang của phân bộ Arknight chỉ huy đã bao vây đèo Phong Lôi! Chúng mang theo mười hai cỗ đại pháo công thành cao áp và đang bắn phá thẳng vào cổng tam quan Thiên Môn!"
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -770,7 +833,6 @@ Lồng ngực hai nàng công chúa thắt nghẹn lại trong một sự chấn
 Người đứng đầu tổ chức phản bội Arknight.
 
 **Hoàng Thúc Alden Everhart.**
-
 
 ---
 
@@ -863,7 +925,6 @@ Dienne vung kiếm gỗ sồi, tiếng quát vang dội khắp đỉnh trời:
 
 "Vào trận địa! Đập tan đạo quân này cho tôi!"
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -911,11 +972,51 @@ Lá Lôi Phù Bát Quái trên thân đạn lập tức kích hoạt!
 
 Một luồng sấm sét màu lam ngọc bốc lên từ bên trong buồng đốt ma đạo, đánh sập toàn bộ hệ thống bánh răng hơi nước, khiến cỗ pháo nổ tung buồng nén, hất văng toán lính pháo thủ xuống triền tuyết dốc!
 
-"Một em!" Louisa lên đạn giòn giã: *Pụt! Pụt! Pụt!*
+"Một em!" Louisa lên đạn giòn giã: *Pụt! Pụt!* Thêm hai cỗ xe pháo khác bị đoản mạch hơi nước.
 
-Thêm ba cỗ xe pháo cơ giới khác bị vô hiệu hóa hoàn toàn trong vòng chưa đầy năm giây! Sấm sét Bát Quái phối hợp cùng đạn bắn tỉa của cô gái người thường $\Psi = 0$ đã trở thành cơn ác mộng vô thanh giáng xuống đầu quân đoàn phản bội!
+Thế nhưng, cỗ đại pháo công thành hạng nặng ở trung tâm—thứ mang nòng súng bọc thép dài sáu mét—đã kịp dựng lên một tấm khiên kết giới ma thuật màu tím sẫm bao bọc lấy mặt tiền. Viên đạn vonfram thứ tư của Louisa găm vào màng năng lượng, bị lực đẩy trường mana làm chệch hướng bay cắm phập xuống tuyết!
 
-"Lũ chuột nhắt! Xông lên cầu cho ta! Giết hết bọn chúng!" Sát Phá Lang gầm lên điên dại, vung thanh đại đao đen kịt chỉ về phía trước.
+Nòng pháo khổng lồ bắt đầu xoay bánh răng ken két, chuyển hướng nhắm thẳng vào chân gác chuông!
+
+"Phiền phức thật."
+
+Louisa nhả que kẹo mút dâu sang khóe môi trái. Không một giây chần chừ, cô buông khẩu súng bắn tỉa, giật chốt súng phóng dây móc bên hông. *Vút!* Chiếc mỏ neo cắm chặt vào gờ đá đối diện, thân hình cô gái Kyoto trượt vút xuống sườn dốc trong tích tắc!
+
+Nòng pháo rực sáng! Luồng xung nhiệt ma đạo cao áp chuẩn bị phát hỏa!
+
+Louisa tiếp đất bằng một cú trượt dài trên tuyết. Đôi mắt đen láy của cô không nhìn vào quả cầu lửa đang tích tụ ở miệng nòng, mà quét nhanh qua toàn bộ kết cấu cơ khí của bệ pháo. 
+
+Dù có ma thuật che chắn mặt trước, toàn bộ cỗ xe vẫn là một khối sắt thép hoạt động theo nguyên lý cơ học. Và để chịu được sức giật ngàn cân của nòng pháo sáu mét, cỗ xe buộc phải có một **trục khớp xoay chịu lực bằng hợp kim kép** nằm lộ ra ở phần hông bánh xích!
+
+*OÀNG!* 
+
+Cỗ pháo gầm lên, viên đạn pháo ma đạo phụ bắn xé toạc lớp tuyết cách chỗ Louisa chỉ hai bước chân. Đất đá và tuyết vụn bắn tung tóe. Nhưng Louisa đã sớm dự đoán được hướng xả áp, cô lộn người một vòng sát mặt đất luồn qua làn khói nóng buốt, lách thẳng vào góc chết dưới gầm xe pháo!
+
+Bàn tay cô vắt ra sau lưng, nắm lấy chuôi thanh trường kiếm.
+
+*KENG... XOẸT!*
+
+Lưỡi Đại Thái Đao đen tuyền trượt khỏi vỏ gỗ bách Côn Lôn! 
+
+Không có ánh sáng mana hào nhoáng bùng nổ. Chỉ có một thanh đao nặng trịch, sắc lượn sóng, đầm chắc như một khối đá tảng.
+
+Louisa xoay eo, dồn toàn bộ lực ly tâm và trọng lượng cơ thể vào sải tay hai mét, vung một nhát chém chéo sấm sét bằng cả hai tay vào chính giữa chiếc trục xoay chịu lực của bệ pháo!
+
+*KENG... RẮC!*
+
+Thanh đao trơ với mana không hề bị dòng điện rò rỉ của cỗ pháo làm nứt mẻ. Lưỡi thép đen cực bén cùng quán tính va chạm khủng khiếp chém phập sâu vào khớp nối kim loại đang căng cứng vì nhiệt độ! 
+
+Trục xoay gãy gập! 
+
+Mất đi điểm tựa chịu lực, nòng pháo sáu mét nặng hàng tấn lập tức đổ sụp sang một bên, đè nát toàn bộ hệ thống xích truyền động, khiến buồng nạp đạn bên trong nghẽn áp suất tự kích nổ làm bung toàn bộ nắp thùng máy!
+
+Louisa nhẹ nhàng lùi lại ba bước né làn khói xám, vung tay hất nhẹ thanh đại đao rồi tra ngược vào vỏ gỗ sau lưng. Tiếng *tách* gọn ghẽ khô khốc vang lên giữa tiếng nổ rền của sắt thép đổ nát.
+
+Cô gái Kyoto phủi bụi tuyết trên vai áo bomber, thản nhiên nhả que kẹo mút:
+
+"Nòng pháo to... nhưng khớp nối thì lỏng lẻo quá."
+
+"Lũ chuột nhắt! Xông lên cầu cho ta! Giết hết bọn chúng!" Sát Phá Lang bên kia chiến tuyến gầm lên điên dại khi thấy cỗ pháo chủ lực bị bẻ gãy, vung thanh đại đao đen kịt chỉ về phía trước.
 
 Hơn hai trăm kỵ binh thiết giáp mang phù hiệu chim ưng xé đôi đồng loạt rút gươm ma đạo, giẫm đạp lên lớp tuyết dày, ồ ạt tràn lên cây cầu xích sắt!
 
@@ -1028,7 +1129,6 @@ Lục Thanh Vân biến sắc, bàn tay run lên khi nhìn xuống đáy vực:
 "Thứ gì ở dưới đó, Lục Thanh Vân?!" Dienne vội hỏi.
 
 "**Cổ Long Côn Lôn!**" Chàng đạo sĩ trẻ thốt lên: "Linh hồn tàn dư của Thần Long trấn giữ Long Mạch... đã thức tỉnh trong sự cuồng nộ!"
-
 
 ---
 
@@ -1161,7 +1261,6 @@ Cổ Long đã bình yên trở về với giấc ngủ vĩnh hằng trong lòng
 
 Và Long Mạch Côn Lôn... giờ đây đã hoàn toàn thức tỉnh và hòa nhịp cùng trái tim của New Arrchirio.
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -1258,7 +1357,6 @@ Bão tan.
 
 Và bình yên đã thực sự trở lại với Côn Lôn Thiên Môn.
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -1324,13 +1422,15 @@ Nàng khẽ nghiêng người, đưa tay làm một cử chỉ mời thanh nhã:
 
 "Lục Thanh Vân. Chiếc ghế này đã chờ đợi người gác cổng chân chính của nó suốt hai mươi năm qua."
 
+Louisa ngồi ở chiếc ghế thứ hai, tháo dải dây dù quàng chéo qua ngực, đặt thanh Đại Thái Đao bọc vỏ gỗ bách Côn Lôn nằm ngang trên mặt bàn đá, bên cạnh khẩu súng ngắn đạn vonfram quen thuộc của mình.
+
 Lục Thanh Vân bước tới bên bàn đá. 
 
 Chàng đạo sĩ trẻ nhìn ngắm những vết xước thời gian trên mặt bàn đá hoa cương—nơi những bậc tiền hiền của tổ chức Arrchirio cổ đại từng ngồi lại để bàn về sự sống còn của thế giới.
 
-Cậu tháo thanh Kiếm Gỗ Đào Ngàn Năm trên tay, nhẹ nhàng đặt nó nằm ngang trên mặt bàn đá—ngay cạnh thanh liễu kiếm bạc của Diana và khẩu súng ngắn của Louisa.
+Cậu tháo thanh Kiếm Gỗ Đào Ngàn Năm trên tay, nhẹ nhàng đặt nó nằm ngang trên mặt bàn đá—ngay cạnh thanh liễu kiếm bạc của Diana, thanh kiếm gỗ sồi của Dienne, và thanh đại đao mộc mạc của Louisa.
 
-Gỗ đào mộc mạc, thép bạc kiêu hãnh và nòng súng đen ngòm của thế giới thực... ba biểu tượng của ba nền văn minh khác biệt nằm kề bên nhau, tạo nên một sự hài hòa kỳ diệu mà không một lời nói nào có thể diễn tả trọn vẹn.
+Gỗ đào đạo pháp, liễu kiếm bạc hoàng gia, gỗ sồi vương quyền phương Bắc, và lưỡi đại đao trần thế mang dấu ấn Côn Lôn... Mỗi món vũ khí tĩnh lặng nằm đó như một lời tuyên bố không lời: *"Tôi là ai."* Bốn biểu tượng của những truyền thống khác biệt nằm kề bên nhau trên cùng một phiến đá, tạo nên một sự hài hòa kỳ diệu mà không cần đến bất kỳ sự ép buộc nào.
 
 Lục Thanh Vân vén tà đạo bào xanh ngọc bích, chậm rãi ngồi xuống Chiếc Ghế Sồi Thứ Tư.
 
@@ -1365,7 +1465,6 @@ Không có những bài diễn văn về ngày tận thế hay những chiến t
 Chỉ có hơi ấm của tình bạn, của sự thấu hiểu và sự gắn kết không thể tách rời giữa những con người sẵn sàng đứng lên che chở cho thế giới này.
 
 Bàn Tròn New Arrchirio... giờ đây đã vững vàng hơn bao giờ hết.
-
 
 ---
 
@@ -1462,7 +1561,6 @@ Mặt trời đã lên cao khỏi tầng mây xám.
 
 Và con đường phía trước... dẫu có muôn trùng bão giông, cũng không còn ai phải đơn độc một mình nữa.
 
-
 ---
 
 # ARRCHIRIO: THE SEVENTH GATE
@@ -1553,7 +1651,3 @@ Và con đường dẫn tới **Đại Kết Cục**... đã chính thức mở 
 ---
 
 ### [HẾT TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ]
-
-
----
-

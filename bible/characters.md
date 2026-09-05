@@ -135,7 +135,13 @@ Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng
     *(Lưu ý Canon: Danh xưng "Master" là biểu tượng của sợi dây kế thừa tri thức và sự gắn kết tâm hồn sâu sắc, **tuyệt đối không phải là cấp bậc hành chính hay chức vụ quan liêu**).*
 - **Độ tuổi**: Khoảng 17 - 18 tuổi.
 - **Ngoại hình**: Cô gái châu Á mảnh khảnh, ánh mắt sắc sảo, mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
-- **Trang bị & Đạo cụ**:
+- **Trang bị & Đạo cụ Biểu Tượng**:
+  - **Thanh Đại Thái Đao (Ōdachi / Nodachi) bọc vỏ gỗ Côn Lôn**: Vũ khí cận chiến biểu tượng bất ly thân của Louisa (thu được tại hang động tuyết Côn Lôn ở Volume 7). 
+    * *Đặc tính 3 tầng*:
+      1. **Tầng 1 — Vật lý:** Cực bền, giữ cạnh sắc vượt trội qua thời gian, độ dẻo dai và cân bằng trọng lực tuyệt hảo; không thể gãy trong điều kiện bình thường nhưng không phải "thần khí bất khả hủy".
+      2. **Tầng 2 — Ma thuật:** "Ổn định vật chất cực cao + tương tác mana cực thấp". Không dẫn mana, không hấp thụ mana, trơ với sự ăn mòn của phép thuật. Không phải "anti-magic auto-hack"; để phá hủy kết giới hay khí tài ma đạo, Louisa phải dùng kinh nghiệm và đôi mắt tinh tường tìm đúng điểm neo vật chất hoặc mối nối chịu lực rồi chém vào đó.
+      3. **Tầng 3 — Lịch sử & Văn hóa:** Lưỡi đao rèn bởi danh tượng Nhật Bản thời Thế chiến, theo chân một kiếm khách tự xưng đệ nhất sang Côn Lôn và trải qua trận quyết đấu huyền thoại. Vỏ đao được đẽo gọt mộc mạc từ gỗ núi Côn Lôn bởi người ở lại.
+    * *Triết lý cốt lõi*: **Thanh kiếm không chọn Louisa. Louisa chọn thanh kiếm.**
   - Súng lục giảm thanh giắt trong bao da dưới nách (dùng đạn hợp kim nặng trịch phi ma thuật).
   - Dao găm ngắn / tantō dắt ngang thắt lưng sau.
   - Còi bạc cộng hưởng âm tần phá sóng ma trận.
