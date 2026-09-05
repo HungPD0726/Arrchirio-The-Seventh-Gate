@@ -28,6 +28,7 @@ mylightnovel/
 │   ├── asarien_codex.md               <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
 │   ├── magic_appendix.md             <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
 │   ├── canon_audit.md                <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
+│   ├── arrchirio_codex.md            <-- Cấu trúc thứ bậc, 5 đại hệ, Umbraguard & Thần thoại Hai Chị Em
 │   └── state.md                      <-- Trạng thái cốt truyện (Volume 8 Tracker)
 ├── outline/                          <-- Dàn ý chi tiết các Volume
 │   ├── master_plot.md                <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-8)
