@@ -20,7 +20,7 @@
 ## 2. Hội Đồng Bàn Tròn New Arrchirio (Viên Mãn 5 Chiếc Ghế)
 
 1. **Chiếc Ghế Sồi Thứ Nhất**: **Rhea Everwy (32 tuổi)** — Hộ Vệ Vương Quyền Tối Cao. Đã trở về từ Dòng Chảy Ma Thuật, từ chối quay lại quá khứ mười năm trước, chọn ở lại bên cạnh Dienne: *“I'll stay by your side.”*
-2. **Chiếc Ghế Sồi Thứ Hai**: **Louisa (18 tuổi)** — Học trò đầu tiên & Deuteragonist. Đại diện cho Nhân Loại Thế Giới Thực ($\Psi = 0$). Hiện đang dẫn đầu đoàn thám hiểm tới Vòm Cổ Thụ Yggdralis (Lunar Elves) và Rừng Cội Nguồn (Origin Grove) để giải mã sự khởi đầu của phép thuật.
+2. **Chiếc Ghế Sồi Thứ Hai**: **Louisa (18 tuổi)** — Học trò đầu tiên & Deuteragonist. Đại diện cho Nhân Loại Thế Giới Thực ($\Psi = 0$). Mang theo thanh Đại Thái Đao (Ōdachi) vỏ gỗ Côn Lôn và súng lục giảm thanh. Hiện đang dẫn đầu đoàn thám hiểm tới Vòm Cổ Thụ Yggdralis (Lunar Elves) và Rừng Cội Nguồn (Origin Grove) để giải mã sự khởi đầu của phép thuật.
 3. **Chiếc Ghế Sồi Thứ Ba**: **Diana Everhart (15 tuổi)** — Công chúa thứ hai. Đại diện cho Văn Hóa Hoàng Gia Lưu Vong & Nghệ thuật biểu diễn London. Chủ trì đại sứ quán New Arrchirio tại Reverse London.
 4. **Chiếc Ghế Sồi Thứ Tư**: **Lục Thanh Vân (17–18 tuổi)** — Thanh Hư Đạo Sĩ. Đại diện cho Cổ Đạo Phương Đông & Long Mạch Côn Lôn. Tiếp tục tu tập và giảng dạy đạo thuật âm dương hòa hợp tại Thiên Môn Đạo Quán.
 5. **Vị Trí Trung Tâm**: **Dienne Everhart (16 tuổi)** — Người sáng lập, Master, Chỉ huy tối cao của sự Cân Bằng. Mang thanh kiếm gỗ sồi của Rhea, kết hợp toán học Asariën và tình yêu thương con người.
