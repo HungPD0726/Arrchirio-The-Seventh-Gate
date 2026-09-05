@@ -46,8 +46,11 @@ mylightnovel/
 │   ├── vol4/                         <-- Bản thảo Tập 4 (Đã hoàn thành 100% Webnovel - 172 KB)
 │   ├── vol5/                         <-- Bản thảo Tập 5 (Đã hoàn thành 100% Webnovel - 193 KB)
 │   ├── vol6/                         <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
-│   ├── vol7/                         <-- Bản thảo Tập 7: Long Mạch Côn Lôn (Đã hoàn thành 100% - 112 KB)
-│   └── vol8/                         <-- Bản thảo Tập 8: Đại Kết Cục Tối Thượng (Đang tiến hành - Prologue)
+│   ├── vol7/                         <-- Bản thảo Tập 7: Long Mạch Côn Lôn (Đã hoàn thành 100% - 114 KB)
+│   └── vol8/                         <-- Bản thảo Tập 8: Đại Kết Cục Tối Thượng (Đã hoàn thành 100% - 124 KB)
+│       ├── Volume8_Full.md
+│       ├── prologue.md -> ch14.md
+│       └── epilogue.md
 ├── templates/scene_template.md       <-- Biểu mẫu Scene & Sequel
 └── README.md                         <-- Hướng dẫn này
 ```
