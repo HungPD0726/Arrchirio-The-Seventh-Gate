@@ -28,16 +28,17 @@ mylightnovel/
 │   ├── asarien_codex.md               <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
 │   ├── magic_appendix.md             <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
 │   ├── canon_audit.md                <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
-│   └── state.md                      <-- Trạng thái cốt truyện (Post-Vol 7 Tracker)
+│   └── state.md                      <-- Trạng thái cốt truyện (Volume 8 Tracker)
 ├── outline/                          <-- Dàn ý chi tiết các Volume
-│   ├── master_plot.md                <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-7)
+│   ├── master_plot.md                <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-8)
 │   ├── volume_1.md                   <-- Dàn ý Tập 1 (Công chúa mất đi vương quốc)
 │   ├── volume_2.md                   <-- Dàn ý Tập 2 (Những thành phố không có trên bản đồ)
 │   ├── volume_3.md                   <-- Dàn ý Tập 3 (Thế giới không có phép thuật)
 │   ├── volume_4.md                   <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
 │   ├── volume_5.md                   <-- Dàn ý Tập 5 (Tiếng vang từ biên cương)
 │   ├── volume_6.md                   <-- Dàn ý Tập 6 (Reverse London & Bức điện Diana)
-│   └── volume_7.md                   <-- Dàn ý Tập 7 (Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư)
+│   ├── volume_7.md                   <-- Dàn ý Tập 7 (Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư)
+│   └── volume_8.md                   <-- Dàn ý Tập 8 (Những Thành Phố Cổ & Trận Chiến Cân Bằng - Đại Kết Cục)
 ├── chapters/
 │   ├── vol1/                         <-- Bản thảo Tập 1 (Đã hoàn thành 100% - 122 KB)
 │   ├── vol2/                         <-- Bản thảo Tập 2 (Đã hoàn thành 100% - 66 KB)
@@ -45,7 +46,8 @@ mylightnovel/
 │   ├── vol4/                         <-- Bản thảo Tập 4 (Đã hoàn thành 100% Webnovel - 172 KB)
 │   ├── vol5/                         <-- Bản thảo Tập 5 (Đã hoàn thành 100% Webnovel - 193 KB)
 │   ├── vol6/                         <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
-│   └── vol7/                         <-- Bản thảo Tập 7: Long Mạch Côn Lôn (Đã hoàn thành 100% - 112 KB)
+│   ├── vol7/                         <-- Bản thảo Tập 7: Long Mạch Côn Lôn (Đã hoàn thành 100% - 112 KB)
+│   └── vol8/                         <-- Bản thảo Tập 8: Đại Kết Cục Tối Thượng (Đang tiến hành - Prologue)
 ├── templates/scene_template.md       <-- Biểu mẫu Scene & Sequel
 └── README.md                         <-- Hướng dẫn này
 ```

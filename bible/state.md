@@ -1,23 +1,22 @@
-# Story State: Nhật Ký Trạng Thái Hiện Tại (Post-Volume 7)
+# Story State: Nhật Ký Trạng Thái Hiện Tại (Volume 8: Prologue ➔ Chapter 1)
 
 > **CƠ CHẾ BẢO LƯU NGỮ CẢNH (CONTINUITY SYSTEM)**
-> Tệp này ghi nhận chính xác trạng thái thế giới và nhân vật tại thời điểm **kết thúc Volume 7** (điểm xuất phát cho Volume 8 — Đại Kết Cục Tối Thượng).
+> Tệp này ghi nhận chính xác trạng thái thế giới và nhân vật tại thời điểm **Volume 8 — Đại Kết Cục Tối Thượng**.
+> Đã hoàn thành: **Prologue (Tín hiệu từ hư không và tiếng gọi thời gian)**.
+> Mục tiêu tiếp theo: **Chương 1 (Biển Cát Thì Thầm - Thâm nhập Cairo)**.
 > Mọi phân cảnh mới viết ra phải đối chiếu với tệp này.
 
 ---
 
 ## 1. Mốc Thời Gian & Địa Điểm (Current Setting)
 
-- **Mốc thời gian**: Kết thúc Volume 7 (Dienne 16 tuổi, Diana 15 tuổi, mùa đông năm thứ 10 sau đêm Everhart sụp đổ).
-- **Thời gian trong truyện**: Đêm muộn tại Pháo đài Sector 7 sau khi toàn đội trở về an toàn từ đỉnh Tuyết Phong rặng Côn Lôn.
-- **Địa điểm hiện tại**: **Pháo đài ngầm Sector 7** — đại bản doanh của New Arrchirio.
+- **Mốc thời gian**: Mùa đông năm thứ 10 sau đêm Everhart sụp đổ (Dienne 16 tuổi, Diana 15 tuổi, Rhea 32 tuổi).
+- **Thời gian trong truyện**: 01:00 AM — Vừa kết thúc hội nghị Bàn Tròn sau khi thanh kiếm gỗ sồi phát xung Astral Current.
+- **Địa điểm hiện tại**: **Pháo đài ngầm Sector 7** ➔ Đang kích hoạt xe Magitech vượt Cổng ranh giới sang sa mạc Sahara ngoại ô Cairo.
 - **Sự kiện vừa xảy ra**: 
-  - Đập tan lữ đoàn thiết giáp Hắc Ma Thạch của Tướng quân Sát Phá Lang tại Đèo Phong Lôi.
-  - Xoa dịu và chữa lành linh hồn tàn dư Cổ Long Côn Lôn; phục hồi hoàn nguyên Bát Quái Trận Phong Ấn dưới chân Trụ Cột Long Mạch Ngọc Bích.
-  - Đối đầu tư tưởng gián tiếp đầu tiên với **Hoàng thúc Alden Everhart**.
-  - Đạo sĩ trẻ **Lục Thanh Vân** rời đỉnh núi tuyết, chính thức ngồi vào **Chiếc Ghế Sồi Thứ Tư** tại Bàn Tròn Hội Đồng (Đại diện cho Cổ Đạo Phương Đông).
-  - Quả cầu bản đồ ba chiều tại Sector 7 kích hoạt đường liên kết Long Mạch toàn cầu: Côn Lôn $\to$ **Kim Tự Tháp Cairo (Ai Cập)** $\to$ **Thành Phố Tòa Thánh New Rome**!
-  - Thanh kiếm gỗ sồi của Rhea phát ra xung động ánh sáng bạc từ **Dòng Chảy Ma Thuật (Astral Current)**, báo hiệu thời khắc Rhea trở về đang đến rất gần!
+  - Hoàn tất **Volume 8 Prologue**: Thanh kiếm gỗ sồi phát quang ánh sáng bạc Dòng Chảy Ma Thuật, Dienne nghe thấy lời dặn dò của Rhea từ thời không.
+  - Toàn bộ 7 thành viên Hội Đồng New Arrchirio đồng tâm nhất trí bắt đầu cuộc Đại Viễn Chinh cuối cùng.
+  - Quả cầu bản đồ ba chiều khóa tọa độ điểm đến tiếp theo: **Quần Thể Kim Tự Tháp Cairo (Ai Cập)**.
 
 ---
 
