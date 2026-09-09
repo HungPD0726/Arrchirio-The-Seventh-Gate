@@ -295,7 +295,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Diana Everhart (Tên thường gọi tại Reverse London: *Diana Sterling*).
-- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Sinh ra tại hoàng cung Everhart vào **Năm -5** (kém Dienne đúng 1 tuổi). Trong Đêm Everhart sụp đổ (Năm 0), khi mới tròn 1 tuổi còn bọc trong tã lót, Diana được các hộ vệ bí mật mở đường máu đưa sang **Reverse London** (London Nghịch Đảo) nhằm phân tán rủi ro tuyệt diệt dòng máu vương tộc.
+- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Sinh ra tại hoàng cung Everhart vào **Năm -5** (kém Dienne đúng 1 tuổi). Trong Đêm Everhart sụp đổ (Năm 0), khi mới tròn 5 tuổi, Diana được mẹ và các hộ vệ trung thành bí mật mở đường máu đưa sang **Reverse London** (London Nghịch Đảo) nhằm phân tán rủi ro tuyệt diệt dòng máu vương tộc. Chuyến vượt biển bão tố và nỗi kinh hoàng thời thơ ấu đã vùi lấp ký ức về lâu đài cẩm thạch dưới tầng sang chấn tâm lý, khiến cô lớn lên trong sương mù London như một đứa trẻ bình dân mà không giữ lại ấn tượng rõ ràng về hoàng cung.
 - **Độ tuổi**: **15 tuổi** (ở thời điểm gặp gỡ tại Volume 6, Năm 10).
 - **Ngoại hình**: Vẻ đẹp thanh tao, đài các toát lên từ trong máu tủy. Mái tóc vàng óng gợn sóng buông nhẹ sau lưng, đôi mắt màu lam trong veo như pha lê (màu mắt đặc trưng của dòng máu hoàng gia Everhart).
 - **Trang phục**: Thường mặc váy dạ hội cách tân hoặc âu phục quý tộc Anh may bằng lụa sẫm màu, tà váy xếp ly mềm mại được thiết kế đặc biệt để mở rộng tối đa theo từng bước xoay người khi múa kiếm.
@@ -312,7 +312,7 @@ Tác phẩm xây dựng một cặp đối trọng mang tính triết học và 
 > *(The Princess Who Never Had A Kingdom)*
 
 - **Dienne**: Bị tước đoạt vương quốc lúc 6 tuổi, lớn lên trong thung lũng tuyết giá lạnh, ăn bánh mì khô, mặc áo choàng sờn gấu, dùng kiếm gỗ sứt sẹo, tư duy bằng toán học và sự tàn khốc của sinh tồn. Dienne lớn lên gần như quên mất thế nào là cuộc sống hoàng gia. Với Dienne, *Everhart là một vết thương rỉ máu*.
-- **Diana**: Sinh ra trong một ngôi nhà bình dân ở Reverse London, nơi cha mẹ cô phải giấu thân phận, dùng tên giả và làm lụng như thường dân để mưu sinh. Nhưng trong căn nhà bình thường ấy, cha mẹ đã dồn hết tâm huyết âm thầm truyền dạy cho cô mọi chuẩn mực của hoàng tộc: lễ nghi, văn hóa, lịch sử, khiêu vũ, âm nhạc, kiếm thuật và ma thuật. Với Diana, *Everhart là một nền văn hóa, một bản trường ca đẹp đẽ chưa từng được nhìn thấy bằng mắt thường*.
+- **Diana**: Rời khỏi vương quốc năm 5 tuổi và lớn lên trong một ngôi nhà bình dân ở Reverse London, nơi mẹ cô phải giấu thân phận, dùng tên giả và làm lụng như thường dân để mưu sinh. Dù ký ức hoàng cung thuở ấu thơ bị sang chấn xóa nhòa, cha mẹ đã dồn hết tâm huyết âm thầm truyền dạy cho cô mọi chuẩn mực của hoàng tộc: lễ nghi, văn hóa, lịch sử, khiêu vũ, âm nhạc, kiếm thuật và ma thuật. Với Diana, *Everhart là một nền văn hóa, một bản trường ca đẹp đẽ chưa từng được nhìn thấy bằng mắt thường*.
 
 ### Khoảnh Khắc Hội Ngộ Giữa Hai Chị Em
 - Khi Dienne nhìn Diana: *"Em ấy trông giống một công chúa thực thụ hơn mình..."*

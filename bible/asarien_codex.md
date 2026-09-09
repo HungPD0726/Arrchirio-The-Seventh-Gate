@@ -4,7 +4,7 @@
 > **Mục đích:** Tệp này chuẩn hóa ngôn ngữ cổ Asariën, cấu trúc câu thần chú, và các khái niệm ma pháp học nền tảng khi nhân vật học tập, đọc sách cổ hoặc thi triển phép thuật trong truyện.
 > Mọi phân cảnh niệm chú, ngâm xướng hay bài học ma pháp phải dựa trên hệ thống này.
 >
-> *(Xem hệ thống phương trình $\Psi$, đơn vị `man`, hằng số $\varepsilon$ và hai định luật Merlin tại: [`bible/mana_physics.md`](file:///d:/Workspaces/mylightnovel/bible/mana_physics.md))*
+> *(Xem hệ thống phương trình $\Psi$, đơn vị `man`, hằng số $\varepsilon$ và ba định luật Merlin tại: [`bible/mana_physics.md`](mana_physics.md))*
 
 ---
 

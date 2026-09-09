@@ -42,7 +42,7 @@
 | **Vol 3** | Thế Giới Không Có Phép Thuật (The World Without Magic) | Hoàn thành 100% | 170 KB | 28.562 từ |
 | **Vol 4** | Những Tàn Tích Của Arrchirio (The Remnants of Arrchirio) | Hoàn thành 100% | 171 KB | 28.539 từ |
 | **Vol 5** | Tiếng Vang Từ Biên Cương & Vùng Đất Spirit Arts | Hoàn thành 100% | 188 KB | 31.174 từ |
-| **Vol 6** | Dạ Vũ Trong Sương Mù & Bóng Ma Arknight (Reverse London) | Hoàn thành 100% | 146 KB | 24.455 từ |
+| **Vol 6** | Dạ Vũ Trong Sương Mù & Bóng Ma Arknight (Reverse London) | Hoàn thành 100% | 146 KB | 24.485 từ |
 | **Vol 7** | Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (Phương Đông) | Hoàn thành 100% | 119 KB | 19.812 từ |
-| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng) | **Hoàn thành 100%** | **117 KB** | **19.476 từ** |
-| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **803 KB** | **176.183 từ** |
+| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng) | **Hoàn thành 100%** | **118 KB** | **19.515 từ** |
+| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **803 KB** | **176.252 từ** |

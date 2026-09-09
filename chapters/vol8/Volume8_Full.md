@@ -1095,7 +1095,7 @@ Toàn bộ sáu người đồng đội—những người đã cùng nàng đi 
 
 Tiếng đế giày sắt của Alden nện trên nền đá lơ lửng, chậm rãi tiến lại gần.
 
-Thanh trường kiếm đen trong tay ông kéo lê trên mặt đá, phát ra những tia lửa rợn người. Ông đứng sừng sững trên đỉnh dốc đá, nhìn xuống Dienne đang quỳ ôm xác bạn bè bằng một ánh mắt hoàn toàn trống rỗng:
+Thanh trường kiếm đen trong tay ông kéo lê trên mặt đá, phát ra những tia lửa rợn người. Ông đứng sừng sững trên đỉnh dốc đá, nhìn xuống Dienne đang quỳ bên cạnh những người đồng đội gục ngã bằng ánh mắt hoàn toàn trống rỗng:
 
 *“Đó chính là cái giá của sự tự do mà cháu theo đuổi đấy, Dienne. Tình đồng đội, niềm tin, sự ngây thơ... tất cả chỉ đổi lại một bãi tha ma đẫm máu.”*
 
@@ -1107,7 +1107,7 @@ Dienne từ từ buông Louisa xuống phiến đá.
 
 Nàng đứng dậy.
 
-Chiếc áo choàng đen rách bươm bay phần phật trong cơn gió chân không buốt giá. Đôi chân nàng run rẩy, cơ thể nàng cạn kiệt mana ($\Psi = 0$), không còn lấy một giọt năng lượng để thắp lên một đốm lửa lam nhỏ nhất.
+Chiếc áo choàng đen rách bươm bay phần phật trong cơn gió chân không buốt giá. Đôi chân nàng run rẩy, kho năng lượng trong kinh mạch cạn kiệt tới mức ngấp nghé bờ vực sinh tồn ($\Psi \approx 15\text{ man}$—chỉ tương đương một nhịp thở yếu ớt, không đủ thắp lên một đốm lửa lam tự vệ nhỏ nhất).
 
 Nhưng trong đôi mắt màu lam thẫm của nàng, ngọn lửa của sự kiên định chưa từng tắt.
 
@@ -1141,11 +1141,11 @@ Bên cạnh cột trụ sụp đổ, Diana cắn chặt môi nén cơn đau từ
 
 Lục Thanh Vân quỳ gối, hai cẳng tay gãy buốt nhói nhưng vẫn dùng trán điểm vào ký tự Bát Quái phương Bắc; Soraya thổi tàn tro ngọn lửa Al-Zahra cuối cùng vào rãnh đá trung tâm; và Lucien dùng hết tàn lực đập vỡ viên tinh chất thủy ngân cuối cùng vào mạch dẫn.
 
-Bảy con người. Bảy chiếc ghế. Bảy nút giao thoa không-thời gian.
+Bảy con người. Bảy điểm neo. Bảy nút giao thoa không-thời gian.
 
 Họ không chờ đợi một phép màu ngẫu nhiên. Họ đang cùng nhau thực thi phép toán ranh giới cuối cùng!
 
-Dienne dồn toàn bộ 15 man năng lượng còn sót lại trong huyết quản, cắm phập mũi kiếm gỗ sồi vào tâm chấn bệ đá, ngâm xướng câu lệnh kích hoạt:
+Dienne dồn toàn bộ 15 man năng lượng còn sót lại trong huyết quản—nguồn năng lượng nhỏ nhoi được giữ vững và tiếp ứng nhờ mạch tiếp địa từ sáu điểm neo của đồng đội xung quanh—cắm phập mũi kiếm gỗ sồi vào tâm chấn bệ đá, ngâm xướng câu lệnh kích hoạt:
 
 *“Asariën... Centripetum fiat!”*
 

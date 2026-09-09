@@ -70,7 +70,7 @@ Một giọng hát trong trẻo, u sầu và truyền cảm ngân vang qua kho�
 
 Bài dạ khúc hoàng gia Everhart.
 
-Đó là bài hát ru mà mẹ nàng từng hát bên cạnh chiếc nôi gỗ sồi mười bốn năm về trước, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
+Đó là bài hát ru mà mẹ nàng từng hát bên giường ngủ mười năm về trước khi mới đặt chân tới London, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
 
 Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi cha và mẹ của nàng. 
 
@@ -78,7 +78,7 @@ Họ ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không �
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
-Suốt mười lăm năm qua, Diana chưa từng một ngày bước chân lên ngai vàng. Nàng chưa từng nếm trải cảm giác mất đi vương quốc như người chị gái xa xôi—bởi vì nàng sinh ra khi vương quốc ấy đã không còn tồn tại trên bản đồ thế giới.
+Rời khỏi hoàng cung khi mới lên năm tuổi, ký ức kinh thành bốc cháy đã bị chôn vùi dưới những cơn sang chấn thời thơ ấu và màn sương mù sông Thames. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức trưởng thành như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn hơn là một ngai vàng cụ thể.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.
 

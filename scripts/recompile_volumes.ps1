@@ -3,9 +3,9 @@
 # PROJECT: Arrchirio: The Seventh Gate
 # PURPOSE:
 #   1. Automatically recompile VolumeX_Full.md from constituent chapter files.
-#   2. Eliminate drift between individual chapters and Full files.
-#   3. Run Continuity & Lore Audit (infant bug, EMP horn, casing, blacklist words).
-#   4. Output word counts and file sizes (KB).
+#   2. Detect drift between individual chapters and Full files in audit mode.
+#   3. Run Continuity & Lore Audit (infant bug, EMP horn, IP brands, casing, links).
+#   4. Enforce build pass/fail with proper exit codes (exit 0 on success, exit 1 on error).
 # ==============================================================================
 
 param (
@@ -23,6 +23,7 @@ $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $RepoRoot = Split-Path -Parent $ScriptDir
 $ChaptersDir = Join-Path $RepoRoot "chapters"
 $BibleDir = Join-Path $RepoRoot "bible"
+$SkillsDir = Join-Path $RepoRoot ".agents\skills"
 $MetaFile = Join-Path $ScriptDir "volume_meta.json"
 
 if (-not (Test-Path $MetaFile)) {
@@ -59,12 +60,13 @@ function Extract-ChapterBody([string]$filePath) {
 }
 
 Write-Host "=================================================================" -ForegroundColor Cyan
-Write-Host "   ARRCHIRIO: THE SEVENTH GATE - RECOMPILER & CONTINUITY AUDITOR" -ForegroundColor Cyan
+Write-Host "   ARRCHIRIO: THE SEVENTH GATE - COMPILER & CI INTEGRITY AUDIT" -ForegroundColor Cyan
 Write-Host "=================================================================" -ForegroundColor Cyan
 
 $targets = if ($Volume -ge 1 -and $Volume -le 8) { @($Volume) } else { 1..8 }
 $TotalWordsSeries = 0
 $TotalBytesSeries = 0
+$foundAnomalies = 0
 
 foreach ($v in $targets) {
     $volFolder = "vol$v"
@@ -95,7 +97,6 @@ foreach ($v in $targets) {
     foreach ($cf in $chapterFiles) {
         $body = Extract-ChapterBody $cf.FullName
         $chapterBlocks += $body
-        
         $words = ($body -split "\s+").Count
         $volWordCount += $words
     }
@@ -103,14 +104,27 @@ foreach ($v in $targets) {
     $fullContent = $header + "`n" + ($chapterBlocks -join "`n`n---`n`n") + "`n"
     $outPath = Join-Path $volPath "Volume${v}_Full.md"
 
-    if (-not $AuditOnly) {
+    if ($AuditOnly) {
+        if (-not (Test-Path $outPath)) {
+            Write-Host "  [DRIFT] Volume${v}_Full.md does not exist on disk!" -ForegroundColor Red
+            $foundAnomalies++
+        } else {
+            $existingContent = [System.IO.File]::ReadAllText($outPath, [System.Text.Encoding]::UTF8)
+            $normCompiled = $fullContent.Trim().Replace("`r`n", "`n")
+            $normExisting = $existingContent.Trim().Replace("`r`n", "`n")
+            if ($normCompiled -ne $normExisting) {
+                Write-Host "  [DRIFT] Volume${v}_Full.md out of sync with chapter sources!" -ForegroundColor Red
+                $foundAnomalies++
+            } else {
+                $sizeKB = [math]::Round($fullContent.Length / 1KB, 1)
+                Write-Host "  [VERIFIED] Volume $v ($sizeKB KB, $volWordCount words, in-sync)" -ForegroundColor Green
+            }
+        }
+    } else {
         [System.IO.File]::WriteAllText($outPath, $fullContent, [System.Text.Encoding]::UTF8)
         $fi = Get-Item $outPath
         $sizeKB = [math]::Round($fi.Length / 1KB, 1)
         Write-Host "  [OK] Recompiled -> $outPath ($sizeKB KB, $volWordCount words)" -ForegroundColor Green
-    } else {
-        $sizeKB = [math]::Round($fullContent.Length / 1KB, 1)
-        Write-Host "  [AUDIT] Volume $v ($sizeKB KB, $volWordCount words)" -ForegroundColor Cyan
     }
 
     $TotalWordsSeries += $volWordCount
@@ -122,10 +136,11 @@ Write-Host "   CONTINUITY & CANON INTEGRITY AUDIT" -ForegroundColor Cyan
 Write-Host "=================================================================" -ForegroundColor Cyan
 
 $allChapterFiles = Get-ChildItem -Path $ChaptersDir -Recurse -Filter "*.md"
-$foundAnomalies = 0
+$allBibleFiles = Get-ChildItem -Path $BibleDir -Filter "*.md"
+$allSkillFiles = if (Test-Path $SkillsDir) { Get-ChildItem -Path $SkillsDir -Recurse -Filter "*.md" } else { @() }
 
 # 1. CANON-RED-02: Scan for invalid infant paradox
-Write-Host "1. Checking for invalid 'so sinh' / infant bug..." -NoNewline
+Write-Host "1. Checking for invalid 'so sinh' / infant paradox..." -NoNewline
 $infantHits = @()
 foreach ($f in $allChapterFiles) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
@@ -143,10 +158,11 @@ if ($infantHits.Count -eq 0) {
     $foundAnomalies += $infantHits.Count
 }
 
-# 2. CANON-YEL-06: Scan for deprecated 'EMP horn'
-Write-Host "2. Checking for deprecated 'coi bac EMP'..." -NoNewline
+# 2. CANON-YEL-06: Scan for deprecated 'còi bạc EMP' in chapters, bible, and skills
+Write-Host "2. Checking for deprecated 'coi bac EMP' across repo..." -NoNewline
 $empHits = @()
-foreach ($f in $allChapterFiles) {
+$scanEmpFiles = @($allChapterFiles) + @($allBibleFiles) + @($allSkillFiles)
+foreach ($f in $scanEmpFiles) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
     if ($text -match "c[oò]i\s+b[aạ]c\s+EMP") {
         $empHits += "$($f.FullName)"
@@ -160,13 +176,13 @@ if ($empHits.Count -eq 0) {
     $foundAnomalies += $empHits.Count
 }
 
-# 3. Check casing for asarien_codex.md in bible/
-Write-Host "3. Checking casing for 'asarien_codex.md' in bible/..." -NoNewline
-$allBibleFiles = Get-ChildItem -Path $BibleDir -Filter "*.md"
+# 3. Check casing for asarien_codex.md
+Write-Host "3. Checking casing for 'asarien_codex.md' across docs..." -NoNewline
 $casingHits = @()
-foreach ($f in $allBibleFiles) {
+$scanCasingFiles = @($allBibleFiles) + @($allChapterFiles)
+foreach ($f in $scanCasingFiles) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
-    if ($text -cmatch "Asarien_[Cc]odex\.md|asarien_Codex\.md|Asarien_codex\.md") {
+    if ($text -cmatch "Asarien_[Cc]odex\.md|asarien_Codex\.md|Asarien_codex\.md|Asari[eë]n_codex\.md") {
         $casingHits += "$($f.FullName)"
     }
 }
@@ -178,12 +194,13 @@ if ($casingHits.Count -eq 0) {
     $foundAnomalies += $casingHits.Count
 }
 
-# 4. Check for broken workspace links 'file:///d:/Workspaces'
-Write-Host "4. Checking for absolute local file URI links 'file:///d:/Workspaces' in chapters..." -NoNewline
+# 4. Check for broken workspace links 'file:///d:/Workspaces' or 'sandbox:/workspace'
+Write-Host "4. Checking for absolute local URI links in chapters and bible..." -NoNewline
 $uriHits = @()
-foreach ($f in $allChapterFiles) {
+$scanUriFiles = @($allChapterFiles) + @($allBibleFiles)
+foreach ($f in $scanUriFiles) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
-    if ($text -match "file:///d:/Workspaces") {
+    if ($text -match "file:///d:/Workspaces" -or $text -match "sandbox:/workspace") {
         $uriHits += "$($f.FullName)"
     }
 }
@@ -195,8 +212,42 @@ if ($uriHits.Count -eq 0) {
     $foundAnomalies += $uriHits.Count
 }
 
-# 5. Blacklist filter stats (Style Profiler)
-Write-Host "`n5. Filler Words Frequency (Style Profiler Blacklist):" -ForegroundColor Yellow
+# 5. IP Brand Check: Scan for 'Gringotts'
+Write-Host "5. Checking for third-party IP brand 'Gringotts'..." -NoNewline
+$gringottsHits = @()
+foreach ($f in $scanUriFiles) {
+    $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
+    if ($text -match "Gringotts") {
+        $gringottsHits += "$($f.FullName)"
+    }
+}
+if ($gringottsHits.Count -eq 0) {
+    Write-Host " [PASS] (0 errors)" -ForegroundColor Green
+} else {
+    Write-Host " [FAIL]" -ForegroundColor Red
+    $gringottsHits | ForEach-Object { Write-Host "   - $_" -ForegroundColor Red }
+    $foundAnomalies += $gringottsHits.Count
+}
+
+# 6. Check for outdated 'hai định luật Merlin'
+Write-Host "6. Checking for outdated 'hai dinh luat Merlin'..." -NoNewline
+$merlinHits = @()
+foreach ($f in $allBibleFiles) {
+    $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
+    if ($text -match "hai\s+đ[iị]nh\s+lu[aậ]t\s+Merlin") {
+        $merlinHits += "$($f.FullName)"
+    }
+}
+if ($merlinHits.Count -eq 0) {
+    Write-Host " [PASS] (0 errors)" -ForegroundColor Green
+} else {
+    Write-Host " [FAIL]" -ForegroundColor Red
+    $merlinHits | ForEach-Object { Write-Host "   - $_" -ForegroundColor Red }
+    $foundAnomalies += $merlinHits.Count
+}
+
+# 7. Blacklist filter stats (Style Profiler)
+Write-Host "`n7. Filler Words Frequency (Style Profiler Blacklist):" -ForegroundColor Yellow
 $kheCount = 0
 $lapTucCount = 0
 $xeToacCount = 0
@@ -222,4 +273,11 @@ Write-Host "=================================================================" -
 $TotalKB = [math]::Round($TotalBytesSeries / 1KB, 1)
 Write-Host "Total Words (8 Volumes): $TotalWordsSeries words" -ForegroundColor Green
 Write-Host "Total Size (Full Files): $TotalKB KB" -ForegroundColor Green
-Write-Host "Audit Status: $(if ($foundAnomalies -eq 0) { '[ALL CHECKS PASSED]' } else { '[ISSUES DETECTED]' })" -ForegroundColor $(if ($foundAnomalies -eq 0) { "Green" } else { "Red" })
+
+if ($foundAnomalies -eq 0) {
+    Write-Host "Audit Status: [ALL CHECKS PASSED - ZERO DRIFT / ZERO DEFECTS]" -ForegroundColor Green
+    exit 0
+} else {
+    Write-Host "Audit Status: [FAILED - $foundAnomalies ANOMALIES DETECTED]" -ForegroundColor Red
+    exit 1
+}

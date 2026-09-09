@@ -50,7 +50,7 @@ Trước khi thẩm định hoặc trả lời bất kỳ câu hỏi nào về t
 
 ### 2.3. Ranh Giới Nhân Vật & Hành Vi (No OOC)
 * Dienne không bao giờ hóa điên vì thù hận mù quáng; cô giải quyết vấn đề bằng quan sát toán học và logic điềm tĩnh.
-* Louisa không bao giờ có mana; không bao giờ ngâm xướng thần chú; chiến đấu bằng súng giảm thanh, dao tantō, bẫy cơ học và còi bạc EMP.
+* Louisa không bao giờ có mana; không bao giờ ngâm xướng thần chú; chiến đấu bằng Đại Thái Đao, súng giảm thanh, dao tantō, bẫy cơ học và còi bạc cộng hưởng ma trận.
 * Merlin không xuất hiện như "ông bụt giải cứu nhân vật"; Merlin chỉ quan sát và đặt câu hỏi về tính nghịch lý thời gian.
 
 ---

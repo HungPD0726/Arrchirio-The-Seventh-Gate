@@ -8,7 +8,7 @@
 - **Tên tác phẩm:** *Arrchirio: The Seventh Gate* (Arrchirio: Cánh Cửa Thứ Bảy)
 - **Tác giả:** HungPD0726 (Showrunner)
 - **Thể loại:** Epic Science-Fantasy / Hard Magic / Song Hành Đa Thế Giới (Parallel Worlds) / Âm Mưu Chính Trị / Bi Kịch & Cứu Rỗi
-- **Quy mô toàn bộ series:** 8 Volume (Hoàn chỉnh 100% — ~1,100,000 từ / ~1.1 MB bản thảo văn xuôi).
+- **Quy mô toàn bộ series:** 8 Volume (Bản thảo hoàn chỉnh — 176.183 từ / ~803 KB toàn văn).
 - **Tác phẩm tham chiếu (Comps):**
   - *Fullmetal Alchemist: Brotherhood*: Triết lý Trao Đổi Đồng Giá, ma thuật có giới hạn và phải trả bằng tổn thương thực tế.
   - *Brandon Sanderson (Mistborn / Stormlight Archive)*: Hệ thống Hard Magic cơ giới hóa chính xác ($\Psi, \eta, Q$, ngữ pháp Asariën 4 pha).
@@ -317,4 +317,4 @@ Một thiên tài ma thuật sinh ra trong một vương quốc bại trận b�
 ---
 
 ## IV. LỜI KẾT & ĐỊNH HƯỚNG PHÁT HÀNH
-Hồ sơ bản đọc thử này được biên soạn để gửi tới các Nhà xuất bản, Độc giả Beta (Beta Readers) và Hội đồng Thẩm định văn học. Toàn bộ 8 tập đã được biên tập sạch bóng AI slop, khóa cứng tính liên tục (Canon Frozen) và đạt chuẩn xuất bản chuyên nghiệp cao nhất.
+Hồ sơ bản đọc thử này được biên soạn để gửi tới các Nhà xuất bản, Độc giả Beta (Beta Readers) và Hội đồng Thẩm định phát triển. Toàn bộ 8 tập đã hoàn tất chu trình chuẩn hóa continuity, đồng bộ hóa Hard Magic physics và phân bổ dòng thời gian nhất quán, sẵn sàng đón nhận các phản hồi phát triển và hiệu đính văn phong chi tiết từ độc giả thử nghiệm.

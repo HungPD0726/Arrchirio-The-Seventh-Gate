@@ -14,13 +14,17 @@
 
 ### 1.2. Ký hiệu và Đơn vị
 - **Ký hiệu đại lượng**: **$\Psi$** *(chữ cái Hy Lạp Psi)* biểu thị khối lượng năng lượng mana.
-- **Đơn vị năng lượng tiêu chuẩn**: **man** *(viết tắt của Mana Units, tương đương Joule trong vật lý thực)*.
-  - $1\text{ man}$: Lượng năng lượng mana tiêu chuẩn tương đương công tiêu hao để thắp sáng một đốm lân tinh nhỏ như ánh đom đóm trong đúng 1 giây ở điều kiện tiêu chuẩn.
-  - **Thông lượng / Công suất ma pháp**: Tính bằng **$\text{man/s}$** *(tương đương Watt trong vật lý thực)*, biểu thị tốc độ giải phóng hoặc nạp năng lượng của pháp sư/ma trận qua thời gian.
+- **Đơn vị năng lượng tiêu chuẩn**: **man** *(Mana Arcane Unit)*.
+  - `man` là đơn vị đo năng lượng ma thuật siêu hình độc lập (Metaphysical Energy Unit), không đồng nhất trực tiếp $1:1$ với Joule cơ học của thế giới thực.
+  - **Hệ số tương đương nhiệt động lực học ($\kappa$)**:
+    Khi giải phóng hoặc chuyển hóa ma thuật thành công cơ học/nhiệt lượng trong thế giới vật lý:
+    $$1\text{ man} \equiv \kappa = 10^5\text{ Joules} = 100\text{ kJ}$$
+    *(Tương đương năng lượng nhiệt làm sôi 300 ml nước từ $0^\circ\text{C}$ lên $100^\circ\text{C}$, hoặc công động năng của một xe tải nhỏ di chuyển).*
+  - **Thông lượng / Công suất ma pháp**: Tính bằng **$\text{man/s}$** ($\equiv 100\text{ kW}$ công suất tương đương), biểu thị tốc độ giải phóng hoặc nạp năng lượng của pháp sư/ma trận qua thời gian.
 - **Quy ước mức năng lượng tích lũy ($\Psi$)**:
-  - $10 - 25\text{ man}$: Phép thuật cá nhân cấp chiến thuật (ngọn lửa lam nén, dao gió xuyên phá, gia cố vũ khí gỗ).
-  - $100 - 500\text{ man}$: Phép diện rộng (bão tuyết cục bộ, bức tường đất chắn pháo kích).
-  - $10,000+\text{ man}$: Phép quy mô chiến lược hoặc duy trì Cổng Không Gian lớn.
+  - $10 - 25\text{ man}$ ($\sim 1.0 - 2.5\text{ MJ}$): Phép thuật cá nhân cấp chiến thuật (ngọn lửa lam nén $3000^\circ\text{C}$, dao gió xuyên thép, gia cố vũ khí gỗ).
+  - $100 - 500\text{ man}$ ($\sim 10 - 50\text{ MJ}$): Phép diện rộng (bão tuyết cục bộ, bức tường đất cản pháo kích hạng nặng).
+  - $10,000+\text{ man}$ ($\sim 1.0+\text{ GJ}$): Phép quy mô chiến lược hoặc mức ngưỡng bẻ cong không-thời gian để duy trì Cổng Không Gian lớn (tương đương công suất một nhà máy điện hạt nhân phát ra trong một giây).
 
 ---
 
@@ -138,28 +142,29 @@ $$Q_{\text{loss}} = (1 - \eta) \cdot \Psi_{\text{cung cấp}}$$
 - **Ý nghĩa sinh học & cơ học**: Khi $\eta < 100\%$, phần $Q_{\text{loss}}$ này tỏa ra môi trường hoặc ngấm ngược vào kinh mạch/vũ khí của người sử dụng. Nếu pháp sư tung đòn uy lực lớn ($\Psi$ cao) mà hiệu suất thấp, nhiệt phản chấn sẽ gây bỏng rộp da thịt, trật khớp và kiệt sức (ví dụ: Louisa khi đỡ đòn Alden ở Vol 8 Ch 10 phải chịu trọn vẹn $Q_{\text{loss}}$ của chùm tia, gây bỏng mạn sườn).
 - **Phép nguyên tố Hỏa (Nhiệt Lượng Hữu Ích $Q_{\text{fire}}$)**:
   Khi Dienne tạo ngọn lửa lam tinh khiết, năng lượng hữu ích chuyển hóa thành nhiệt lượng:
-  $$Q_{\text{fire}} = \eta \cdot \Psi_{\text{cung cấp}}$$
-  Nhiệt độ cực đại đạt được phụ thuộc vào độ tập trung thể tích $V$: $\Delta T = \frac{Q_{\text{fire}}}{m \cdot c}$. Thay vì đốt oxy bừa bãi, Dienne nén $\Psi = 20\text{ man}$ vào bán kính nhỏ $r = 2\text{ cm}$. Với $\eta = 92\%$, nhiệt hiệu dụng $Q_{\text{fire}} = 18.4\text{ man}$ tạo ra ngọn Lam Hỏa $3000^\circ\text{C}+$ làm thăng hoa băng đá tức thì, trong khi nhiệt hao phí phản chấn $Q_{\text{loss}} = 1.6\text{ man}$ là cực nhỏ, không làm bỏng tay nàng.
+  $$Q_{\text{fire}} = \eta \cdot \Psi_{\text{cung cấp}} \cdot \kappa$$
+  Với $\Psi = 20\text{ man}$, $\eta = 92\%$, phần năng lượng hữu ích là $\Psi_{\text{eff}} = 18.4\text{ man} \equiv 1.84\text{ MegaJoules}$. Khi được nén vào thể tích cực nhỏ bán kính $r = 2\text{ cm}$, mật độ năng lượng nhiệt cực cao tạo ra ngọn Lam Hỏa $3000^\circ\text{C}+$ làm thăng hoa băng đá tức thì, trong khi nhiệt phản chấn $Q_{\text{loss}} = (1 - \eta)\Psi = 1.6\text{ man}$ tỏa tản mát ra không khí xung quanh, không làm bỏng tay nàng.
 
 ---
 
 # 5. HIỆN TƯỢNG CỘNG HƯỞNG & GIAO THOA SÓNG MANA
 
-Mana chuyển động theo dạng sóng. Khi hai luồng mana tương tác (hai pháp sư cùng thi triển, hoặc pháp sư tương tác với mana tự nhiên), tổng năng lượng tuân theo phương trình giao thoa:
+Mana chuyển động theo dạng sóng. Khi hai luồng mana tương tác (hai pháp sư cùng thi triển, hoặc pháp sư tương tác với mana tự nhiên), mật độ thông lượng tại điểm giao thoa tuân theo phương trình:
 
-$$\Psi_{\text{tổng}} = \Psi_1 + \Psi_2 + 2\sqrt{\Psi_1 \cdot \Psi_2} \cdot \cos(\theta)$$
+$$\Psi_{\text{tiêu điểm}} = \Psi_1 + \Psi_2 + 2\sqrt{\Psi_1 \cdot \Psi_2} \cdot \cos(\theta)$$
 
 Trong đó **$\theta$** là **góc lệch pha**:
 
 1. **Đồng pha ($\theta = 0 \to \cos(\theta) = 1$) — Cộng Hưởng Tuyệt Đối (Full Resonance)**:
    - Hai pháp sư phối hợp nhịp nhàng, hoặc pháp sư lắng nghe trọn vẹn nhịp thở của tự nhiên.
-   - Năng lượng bùng nổ vượt trội: $\Psi_{\text{tổng}} = (\sqrt{\Psi_1} + \sqrt{\Psi_2})^2 > \Psi_1 + \Psi_2$.
+   - **Mật độ thông lượng tại tiêu điểm cực đại**: $\Psi_{\text{tiêu điểm}} = (\sqrt{\Psi_1} + \sqrt{\Psi_2})^2$.
+   - **Bảo toàn năng lượng toàn cục**: Lưu ý rằng Định luật 1 Merlin vẫn được bảo toàn nghiêm ngặt trên toàn không gian ($\int \Psi \, dV = \Psi_1 + \Psi_2$). Hiện tượng cộng hưởng không tự sinh thêm năng lượng tổng, mà tái phân bố không gian cực hạn (Spatial Energy Redistribution): dồn ép mật độ năng lượng từ các vùng xung quanh tập trung cực độ vào một tiêu điểm duy nhất, tạo ra sức phá hủy khủng khiếp tại điểm chạm.
 2. **Lệch pha $90^\circ$ ($\theta = \frac{\pi}{2} \to \cos(\theta) = 0$)**:
    - Hai luồng năng lượng độc lập, không hỗ trợ cũng không triệt tiêu.
 3. **Ngược pha ($\theta = \pi \to \cos(\theta) = -1$) — Triệt Tiêu & Phản Phệ (Destructive Interference / Backlash)**:
    - Khi Dienne 6 tuổi dùng sự căm hận gào thét ép mana, sóng nội tại ngược pha $180^\circ$ với mana môi trường.
    - Năng lượng bị ghìm nghẹt, nội áp tăng vọt dẫn tới **BÙM** — phản phệ gây bỏng rát tay chân.
-   - **Ứng dụng của Louisa**: Dùng còi bạc tạo sóng âm có tần số ngược pha với ma trận của pháp sư buôn lậu, làm $\cos(\theta) \to -1$, ép lá chắn của đối phương tự vỡ vụn!
+   - **Ứng dụng của Louisa**: Dùng còi bạc cộng hưởng ma trận tạo sóng âm có tần số ngược pha với ma trận của pháp sư buôn lậu, làm $\cos(\theta) \to -1$, ép lá chắn của đối phương tự triệt tiêu và sụp đổ!
 
 ---
 

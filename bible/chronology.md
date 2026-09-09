@@ -11,7 +11,7 @@
 | Biến cố | Thời điểm | Bản chất sự kiện | Nhân vật liên quan | Hệ quả lâu dài |
 |:---|:---:|:---|:---|:---|
 | **Đại Chiến Phù Thủy & Cuộc Đại Thanh Trừng Arrchirio (The Arrchirio Purge)** | **20 năm trước** *(Năm -10)* | Đế quốc Aurelia mở chiến dịch tận diệt tổ chức cổ đại Arrchirio. Các căn cứ bí mật bị đánh sập hoặc phong tỏa. | - Hội trưởng cũ tử trận.<br>- Vane trốn xuống hầm.<br>- Kenneth mất vợ tại cảng biển.<br>- **Hoàng thúc Alden Everhart** (lúc này là học giả nghiên cứu Cổng) bắt đầu dao động tư tưởng, hoài nghi sự Cân Bằng và ngầm tiếp cận các thế lực tìm kiếm "Trật Tự Tuyệt Đối". | Tổ chức Arrchirio tan rã thành các tàn dư ẩn dật. Pháo đài Sector 7 chìm vào giấc ngủ 20 năm. |
-| **Đêm Hoàng Cung Everhart Sụp Đổ (The Fall of Everhart)** | **10 năm trước** *(Năm 0)* | Đế quốc Aurelia điều quân đoàn Chấp Pháp thiêu rụi kinh đô Everhart vì Vương tộc từ chối bàn giao bí mật Cánh Cửa Thứ Bảy. Alden Everhart chính thức phản bội (Lord Arknight). | - **Dienne Everhart: 6 tuổi** (trốn dưới gầm bàn, nhớ rõ cha mẹ và Rhea, được Người Thầy Già cứu).<br>- **Diana Everhart: 1 tuổi** (nhũ nhi còn bọc tã lót, được hộ vệ bí mật sơ tán sang Reverse London).<br>- **Rhea Everwy: 22 tuổi** (Đội trưởng Hộ vệ bọc hậu tại Everhart Gate, cắm kiếm phong ấn Cổng và rơi vào Dòng Chảy Ma Thuật). | Vương quốc Everhart diệt vong. Dienne được nuôi dạy trong thung lũng tuyết 10 năm. Diana lớn lên tại khu ổ chuột London. Rhea mắc kẹt trong vết nứt thời-không. |
+| **Đêm Hoàng Cung Everhart Sụp Đổ (The Fall of Everhart)** | **10 năm trước** *(Năm 0)* | Đế quốc Aurelia điều quân đoàn Chấp Pháp thiêu rụi kinh đô Everhart vì Vương tộc từ chối bàn giao bí mật Cánh Cửa Thứ Bảy. Alden Everhart chính thức phản bội (Lord Arknight). | - **Dienne Everhart: 6 tuổi** (trốn dưới gầm bàn, nhớ rõ cha mẹ và Rhea, được Người Thầy Già cứu).<br>- **Diana Everhart: 5 tuổi** (cô bé 5 tuổi được mẹ và hộ vệ mở đường máu sơ tán sang Reverse London; ký ức hoàng cung bị sang chấn tâm lý đêm sụp đổ vùi lấp).<br>- **Rhea Everwy: 22 tuổi** (Đội trưởng Hộ vệ bọc hậu tại Everhart Gate, cắm kiếm phong ấn Cổng và rơi vào Dòng Chảy Ma Thuật). | Vương quốc Everhart diệt vong. Dienne được nuôi dạy trong thung lũng tuyết 10 năm. Diana lớn lên tại khu ổ chuột London. Rhea mắc kẹt trong vết nứt thời-không. |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### Năm 0 (Đêm Everhart sụp đổ — 10 năm trước hiện tại):
 - **Dienne Everhart (6 tuổi)**: Đang dùng bữa tối cùng hoàng gia thì lâu đài bốc cháy. Dienne chui dưới gầm bàn đá, chứng kiến cha mẹ ra lệnh hộ tống các con. Dienne được Người Thầy Già cõng chạy trốn vào thung lũng tuyết.
-- **Diana Everhart (1 tuổi)**: Đứa trẻ sơ sinh bọc trong tã lót được đoàn kỵ sĩ trung thành bí mật mở đường máu đưa sang Reverse London nhằm phân tán huyết thống vương tộc, tránh họa diệt môn.
+- **Diana Everhart (5 tuổi)**: Đứa trẻ năm tuổi được mẹ và đoàn kỵ sĩ trung thành mở đường máu đưa sang Reverse London nhằm phân tán huyết thống vương tộc, tránh họa diệt môn. Nỗi kinh hoàng của đêm lửa cháy và chuyến vượt biển bão tố đã vùi sâu ký ức thơ ấu của cô dưới tầng sang chấn tâm lý, để lại một tâm hồn thanh khiết lớn lên trong sương mù sông Thames.
 - **Rhea Everwy (22 tuổi)**: Đơn độc bọc hậu tại Everhart Gate trước hàng ngàn quân Thẩm Phán Viện. Trước khi chia tay, Rhea trao thanh kiếm gỗ sồi cho Dienne cùng lời hứa móc ngoéo: *“Ta sẽ theo sau em”*. Rhea đâm trường kiếm bạc vào tâm chấn Cánh Cửa Thứ Bảy, kích hoạt tự hủy phong ấn và bị hút vào **Dòng Chảy Ma Thuật (The Astral Current)**. Ở đó, thời gian sinh học bị đông cứng.
 - Người Thầy Già bắt đầu 10 năm rèn giũa Dienne trong thung lũng tuyết tách biệt.
 
@@ -84,7 +84,7 @@
 | Nhân vật | Năm sinh | Tuổi Đêm Everhart (Năm 0) | Tuổi Hiện Tại (Năm 10) | Ghi chú sinh học & Diện mạo |
 |:---|:---:|:---:|:---:|:---|
 | **Dienne Everhart** | Năm -6 | **6 tuổi** | **16 tuổi** | Nhớ rõ cha mẹ, bữa tiệc, và lời thề với Rhea. Rời núi đầu năm 16 tuổi. |
-| **Diana Everhart** | Năm -5 | **1 tuổi (nhũ nhi)** | **15 tuổi** | Kém Dienne 1 tuổi. Sơ tán sang London lúc 1 tuổi nên không có ký ức cung điện. |
+| **Diana Everhart** | Năm -5 | **5 tuổi** | **15 tuổi** | Kém Dienne 1 tuổi. Sơ tán sang London lúc 5 tuổi; ký ức hoàng cung mờ nhạt do sang chấn tâm lý đêm sụp đổ. |
 | **Rhea Everwy** | Năm -22 | **22 tuổi** | **32 tuổi** *(thời gian ngoài)* | **Diện mạo & thể trạng sinh học 22 tuổi** (đóng băng trong Dòng Chảy Ma Thuật). |
 | **Louisa** | Năm -8 | 8 tuổi *(ở Kyoto)* | **18 tuổi** | Deuteragonist, $\Psi = 0$, học trò đầu tiên. |
 | **Lucien Vale** | Năm -7 | 7 tuổi | **17 tuổi** | Học đồ thủ thư Aetheris, con buôn khế ước. |

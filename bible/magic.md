@@ -9,8 +9,8 @@
 > **Nguyên tắc nền tảng:** Có thể có rất nhiều cách *sử dụng* ma thuật, nhưng năng lượng mà chúng tương tác với vẫn thuộc cùng một hệ thống nền tảng. Sự khác nhau nằm ở cách mỗi nền văn minh hiểu, diễn giải và điều khiển nó.
 >
 > **Tài liệu tham khảo chuyên sâu liên kết:**
-> - **Động lực học Mana & Toán học ma pháp** (Ký hiệu $\Psi$, đơn vị `man`, hằng số $\varepsilon, \Omega, \lambda$, ba định luật Merlin): [`bible/mana_physics.md`](file:///d:/Workspaces/mylightnovel/bible/mana_physics.md)
-> - **Ngôn ngữ Asariën & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/asarien_codex.md`](file:///d:/Workspaces/mylightnovel/bible/asarien_codex.md)
+> - **Động lực học Mana & Toán học ma pháp** (Ký hiệu $\Psi$, đơn vị `man`, hằng số $\varepsilon, \Omega, \lambda$, ba định luật Merlin): [`bible/mana_physics.md`](mana_physics.md)
+> - **Ngôn ngữ Asariën & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/asarien_codex.md`](asarien_codex.md)
 
 ---
 
@@ -75,7 +75,7 @@ Asariën vì vậy không chỉ là một “ngôn ngữ để đọc thần ch�
 
 Nó có thể được xem như một **hệ thống biểu diễn cấu trúc ma thuật**.
 
-*(Xem chi tiết bảng từ vựng, ngữ pháp 4 pha và danh mục thần chú tại tệp: `bible/Asariën_codex.md`)*
+*(Xem chi tiết bảng từ vựng, ngữ pháp 4 pha và danh mục thần chú tại tệp: `bible/asarien_codex.md`)*
 
 ---
 

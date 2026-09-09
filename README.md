@@ -47,9 +47,9 @@ mylightnovel/
 │   ├── vol3/                         <-- Bản thảo Tập 3 (170 KB - 28.562 từ)
 │   ├── vol4/                         <-- Bản thảo Tập 4 (171 KB - 28.539 từ)
 │   ├── vol5/                         <-- Bản thảo Tập 5 (188 KB - 31.174 từ)
-│   ├── vol6/                         <-- Bản thảo Tập 6 (146 KB - 24.455 từ)
+│   ├── vol6/                         <-- Bản thảo Tập 6 (146 KB - 24.485 từ)
 │   ├── vol7/                         <-- Bản thảo Tập 7 (119 KB - 19.812 từ)
-│   └── vol8/                         <-- Bản thảo Tập 8 (117 KB - 19.476 từ)
+│   └── vol8/                         <-- Bản thảo Tập 8 (118 KB - 19.515 từ)
 │       ├── Volume8_Full.md
 │       ├── prologue.md -> ch14.md
 │       └── epilogue.md

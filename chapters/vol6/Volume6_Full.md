@@ -70,7 +70,7 @@ Một giọng hát trong trẻo, u sầu và truyền cảm ngân vang qua kho�
 
 Bài dạ khúc hoàng gia Everhart.
 
-Đó là bài hát ru mà mẹ nàng từng hát bên cạnh chiếc nôi gỗ sồi mười bốn năm về trước, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
+Đó là bài hát ru mà mẹ nàng từng hát bên giường ngủ mười năm về trước khi mới đặt chân tới London, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
 
 Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi cha và mẹ của nàng. 
 
@@ -78,7 +78,7 @@ Họ ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không �
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
-Suốt mười lăm năm qua, Diana chưa từng một ngày bước chân lên ngai vàng. Nàng chưa từng nếm trải cảm giác mất đi vương quốc như người chị gái xa xôi—bởi vì nàng sinh ra khi vương quốc ấy đã không còn tồn tại trên bản đồ thế giới.
+Rời khỏi hoàng cung khi mới lên năm tuổi, ký ức kinh thành bốc cháy đã bị chôn vùi dưới những cơn sang chấn thời thơ ấu và màn sương mù sông Thames. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức trưởng thành như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn hơn là một ngai vàng cụ thể.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.
 
@@ -150,7 +150,7 @@ Mỗi khi một luồng khí đốt áp suất thấp chạy qua van tiết lưu
 
 Lucien đứng nép dưới mái hiên của một tòa nhà gạch xám, chiếc kính cận tròn gọng vàng phản chiếu ánh đèn đường lấp lánh. Cậu nhanh thoăn thoắt mở chiếc ví da dài, ngón tay đếm từng xấp tiền giấy in hình vương miện và những đồng xu bạc có rãnh khía:
 
-"Tôi vừa đổi xong năm trăm Bảng Anh tại một quầy đổi tiền ngầm gần bến tàu. Tỷ giá ở chợ đen Reverse London đắt hơn ba mươi phần trăm so với thế giới thực, nhưng bù lại, tiền này được bảo chứng bằng vàng ròng ma thuật nguyên chất của Ngân hàng Quý tộc Gringotts chi nhánh London. Chúng ta có đủ tiền để trang trải chỗ ăn ở và chi phí tình báo trong ít nhất hai tuần."
+"Tôi vừa đổi xong năm trăm Bảng Anh tại một quầy đổi tiền ngầm gần bến tàu. Tỷ giá ở chợ đen Reverse London đắt hơn ba mươi phần trăm so với thế giới thực, nhưng bù lại, tiền này được bảo chứng bằng vàng ròng ma thuật nguyên chất của Ngân hàng Ngân Hối Hoàng Gia Sterling chi nhánh London. Chúng ta có đủ tiền để trang trải chỗ ăn ở và chi phí tình báo trong ít nhất hai tuần."
 
 Ở phía sau nhóm, Soraya khẽ kéo tấm khăn choàng dệt bằng lông cừu cashmere màu đỏ mận trùm kín mái tóc đen và nửa khuôn mặt. 
 
