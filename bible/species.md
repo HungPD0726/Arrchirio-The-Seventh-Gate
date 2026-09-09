@@ -1,4 +1,4 @@
-﻿# STORY BIBLE: CÁC CHỦNG TỘC & NGUYÊN SINH HỌC (Species of the Two Realms)
+# STORY BIBLE: CÁC CHỦNG TỘC & NGUYÊN SINH HỌC (Species of the Two Realms)
 
 > **Triết lý chủ đạo:**  
 > Trong vũ trụ *Arrchirio: The Seventh Gate*, các chủng tộc không đơn thuần là sự phân loại ngoại hình hay chỉ số sức mạnh.  
@@ -53,7 +53,7 @@ Chủng tộc cổ xưa và bí ẩn nhất, giữ vai trò chìa khóa trong **
 - **Ngoại hình**: Vóc dáng thanh thoát, tai dài nhọn thanh tú, mái tóc màu bạc hoặc xanh lục nhạt, đôi mắt phát quang màu lam ngọc hoặc ánh bạc dưới trăng. Tuổi thọ lên tới hơn một ngàn năm.
 - **Hệ thống ma thuật**: **Cổ Ngữ Asariën Nguyên Bản (True Asariën)**:
   - Khác với Dienne (phải tính toán các phương trình ngữ pháp Asariën bằng tư duy toán học), loài Elf giao tiếp với mana như một ngôn ngữ mẹ đẻ. Họ hát để gọi gió, nhảy múa để làm hoa nở, và hòa nhịp thở với cây cỏ.
-  - Phép thuật của họ không có hao phí tản nhiệt ($\eta \to 100\%$) vì họ không cưỡng ép dòng chảy năng lượng.
+  - Phép thuật của họ đạt hiệu suất tiệm cận lý tưởng ($\eta \to 100\%$, xấp xỉ $99.9\%$), lượng nhiệt phản chấn $Q_{\text{loss}} \to 0$ vì họ không cưỡng ép dòng chảy năng lượng mà hòa nhịp tự nhiên cùng trường mana (vẫn tuân thủ nghiêm ngặt Định luật Bảo toàn Mana, không phải cỗ máy vĩnh cửu vi phạm vật lý).
 
 ### 2.3. Mối Quan Hệ Với Loài Người & Xung Đột Lịch Sử
 - **Cực kỳ lạnh nhạt và thù địch**: Trải qua hàng thế kỷ bị Đế quốc Aurelia xâm lấn biên giới, chặt phá rừng thiêng để lấy gỗ ma đạo và săn lùng linh ngọc, loài Elf đã hoàn toàn phong tỏa Yggdralis bằng kết giới ảo ảnh sương mù vĩnh cửu.

@@ -1,4 +1,4 @@
-﻿# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
+# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
 ### (Echoes of the Frontier & The Spirit Realm)
 
 > **Mục tiêu cốt truyện:** Giải mã hiện tượng Cánh Cửa Thứ Hai phát xung; khám phá bản thiết kế va chạm hai thế giới; cuộc vượt Cổng của **Louisa** sang thế giới phép thuật; làm sáng tỏ sự thật đau đớn về sự biến mất của Rhea Everwy trong **Dòng Chảy Ma Thuật (The Astral Current)**; lấp đầy Chiếc Ghế Sồi Trống Thứ Hai; và nhận bức điện tín từ em gái ruột **Diana Everhart** tại **Reverse London**.
@@ -52,7 +52,7 @@
 ### CHƯƠNG 8: VỊ KHÁCH KHÔNG MỜI
 - Đội tiếp viện của Thẩm Phán Viện bất ngờ ập tới, bao vây nhóm Dienne tại thung lũng đá hẹp.
 - Giữa lúc hiểm nghèo, những tiếng nổ *PẰNG... PẰNG* khô khốc vang lên từ vách đá. Các sĩ quan chỉ huy Đế quốc lần lượt gục ngã vì đạn vonfram xuyên giáp.
-- **Louisa** xuất hiện với áo khoác bomber đen, ngậm kẹo mút dâu, xả súng ngắn giảm thanh và dùng còi bạc EMP thổi tung kết giới của pháp sư đối phương.
+- **Louisa** xuất hiện với áo khoác bomber đen, ngậm kẹo mút dâu, xả súng ngắn giảm thanh và dùng còi bạc cộng hưởng phá tần số thổi tung kết giới của pháp sư đối phương.
 - Cuộc tái ngộ xúc động nhưng dở khóc dở cười: Louisa đòi Dienne "thanh toán tiền công giải cứu" và khẳng định một đệ tử không thể để Master của mình bị đám lính sắt bắt nạt.
 
 ### CHƯƠNG 9: VẾT SẸO CỦA DÒNG CHẢY MA THUẬT
@@ -79,14 +79,14 @@
 ### CHƯƠNG 12: ĐẠI CHIẾN CỔNG PHƯƠNG BẮC
 - Quân đoàn thiết giáp và Đại Chỉ Huy Thẩm Phán Viện kéo đến phong tỏa buồng lõi hòng kích hoạt máy gia tốc cưỡng chế Cánh Cửa Thứ Hai.
 - Trận chiến đỉnh cao phối hợp giữa ma thuật và công nghệ:
-  - Louisa dùng súng bắn tỉa đạn vonfram và còi bạc EMP phá nát trận hình kết giới đối phương.
+  - Louisa dùng súng bắn tỉa đạn vonfram và còi bạc cộng hưởng phá tần số phá nát trận hình kết giới đối phương.
   - Ryan thâm nhập bảng điều khiển ma đạo, bẻ khóa thuật toán dòng chảy.
   - Soraya điều khiển ngọn lửa sa mạc thanh tẩy và phong ấn nghi lễ cổ thiêu rụi các cỗ xe bọc thép.
   - Dienne dùng kiếm gỗ lam hỏa tung hoành giữa làn đạn, một mình hạ gục Đại Chỉ Huy Đế quốc.
 
 ### CHƯƠNG 13: CẮT ĐỨT NGUỒN PHÁT XUNG
 - Máy gia tốc Cổng phương Bắc bắt đầu quá tải, chuẩn bị phóng luồng năng lượng cưỡng chế mỏ neo Cánh Cửa Thứ Hai.
-- Ryan và Dienne tính toán điểm đảo pha sóng ma thuật ($\theta = \pi$). Louisa thổi còi bạc EMP kích hoạt xung ngược pha đúng thời điểm $t = 0$.
+- Ryan và Dienne tính toán điểm đảo pha sóng ma thuật ($\theta = \pi$). Louisa thổi còi bạc cộng hưởng kích hoạt xung ngược pha đúng thời điểm $t = 0$.
 - Cú nổ cộng hưởng triệt tiêu toàn bộ năng lượng ép xung mà không làm sụp đổ cấu trúc địa tầng. Nguồn phát xung phương Bắc bị ngắt hoàn toàn!
 - Cánh Cửa Thứ Hai tại Sector 7 trở lại trạng thái ngủ đông an toàn. Hiểm họa va chạm 5 tháng tạm thời được hóa giải.
 

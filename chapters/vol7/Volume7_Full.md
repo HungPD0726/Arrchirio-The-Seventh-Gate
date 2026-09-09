@@ -81,11 +81,6 @@ Vị đạo sĩ trẻ chậm rãi đứng dậy, tay cầm thanh kiếm gỗ đ�
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 1: HÀNH TRÌNH VỀ PHƯƠNG ĐÔNG
 
 Một làn gió mát rượi thoang thoảng hương thơm thanh khiết của măng non và đất ẩm ùa vào khoang xe khi cánh Cổng không gian khép lại sau lưng họ.
@@ -171,11 +166,6 @@ Dienne mở cửa xe bước xuống nền đất lạnh, chiếc áo choàng đ
 Nàng ngẩng đầu nhìn lên đỉnh núi tuyết mờ ảo sau tầng mây trắng, tay siết chặt chuôi kiếm gỗ sồi:
 
 "Xuống xe thôi. Đoạn đường còn lại... chúng ta phải tự đi bằng đôi chân của mình."
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 
@@ -301,11 +291,6 @@ Lục Thanh Vân chắp hai tay trước ngực, khẽ cúi đầu thi lễ theo
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 3: ĐẠO QUÁN GIỮA BIỂN MÂY
 
 Gian thiền thất của Thiên Môn Đạo Quán mở toang cả bốn phía, nhìn thẳng ra biển mây trắng bồng bềnh như một hòn đảo ngọc trôi lơ lửng giữa đại dương hư không.
@@ -409,11 +394,6 @@ Chàng đạo sĩ trẻ khẽ thở ra một hơi dài, nụ cười trên môi 
 Lục Thanh Vân đứng dậy, vươn tay nhấc thanh kiếm gỗ đào đặt trên giá gỗ:
 
 "Trên Thạch Đài Bát Quái ngoài kia, gió mây đang rất đẹp. Mời hai vị công chúa cùng bần đạo bước ra đài cao so tài đôi chiêu."
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 
@@ -632,11 +612,6 @@ Nụ cười trên môi Lục Thanh Vân lắng dịu lại, thay vào đó là 
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 5: BÁT QUÁI TRẬN RẠN NỨT
 
 Lối đi bí mật dẫn xuống lòng đất nằm ẩn sau bức bình phong gỗ chạm khắc hình Cửu Long triều phục trong chính điện của Thiên Môn Đạo Quán.
@@ -753,11 +728,6 @@ Từ phía cửa hang xoắn ốc, Louisa và Lucien hớt hải lao xuống, m�
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 6: BÓNG MA THIẾT GIÁP TRÊN TUYẾT PHONG
 
 Khi bước chân của Dienne đạp lên bậc thang cuối cùng thoát khỏi hang ngầm, một mùi thuốc súng nồng nặc quyện lẫn khói ma đạo khét lẹt lập tức xộc thẳng vào mũi nàng.
@@ -828,16 +798,11 @@ Nhìn thấy hình bóng ấy, cả Dienne và Diana đều sững sờ chôn ch
 
 Lồng ngực hai nàng công chúa thắt nghẹn lại trong một sự chấn động bi thương tột cùng.
 
-Đó chính là kẻ đã bán đứng quê hương hai mươi năm trước.
+Đó chính là kẻ đã bán đứng quê hương mười năm trước.
 
 Người đứng đầu tổ chức phản bội Arknight.
 
 **Hoàng Thúc Alden Everhart.**
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 
@@ -924,11 +889,6 @@ Mười hai quả cầu lửa ma đạo màu tím đen xé gió lao qua hẻm v�
 Dienne vung kiếm gỗ sồi, tiếng quát vang dội khắp đỉnh trời:
 
 "Vào trận địa! Đập tan đạo quân này cho tôi!"
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 
@@ -1132,11 +1092,6 @@ Lục Thanh Vân biến sắc, bàn tay run lên khi nhìn xuống đáy vực:
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 9: CỔ LONG THỨC TỈNH DƯỚI LÒNG BĂNG
 
 Từ sâu thẳm dưới đáy vực sâu vạn trượng, một cột ánh sáng màu vàng kim pha sắc lam băng bỗng nhiên bùng nổ, phóng thẳng lên đỉnh trời cao!
@@ -1263,11 +1218,6 @@ Và Long Mạch Côn Lôn... giờ đây đã hoàn toàn thức tỉnh và hòa
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 10: TRẬN NHÃN HOÀN NGUYÊN
 
 Dưới lòng hang ngầm băng ngọc, một bầu không khí trang nghiêm và căng thẳng tột độ bao trùm lấy không gian.
@@ -1356,11 +1306,6 @@ Quân đoàn phản bội Arknight đã tháo chạy sạch khỏi đèo tuyết
 Bão tan.
 
 Và bình yên đã thực sự trở lại với Côn Lôn Thiên Môn.
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 
@@ -1468,11 +1413,6 @@ Bàn Tròn New Arrchirio... giờ đây đã vững vàng hơn bao giờ hết.
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
-
----
-
 ## CHƯƠNG 12: BÌNH MINH TRÊN ĐỈNH TUYẾT SƠN
 
 Mặt trời phương Đông từ từ nhô lên khỏi biển mây ngút ngàn, rải những dải lụa ánh sáng màu vàng cam ấm áp xuống đỉnh Tuyết Phong.
@@ -1560,11 +1500,6 @@ Tiếng chuông ngân vang xa, tan biến vào sự tĩnh mịch vô tận của
 Mặt trời đã lên cao khỏi tầng mây xám.
 
 Và con đường phía trước... dẫu có muôn trùng bão giông, cũng không còn ai phải đơn độc một mình nữa.
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 7: LONG MẠCH CÔN LÔN & CHIẾC GHẾ THỨ TƯ (The Dragon Leylines of Kunlun & The Fourth Chair)
 
 ---
 

@@ -3,88 +3,97 @@
 
 ---
 
-## EPILOGUE: NGƯỜI CON GÁI TÓC BẠC
+## EPILOGUE: TIẾNG VỌNG TỪ HƯ KHÔNG
 
-Một thị trấn biên cương hẻo lánh và cằn cỗi nằm trơ trọi giữa ranh giới phía tây của Đế quốc Aurelia và vùng bình nguyên hoang dã ngút ngàn.
+Sâu dưới lòng đất Sector 7, bên trong căn phòng bán cầu kim loại đen câm lặng ngàn năm.
 
-Gió cát cuồn cuộn thốc qua những con đường đất bụi bặm, làm bay phần phật tà áo choàng rách rưới của những đoàn lính đánh thuê lưu vong và những thương nhân lữ hành cưỡi trên lưng những con ma thú bốn chân thồ hàng cồng kềnh. Không khí nơi đây khô khốc, nồng nặc mùi bụi đất đỏ và mùi rượu mạnh rẻ tiền bốc ra từ các quán rượu ven đường.
+Sau khi Dienne, Lucien, Ryan và Soraya phong tỏa các giếng trục và thiết lập bốn chiếc ghế trống quanh Bàn Tròn, Cánh Cổng Cổ Đại Thứ Hai tại trung tâm bệ đá bát giác bỗng nhiên rùng mình một nhịp cực nhỏ.
 
-Trước một tấm bảng gỗ lớn dựng ở ngã ba đầu phố—nơi dán kín những lệnh truy nã tội phạm nguy hiểm và công văn quân sự khẩn cấp của chính quyền Đế quốc—một bóng hình cao ráo đang đứng lặng bất động như một pho tượng đá giữa bão cát mù mịt.
+*THÙM... THÙM...*
 
-Đó là một người phụ nữ trạc hai mươi bảy, hai mươi tám tuổi.
+Một xung dao động không-thời gian trầm đục, mang theo tần số cộng hưởng của thanh kiếm gỗ sồi và ký hiệu nhánh cây bạc, chạy dọc theo các mạch dẫn không gian ngầm dưới lòng địa tầng, bắn thẳng vào những nếp gấp sâu thẳm nhất của thực tại.
 
-Mái tóc màu bạc cắt ngắn ngang vai khẽ lay động dưới vành chiếc mũ trùm đầu bằng vải bạt thô màu xám tro đã sờn rách nhiều chỗ. 
+---
 
-Trên người cô khoác một bộ giáp nhẹ bằng thép tôi mang theo vô số vết chém, vết lõm đã hoen gỉ qua mười năm gió bụi lưu lạc chiến trận. Thế nhưng, chuôi thanh trường kiếm giắt chéo sau lưng cô vẫn tỏa ra một luồng kiếm khí sắc lạnh, buốt giá đến mức khiến những tên lính đánh thuê hung dữ nhất đi ngang qua cũng phải bất giác rùng mình, không một ai dám bén mảng lại gần trong phạm vi năm mét.
+Giữa khoảng không vô tận ngoài dòng thời gian tuyến tính.
 
-Đôi mắt màu xám tro sâu thẳm, sắc lẹm và u buồn của người phụ nữ dừng lại rất lâu ở một tờ công văn quân sự khẩn cấp vừa được Chấp Pháp Viên của Thẩm Phán Viện dán lên mặt bảng gỗ sáng nay.
+Nơi đây là **Dòng Chảy Ma Thuật (The Astral Current)**—một đại dương năng lượng cuồn cuộn ánh bạc và bụi lân tinh lơ lửng, nơi lưu giữ những mảnh vỡ ký ức của vũ trụ từ thuở sơ khai. Ở cõi giới này, thời gian không trôi đi theo quy luật thông thường; không có ngày đêm, không có sự lão hóa của tế bào, chỉ có áp suất ma đạo vô tận như muốn nghiền nát mọi linh hồn lạc bước.
 
-Trên mặt giấy da thuộc in đậm biểu tượng con đại bàng đen dang cánh của Đế quốc Aurelia, kèm theo dòng tiêu đề dập bằng mực đỏ thẫm như máu:
+Giữa luồng xoáy năng lượng rực sáng mờ ảo ấy, một bóng người đang đứng bất động trên một khối cự thạch trôi dạt.
 
-> **[CÔNG VĂN TỐI MẬT — BÁO ĐỘNG ĐẶC BIỆT CẤP ĐỘ MỘT]**  
-> *Phát hiện dấu vết hoạt động của tàn quân phản loạn Arrchirio tái xuất hiện tại khu vực ngầm Sector 7 phía nam.*  
-> *Tiểu đoàn Thiết Giáp Áo Đỏ Số 9 đã bị đánh bại hoàn toàn; toàn bộ lối vào địa tầng bị phá hủy cô lập.*  
-> *Cảnh báo toàn bộ các quân đoàn biên cảnh: Tổ chức phản loạn đã tái lập cơ cấu chỉ huy chiến lược! Lệnh truy nã gắt gao kẻ mang thanh kiếm gỗ sồi của vương tộc Everhart!*
+Bộ chiến giáp kỵ sĩ hoàng gia màu xám bạc đã sờn cũ, phủ đầy những vết chém hoen rỉ và vết lõm từ trận tử chiến bọc hậu mười năm về trước. Tấm áo choàng trắng viền bạc sau lưng rách tả tơi, bay phần phật trong cơn bão ánh sáng.
 
-Người phụ nữ tóc bạc đứng chôn chân trước tấm bảng gỗ suốt ba phút dài đằng đẵng.
+Gió năng lượng thổi tung mái tóc màu bạc cắt ngắn ngang vai.
 
-Từng chữ, từng câu trong bản công văn như những tia sét xé toạc màn sương mù u tối đã đè nặng lên linh hồn cô suốt mười năm ròng rã!
+Bàn tay bọc trong găng da chằng chịt vết sẹo siết chặt lấy chuôi của một thanh **trường kiếm bạc**.
 
-*“Kẻ mang thanh kiếm gỗ sồi của vương tộc Everhart...”*
+Đột nhiên, thanh trường kiếm trong tay người hiệp sĩ rung lên bần bật!
 
-*“Thanh kiếm gỗ sồi sứt sẹo...”*
+*KENG...*
 
-Bàn tay phải của người phụ nữ—với những vết sẹo kiếm chém chằng chịt kéo dài từ cổ tay xuống tận các khớp ngón—từ từ vươn ra sau lưng, siết chặt lấy chuôi thanh trường kiếm.
+Một gợn sóng lam ngọc quen thuộc—thứ tần số thuần khiết của vương tộc Everhart, mang theo hơi thở của thanh kiếm gỗ sồi mà mười năm trước nàng từng trao lại bên chân Cánh Cửa Thứ Bảy—vừa khẽ chạm vào kết giới hư không.
 
-Cô siết chặt... 
+Đôi mắt màu xám tro sắc bén như chim ưng của người nữ hiệp sĩ bỗng mở to.
 
-Siết chặt đến mức các khớp ngón tay bọc trong găng da trắng bệch ra, các thớ cơ bắp dưới lớp giáp sắt căng cứng lại, toàn bộ cơ thể run rẩy nhẹ dưới cơn bão cát cuồn cuộn.
-
-Một giọt nước mắt nóng hổi bỗng chốc ứa ra nơi khóe mắt màu xám tro, lăn dài trên gò má phong trần đầy vết sẹo chiến trận, rồi rơi xuống mặt đất khô cằn tan biến vào cát bụi.
+Lồng ngực nàng phập phồng dữ dội dưới lớp giáp thép.
 
 Mười năm.
 
-Mười năm đằng đẵng kể từ cái đêm vương triều Everhart sụp đổ trong biển lửa, kể từ cái đêm cô dùng cả tính mạng của mình để phong ấn Cánh Cửa Thứ Bảy và trao lại thanh kiếm gỗ sồi cho người thầy già bế đứa trẻ sơ sinh chạy trốn vào thung lũng tuyết...
+Mười năm đằng đẵng kể từ cái đêm vương thành Everhart sụp đổ trong biển lửa, kể từ cái đêm nàng dùng cả sinh mạng cắm ngập thanh kiếm vào tâm chấn Cổng để ngăn chặn quân đoàn Đế quốc, bảo vệ cho Người Thầy Già đưa cô bé Dienne sáu tuổi chạy trốn vào thung lũng tuyết...
 
-Cô đã sống như một bóng ma vô danh giữa vùng hoang dã này. Cô đã đánh thuê, đã đổ máu, đã chịu đựng hàng trăm vết thương chí mạng chỉ với một niềm tin duy nhất: 
+Nàng đã bị dòng xoáy thời-không nuốt chửng. Nàng đã đơn độc chống chọi với hàng vạn cơn cuồng phong năng lượng giữa khoảng hư không câm lặng này chỉ với một niềm tin bất diệt:
 
-Đứa trẻ năm ấy... nàng công chúa nhỏ của Everhart vẫn còn sống!
+*Đứa trẻ năm ấy... nàng công chúa nhỏ của Everhart vẫn còn sống.*
 
-Và giờ đây... đứa trẻ ấy không chỉ sống sót.
+Và giờ đây, tín hiệu ấy vừa bừng sáng! 
 
-Nó đã lớn lên. Nó đã bước ra ánh sáng. Nó đã đánh bại cả một tiểu đoàn sát thủ của Thẩm Phán Viện và giương cao ngọn cờ của New Arrchirio giữa lòng sào huyệt kẻ thù!
+Đứa trẻ ấy không chỉ sống sót. Nó đã lớn lên. Nó đã đứng dậy, đánh thức di chỉ của Arrchirio và khơi dậy ngọn cờ của niềm hy vọng!
 
-Một tên lính đánh thuê vác đại đao đi ngang qua, thấy biểu cảm kỳ lạ và sát khí tỏa ra ngùn ngụt từ người cô gái tóc bạc, liền ngập ngừng dừng bước, cất tiếng hỏi thăm dò:
+"Dienne..."
 
-"Này cô em... cô biết cái đứa mang kiếm gỗ sồi trong tờ truy nã đó sao?"
+Thanh âm khàn đặc nghẹn ngào thốt ra từ bờ môi người nữ hiệp sĩ.
 
-Không có một tiếng trả lời nào đáp lại.
+Rhea Everwy dồn toàn bộ ý chí kiếm thuật và lượng mana tinh thuần còn sót lại trong huyết quản vào cánh tay phải. Lôi điện màu bạc bùng nổ, thân kiếm sáng rực như vầng trăng rằm.
 
-Người phụ nữ chậm rãi buông lỏng bàn tay khỏi chuôi kiếm. Cô đưa mu bàn tay gạt đi giọt nước mắt trên má, kéo thấp chiếc mũ trùm đầu xuống che khuất nửa khuôn mặt lạnh lùng đầy vẻ kiêu hãnh của một kiếm sĩ hoàng gia.
+Nàng vung phắt thanh trường kiếm, chém một nhát cuồng bạo vào rào cản thời-không hòng xé toạc dòng xoáy để thoát ra ngoài!
 
-Cô xoay người, dứt khoát rảo những bước chân vững chãi như núi đá bước thẳng vào cơn bão cát mù mịt của bình nguyên hoang sơ, hướng thẳng về phía nam lục địa!
+*OÀNG!*
 
-Một cơn cuồng phong bất chợt thổi thốc qua góc phố, hất tung vạt áo choàng sau lưng cô lên cao.
+Nhát chém kiếm khí xé toạc không gian, va đập dữ dội vào màng ngăn ranh giới. Áp suất cực đại của Dòng Chảy Ma Thuật lập tức cuộn trào phản chấn, đẩy lùi mũi kiếm của cô lại nửa bước. Khe nứt thời gian khép lại trong tích tắc.
 
-Dưới tà áo choàng rách mép sờn rách, thoáng lộ ra một góc chiếc gia huy bằng vàng ròng chạm khắc hình chiếc khiên rồng cổ xưa của vương tộc Everhart—vẫn sáng rực rỡ và kiêu hãnh bất chấp sự bào mòn của năm tháng.
+Thế nhưng, luồng kiếm khí màu bạc mang theo sức mạnh kinh thiên động địa ấy không hề biến mất. 
 
-**Rhea Everwy**... vẫn còn sống!
+Nó "bật nảy" xuyên qua các nếp gấp không gian rạn nứt, phóng thẳng qua một khe hở rò rỉ năng lượng tại vùng biên cảnh phương Bắc xa xôi—nơi có đèo tuyết Frost-Pass của Đế quốc Aurelia...
 
-Và thanh kiếm bảo hộ vĩ đại nhất của vương triều... đang trên đường tìm về với chủ nhân đích thực của nó!
+Rhea cắm ngập mũi kiếm xuống mỏm đá để giữ thăng bằng giữa bão lân tinh. Nàng ngẩng cao đầu, đôi mắt ánh lên ý chí sắt đá không gì lay chuyển:
+
+"Hãy đợi ta, Dienne..."
 
 ---
 
 Cùng thời điểm đó.
 
-Sâu dưới lòng đất Sector 7, bên trong căn phòng bán cầu kim loại đen câm lặng ngàn năm.
+Tại **Kyoto (Trái Đất — Thế giới thực)**.
 
-Tại trung tâm của bệ đá bát giác, Cánh Cổng Cổ Đại Thứ Hai bỗng nhiên rùng mình một nhịp cực nhỏ.
+Một đêm mưa lất phất trên con phố cổ vắng lặng gần ngôi đền Torii màu đỏ thẫm. Ánh đèn neon từ các bảng hiệu phản chiếu lấp lánh trên mặt đường nhựa ướt sũng.
 
-*THÙM... THÙM...*
+Dưới mái hiên một cửa tiệm đóng kín cửa, một bóng hình mảnh khảnh đang đứng tựa lưng vào tường.
 
-Một xung dao động không-thời gian trầm đục, vang vọng như nhịp đập của một trái tim cự thú cổ đại, từ phía sau khoảng tối đen đặc của khung cổng xám tro khẽ phát ra giữa màn đêm tĩnh lặng...
+Áo khoác bomber đen rộng thùng thình, quần túi hộp xắn gấu, đôi bốt da quân đội hầm hố. Mái tóc đen nhánh buộc túm cẩu thả sau gáy lay khẽ theo làn gió đêm lạnh buốt.
 
-Báo hiệu rằng cánh cửa tiếp theo của thực tại... đã bắt đầu cựa mình thức giấc.
+Louisa nhổ que kẹo mút dâu ra khỏi miệng, cúi đầu nhìn xuống thiết bị cơ khí nhỏ gắn bên thắt lưng.
+
+Chiếc kim của thiết bị đo dao động không gian đang rung lên điên cuồng, vạch kim loại nhảy vọt qua ngưỡng an toàn.
+
+Louisa khẽ nheo đôi mắt sắc sảo nhìn về phía cổng Torii đang mờ ảo trong màn mưa đêm. Bàn tay đeo găng cụt ngón của cô vỗ nhẹ lên báng khẩu súng ngắn giảm thanh giắt bên hông, khóe môi nhếch lên một nụ cười khô khốc:
+
+"Cánh Cổng lại bắt đầu cựa mình rồi sao?"
+
+Cô ngậm que kẹo trở lại miệng, kéo mũ trùm đầu áo khoác lên che đi những hạt mưa bụi, rồi quay người rảo bước dứt khoát vào con ngõ tối:
+
+"Coi bộ Master của mình ở bên kia thế giới... lại vừa làm một chuyện long trời lở đất rồi."
+
+Đêm Kyoto vẫn tĩnh lặng dưới màn mưa, nhưng những bánh răng vô hình kết nối hai bờ thực tại... đã bắt đầu siết chặt lấy nhau.
 
 ---
 

@@ -17,7 +17,8 @@ mylightnovel/
 │   ├── arrchirio-chapter-writer/     <-- Pipeline chấp bút 6 bước có kiểm soát
 │   └── arrchirio-worldbuilder/       <-- Mở rộng thế giới theo cơ chế [PROPOSAL] First
 ├── bible/                            <-- Hệ thống Story Bible chuẩn mực
-│   ├── style_profile.md              <-- Quy chuẩn văn phong, nhịp câu & danh sách cấm kỵ AI Slop
+│   ├── chronology.md                 <-- Single Source of Truth Dòng thời gian Series
+│   ├── style_profile.md              <-- Quy chuẩn văn phong, nhịp câu & Anti-AI Slop Engine
 │   ├── world.md                      <-- Thiết lập thế giới & Trục du hành thành phố
 │   ├── places.md                     <-- Địa lý 15 thành phố & kỳ quan ma thuật (9 trục chuẩn mực)
 │   ├── species.md                    <-- 7 chủng tộc (Human, Lunar Elves, Midgogant, Sky Kin...)
@@ -25,9 +26,9 @@ mylightnovel/
 │   ├── Merlin.md                     <-- Canon về Merlin, Paradox & Gate 7
 │   ├── magic.md                      <-- Triết lý & hệ thống ma thuật tổng quan
 │   ├── mana_physics.md               <-- Động lực học Mana & Toán học ma pháp (3 Định luật Merlin)
-│   ├── asarien_codex.md               <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
+│   ├── asarien_codex.md              <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
 │   ├── magic_appendix.md             <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
-│   ├── canon_audit.md                <-- Kiểm định & Khóa Canon (Audit mâu thuẫn & Hard Magic)
+│   ├── canon_audit.md                <-- Master Status Tracker & Kiểm định Canon (Active Tracker)
 │   ├── arrchirio_codex.md            <-- Cấu trúc thứ bậc, 5 đại hệ, Umbraguard & Thần thoại Hai Chị Em
 │   └── state.md                      <-- Trạng thái cốt truyện (Volume 8 Tracker)
 ├── outline/                          <-- Dàn ý chi tiết các Volume
@@ -41,17 +42,20 @@ mylightnovel/
 │   ├── volume_7.md                   <-- Dàn ý Tập 7 (Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư)
 │   └── volume_8.md                   <-- Dàn ý Tập 8 (Những Thành Phố Cổ & Trận Chiến Cân Bằng - Đại Kết Cục)
 ├── chapters/
-│   ├── vol1/                         <-- Bản thảo Tập 1 (Đã hoàn thành 100% - 122 KB)
-│   ├── vol2/                         <-- Bản thảo Tập 2 (Đã hoàn thành 100% - 66 KB)
-│   ├── vol3/                         <-- Bản thảo Tập 3 (Đã hoàn thành 100% Webnovel - 176 KB)
-│   ├── vol4/                         <-- Bản thảo Tập 4 (Đã hoàn thành 100% Webnovel - 172 KB)
-│   ├── vol5/                         <-- Bản thảo Tập 5 (Đã hoàn thành 100% Webnovel - 193 KB)
-│   ├── vol6/                         <-- Bản thảo Tập 6: Dạ Vũ Trong Sương Mù (Đã hoàn thành 100% - 148 KB)
-│   ├── vol7/                         <-- Bản thảo Tập 7: Long Mạch Côn Lôn (Đã hoàn thành 100% - 114 KB)
-│   └── vol8/                         <-- Bản thảo Tập 8: Đại Kết Cục Tối Thượng (Đã hoàn thành 100% - 124 KB)
+│   ├── vol1/                         <-- Bản thảo Tập 1 (80 KB - 13.278 từ)
+│   ├── vol2/                         <-- Bản thảo Tập 2 (65 KB - 10.887 từ)
+│   ├── vol3/                         <-- Bản thảo Tập 3 (170 KB - 28.562 từ)
+│   ├── vol4/                         <-- Bản thảo Tập 4 (171 KB - 28.539 từ)
+│   ├── vol5/                         <-- Bản thảo Tập 5 (188 KB - 31.174 từ)
+│   ├── vol6/                         <-- Bản thảo Tập 6 (146 KB - 24.455 từ)
+│   ├── vol7/                         <-- Bản thảo Tập 7 (119 KB - 19.812 từ)
+│   └── vol8/                         <-- Bản thảo Tập 8 (117 KB - 19.476 từ)
 │       ├── Volume8_Full.md
 │       ├── prologue.md -> ch14.md
 │       └── epilogue.md
+├── scripts/                          <-- Script bảo trì, CI & Recompile tự động
+│   ├── recompile_volumes.ps1         <-- Tự động ghép Full Volumes & Kiểm định Canon
+│   └── volume_meta.json              <-- Metadata tiêu đề chuẩn 8 tập
 ├── templates/scene_template.md       <-- Biểu mẫu Scene & Sequel
 └── README.md                         <-- Hướng dẫn này
 ```

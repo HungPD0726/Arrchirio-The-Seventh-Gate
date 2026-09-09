@@ -116,12 +116,6 @@ Nàng ngẩng đầu nhìn lên vầng trăng khuyết mờ ảo sau tầng mây
 
 *“Em đang đợi chị... Chị Dienne.”*
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 1: BƯỚC VÀO THÀNH PHỐ NGHỊCH ĐẢO
@@ -253,12 +247,6 @@ Nàng siết chặt chuôi kiếm gỗ sồi của Rhea, ngẩng đầu nhìn v�
 
 "Chúng ta đi tìm Diana."
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 2: NGÔI NHÀ GẠCH ĐỎ
@@ -295,7 +283,7 @@ Mùi khói than đá ở đây mỏng hơn, nhường chỗ cho mùi xà phòng 
 
 Từng bước chân của nàng vững chãi nhưng trĩu nặng:
 
-"Họ không muốn lặp lại bi kịch của Everhart. Khi một vương triều bị thiêu rụi, bất kỳ sự xa hoa nào cũng sẽ trở thành ngọn hải đăng thu hút lưỡi hái của Thẩm Phán Viện. Trốn giữa hàng vạn thường dân lao động... chính là cách an toàn nhất để bảo vệ một đứa trẻ sơ sinh."
+"Họ không muốn lặp lại bi kịch của Everhart. Khi một vương triều bị thiêu rụi, bất kỳ sự xa hoa nào cũng sẽ trở thành ngọn hải đăng thu hút lưỡi hái của Thẩm Phán Viện. Trốn giữa hàng vạn thường dân lao động... chính là cách an toàn nhất để bảo vệ một đứa trẻ vừa tròn một tuổi còn ẵm ngửa."
 
 Louisa khẽ liếc nhìn sườn mặt nghiêng của Dienne. 
 
@@ -383,12 +371,6 @@ Sau đó là tiếng bước chân nhẹ bẫng lướt nhanh trên sàn gỗ, t
 Dienne chớp mắt, gạt vội giọt nước mắt trên má. 
 
 Nàng siết chặt bàn tay vào chuôi thanh kiếm gỗ sồi sứt sẹo bên hông trái, hít một hơi dài, rồi chậm rãi bước vòng qua góc tường gạch đỏ, tiến về phía khoảng sân sau đang phủ đầy sương sớm.
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -516,12 +498,6 @@ Diana khẽ giật mình buông Dienne ra, đôi má đỏ bừng vì ngượng 
 
 "Xin lỗi vì sự thất lễ của tôi. Mời hai vị vào nhà... Nước trong ấm đồng trên bếp lò đã bắt đầu sôi rồi ạ."
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 4: DI SẢN CỦA CHA MẸ
@@ -576,7 +552,7 @@ Một cuốn biên niên sử hoàng gia chép tay bằng mực muội than trê
 
 Diana hai tay nâng tấm vải nhung đỏ bước lại bàn, trân trọng đặt cuốn biên niên sử và chiếc hộp con dấu trước mặt Dienne:
 
-"Đêm lâu đài Everhart bốc cháy... cha mẹ đã được các hiệp sĩ trung thành còn sót lại yểm trợ vượt Cổng trốn thoát sang đây. Khi ấy, em mới chỉ là một đứa trẻ sơ sinh còn đỏ hỏn bọc trong tã lót."
+"Đêm lâu đài Everhart bốc cháy mười năm trước... cha mẹ đã được các hiệp sĩ trung thành còn sót lại yểm trợ vượt Cổng trốn thoát sang đây. Khi ấy, em mới chỉ là một đứa bé tròn một tuổi còn ẵm ngửa bọc trong tã lót."
 
 Diana khẽ chớp mắt, hồi tưởng lại những lời kể của cha mẹ năm xưa:
 
@@ -640,12 +616,6 @@ Diana mỉm cười rạng rỡ, đôi mắt lam lấp lánh như sao mai:
 Dienne khẽ cong khóe môi, tay đặt lên chuôi kiếm gỗ bên hông:
 
 "Vậy thì ra sân sau đi. Chị sẽ chỉ cho em thấy."
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -783,12 +753,6 @@ Gió sớm thổi tan đi những vệt sương cuối cùng.
 
 Thế nhưng, khi nụ cười của hai nàng công chúa vừa rạng rỡ trên môi, một câu hỏi lớn hơn bắt đầu hiện lên trong ánh mắt của Dienne—câu hỏi về tương lai của Diana và vị trí của nàng trong cuộc chiến sắp tới.
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 6: LỜI TỪ CHỐI CỦA DIANA
@@ -904,12 +868,6 @@ Cùng lúc đó—
 Một luồng áp lực mana màu tím sẫm ngột ngạt bất thần ập xuống từ trên bầu trời sương mù!
 
 Bên ngoài con ngõ cụt, tiếng vó ngựa bọc thép ma đạo dồn dập gõ vang trên mặt đá cuội, kèm theo tiếng gầm rú của những cỗ xe thiết giáp hơi nước đang bao vây kín mít lối ra vào của ngôi nhà gạch đỏ!
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -1032,12 +990,6 @@ Dienne đứng giữa khoảng sân, mái tóc hạt dẻ bay lòa xòa trước
 "Có mặt, Master." Louisa lên đạn lách cách, khóe môi nhếch lên một nụ cười sắc lẹm của một sát thủ.
 
 "Dọn sạch lũ này trong ba mươi giây. Chúng ta đi san bằng hang ổ của chúng."
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -1171,12 +1123,6 @@ Toàn bộ New Arrchirio—Louisa, Lucien, Ryan, Soraya—cũng lần lượt t�
 
 Cậu bé mười bốn tuổi rút bộ đồ nghề tinh xảo ra, cười toe toét: "Hai mươi giây thôi ạ!"
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 9: BỨC MÀN XÉ TOẠC — HOÀNG THÚC ARKNIGHT
@@ -1241,7 +1187,7 @@ Ngay khoảnh khắc nhìn thấy nét chữ viết tay uốn lượn đầy ki�
 
 Dienne lật nhanh xuống cuối bức thư để nhìn vào chữ ký và con dấu sáp đỏ.
 
-Dấu niêm phong bằng sáp đỏ thẫm in hình một con chim ưng mang vương miện rồng bị xé làm đôi—gia huy cá nhân của người chỉ huy quân đoàn phòng thủ phía tây Everhart hai mươi năm về trước.
+Dấu niêm phong bằng sáp đỏ thẫm in hình một con chim ưng mang vương miện rồng bị xé làm đôi—gia huy cá nhân của người chỉ huy quân đoàn phòng thủ phía tây Everhart mười năm về trước.
 
 Và dòng chữ ký tay nắn nót bằng Cổ ngữ Asariën:
 
@@ -1269,7 +1215,7 @@ Chính Hoàng thúc Alden là kẻ đã phản bội!
 
 Chính người chú ruột mang cùng dòng máu Everhart ấy đã mở toang cổng thành cho quân đoàn Thẩm Phán Viện tràn vào thiêu rụi hoàng thành, chôn vùi hàng vạn thần dân vô tội dưới biển lửa nguyền rủa! 
 
-Và suốt hai mươi năm qua, hắn ẩn mình dưới danh hiệu *Lord Arknight*, thâu tóm mạng lưới tài chính ngầm tại London, cấu kết với Viện Quý Tộc và Đế quốc để chuẩn bị cho một âm mưu diệt chủng còn khủng khiếp hơn!
+Và suốt mười năm qua, hắn ẩn mình dưới danh hiệu *Lord Arknight*, thâu tóm mạng lưới tài chính ngầm tại London, cấu kết với Viện Quý Tộc và Đế quốc để chuẩn bị cho một âm mưu diệt chủng còn khủng khiếp hơn!
 
 Malgrave bị trói dưới chân bàn, ngẩng khuôn mặt bầm dập lên, khóe môi nhếch lên một nụ cười nham hiểm đầy toan tính:
 
@@ -1277,7 +1223,7 @@ Malgrave bị trói dưới chân bàn, ngẩng khuôn mặt bầm dập lên, k
 
 Các người tưởng bắt được ta là đã chặn đứng được bánh xe lịch sử sao? Ta chỉ là một người trung gian điều hành mạng lưới tài chính tại Luân Đôn theo lệnh của ngài ấy thôi! 
 
-Người cung cấp toàn bộ bản thiết kế cỗ máy nén dưới chân tháp Big Ben... người tài trợ hàng ngàn tấn Hắc Ma Thạch cho Thẩm Phán Viện suốt hai mươi năm qua... chính là Hoàng Thúc Alden của các người!"
+Người cung cấp toàn bộ bản thiết kế cỗ máy nén dưới chân tháp Big Ben... người tài trợ hàng ngàn tấn Hắc Ma Thạch cho Thẩm Phán Viện suốt mười năm qua... chính là Hoàng Thúc Alden của các người!"
 
 Malgrave khẽ thở dốc, ánh mắt lóe lên sự đắc thắng ngầm:
 
@@ -1348,12 +1294,6 @@ Rung chấn cực mạnh từ lòng đất khiến mặt sàn nhà ga rung lắc
 Ryan lao vội ra cửa sổ nhìn về hướng thượng lưu sông Thames, khuôn mặt cậu bé tái mét vì kinh hãi:
 
 "Master ơi! Nguy rồi! Cỗ máy nén không gian ngầm dưới chân Tháp Big Ben đã được kích hoạt từ xa rồi! Bầu trời phía trên dòng sông Thames đang rách toạc ra kia kìa!"
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -1507,12 +1447,6 @@ Thủ phủ sương mù đã được cứu rỗi.
 
 Và bài dạ ca bên dòng sông Thames đã chính thức trở thành một khúc ca huyền thoại!
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 11: CHIẾC GHẾ SỒI THỨ BA
@@ -1637,12 +1571,6 @@ Ngoài kia, thế giới vẫn còn đầy rẫy hiểm nguy và những âm mư
 
 Nhưng trong gian phòng đá ngầm Sector 7 này, dưới ánh đèn lam ngọc dịu dàng, New Arrchirio đã có thêm một chỗ dựa, một tiếng hát, và một niềm tin không bao giờ bị dập tắt.
 
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
-
 ---
 
 ## CHƯƠNG 12: TUYÊN NGÔN TỪ ĐỈNH THÁP BIG BEN
@@ -1707,7 +1635,7 @@ Giọng nói của nàng công chúa mười sáu tuổi vang lên cực kỳ tr
 
 > **“Gửi Hoàng đế Aurelia, và gửi Hoàng thúc Alden Everhart — kẻ đang lẩn trốn dưới danh xưng Lord Arknight.**
 >
-> **Hai mươi năm trước, các người đã dùng bạo lực độc tài và sự phản bội hèn hạ để san phẳng vương triều Everhart, ngỡ rằng có thể chôn vùi sự thật và viết lại trật tự thế giới bằng máu.**
+> **Mười năm trước, các người đã dùng bạo lực độc tài và sự phản bội hèn hạ để san phẳng vương triều Everhart, ngỡ rằng có thể chôn vùi sự thật và viết lại trật tự thế giới bằng máu.**
 >
 > **Nhưng các người đã lầm.**
 >
@@ -1744,12 +1672,6 @@ Dienne gật đầu. Bàn tay nàng siết nhẹ lấy bàn tay em gái, cảm n
 Nàng tra thanh kiếm gỗ sồi của Rhea vào bao da bên hông.
 
 Màn sương mù Luân Đôn dần tan biến vào hư không, để lại một bầu trời trong xanh, thanh thản và rực rỡ nắng mai.
-
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT (Waltz in the Mist & The Phantom of Arknight)
 
 ---
 
@@ -1904,7 +1826,3 @@ Và một đại viễn chinh mới—một trận đại chiến kinh thiên đ
 ---
 
 ### [HẾT TẬP 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT]
-
-
----
-

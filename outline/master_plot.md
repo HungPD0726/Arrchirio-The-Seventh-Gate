@@ -100,7 +100,7 @@
 - **Thành phố / Bối cảnh**: **Cairo** (Ai Cập - Ma thuật tượng hình & Kim Tự Tháp) $\to$ **New Rome** (Đế quốc - Pháp chế & Giáo hội) $\to$ **Điểm Kỳ Dị Cổng Thứ Bảy**.
 - **Nội dung & Đại kết cục**:
   - Toàn bộ 7 thành viên Hội đồng New Arrchirio tiến vào sào huyệt Đế quốc và căn cứ Arknight.
-  - Trận chiến tối thượng chống lại Hoàng đế Aurelia và Hoàng thúc Alden Everhart.
+  - Trận chiến tối thượng chống lại Hoàng thúc Alden Everhart (Lord Arknight — Nhiếp chính vương nắm thực quyền tối cao của Đế chế Aurelia).
   - **Tột cùng tuyệt vọng**: Căn cứ sụp đổ, hệ thống Cổng rạn nứt, toàn bộ đồng minh trọng thương, New Arrchirio trên bờ vực diệt vong. Dienne đứng trơ trọi giữa đống tro tàn giơ thanh kiếm gỗ đón nhận đòn kết liễu.
   - **SỰ XUẤT HIỆN CỦA RHEA**: Một vết nứt rách toạc, **Dòng Chảy Ma Thuật tràn ra ánh sáng bạc**, Rhea bước ra với giáp cũ và trường kiếm bạc!
   - **Cảnh nhận ra nhau**: Rhea thốt lên câu nói tuổi thơ: *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*

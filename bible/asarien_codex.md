@@ -23,9 +23,9 @@ Khi một pháp sư nói tiếng Asariën, họ đang dùng âm thanh và khẩu
 
 # 1.5. NGỮ ÂM HỌC ASARIËN (PHONOLOGY & PRONUNCIATION GUIDE)
 
-> **Nguyên tắc cốt lõi:**  
-> Asariën không phải tiếng Latin, không phải tiếng Anh cổ, và tuyệt đối **không phải Elvish của Tolkien**.  
-> Nó là ngôn ngữ do tộc **Asariel (Lunar Elves)** sáng tạo ra từ kỷ nguyên tiền sử, mang âm hưởng vừa trang nghiêm cổ kính vừa mang tính toán học chính xác — mỗi âm tiết đều liên kết trực tiếp với một tần số dao động mana cụ thể.
+> **Nguyên tắc cốt lõi & Hệ Chuyển Tự La-tinh Hóa:**  
+> Bản thân Asariën là ngôn ngữ sóng cổ xưa do tộc **Asariel (Lunar Elves)** sáng tạo ra từ kỷ nguyên tiền sử, mỗi âm tiết tương ứng với một tần số dao động mana cụ thể.  
+> Các từ vựng mang dáng dấp La-tinh xuất hiện trong sách vở và ma điển loài người (*ignis, umbra, lignum, vinculum, evocar, fiat, quiescat*...) là **hệ chuyển tự La-tinh hóa hàn lâm (Academic Romanization System)** do đại thông thái Merlin và các học giả thời sơ khai lập ra để ghi chép và giải mã ngữ âm Asariel sang văn tự mẫu tự, giúp con người tính toán và ghi nhớ ma trận một cách hệ thống.
 
 ### 1.5.1. Bảng Nguyên Âm Cơ Bản (Vowels)
 
@@ -142,16 +142,23 @@ Mặc dù Asariën là ngôn ngữ thống nhất của ma thuật, cách phát 
 ---
 
 # 3. CẤU TRÚC MỘT CÂU CHÚ Asariën CHUẨN
-
+ 
 Một câu chú Asariën hoàn chỉnh tuân theo cấu trúc **4 pha (The Four-Phase Syntax)**:
-
+ 
 ```text
 [PHASE 1: Khởi Nguyên] ──> [PHASE 2: Toán Tử] ──> [PHASE 3: Định Hình] ──> [PHASE 4: Điểm Neo]
     (Nguồn mana)             (Thao tác)             (Hiệu ứng)              (Kích hoạt)
 ```
-
-### Công thức:
+ 
+### Công thức đầy đủ:
 > **`[Nguồn] + [Toán Tử] + [Thuộc Tính / Hình Thái] + [Điều Kiện Biên & Kích Hoạt]`**
+ 
+### Quy tắc Ngoại lệ Chính Thức: Kỹ Thuật Niệm Chú Rút Gọn (Shorthand Invocation)
+Trong thực chiến cận chiến tốc độ cao hoặc khi năng lượng đã được nạp sẵn vào vật dẫn (như kiếm gỗ sồi của Dienne hay vi mạch Magitech của Ryan):
+- **Cấu trúc 2–3 pha**: Pháp sư bậc cao được phép lược bỏ Pha 1 (Khởi nguyên) và/hoặc Pha 4 (Điểm neo cân bằng). 
+  - *Ví dụ 2 pha*: Chỉ ngâm `[Toán Tử] + [Định Hình]` (như *"Scissar Ignis!"* để chém ra tia lửa tức thì).
+  - *Ví dụ 3 pha*: `[Toán Tử] + [Định Hình] + [Điểm Neo]` khi cần khóa mục tiêu nhanh.
+- **Cái giá vật lý**: Rút ngắn thời gian ngâm xướng xuống còn 0,1 – 0,3 giây, nhưng làm hiệu suất $\eta$ giảm từ 5–10% và tăng lượng nhiệt hao phí phản chấn $Q_{\text{loss}}$ ngấm vào cơ thể do thiếu bước ổn định điểm neo. Đây là sự đánh đổi chiến thuật có chủ đích của pháp sư.
 
 ---
 

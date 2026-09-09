@@ -159,11 +159,6 @@ Và đêm Kyoto vẫn chỉ vừa mới bắt đầu.
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 1: CON ĐƯỜNG VỀ PHÍA ĐÔNG
 
 Đoàn tàu siêu tốc Magitech lao vun vút trong đêm tối với vận tốc gần hai trăm dặm một giờ, xé toạc màn sương mù xám đục đang bao phủ lấy bình nguyên phía đông Lumeria.
@@ -202,7 +197,7 @@ Lucien nghẹn lời, trừng mắt nhìn cô bạn suốt năm giây rồi th�
 
 "Thôi được rồi, cậu luôn có lý... Tôi chịu thua. Nhưng tôi xin cậu đấy, làm ơn cất cuốn sách bìa da rồng cổ xưa đó vào túi đi. Người soát vé vừa đi qua liếc nhìn cái gia huy rồng vàng khắc chìm trên góc bìa sách của cậu với ánh mắt nghi ngờ lắm rồi đấy. Chúng ta đang là hai kẻ đào tẩu khỏi sự truy quét của Thẩm Phán Viện Lumeria, nhớ chứ?"
 
-Dienne im lặng. Đầu ngón tay cô lướt nhẹ qua góc bìa da sần sùi mang dấu ấn của người thầy quá cố. 
+Dienne im lặng. Đầu ngón tay cô lướt nhẹ qua góc bìa da sần sùi mang dấu ấn của Người Thầy Già nơi thung lũng tuyết. 
 
 Cô gập cuốn sổ lại, cẩn thận cài chiếc chốt đồng rồi nhét sâu vào đáy chiếc túi hành lý vải thô đặt dưới gầm ghế.
 
@@ -222,12 +217,7 @@ Ma thuật đã trở thành công nghệ. Và công nghệ ấy đang nằm tr�
 
 Dienne đặt bàn tay lên tấm kính cửa sổ, cảm nhận hơi lạnh thấm qua da thịt.
 
-Cô biết, cuộc hành trình về phía đông này không chỉ đơn thuần là trốn chạy khỏi nanh vuốt của Thẩm Phán Viện. Nó là con đường dẫn cô đến gần hơn với những bí mật mà người thầy quá cố đã mang xuống mồ: Những Cổng Rò Rỉ cổ xưa, và câu hỏi về một thế giới không có phép thuật đang lẩn khuất phía bên kia ranh giới của thực tại.
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
+Cô biết, cuộc hành trình về phía đông này không chỉ đơn thuần là trốn chạy khỏi nanh vuốt của Thẩm Phán Viện. Nó là con đường dẫn cô đến gần hơn với những bí mật mà Người Thầy Già chưa từng tiết lộ trọn vẹn: Những Cổng Rò Rỉ cổ xưa, và câu hỏi về một thế giới không có phép thuật đang lẩn khuất phía bên kia ranh giới của thực tại.
 
 ---
 
@@ -322,11 +312,6 @@ Cửa kính vừa trượt mở, ánh mắt cảnh giác của Lucien lập tứ
 "Chết tiệt..." Lucien hạ thấp giọng, kéo vội mũ trùm đầu của Dienne: "Chó săn của Thẩm Phán Viện đã lần tới tận đây rồi! Chúng đang rà soát từng khu vực thương mại!"
 
 "Đi lối cửa thoát hiểm phía tây," Dienne không hề hoảng loạn. Cô xoay người, bước nhanh vào bóng tối của hành lang phụ. "Rời khỏi trung tâm Oakhaven ngay lập tức. Chúng ta phải tìm một nơi ẩn náu an toàn trước khi trời sáng."
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
 
@@ -450,11 +435,6 @@ Lucien ngẩng lên nhìn cô bạn: "Cậu muốn xuất phát ngay bây giờ 
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 4: THÀNH PHỐ CỦA NHỮNG SỢI DÂY
 
 Thế giới thực.
@@ -572,11 +552,6 @@ Cô gái thò tay vào túi áo khoác bomber, rút ra một que kẹo mút vị
 Tên cô là **Louisa**.
 
 Cô xoay người, sải những bước chân dài nhanh nhẹn lách qua dòng người đông đúc, tiến thẳng về phía ga tàu điện ngầm tuyến Hankyu hướng về phía tây Kyoto.
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
 
@@ -738,11 +713,6 @@ Louisa nhét que kẹo mút vào miệng, khóe môi nhếch lên một nụ cư
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 6: HAI THẾ GIỚI CHẠM NHAU
 
 *KẸT… CẠCH!*
@@ -873,11 +843,6 @@ Và rồi... một giọng nữ lười biếng, cợt nhả vang lên giữa m�
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 7: LOUISA VÀ DIENNE
 
 Gió đêm từ mặt nước sông Kamo thổi qua rặng liễu rủ, mang theo hơi lạnh ẩm ướt rải đều lên thảm cỏ công viên.
@@ -977,11 +942,6 @@ Luồng mana màu xanh lam thẫm cực hạn trong huyết quản cô gái mư�
 Hai ánh mắt—một màu lam thẫm sâu thẳm của ma thuật Asariën cổ đại, một màu tro tàn sắc lạnh của thực chiến súng đạn trần thế—khóa chặt lấy nhau giữa màn mưa đêm tĩnh mịch của Kyoto.
 
 Sát khí bùng nổ trong gang tấc!
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
 
@@ -1151,11 +1111,6 @@ Cả hai đồng thời quay phắt đầu lại nhìn về phía rặng đồi 
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 9: HAI CON ĐƯỜNG
 
 Cơn rung chấn địa tầng từ phía rặng đồi Higashiyama dần lắng xuống sau hai phút kéo dài nghẹt thở.
@@ -1318,11 +1273,6 @@ Một nụ cười ngạo nghễ, ấm áp và tinh quái dần dần nở trên
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 10: NHỮNG CHIẾC CỔNG MÀU ĐỎ THẮM
 
 Sáng hôm sau, Kyoto đón chào ngày mới bằng một bầu không khí trong trẻo và mát lành sau cơn mưa đêm.
@@ -1451,11 +1401,6 @@ Phía chân trời phía đông, những đám mây màu tím sẫm lại một 
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 11: ARRCHIRIO Ở MỘT THẾ GIỚI KHÁC
 
 Những manh mối cổ xưa từ chiếc la bàn định hướng của Lucien, kết hợp với mạng lưới thông tin ngầm của Louisa, dẫn nhóm ba người tìm đến một con hẻm lát đá quanh co và tĩnh mịch nằm sâu trong khu phố cổ Gion.
@@ -1563,11 +1508,6 @@ Cô ngẩng đầu lên, đôi mắt màu lam thẫm rực sáng một ý chí b
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 12: BÃO TÍM TRÊN ĐỒI SAGANO
 
 *RẦMMMMMM—!*
@@ -1671,11 +1611,6 @@ Louisa thò tay vào túi quần rút ra que kẹo mút vị dâu cuối cùng, 
 Lần đầu tiên, danh xưng **Master** được thốt ra từ khóe môi của cô gái trần thế—tự nhiên, ngang tàng nhưng chứa đựng sự quy phục trọn vẹn trước bản lĩnh của người dẫn đường.
 
 Cả ba đồng loạt lao vút vào màn đêm bão tuyết của Kyoto, tiến thẳng về phía tâm chấn màu tím của đồi Sagano!
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
 
 ---
 
@@ -1823,11 +1758,6 @@ Họ là những người đồng hành đầu tiên đã cùng nhau vượt qua
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## CHƯƠNG 14: LOUISA
 
 Bình minh ló rạng trên cây cầu gỗ cổ kính Togetsukyo bắc ngang qua dòng sông Oi phẳng lặng, dẫn lối vào rừng tre Arashiyama.
@@ -1932,11 +1862,6 @@ Hai cô gái trẻ—hai mảnh ghép của hai cõi thực tại—đã trao nh
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT (The World Without Magic)
-
----
-
 ## EPILOGUE: HAI CON ĐƯỜNG
 
 Màng ánh sáng màu lam nhạt dưới chân vách đá bờ sông Arashiyama khẽ rung rinh như một mặt nước hồ thu êm ả.
@@ -2025,5 +1950,3 @@ Và bên dưới vệt mực đen ấy, một dòng chữ viết tay bằng Cổ
 ---
 
 ### [HẾT TẬP 3: THẾ GIỚI KHÔNG CÓ PHÉP THUẬT]
-
----

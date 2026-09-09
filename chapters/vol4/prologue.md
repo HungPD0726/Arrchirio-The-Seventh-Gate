@@ -1,4 +1,4 @@
-﻿# ARRCHIRIO: THE SEVENTH GATE
+# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO (The Ruins of Arrchirio)
 
 ---
@@ -59,7 +59,7 @@ Chỉ có tiếng củi thông nổ lách tách trong lò sưởi và tiếng gi
 
 Người Thầy Già thở dài một hơi dài, đặt chiếc tẩu thuốc nguội ngắt xuống mặt bàn gỗ:
 
-"Bây giờ... cháu đã hiểu vì sao tổ chức Arrchirio cổ đại lại bị truy quét đến mức tuyệt diệt hai mươi năm trước rồi chứ? Những kẻ cai trị thế giới này sợ hãi sự thật đó hơn bất kỳ thứ vũ khí nào. Họ thà thiêu rụi toàn bộ vương triều Everhart, thà dìm bốn mươi quốc gia vào chiến tranh tàn khốc, còn hơn là để lộ ra bí mật rằng con người hoàn toàn có thể xây dựng nên một nền văn minh rực rỡ mà không cần đến ngai vàng của Hoàng đế."
+"Bây giờ... cháu đã hiểu vì sao tổ chức Arrchirio cổ đại lại bị truy quét đến mức tuyệt diệt hai mươi năm trước rồi chứ? Những kẻ cai trị thế giới này sợ hãi sự thật đó hơn bất kỳ thứ vũ khí nào. Họ thà tận diệt các hiền giả, thà thiêu rụi toàn bộ vương triều Everhart mười năm sau đó, thà dìm bốn mươi quốc gia vào chiến tranh tàn khốc, còn hơn là để lộ ra bí mật rằng con người hoàn toàn có thể xây dựng nên một nền văn minh rực rỡ mà không cần đến ngai vàng của Hoàng đế."
 
 Ông lão nhìn thẳng vào mắt Dienne, thanh âm trầm xuống đầy vẻ bi tráng:
 

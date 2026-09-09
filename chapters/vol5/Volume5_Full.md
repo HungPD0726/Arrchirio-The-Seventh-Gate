@@ -107,11 +107,6 @@ Sự bình yên này... chỉ là khoảng lặng mong manh trước khi một c
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 1: DẤU VẾT DƯỚI MÀN TUYẾT
 
 Ba ngày sau đợt sóng vi mô đầu tiên từ lòng đất, Lucien Vale trở về pháo đài từ một chuyến đi mạo hiểm lên thị trấn biên cảnh ven ranh giới phía bắc Sector 7.
@@ -184,7 +179,7 @@ Và trên toàn cõi lục địa rộng lớn này... người duy nhất còn 
 
 **Rhea Everwy**!
 
-Người cận vệ trung thành đã bế cô chạy trốn khỏi biển lửa Everhart mười năm trước. Người đã dùng cả sinh mệnh để kích hoạt phong ấn Cánh Cửa Thứ Bảy, trao lại đứa trẻ sơ sinh và thanh kiếm gỗ sồi sứt sẹo cho Người Thầy Già trước khi tan biến vào bóng tối bão tuyết!
+Người cận vệ trung thành đã bọc hậu đưa cô chạy trốn khỏi biển lửa Everhart mười năm trước. Người đã dùng cả sinh mệnh để kích hoạt phong ấn Cánh Cửa Thứ Bảy, trao lại cô bé sáu tuổi và thanh kiếm gỗ sồi sứt sẹo cho Người Thầy Già trước khi tan biến vào bóng tối bão tuyết!
 
 *BÀN TAY DIENNE RUN LÊN BẦN BẬT.*
 
@@ -239,11 +234,6 @@ Dienne nhìn lên quả cầu bản đồ ba chiều đang xoay tròn trên tr�
 Ở mạn bắc xa xôi của lục địa—nơi phủ kín một màu trắng xóa của băng tuyết vĩnh cửu—một cơn cuồng phong định mệnh đã bắt đầu nổi lên.
 
 Và New Arrchirio... đang chuẩn bị bước vào cuộc hành trình lớn nhất của cuộc đời mình.
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
 
@@ -357,11 +347,6 @@ Kẻ thù đang đẩy nhanh tiến độ hủy diệt từng ngày, và New Arr
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 3: BẪY SÓNG CẢM ỨNG
 
 Sau khi phát hiện ra âm mưu đen tối của Thẩm Phán Viện và kẻ phản bội Arknight về cỗ Máy Gia Tốc Dòng Mana Cưỡng Chế tại đèo Băng Giá, không khí trong Pháo đài Sector 7 trở nên khẩn trương và ngột ngạt như trước một trận bão lớn.
@@ -469,11 +454,6 @@ Bên trong khoảng tối ấy, dường như có một đôi mắt vô hình t�
 Thời gian không còn đứng về phía New Arrchirio nữa. 
 
 Cái bẫy cộng hưởng của kẻ phản bội Arknight đã bắt đầu đếm ngược từng nhịp tích tắc nghiệt ngã dưới lòng đất sâu. Và nếu họ không hành động ngay lập tức... ngày tàn của cả hai nền văn minh sẽ giáng xuống nhanh hơn bất kỳ ai có thể tưởng tượng!
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
 
@@ -597,10 +577,6 @@ Không gian bỗng nhiên lạnh buốt đến mức đóng băng.
 Một nhịp rung cực khẽ... một cảm giác ớn lạnh chạy dọc sống lưng... bắt đầu xuyên thấu qua hàng ngàn tấn đá hoa cương của lòng địa tầng...
 
 Cơn ác mộng lớn nhất của hai thế giới... đã chính thức gõ nhịp đầu tiên!
-
----
-
-# TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG
 
 ---
 
@@ -944,10 +920,6 @@ Và ai đó—hoặc một thứ gì đó—đang dùng nó để bắt đầu k
 
 ---
 
-# TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG
-
----
-
 ## CHƯƠNG 6: NHỮNG KẺ ĐÓN GIÓ
 
 Bầu không khí trong gian đại sảnh của pháo đài ngầm Sector 7 chùng xuống như thể toàn bộ dưỡng khí vừa bị rút cạn.
@@ -1117,10 +1089,6 @@ Cô thoăn thoắt lắp ráp khẩu súng lục trong vòng ba giây bằng m�
 Cô bấm nút bộ đàm, khóe môi khẽ nhếch lên một nụ cười ngạo nghễ:
 
 "Chuẩn bị cho tôi một lối vào Cổng Rò Rỉ ngầm ổn định nhất. Tôi sang bờ bên kia đòi nợ."
-
----
-
-# TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG
 
 ---
 
@@ -1434,11 +1402,6 @@ Cần gạt an toàn của khẩu súng ngắn giảm thanh được ngón tay L
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 8: VỊ KHÁCH KHÔNG MỜI
 
 *PẰNG!*
@@ -1591,11 +1554,6 @@ Năm bóng người—năm mảnh ghép định mệnh của hai thế giới—
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 9: VẾT SẸO CỦA DÒNG CHẢY MA THUẬT
 
 Càng lên cao về phía đỉnh đèo Băng Giá, gió tuyết càng gầm rú dữ dội như muốn xé toạc lớp áo giáp của những kẻ lữ hành. 
@@ -1680,11 +1638,6 @@ Năm bóng người sải bước nhanh qua hành lang kim loại ngập tràn h
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 10: SỰ THẬT VỀ SỰ BIẾN MẤT CỦA RHEA
 
 Cánh cửa kim loại nặng nề của buồng lõi Cổng Cổ Đại từ từ trượt mở sang hai bên.
@@ -1731,11 +1684,11 @@ Tại thềm đá trước Cánh Cửa Thứ Bảy của hoàng thành, một b�
 
 Đó là **Rhea Everwy**!
 
-Mười năm trước, cô chỉ mới mười bảy, mười tám tuổi. Mái tóc màu bạc cắt ngắn ngang vai bay phần phật trong gió lửa. Tấm áo giáp nhẹ hoàng gia đã nát vụn nhiều chỗ, nhuộm đỏ thẫm máu tươi của chính cô và kẻ thù. 
+Mười năm trước, cô hai mươi hai tuổi. Mái tóc màu bạc cắt ngắn ngang vai bay phần phật trong gió lửa. Tấm áo giáp nhẹ hoàng gia đã nát vụn nhiều chỗ, nhuộm đỏ thẫm máu tươi của chính cô và kẻ thù. 
 
 Trong tay Rhea là thanh trường kiếm bằng bạc nguyên chất phát ra kiếm khí sáng chói như mặt trăng rằm. 
 
-Một mình cô gái trẻ tuổi ấy... đã đứng chắn ngang con đường độc đạo, vung thanh trường kiếm bạc chém nát từng đợt tấn công của hàng ngàn kỵ binh thiết giáp và chấp pháp viên Đế quốc để bảo vệ cho Người Thầy Già bế đứa trẻ sơ sinh Dienne chạy trốn vào đường hầm bí mật!
+Một mình cô gái trẻ tuổi ấy... đã đứng chắn ngang con đường độc đạo, vung thanh trường kiếm bạc chém nát từng đợt tấn công của hàng ngàn kỵ binh thiết giáp và chấp pháp viên Đế quốc để bảo vệ cho Người Thầy Già đưa cô bé Dienne sáu tuổi chạy trốn vào đường hầm bí mật!
 
 Khi đợt tấn công cuối cùng bị đẩy lùi, cánh cửa hoàng thành sụp đổ. 
 
@@ -1753,7 +1706,7 @@ Rhea bị dòng xoáy năng lượng khổng lồ bóp nghẹt, cơ thể bị k
 
 Thế nhưng, ngay cả khi xương cốt toàn thân gãy vụn dưới áp suất ngàn cân, ngay cả khi nửa thân dưới đã bị dòng ánh sáng bạc nuốt chửng... 
 
-Người hiệp sĩ tóc bạc kiên cường ấy vẫn dùng hết tàn lực cuối cùng, vung cánh tay trái đầy máu về phía thung lũng tuyết xa xôi—nơi Người Thầy Già đang ôm đứa trẻ sơ sinh chạy trốn!
+Người hiệp sĩ tóc bạc kiên cường ấy vẫn dùng hết tàn lực cuối cùng, vung cánh tay trái đầy máu về phía thung lũng tuyết xa xôi—nơi Người Thầy Già đang đưa cô bé sáu tuổi chạy trốn!
 
 Đôi mắt màu xám tro của Rhea đẫm nước mắt, nhìn thẳng về phía Dienne. 
 
@@ -1830,11 +1783,6 @@ Và từ trong đống tro tàn của sự thật đau đớn ấy... một ngư
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 11: LỜI THỀ DƯỚI KHE NỨT THỜI-KHÔNG
 
 Gió lạnh từ vết nứt Dòng Chảy Ma Thuật thổi rít từng cơn qua buồng lõi Cổng Cổ Đại, cuốn theo những bụi tuyết bạc lấp lánh rơi trên mái tóc màu hạt dẻ của Dienne.
@@ -1900,7 +1848,7 @@ Ma trận hình cánh hoa tuyết sáu cạnh bừng sáng một màu lam thẫm
 Dienne ngước đôi mắt màu lam thẫm nhìn vào dòng sông ánh bạc, đôi môi mỉm cười thanh thản, cất tiếng thề với thời-không vô tận:
 
 > *"Chị Rhea... Em đã nhìn thấy tất cả."*  
-> *"Em không còn là đứa trẻ sơ sinh khóc nhè trong vòng tay chị năm xưa nữa.*  
+> *"Em không còn là cô bé sáu tuổi chỉ biết nép sau lưng chị năm xưa nữa.*  
 > *"Và em sẽ không bao giờ đi tìm kiếm chị như một đứa trẻ lạc lối trong bão tuyết nữa đâu."*
 
 Cô gái nhỏ đứng thẳng người dậy, ánh mắt rực sáng niềm kiêu hãnh bất diệt:
@@ -1945,11 +1893,6 @@ Cô nhìn bốn người đồng đội của mình—Lucien, Ryan, Soraya và L
 Louisa lên đạn súng ngắn, nhếch mép cười sắc lạnh: "Chờ mãi câu này của cô đấy, Master."
 
 Trận đại chiến quyết định vận mệnh của cả hai thế giới... chính thức bùng nổ!
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
 
@@ -2078,11 +2021,6 @@ Ryan hoảng hốt gào lên thất thanh:
 Ryan chỉ tay vào Cổng Cổ Đại Frost-Pass:
 
 "Cỗ Máy Gia Tốc đã quá tải một trăm năm mươi phần trăm! Nó chuẩn bị phóng ra một luồng xung năng lượng hủy diệt cực đại để xé toạc mỏ neo Cánh Cửa Thứ Hai! Chỉ còn đúng chín mươi giây nữa thôi!"
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
 
@@ -2238,11 +2176,6 @@ Một chương đen tối đã khép lại, mở ra một bình minh mới rực
 
 ---
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
-
----
-
 ## CHƯƠNG 14: CHIẾC GHẾ SỒI THỨ HAI VÀ LỜI HỨA
 
 Một tuần sau chiến thắng oanh liệt trên đỉnh đèo Băng Giá, pháo đài ngầm Sector 7 hoàn toàn trở lại với nhịp sống ấm áp và yên bình.
@@ -2343,11 +2276,6 @@ Dienne nhìn sang hai chiếc ghế trống còn lại ở mạn tây nam và t�
 Cô biết rằng, hành trình của họ chưa dừng lại ở phương Bắc. 
 
 Ở phía tây xa xôi kia... một vùng đất mới, một thành phố ma thuật kỳ vĩ mới đang chờ đợi bước chân của New Arrchirio khám phá!
-
----
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
 
@@ -2464,5 +2392,3 @@ Và một cuộc phiêu lưu mới—một hành trình vĩ đại đi qua các 
 ---
 
 ### [HẾT TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG]
-
----

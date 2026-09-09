@@ -1,4 +1,4 @@
-﻿# Story Bible: ĐỘNG LỰC HỌC MANA & TOÁN HỌC MA PHÁP
+# Story Bible: ĐỘNG LỰC HỌC MANA & TOÁN HỌC MA PHÁP
 ### Mana Dynamics & Magical Mathematics (The Exact Sciences of Arcane)
 
 > **Mục đích:** Tệp này là "sách giáo khoa chuẩn hóa" về các đại lượng, hằng số, định luật vật lý ma pháp và công thức toán học được các pháp sư, học giả và kỹ sư Magitech sử dụng trong thế giới.
@@ -13,10 +13,11 @@
 - Mana không thể quan sát bằng mắt thường khi ở trạng thái nghỉ, nhưng khi bị kích thích bởi ý thức hoặc cấu trúc hình học, nó có thể chuyển hóa thành mọi dạng năng lượng vật lý: **Nhiệt năng ($Q$), Động năng ($K$), Quang năng ($L$), Điện từ ($EM$), và Biến dạng Không-Thời gian ($S$)**.
 
 ### 1.2. Ký hiệu và Đơn vị
-- **Ký hiệu đại lượng**: **$\Psi$** *(chữ cái Hy Lạp Psi)*.
-- **Đơn vị đo lường tiêu chuẩn**: **man** *(viết tắt của Mana Units, tương đương Joule trong vật lý thực)*.
-- **Quy ước thứ nguyên**:
-  - $1\text{ man}$: Lượng mana tiêu chuẩn đủ để duy trì một đốm sáng nhỏ như ánh đom đóm trong 1 giây ở điều kiện tiêu chuẩn.
+- **Ký hiệu đại lượng**: **$\Psi$** *(chữ cái Hy Lạp Psi)* biểu thị khối lượng năng lượng mana.
+- **Đơn vị năng lượng tiêu chuẩn**: **man** *(viết tắt của Mana Units, tương đương Joule trong vật lý thực)*.
+  - $1\text{ man}$: Lượng năng lượng mana tiêu chuẩn tương đương công tiêu hao để thắp sáng một đốm lân tinh nhỏ như ánh đom đóm trong đúng 1 giây ở điều kiện tiêu chuẩn.
+  - **Thông lượng / Công suất ma pháp**: Tính bằng **$\text{man/s}$** *(tương đương Watt trong vật lý thực)*, biểu thị tốc độ giải phóng hoặc nạp năng lượng của pháp sư/ma trận qua thời gian.
+- **Quy ước mức năng lượng tích lũy ($\Psi$)**:
   - $10 - 25\text{ man}$: Phép thuật cá nhân cấp chiến thuật (ngọn lửa lam nén, dao gió xuyên phá, gia cố vũ khí gỗ).
   - $100 - 500\text{ man}$: Phép diện rộng (bão tuyết cục bộ, bức tường đất chắn pháo kích).
   - $10,000+\text{ man}$: Phép quy mô chiến lược hoặc duy trì Cổng Không Gian lớn.
@@ -126,13 +127,19 @@ Pháp sư giỏi không cần học thuộc hàng ngàn câu chú riêng biệt.
 ---
 
 # 4. CHUYỂN HÓA MANA THÀNH NHIỆT VÀ CƠ HỌC
-
-### 4.1. Chuyển hóa thành Nhiệt Lượng ($Q$)
-Khi Dienne tạo ngọn lửa lam tinh khiết:
-$$Q = \Psi \cdot \eta \cdot \Delta T_{\text{kích thích}}$$
-
-- Thay vì đốt cháy oxy bừa bãi, Dienne nén $\Psi = 20\text{ man}$ vào một bán kính $r = 2\text{ cm}$.
-- Với $\eta = 92\%$, mật độ năng lượng trên một đơn vị thể tích đạt mức cực đại, khiến ngọn lửa chuyển từ màu cam đỏ ($1200^\circ\text{C}$) sang **xanh lam tinh khiết ($3000^\circ\text{C}+$)**, lập tức làm thăng hoa băng đá mà không tỏa nhiệt thừa làm tan tuyết xung quanh.
+ 
+### 4.1. Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$) và Nhiệt Hiệu Dụng
+Theo Định luật Bảo toàn Mana, năng lượng đầu vào luôn phân rã thành phần hữu ích và phần thất thoát:
+$$\Psi_{\text{cung cấp}} = \Psi_{\text{hiệu quả}} + \Psi_{\text{thất thoát}}$$
+ 
+Trong hầu hết trường hợp thi triển ma thuật, phần năng lượng thất thoát chuyển hóa trực tiếp thành **Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$)**:
+$$Q_{\text{loss}} = (1 - \eta) \cdot \Psi_{\text{cung cấp}}$$
+ 
+- **Ý nghĩa sinh học & cơ học**: Khi $\eta < 100\%$, phần $Q_{\text{loss}}$ này tỏa ra môi trường hoặc ngấm ngược vào kinh mạch/vũ khí của người sử dụng. Nếu pháp sư tung đòn uy lực lớn ($\Psi$ cao) mà hiệu suất thấp, nhiệt phản chấn sẽ gây bỏng rộp da thịt, trật khớp và kiệt sức (ví dụ: Louisa khi đỡ đòn Alden ở Vol 8 Ch 10 phải chịu trọn vẹn $Q_{\text{loss}}$ của chùm tia, gây bỏng mạn sườn).
+- **Phép nguyên tố Hỏa (Nhiệt Lượng Hữu Ích $Q_{\text{fire}}$)**:
+  Khi Dienne tạo ngọn lửa lam tinh khiết, năng lượng hữu ích chuyển hóa thành nhiệt lượng:
+  $$Q_{\text{fire}} = \eta \cdot \Psi_{\text{cung cấp}}$$
+  Nhiệt độ cực đại đạt được phụ thuộc vào độ tập trung thể tích $V$: $\Delta T = \frac{Q_{\text{fire}}}{m \cdot c}$. Thay vì đốt oxy bừa bãi, Dienne nén $\Psi = 20\text{ man}$ vào bán kính nhỏ $r = 2\text{ cm}$. Với $\eta = 92\%$, nhiệt hiệu dụng $Q_{\text{fire}} = 18.4\text{ man}$ tạo ra ngọn Lam Hỏa $3000^\circ\text{C}+$ làm thăng hoa băng đá tức thì, trong khi nhiệt hao phí phản chấn $Q_{\text{loss}} = 1.6\text{ man}$ là cực nhỏ, không làm bỏng tay nàng.
 
 ---
 

@@ -66,7 +66,7 @@ Khi các nhân vật trò chuyện, **tuyệt đối không để họ nói năn
 
 ### 2. Louisa (18 tuổi) — "Con Mèo Hoang Gai Góc Không Mana ($\Psi = 0$)"
 * **Đặc trưng ngôn ngữ:** Cộc lốc, khô khốc, mỉa mai, thực dụng. Pha trộn từ ngữ đường phố hiện đại và sự am hiểu thực chiến. Gọi Dienne là "công chúa" với giọng điệu nửa trêu chọc nửa bảo bọc.
-* **Cử chỉ quen thuộc:** Đút hai tay vào túi áo bomber/áo khoác dạ rộng thùng thình; ngậm que kẹo mút dâu tây đong đưa nơi khóe môi; ngón tay trỏ sẵn sàng chạm vào cò súng giảm thanh hoặc rút dao găm tantō; còi bạc EMP giắt bên ngực.
+* **Cử chỉ quen thuộc:** Đút hai tay vào túi áo bomber/áo khoác dạ rộng thùng thình; ngậm que kẹo mút dâu tây đong đưa nơi khóe môi; ngón tay trỏ sẵn sàng chạm vào cò súng giảm thanh hoặc rút dao găm tantō; còi bạc cộng hưởng ma trận giắt bên ngực.
 * **Subtext:** Ngoài miệng luôn nói "tôi chỉ quan tâm đến thù lao và sự an toàn của mình", nhưng luôn là người đầu tiên chắn trước họng súng của kẻ thù.
 
 ### 3. Ryan (14 tuổi) — "Thiên Tài Magitech Đam Mê Cơ Khí"
@@ -97,9 +97,9 @@ Khi các nhân vật trò chuyện, **tuyệt đối không để họ nói năn
 
 ---
 
-## 6. BỘ LỌC CHỐNG VĂN MẪU AI (ANTI-AI SLOP BLACKLIST)
+## 6. BỘ LỌC CHỐNG VĂN MẪU AI (ANTI-AI SLOP ENGINE & BLACKLIST)
 
-Đây là các từ ngữ, cấu trúc câu và kiểu hành văn **BỊ CẤM HOÀN TOÀN** trong toàn bộ các chương của Arrchirio:
+Đây là các từ ngữ, cấu trúc câu và tật xấu hành văn của AI **BỊ CẤM HOÀN TOÀN** trong toàn bộ tác phẩm Arrchirio:
 
 ### 6.1. Danh Sách Cụm Từ Cấm (Banned Phrases)
 ❌ *"như một minh chứng cho..."* $\to$ Thay bằng việc tả thẳng kết quả cụ thể trên vật chất.  
@@ -109,7 +109,40 @@ Khi các nhân vật trò chuyện, **tuyệt đối không để họ nói năn
 ❌ *"thực sự là một..." / "quả thực là..."* $\to$ Giọng văn bình luận rẻ tiền của AI.  
 ❌ *"dường như cả thế giới xung quanh đều ngưng đọng lại..."* $\to$ Sáo rỗng.  
 ❌ *"trong sâu thẳm tâm can..."* $\to$ Sáo rỗng.  
+❌ *"người thủ lĩnh vĩ đại..." / "vị cứu tinh..."* $\to$ Cấm người kể chuyện tâng bốc nhân vật. Hãy để nhân vật thể hiện qua hành động và cái giá phải trả.
 
-### 6.2. Cấm Kiểu Kết Thúc Giáo Điều (No Moralizing Ending)
-❌ Cấm AI tự động thêm một đoạn văn tổng kết triết lý nhân sinh ở cuối mỗi chương, kiểu như: *"Và như thế, giữa màn đêm buông xuống, họ hiểu rằng hành trình phía trước vẫn còn dài, nhưng ngọn lửa hy vọng trong tim sẽ không bao giờ tắt..."*  
-✔️ **Thay bằng:** Kết thúc bằng một hành động dứt khoát, một âm thanh bất ngờ, một chi tiết gợi mở (Cliffhanger) hoặc một câu thoại lửng lơ đầy sức nặng.
+### 6.2. Đại Thanh Trừng Từ Đệm & Cường Điệu Mặc Định (Hyperbole & Filler Purge)
+Toàn bộ bản thảo cũ bị lạm dụng các từ đệm và tính từ cực đại cần phải cắt giảm tối đa (ít nhất 80%):
+- **Từ đệm thừa thãi:**
+  - ❌ *"khẽ"* (xuất hiện hơn 300 lần trong bản thảo) $\to$ Cắt bỏ; viết thẳng hành động: thay vì *"nàng khẽ mỉm cười"*, viết *"nàng mỉm cười"* hoặc *"khóe môi nàng cong lên"*.
+  - ❌ *"lập tức"* (hơn 120 lần) $\to$ Dùng nhịp câu ngắn để tạo tốc độ thay vì nhồi nhét phó từ.
+  - ❌ *"xé toạc" / "rách toạc"* (gần 70 lần) $\to$ Thay bằng miêu tả chính xác cơ học: nứt, vỡ, đứt gãy, biến dạng, giằng xé.
+  - ❌ *"đột nhiên" / "bất giác" / "dường như"* $\to$ Hạn chế tối đa từ lọc (filter words).
+- **Cường điệu mặc định (Hyperbolic Inflation):**
+  - ❌ Tuyệt đối tránh nhồi nhét: *"tối thượng", "tột cùng", "vĩ đại", "khổng lồ", "kinh hoàng", "vô song", "bất khả chiến bại", "kinh thiên động địa"*. Hãy miêu tả kích thước bằng mét, trọng lượng bằng tấn, sức nóng bằng nhiệt độ và uy lực bằng hậu quả phá hủy thực tế.
+
+### 6.3. Khử Tật Xấu "Gắn Chặt Với Một Đạo Cụ" (Prop-Fetishism)
+AI thường có thói quen biến nhân vật thành "giá treo đạo cụ" máy móc mỗi khi xuất hiện:
+- ❌ **Louisa**: Không phải lúc nào cũng ngậm hay xoay que kẹo mút dâu tây.
+- ❌ **Lucien**: Không phải lúc nào cũng cầm sổ cái gõ bàn hay đẩy gọng kính.
+- ❌ **Ryan**: Không phải lúc nào cũng cầm cờ-lê hay hai tay dính dầu mỡ.
+- ❌ **Soraya**: Không phải lúc nào cũng ôm khư khư vương trượng.
+- ✔️ **Quy chuẩn sửa đổi:** Nhân vật phải tương tác đa dạng với môi trường xung quanh: xem xét địa hình, phủi bụi áo, uống ngụm nước, kiểm tra vết thương, buộc lại dây giày, lắng nghe tiếng gió. Đạo cụ chỉ xuất hiện khi thực sự có công năng trong phân cảnh.
+
+### 6.4. Cấm Phản Diện Diễn Thuyết Giữa Combat (No Mid-Fight Monologues)
+- ❌ Cấm nhân vật (đặc biệt là phản diện như Alden, Malakor) đứng giảng bài triết lý dài dòng hàng trang giấy trong khi vũ khí đang va chạm hoặc mana đang bùng nổ.
+- ✔️ **Quy chuẩn sửa đổi:** Trong combat, câu thoại chỉ dài tối đa 1–2 câu, nhát gừng, thở dốc vì thiếu oxy hoặc chịu áp lực. Triết lý và xung đột tư tưởng phải được bộc lộ trong các phân cảnh đối thoại tĩnh trước trận đánh hoặc qua chính thế cờ chiến thuật.
+
+### 6.5. Cấm Kết Thúc Tổng Kết Giáo Điều (No Moralizing / Recap Endings)
+- ❌ Cấm kết thúc chương bằng đoạn tóm tắt ý nghĩa, kiểu như: *"Và như thế, họ hiểu rằng hành trình phía trước còn dài nhưng ngọn lửa hy vọng..."*
+- ✔️ **Quy chuẩn sửa đổi:** Kết thúc bằng một chi tiết vật lý, một hành động cụ thể chưa hoàn tất, hoặc một âm thanh cắt ngang (xem chuẩn mực Chương 12–14 Tập 8).
+
+---
+
+## 7. TIÊU CHUẨN VÀNG: BẢN THẢO CHƯƠNG 12–14 TẬP 8 (GOLD STANDARD BENCHMARK)
+
+Các chương 12, 13, 14 của Tập 8 được xác lập là **Khuôn mẫu chuẩn mực cao nhất** cho phong cách văn xuôi toàn series:
+1. **Câu thoại ngắn, giàu sức nặng:** Thoại dứt khoát, mang subtext ngầm nén, không giảng giải.
+2. **Con số tạo áp lực chiến thuật:** Định lượng $\Psi$, $\eta$, thời gian nạp mili-giây để người đọc cảm nhận độ nguy cấp, không dùng con số để thuyết giảng lý thuyết.
+3. **Cái giá vật lý tồn tại liên tục:** Thương tật không tự biến mất: giáp bạc Rhea bị nung chảy, tay Dienne bị bỏng rộp, cánh tay Ryan hạn chế cử động, kính Lucien bị nứt vỡ.
+4. **Nhân vật chân thực:** Rhea trở về như một chiến binh mang đầy sẹo và mệt mỏi sau 10 năm giam hãm, không phải một vị thần toàn năng cứu thế. Dienne đưa ra quyết định dựa trên trách nhiệm và sự trả giá chứ không phải phép màu.

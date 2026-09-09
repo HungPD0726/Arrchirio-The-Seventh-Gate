@@ -1,5 +1,6 @@
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG (The Ancient Cities & The Battle of Balance)
+﻿# ARRCHIRIO: THE SEVENTH GATE
+### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
+### ĐẠI KẾT CỤC TỐI THƯỢNG
 
 ---
 
@@ -157,11 +158,6 @@ Dienne bước lên mép thềm cửa, ánh mắt cô đanh lại:
 
 Và lần đầu tiên kể từ khi Cánh Cửa Thứ Hai xuất hiện—không một công thức hay thiết bị nào trong căn phòng có thể đo được thứ đang đợi họ ở phía bên kia.
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
-
 ---
 
 ## CHƯƠNG 1: BIỂN CÁT THÌ THẦM
@@ -186,7 +182,7 @@ Soraya bước lên thềm cửa sổ trời đã được mở hé. Nàng khẽ
 
 Không khí khô khốc mang theo mùi lưu huỳnh ngầm, mùi cát bị thiêu đốt suốt cả ban ngày và thoang thoảng đâu đây là mùi bùn phù sa trù phú của một dòng sông lớn đang chảy xiết ở phía chân trời xa xôi.
 
-Soraya hít một hơi sâu. Lồng ngực nàng phập phồng:
+Soraya hít một hơi sâu. Lồng ngực nàng phập phồng. Bàn tay đeo găng giữ lấy chiếc lọ đồng nhỏ treo dưới cổ áo:
 
 "Cát không bao giờ nguội lạnh. Nó tích giữ ngọn lửa của mặt trời trong từng phân tử thạch anh, chờ đợi màn đêm buông xuống để thì thầm những câu chuyện cổ xưa của các vị vua."
 
@@ -194,7 +190,11 @@ Soraya hít một hơi sâu. Lồng ngực nàng phập phồng:
 
 "Chúng ta vừa rơi xuống vùng cao nguyên Giza, cách ngoại ô phía tây Cairo mười hai dặm. Tàu tuần tra đệm khí của Sư đoàn Sa Mạc Arknight đang quần thảo quanh sông Nile. Nếu cỗ xe này phát ra bức xạ nhiệt quá mức quy định, radar quang phổ của chúng sẽ khóa mục tiêu trong vòng ba mươi giây."
 
-"Đừng lo, anh Lucien!" Ryan nhe răng cười, hai tay thoăn thoắt bấm một chuỗi lệnh trên bảng mạch: "Em đã tích hợp Bát Quái Phù Mạch hệ Thủy của anh Thanh Vân vào dàn tản nhiệt. Hơi nóng vừa thoát ra khỏi động cơ sẽ bị khí lạnh âm dương hấp thụ ngay lập tức. Trên màn hình tầm nhiệt của chúng, chiếc xe này chỉ là một tảng đá vô hại đang trôi trên cát thôi!"
+"Đừng lo, anh Lucien!" Ryan nhe răng cười, hai tay thoăn thoắt bấm một chuỗi lệnh trên bảng mạch. "Em đã tích hợp Bát Quái Phù Mạch hệ Thủy của anh Thanh Vân vào dàn tản nhiệt. Nhưng nó không xóa nhiệt được; nó nén $Q$ vào bình muối đá dưới gầm xe. Bình đầy là xe hiện hình ngay."
+
+Kim đo trên bảng điều khiển run lên ở vạch đỏ.
+
+"Còn mười bảy phút," Ryan nói nhỏ hơn. "Sau đó chúng ta phải tắt máy hoặc đổ nhiệt xuống cát."
 
 "Khéo léo lắm, sư đệ." 
 
@@ -224,24 +224,31 @@ Nàng nhắm mắt lại, đôi tai khẽ động đậy theo nhịp điệu c�
 
 "Dưới lớp cát sâu hàng trăm mét kia, có một nhịp thở trầm đục. Đó không phải là tiếng động cơ. Đó là một bản dạ khúc bị lãng quên của những linh hồn người xây tháp."
 
-"Họ không bị lãng quên." 
+"Họ không bị lãng quên."
 
 Soraya giơ cao Vương trượng Cổ Ngọn Lửa. Viên hồng ngọc thô trên đỉnh trượng bỗng nhiên bùng lên một tia lửa màu cam rực rỡ, chiếu rọi khuôn mặt kiên định của nàng thiếu nữ sa mạc:
 
 "Cửa hầm bí mật của lăng mộ ngầm không nằm ở cửa chính nơi quân đội Đế quốc canh gác. Nó nằm dưới móng vuốt bên phải của Tượng Nhân Sư Đại Bào. Nơi đó chỉ mở ra trước tro tàn của Ngọn Lửa Tổ Tiên."
 
-Dienne gật đầu dứt khoát:
+Ngón tay Soraya siết quanh chiếc lọ đồng đến bật khớp. Qua lớp nắp thủy tinh nứt, bên trong chỉ còn một nhúm tro đỏ sẫm.
+
+"Tro cuối cùng từ lò tế Al-Zahra," nàng nói. "Bà ngoại đã mang nó chạy qua biển khi Thẩm Phán Viện thiêu rụi đền. Dùng xong, dấu ấn của dòng họ ta sẽ tắt khỏi cửa hầm này."
+
+Dienne nhìn chiếc lọ, rồi nhìn những chấm sáng đỏ đang quét trên cồn cát phía xa.
+
+"Đó là di vật của cậu." Giọng nàng rất nhỏ. "Quyết định là của cậu."
+
+Soraya mở nắp lọ. Một hạt tro nóng hổi cuộn ra, đậu vào lòng bàn tay nàng như mảnh than còn thở.
+
+"Vậy hãy để nó mở đường cho người còn sống."
+
+Dienne gật đầu dứt khoát. Nàng liếc kim đo nhiệt đang bò thêm một nấc:
 
 "Ryan, tắt toàn bộ đèn pha. Chuyển sang chế độ trượt êm ái."
 
 Nàng rút thanh kiếm gỗ sồi ra nửa gang tay, ngọn Lam Hỏa Asariën khẽ bừng lên nơi đầu mũi kiếm:
 
-"Chúng ta tiến vào Cairo."
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+"Chúng ta có mười bảy phút. Tiến vào Cairo."
 
 ---
 
@@ -249,13 +256,13 @@ Nàng rút thanh kiếm gỗ sồi ra nửa gang tay, ngọn Lam Hỏa Asariën 
 
 Gió sa mạc hú lên từng hồi qua những khe nứt của bức tượng Nhân Sư Đại Bào (Great Sphinx).
 
-Dưới ánh trăng rằm lạnh buốt, khối đá vôi khổng lồ mang thân sư tử đầu người nằm phục trên bãi cát, phủ bóng đen kịt lên sáu bóng người đang nép mình sát móng vuốt bên phải của bức tượng.
+Dưới ánh trăng rằm lạnh buốt, khối đá vôi khổng lồ mang thân sư tử đầu người nằm phục trên bãi cát, phủ bóng đen kịt lên bảy bóng người đang nép mình sát móng vuốt bên phải của bức tượng.
 
 Cách đó chưa đầy ba trăm mét, một chiếc tàu tuần tra đệm khí của Đế quốc đang quét đèn pha màu tím qua đụn cát đối diện. Tiếng quạt gió phản lực *phì… phì…* xé rách không khí, để lại mùi dầu diesel cháy khét lẹt đặc trưng của công nghệ máy móc công nghiệp.
 
 "Còn bốn mươi giây trước khi chùm quét quay lại vị trí này," Louisa hạ ống nhòm nhìn đêm xuống, ngón tay điểm nhẹ lên mặt đồng hồ cơ khí bên cổ tay: "Nhanh lên, Soraya."
 
-Soraya quỳ một chân xuống lớp cát mịn dưới chân móng vuốt tượng Nhân Sư.
+Soraya quỳ một chân xuống lớp cát mịn dưới chân móng vuốt tượng Nhân Sư. Nàng mở chiếc lọ đồng. Hạt tro cuối cùng rơi xuống đĩa đá, đỏ lên một nhịp rồi tắt. Dấu thêu Al-Zahra trên nắp lọ bạc màu như bị nước biển rửa sạch.
 
 Nàng gạt bỏ lớp cát phủ bên trên, để lộ một phiến đá hoa cương hình tròn nhẵn bóng, khắc nổi hình tượng con bọ hung Mặt Trời đang giương cánh ôm lấy một đĩa lửa rực rỡ.
 
@@ -301,17 +308,19 @@ Một chuỗi âm thanh cơ học khô khốc rợn người vang lên từ sâu
 
 Bụi vôi trắng xóa tuôn rơi như mưa từ trần hầm. Phía trước mặt họ, hàng chục lỗ tròn trên vách đá mở toang ra, để lộ những đầu vòi phun bằng đồng đen đang tích tụ nhiệt lượng đỏ rực!
 
-"Bẫy áp suất thủy lực!" Ryan hét lên: "Hệ thống phát hiện trọng lượng cơ thể không khớp với người Ai Cập cổ! Chúng ta có năm giây trước khi khí cháy sa mạc nướng chín cả hành lang!"
+"Bẫy áp suất thủy lực!" Ryan hét lên. Màn hình trong tay cậu chuyển đỏ. "Hệ thống phát hiện trọng lượng cơ thể không khớp với người canh giữ cổ. Chúng ta có năm giây trước khi khí cháy sa mạc nướng chín cả hành lang!"
 
-"Thanh Vân, Lôi Phù chặn vòi phun bên trái!" Dienne gằn giọng, mắt nàng quét nhanh qua cụm ký tự trên trần nhà: "Diana, chém đứt trục bánh răng ở rãnh số ba! Ryan, đảo ngược mạch tiếp địa!"
+"Không được nối đất toàn phần!" Cậu kéo dây đo khỏi sàn, giọng vỡ ra. "Làm thế thì cửa phía sau sẽ khóa chết, và xe tản nhiệt không còn đường rút!"
+
+"Thanh Vân, Lôi Phù chặn vòi phun bên trái!" Dienne gằn giọng, mắt nàng quét nhanh qua cụm ký tự trên trần nhà. "Diana, chém đứt trục bánh răng ở rãnh số ba! Ryan, giữ một đường tiếp địa. Cửa sau có thể khóa; chúng ta đi tiếp."
 
 Lục Thanh Vân vung tay áo bào. Ba lá bùa vàng chu sa bay vút ra, dán chặt vào miệng các vòi phun đồng đen: *"Càn khôn định vị, phong lôi đình chỉ!"* Khí áp lạnh buốt lập tức đông cứng dòng chất lỏng cháy ngay trong cổ vòi.
 
 Diana lướt đi như một vũ công ballet trên sàn đá. Thanh liễu kiếm bạc trong tay nàng lóe lên một đường cong thanh mảnh tuyệt mỹ, mũi kiếm đâm chuẩn xác vào kẽ hở giữa hai phiến đá, cắt đứt trục xích truyền động ngầm bằng một tiếng *keng* chói tai!
 
-Cùng lúc đó, ngòi bút lông của Dienne kẹp giữa những ngón tay thon thả. Nàng vạch một nét chữ Asariën 4 pha bằng Lam Hỏa trực tiếp lên mắt Horus trên vách:
+Cùng lúc đó, ngòi bút lông của Dienne kẹp giữa những ngón tay thon thả. Nàng rút hai mươi hai man từ kinh mạch, vạch bốn nét chữ Asariën lên mắt Horus trên vách. Da dưới găng tay nóng rát.
 
-*“Ex-aether nodi quiescat!”*
+*“Aethel — nullar — morth — quiescat.”*
 
 Ngọn lửa lam hòa vào rãnh vàng, chạy dọc theo trần hầm như một tia chớp, cưỡng bức tái lập trạng thái cân bằng của mạch logic.
 
@@ -319,20 +328,17 @@ Ngọn lửa lam hòa vào rãnh vàng, chạy dọc theo trần hầm như mộ
 
 Tiếng cơ khí dừng hẳn lại. Các vòi phun thu vào trong vách đá. Khối sàn đá từ từ nhô lên trở lại vị trí ban đầu.
 
+Ở phía sau, chuỗi đối trọng dẫn về miệng hầm rơi xuống bằng một tràng *rầm... rầm... rầm*. Phiến đá dưới móng vuốt Nhân Sư đã khóa kín. Cỗ xe Magitech và lối rút lui duy nhất bị bỏ lại trên mặt cát.
+
 Bụi lắng xuống.
 
 Không ai bị thương. 
 
-Louisa thổi một sợi tóc mai vương trước trán, nhếch mép: "Phối hợp đẹp mắt đấy, nhóm công chúa và đạo sĩ."
+Louisa thổi một sợi tóc mai vương trước trán, nhếch mép: "Phối hợp đẹp mắt đấy, nhóm công chúa và đạo sĩ. Giờ thì đừng bảo tôi lúc về phải đào xuyên Kim Tự Tháp."
 
 Dienne thở ra một làn hơi nhẹ, nàng quay sang nhìn về phía cuối đường hầm.
 
 Nơi đó, một cánh cửa vòm khổng lồ bằng đá bazan đen nhánh vừa tự động mở ra. Từ bên trong căn phòng trung tâm, một luồng ánh sáng màu vàng cam rực rỡ và tiếng gầm rú của một cỗ máy công nghiệp khổng lồ vọng lại, xé toạc không gian ngàn năm tĩnh lặng của lòng đất Cairo.
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
 
 ---
 
@@ -352,7 +358,7 @@ Soraya bước lên mép thềm đá, đôi bàn tay run rẩy đưa lên ngực
 
 "Kinh thánh của dòng họ Al-Zahra từng chép lại: Vào thời kỳ Cánh Cửa Thứ Nhất mở ra ba ngàn năm trước, khi mana nguyên thủy lần đầu tiên tràn xuống Trái Đất, nhiệt lượng khổng lồ từ ma sát không-thời gian đã đe dọa làm bốc hơi toàn bộ đại dương. Các vị Pharaoh cổ đại và những học giả Asariën đầu tiên đã xây dựng kim tự tháp này như một cỗ máy điều hòa nhiệt độ khổng lồ... Nó hấp thụ nhiệt thừa từ dung nham, biến đổi thành mana dự trữ, rồi truyền theo trục kinh tuyến để sưởi ấm các vùng cực băng giá."
 
-"Một công trình cân bằng sinh thái vĩ đại," Dienne thì thầm, ánh mắt nàng quét qua những phương trình tô-pô lấp lánh trong khối thạch anh: "Hiệu suất chuyển hóa năng lượng $\eta$ ở đây đạt tới chín mươi tám phần trăm. Họ đã làm chủ được định luật tản nhiệt của Merlin trước cả khi phương Tây biết dùng lửa sưởi ấm."
+"Hiệu suất chuyển hóa năng lượng $\eta$ ở đây đạt tới chín mươi tám phần trăm," Dienne nói. Ánh mắt nàng lần theo những vành đồng sâu trong vách đá. "Hai phần trăm còn lại không biến mất. Nó bị đẩy qua các giếng tản nhiệt xuống nền sa thạch. Arknight đã bịt các giếng đó bằng mũi khoan."
 
 "Nhưng nhìn kia xem..."
 
@@ -400,9 +406,11 @@ Những viên đạn vonfram đặc biệt—được Ryan khắc Lôi Phù Bát
 
 Lôi điện xanh tím nổ bùng từ bên trong lõi máy. Cỗ Golem bốn chân đồ sộ đổ sụp xuống bờ đá, gãy vụn thành hàng ngàn mảnh sắt vụn rực lửa.
 
-"Dienne! Đường ống làm mát của mũi khoan ở góc bốn giờ!" Louisa hét lên qua tiếng súng đạn: "Cắt đứt nó là mũi khoan sẽ tự kích nổ vì quá nhiệt!"
+"Dienne! Đường ống làm mát của mũi khoan ở góc bốn giờ!" Louisa hét lên qua tiếng súng đạn. "Cắt đứt nó là mũi khoan sẽ tự kích nổ vì quá nhiệt!"
 
-"Ryan, theo ta!"
+Soraya nhìn theo, khuôn mặt căng lại dưới lớp khăn choàng. "Nếu cắt, toàn bộ nhiệt thừa sẽ dồn về đài tế. Có thể ta không kéo nó xuống kịp."
+
+"Ryan, theo ta!" Dienne đáp. Nàng không chớp mắt. "Nếu để mũi khoan tiếp tục, Cairo sẽ cháy theo cách Arknight định sẵn. Ta chọn cái nguy hiểm còn có thể sửa."
 
 Dienne nhảy vọt qua rãnh dung nham. Đôi mắt màu lam thẫm của nàng rực sáng trong bóng đêm. 
 
@@ -428,12 +436,13 @@ Mất đi sự kiềm tỏa của mũi khoan cơ khí, quả cầu plasma mana b
 
 Mọi ánh mắt lập tức đổ dồn về phía Soraya.
 
-Nàng thiếu nữ sa mạc nhìn vào ngọn lửa đang giãy giụa trong khối đá thạch anh, khóe môi khẽ run rẩy nhưng ánh mắt bỗng trở nên thanh thản lạ kỳ. Nàng siết chặt Vương trượng Cổ Ngọn Lửa, cất bước tiến thẳng về phía đài tế lễ nhô ra giữa biển dung nham.
+Nàng thiếu nữ sa mạc nhìn vào ngọn lửa đang giãy giụa trong khối đá thạch anh. Chiếc lọ đồng rỗng bên ngực nàng va khẽ vào xương quai xanh. Nàng siết chặt Vương trượng Cổ Ngọn Lửa, cất bước về phía đài tế lễ nhô ra giữa biển dung nham.
 
+"Lối tắt của Arknight đã bị cắt," Soraya nói. "Giờ đến lượt chúng ta trả giá cho nó."
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+Dienne bước song song với nàng, không giành lấy vương trượng.
+
+"Cậu nói cách làm. Chúng ta cùng làm."
 
 ---
 
@@ -441,89 +450,86 @@ Nàng thiếu nữ sa mạc nhìn vào ngọn lửa đang giãy giụa trong kh�
 
 Sức nóng từ hồ dung nham bốc lên hầm hập, làm biến dạng không gian xung quanh đài tế lễ bằng đá bazan.
 
-Nhiệt độ trên bề mặt phiến đá đã vượt quá tám mươi độ C. Đế giày của Soraya bắt đầu bốc lên những làn khói mỏng khét lẹt, nhưng bước chân của nàng thiếu nữ sa mạc vẫn vững vàng như đang bước trên thảm nhung của một cung điện ngập tràn hương hoa.
+Nhiệt độ trên bề mặt phiến đá đã vượt quá tám mươi độ C. Đế ủng của Soraya bắt đầu bốc lên những làn khói mỏng khét lẹt, mùi cao su cháy xộc vào mũi. Từng bước chân của nàng thiếu nữ sa mạc vẫn ghì chặt trên thềm đá nóng rực.
 
-"Áp suất plasma đã chạm ngưỡng tới hạn chín mươi lăm phần trăm!" Tiếng hét của Ryan vang lên khản đặc qua bức tường nhiệt: "Chị Soraya, lùi lại! Không thể hấp thụ trực tiếp nguồn năng lượng đó bằng cơ thể sinh học! Nhiệt lượng phản chấn $Q$ sẽ thiêu rụi kinh mạch của chị trong vòng một phần mười giây!"
+"Áp suất plasma đã chạm ngưỡng tới hạn chín mươi lăm phần trăm!" Tiếng hét của Ryan vang lên khản đặc qua bức tường nhiệt. Cậu dùng tay áo quệt mồ hôi đang chảy cay xè vào mắt. "Chị Soraya, lùi lại! Không thể hấp thụ trực tiếp nguồn năng lượng đó bằng cơ thể sinh học! Nhiệt lượng phản chấn $Q$ sẽ thiêu rụi kinh mạch của chị trong vòng một phần mười giây!"
 
-"Soraya!" Dienne bước tới mép vực, thanh kiếm gỗ sồi giơ lên, Lam Hỏa Asariën sẵn sàng tạo một màng ngăn cách nhiệt: "Để tôi vẽ ma trận phân tán vector nhiệt lượng!"
+"Soraya!" Dienne bước tới mép vực, thanh kiếm gỗ sồi giơ lên, Lam Hỏa Asariën sẵn sàng tạo một màng ngăn cách nhiệt. "Để tôi vẽ ma trận phân tán vector nhiệt lượng!"
 
 "Đừng, Dienne!"
 
-Soraya quay đầu lại. Nàng khẽ lắc đầu, nụ cười trên môi nàng rạng rỡ và thanh khiết tựa như một đóa hoa quỳnh nở giữa sa mạc khô cằn:
+Soraya quay đầu lại. Nụ cười trên môi nàng mỏng như cát khô dưới nắng trưa:
 
-"Toán học Asariën của cậu có thể phân tách mọi dòng chảy, nhưng ngọn lửa sa mạc này không phải là một bài toán để giải mã. Nó là tiếng thở của tổ tiên ta. Kẻ cố gắng dùng lý trí để áp chế nó sẽ chỉ làm nó nổi giận. Muốn thuần hóa lửa, ta phải hòa làm một với nó."
+"Toán học Asariën của cậu có thể phân tách dòng chảy, nhưng ngọn lửa sa mạc này không phải một ma trận số học để triệt tiêu. Nó là nhịp thở của tổ tiên ta. Dùng lý trí cưỡng ép sẽ chỉ khiến áp suất dội ngược. Muốn điều hòa nó, ta phải chấp nhận nó đi qua cơ thể."
 
-Soraya buông tấm khăn choàng cashmere màu đỏ mận trên vai xuống. Tấm khăn rơi vào lòng dung nham, bốc cháy thành một đốm sáng màu tro tàn rồi biến mất.
+Nàng buông tấm khăn choàng thêu hoa văn Al-Zahra trên vai xuống. Tấm vải rơi vào lòng dung nham, bốc cháy thành một đốm sáng đỏ rực rồi tàn lụi trong nháy mắt.
 
-Nàng đứng thẳng lưng giữa không trung ngột ngạt. Bằng cả hai tay, Soraya nâng bổng Vương trượng Cổ Ngọn Lửa lên trời cao. 
-
-Nàng nhắm mắt lại. Đôi môi mấp máy ngâm xướng khúc ca tế lễ ngàn năm của dòng họ Al-Zahra:
+Soraya nâng cao Vương trượng Cổ Ngọn Lửa bằng cả hai tay. Da thịt nàng rát bỏng dưới bức xạ plasma. Đôi môi nàng khô khốc, mấp máy ngâm xướng khúc ca tế lễ ngàn năm:
 
 *“Hỡi ngọn lửa sinh ra từ bụi cát,*  
-*Ngươi đã sưởi ấm những đoàn lữ hành trong đêm lạnh,*  
-*Ngươi đã nung chín những viên gạch xây nên đền đài,*  
-*Hôm nay, kẻ mang dòng máu cổ xưa xin dâng lên trái tim này,*  
+*Ngươi sưởi ấm những lữ hành trong đêm lạnh,*  
+*Ngươi nung chín gạch đá xây nên đền đài.*  
+*Hôm nay, kẻ mang dòng máu Al-Zahra xin làm vật dẫn,*  
 *Không phải để thống trị,*  
-*Mà để làm cầu nối cho ánh sáng trở về...”*
+*Mà để nhịp thở trở về với đất mẹ...”*
 
-Khúc ca vừa dứt, Soraya cắm phập chuôi vương trượng bằng đồng đen vào khe cắm hình bọ hung ở trung tâm đài đá!
+Soraya cắm phập chuôi vương trượng bằng đồng đen vào khe cắm hình bọ hung ở trung tâm đài đá!
 
 *OÀNG!*
 
-Một luồng sóng xung kích màu vàng kim bùng nổ từ đài đá, quét bay toàn bộ bụi đất và khói đen trong bán kính trăm mét!
+Một luồng sóng chấn động màu vàng kim bùng nổ từ khối đá bazan, thổi bạt bụi cát và khói đen ra xung quanh.
 
-Quả cầu plasma khổng lồ bên trong khối thạch anh treo ngược bỗng nhiên rung lên bần bật. Những vệt đen ô uế do mũi khoan của Arknight để lại bắt đầu bị luồng nhiệt tinh khiết của ngọn lửa tổ tiên đốt cháy rụi.
+Quả cầu plasma khổng lồ bên trong khối thạch anh treo ngược rùng mình rung chuyển. Vệt dầu đen và vết nứt do mũi khoan Arknight để lại bắt đầu bị luồng nhiệt tinh khiết của ngọn lửa tổ tiên đốt cháy.
 
-Thế nhưng, nhiệt lượng phản chấn $Q$ khổng lồ lập tức dội ngược lại cơ thể Soraya. Da thịt trên cánh tay nàng bắt đầu nứt nẻ, máu tươi rỉ ra bốc hơi thành những vệt sương đỏ mờ ảo. Nàng cắn chặt môi đến ứa máu, hai chân run rẩy nhưng hai bàn tay vẫn khóa chặt lấy vương trượng không rời nửa tấc!
+Thế nhưng, nhiệt lượng phản chấn $Q$ lập tức dội ngược vào cơ thể Soraya. Da bàn tay nàng nứt toác, máu tươi rỉ ra bốc hơi ngay lập tức thành những vệt khói mỏng. Tiếng rên đau đớn nghẹn ứ nơi cuống họng, hai đầu gối nàng khụy xuống, nhưng mười ngón tay vẫn khóa chặt lấy chuôi đồng đen rực lửa.
 
-"Độ lệch pha $\theta$ đang tiến dần về không!" Dienne lập tức nhìn thấu bản chất của phương trình giao thoa: "Soraya đang dùng nhịp tim của mình để đồng pha với tần số dao động của kim tự tháp! $\cos\theta = 1$!"
+"Sàn đá đang nứt vì dãn nở nhiệt!" Louisa quát lớn.
 
-Dienne nhảy vọt lên đài đá. Không chút do dự, nàng đặt bàn tay trái của mình lên bờ vai gầy guộc của Soraya.
+Không cần đợi lệnh, nàng thiếu nữ tóc đen rút phăng thanh Đại Thái Đao dài hơn một mét tư ra khỏi bao sau lưng. Lưỡi thép tôi đa tầng nặng trịch chém sập vào khe nứt lớn nhất giữa đài bazan. Louisa dùng trọng lượng toàn thân ép cán đao xuống, biến thân đao thành chiếc nêm cơ học giữ chặt khối đá đang rung bần bật:
 
-Ngọn Lam Hỏa thuần khiết của Asariën từ lòng bàn tay Dienne truyền sang, như một dòng nước mát lành xoa dịu những kinh mạch đang bốc cháy của người bạn đồng hành:
+"Thanh Vân! Đóng đinh nhiệt độ xung quanh! Ryan, xả áp vào rãnh tản nhiệt!"
 
-"Cậu không phải gánh chịu một mình, Soraya. Arrchirio luôn đứng cạnh cậu."
+"Được!" Lục Thanh Vân ném năm lá bùa Hàn Băng cắm dọc bờ rãnh dung nham: *"Càn khôn tá pháp, hàn sương tỏa mạch!"* Lớp sương mù trắng buốt bao phủ mép đài, ngăn cho bazan không chảy lỏng dưới chân Soraya.
 
-Diana, Louisa, Lục Thanh Vân, Ryan và Lucien đồng loạt bước lên.
+Ryan kéo cuộn cáp đồng bện chịu nhiệt, kẹp mỏ neo vào vành đài tế, ghì chặt bộ biến áp khiến lòng bàn tay cậu phồng rộp qua lớp găng: "Đã mở ba van xả! Nhưng lõi vẫn quá tải!"
 
-Diana rút liễu kiếm bạc cắm xuống phiến đá, hòa nhịp dạ khúc vào dòng chảy; Lục Thanh Vân phóng xuất đạo khí thuần dương của Côn Lôn; Ryan điều chỉnh vi mạch hấp thụ xung lực; Lucien giữ chặt trụ đá; và Louisa áp lòng bàn tay không mana của mình lên sống lưng Dienne làm điểm tựa sinh học vững chãi.
+Dienne nhảy vọt lên đài đá. Không dập tắt lửa của Soraya, nàng rút ngòi bút lông, vạch bốn ký tự Asariën 4 pha dẫn hướng luồng năng lượng từ kinh mạch Soraya sang trục đồng hồ của tháp:
 
-Bảy con người. Bốn nền văn minh.
+*“Aethel — vectar — stabilis — fiat.”*
 
-Cộng hưởng hoàn hảo!
+Ánh lam hòa cùng ánh vàng cam. 
 
-*ẦM ẦM ẦM!*
+Soraya siết chặt vương trượng. Một tiếng *tách* khô khốc vang lên từ đỉnh trượng—viên hồng ngọc gia truyền Al-Zahra nứt toác một đường mảnh như sợi tóc vì sốc nhiệt, nhưng nó đã giữ được toàn bộ dòng năng lượng không bị phân rã!
 
-Toàn bộ căn phòng ngầm bừng sáng một luồng hào quang vàng rực rỡ đến mức không một đôi mắt nào có thể mở ra được!
+*ẦM!*
 
-Khối thạch anh treo ngược hoàn toàn lành lặn trở lại, trong suốt như pha lê. Quả cầu plasma bên trong ngừng rung lắc, xoay tròn êm ru và phóng thích một cột sáng năng lượng thuần khiết đâm thẳng lên đỉnh trần đá!
-
-Cột sáng vàng kim xuyên thủng năm mươi mét đá hoa cương, xuyên qua lòng Đại Kim Tự Tháp Giza, phóng vút lên bầu trời đêm sa mạc Sahara!
+Khối thạch anh treo ngược bừng sáng, trong vắt như gương. Quả cầu plasma xoay tròn êm ru, phóng thích một cột sáng năng lượng thuần khiết đâm xuyên trần đá hoa cương, vút thẳng lên bầu trời đêm Sahara!
 
 Bên ngoài sa mạc:
 
-Dưới ánh trăng rằm, đỉnh nhọn của Kim Tự Tháp bừng sáng như một ngọn hải đăng khổng lồ giữa biển cát. Cột sáng vàng kim xé toạc tầng mây, vươn cao hàng ngàn mét vào vũ trụ, rồi uốn cong một đường cong hoàn mỹ hướng thẳng về phía bờ biển Địa Trung Hải—nối liền với Trục Long Mạch của Côn Lôn và Luân Đôn!
+Đỉnh Đại Kim Tự Tháp Giza bừng sáng giữa biển cát như ngọn hải đăng nghìn năm. Cột sáng vàng kim xé toạc tầng mây, vươn cao vào tầng bình lưu rồi uốn cong một góc tuyệt đối về phía tây bắc Địa Trung Hải—kết nối đồng pha với Trục Long Mạch Côn Lôn và Luân Đôn!
 
-Trục Long Mạch phía Nam đã chính thức thức tỉnh!
+Trục Long Mạch phía Nam đã thức tỉnh.
 
-Bên trong căn phòng ngầm, Soraya từ từ mở mắt ra. 
+Trong căn phòng ngầm, hơi nóng bắt đầu hạ nhiệt. Soraya buông tay khỏi vương trượng, ngã ngửa ra sau. Dienne kịp đỡ lấy bờ vai bỏng rát của nàng.
 
-Viên hồng ngọc trên đỉnh vương trượng của nàng giờ đây tỏa ra một quầng sáng ấm áp, dịu dàng như ánh nắng ban mai. Nàng nhìn Dienne, nhìn sáu người bạn đồng hành vẫn đang đứng vây quanh mình, khóe môi khẽ cong lên một nụ cười mãn nguyện:
+Lòng bàn tay Soraya in hằn những vết phỏng sâu của đồng nung. Viên hồng ngọc nứt trên trượng vẫn còn ấm nóng, phản chiếu đôi mắt nàng:
 
-"Đất mẹ đã được giải phóng."
+"Tro tàn đã cháy hết. Ngọn lửa giờ đây... thuộc về lòng đất."
 
-Dienne rút thanh kiếm gỗ sồi ra khỏi phiến đá. Nàng ngước nhìn dải sáng đang hướng về phía tây bắc Địa Trung Hải trên quả cầu năng lượng:
+Louisa thu thanh Đại Thái Đao về, lưỡi thép bốc khói mỏng vì tiếp xúc với đá nóng nhưng không hề cong vênh. Nàng lau mồ hôi trên cằm, nhếch mép:
 
-"Đường thông suốt rồi. Tọa độ cuối cùng đã khóa chặt."
+"Chuyến này về Cairo, cô nợ tôi một chầu kem lạnh đấy, phù thủy sa mạc."
 
-Nàng quay lại nhìn toàn đội, ánh mắt rực sáng sự quyết tâm đanh thép:
+Soraya mỉm cười yếu ớt, gật đầu.
 
-"Điểm dừng chân tiếp theo: **Thành Phố Tòa Thánh New Rome**. Đã đến lúc đối mặt với Hoàng thúc Alden và kết thúc triều đại bóng tối của Arknight!"
+Dienne nhìn dải sáng trên quả cầu bản đồ, nơi tọa độ Địa Trung Hải đang nhấp nháy:
 
+"Đường đã thông. Nhưng ở điểm cuối, Arknight sẽ không chờ chúng ta như một người đón khách."
 
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+Nàng ngẩng nhìn đồng đội, giọng trầm xuống:
+
+"Điểm dừng chân tiếp theo: **New Rome**. Chúng ta phải đối mặt với Hoàng thúc Alden."
 
 ---
 
@@ -543,64 +549,51 @@ Nàng đứng nép mình dưới bóng râm của một mái vòm dẫn nước 
 
 "Ở London, cảnh sát quý tộc vẫn còn biết nhận tiền hối lộ để làm ngơ cho dân nghèo kiếm sống. Còn ở cái thành phố này, lính gác đi lại đều như những cỗ máy lên dây cót. Cứ mười phút lại có một đội tuần tra ba người bọc giáp toàn thân đi qua."
 
-"Bởi vì linh hồn của thành phố này đã bị Thẩm Phán Viện cơ khí hóa," Lucien Vale khẽ nói, ngón tay cậu nhẹ nhàng gấp lại tấm giấy thông hành có con dấu sáp đỏ:
+"Bởi vì thị dân ở đây chấp nhận đổi tự do lấy an toàn tuyệt đối," Lucien Vale nói, ngón tay cậu nhẹ nhàng vuốt phẳng tấm giấy thông hành có con dấu sáp đỏ. Cậu đưa mắt nhìn đoàn người xếp hàng nhận khẩu phần dầu sưởi ấm ma thạch một cách trật tự:
 
-"Tôi vừa thanh toán ba ngàn đồng Denarius vàng ròng cho một quan chức thuế vụ tha hóa ở khu phố Do Thái. Chúng ta có bảy danh phận hợp pháp để vào khu vực ngoại thành, và một căn cứ an toàn tuyệt đối nằm ngay dưới mũi Thẩm Phán Viện."
+"Tôi vừa thanh toán ba ngàn đồng Denarius vàng ròng cho một quan chức thuế vụ. Nhưng điều đáng sợ hơn không phải là lính gác, mà là thái độ của dân chúng. Trên các tờ công báo dán đầy tường đá, New Arrchirio bị mô tả là bè lũ dị giáo cực đoan muốn đánh sập hệ thống Cổng để rước bão mana hủy diệt vào thành phố. Với họ, tháp ma thạch và bàn tay sắt của Nhiếp chính vương Alden là thứ duy nhất giữ cho con cái họ không bị ma thú ăn thịt. Họ không chỉ tuân phục Alden—họ thực sự sợ chúng ta sẽ phá nát sự bình yên giả tạo này."
 
-"Ở đâu?" Dienne hỏi.
+"Một nền hòa bình xây trên sự sợ hãi và dối trá luôn đòi hỏi cái giá ngày càng đắt," Dienne nói khẽ, mắt nhìn theo chiếc xe bọc thép đang áp giải những thợ rèn ma cụ kiệt sức.
+
+"Căn cứ của chúng ta ở đâu?" Diana hỏi.
 
 Lucien đưa tay chỉ về phía một khối kiến trúc hình elip khổng lồ bằng đá vôi travertine đã ngả màu ố vàng vì thời gian, sừng sững giữa trung tâm thành phố:
 
-"**Đấu trường Cổ Colosseum**."
+"Đấu trường Cổ Colosseum."
 
 Mười phút sau.
 
 Dưới tầng hầm sâu thứ ba của Đấu trường Colosseum—nơi hai ngàn năm trước từng giam giữ những loài dã thú ma thuật và các đấu sĩ nô lệ—nhóm New Arrchirio đã biến một căn phòng vòm gạch cổ thành trung tâm tác chiến dã chiến.
 
-Ryan đã nhanh chóng đặt một chiếc máy phát trường nhiễu EMP cỡ nhỏ lên một tảng đá sa thạch. Cỗ máy phát ra những tiếng *rè… rè…* êm ru, vô hiệu hóa toàn bộ các bùa chú nghe lén ma thạch trong phạm vi năm mươi mét xung quanh.
+Ryan đã nhanh chóng đặt một chiếc máy phát trường nhiễu ma trận cỡ nhỏ lên một tảng đá sa thạch. Cỗ máy phát ra những tiếng *rè… rè…* êm ru, vô hiệu hóa toàn bộ các bùa chú nghe lén ma thạch trong phạm vi năm mươi mét xung quanh.
 
-Diana trải tấm bản đồ kiến trúc của **Lâu đài Thiên Thần (Castel Sant'Angelo)** lên mặt một chiếc rương gỗ:
+Diana trải tấm bản đồ da cừu vẽ chi tiết kiến trúc ngầm của **Lâu đài Thiên Thần (Castel Sant'Angelo)** lên mặt một chiếc rương gỗ. Trên góc bản đồ có con dấu sáp niêm phong hình chim ưng hai đầu—ấn chỉ ngoại giao của nhánh lưu vong London mà mẹ nàng để lại trước khi qua đời.
 
-"Đêm nay, Thẩm Phán Viện và gia tộc Arknight sẽ tổ chức tiệc chiêu đãi ngoại giao thường niên tại Lâu đài Thiên Thần bên bờ sông Tiber. Toàn bộ giới tinh hoa của Đế quốc, các Đại sứ của bốn mươi quốc gia chư hầu và các Tướng quân Chấp Pháp đều sẽ có mặt."
+"Lucien mua được giấy qua cổng thành, nhưng để bước qua cửa chính Castel Sant'Angelo đêm nay, giấy thông hành thương nhân không đủ," Diana nói, giọng nàng đanh lại. Nàng đặt lên bàn hai tấm thiệp mời dát vàng. "Em đã dùng con dấu bảo chứng cuối cùng của mẹ ở Đại sứ quán London. Với Thẩm Phán Viện, chúng ta là hai tiểu thư thừa kế của chi nhánh Everhart quy thuận, đến diện kiến Thống soái Alden để xin ân xá gia tộc."
 
-Nàng ngước nhìn Dienne, đôi mắt màu lam ngọc sáng ngời:
+Dienne nhìn con dấu sáp đã bị bẻ gãy một góc trên tay em họ:
 
-"Và quan trọng nhất: Kẻ đứng đầu phái đoàn Arknight chủ trì buổi yến tiệc đêm nay chính là ông ấy... **Hoàng thúc Alden Everhart**."
+"Dùng con dấu đó đồng nghĩa với việc London sẽ tước bỏ quyền cư trú ngoại giao của em. Em sẽ không còn đường quay lại dinh thự ven sông Thames nữa."
 
-Cái tên vừa vang lên, không khí trong căn phòng hầm bỗng chốc chùng xuống.
+"Em chưa từng coi đó là nhà, Dienne," Diana ngẩng lên, đôi mắt màu lam ngọc sáng quắc dưới ánh đèn dầu. "Mười năm qua, mẹ em ho ra máu trong những đêm sương mù London, ôm mối nhục của kẻ 'bỏ chạy khỏi chiến trường'. Hoàng thúc Alden từng gửi thư sang Anh, gọi chi nhánh chúng em là lũ ký sinh ăn bám triều đình ngoại quốc. Em không đến New Rome để làm cái bóng của chị. Em muốn chính miệng ông ta phải rút lại những lời sỉ nhục đó."
 
-Dienne đứng lặng người bên chân cột đá. Bàn tay nàng siết chặt lấy chuôi thanh kiếm gỗ sồi bên hông.
+Dienne siết nhẹ bờ vai em gái. Trong mắt nàng thoáng qua một tia thấu hiểu sâu sắc:
 
-Người chú ruột duy nhất còn lại của nàng. Người từng bế nàng trên tay trong những buổi dạ hội mùa đông tại lâu đài Everhart thuở nàng lên bốn tuổi, người từng dạy nàng bài toán Asariën đầu tiên về hình học không gian... nhưng cũng chính là kẻ mười năm trước đã mở toang cổng thành phía Tây cho quân đoàn Thẩm Phán Viện tiến vào san phẳng quê hương.
+"Nợ máu của gia tộc Everhart... đêm nay chúng ta cùng đòi."
 
-"Chị có chắc chắn muốn bước vào đó không, Dienne?" Diana khẽ hỏi, giọng nàng thoáng một chút lo âu: "Nếu thân phận của chúng ta bị lộ ở Castel Sant'Angelo, toàn bộ quân đoàn đồn trú thành Rome sẽ phong tỏa cây cầu Thiên Thần trong vòng ba phút."
+Lục Thanh Vân bước lên, đặt ba lá bùa ẩn tức bằng chu sa vào lòng bàn tay Dienne và Diana:
 
-"Chúng ta không thể trốn tránh quá khứ mãi mãi, Diana," Dienne ngẩng đầu lên, ánh mắt nàng trong vắt và kiên định như băng tuyết ngàn năm của thung lũng phương Bắc:
+"Đạo tại nhân tâm. Hai vị công chúa cứ vững tâm tiến vào yến tiệc. Bần đạo cùng Louisa, Ryan, Soraya và Lucien sẽ mai phục sẵn dưới chân cầu Thiên Thần. Chỉ cần có biến cố, lôi phù và hỏa pháp sẽ lập tức mở đường máu đưa hai người rút lui an toàn."
 
-"Alden là kẻ giữ chìa khóa khởi động cỗ máy Cánh Cửa Thứ Bảy dưới lòng đất Vatican. Chúng ta cần mật mã vector của ông ta để ngăn chặn sự sụp đổ của thực tại. Hơn nữa..."
+Louisa kiểm tra lại then cài của thanh Đại Thái Đao sau lưng, nhét một chiếc kẹo mút mới vào túi áo dạ hội của Dienne:
 
-Nàng nhìn vào huy hiệu nhánh cây bạc trên ngực áo Diana:
+"Cầm lấy phòng khi tụt đường huyết, công chúa. Đi gặp ông chú phản bội của hai cô đi... và nhớ dạy cho lão ta một bài học về toán học gia đình."
 
-"Nợ máu của gia tộc Everhart cần phải có một câu trả lời dứt khoát vào đêm nay."
-
-Lục Thanh Vân khẽ bước lên, đặt ba lá bùa ẩn tức bằng chu sa vào lòng bàn tay Dienne và Diana:
-
-"Đạo tại nhân tâm. Hai vị công chúa cứ yên tâm tiến vào yến tiệc. Bần đạo cùng Louisa, Ryan, Soraya và Lucien sẽ mai phục sẵn dưới chân cầu Thiên Thần. Chỉ cần có biến cố, lôi phù và hỏa pháp sẽ lập tức mở đường máu đưa hai người rút lui an toàn."
-
-Louisa kiểm tra lại băng đạn vonfram trong khẩu súng ngắn, nhét một chiếc kẹo mút mới vào túi áo Dienne:
-
-"Cầm lấy phòng khi tụt đường huyết, công chúa. Đi gặp ông chú phản bội của cậu đi... và nhớ dạy cho lão ta một bài học về toán học gia đình."
-
-Dienne khẽ mỉm cười. Nàng khoác tấm áo choàng dạ hội lụa đen sang trọng lên người, cài chiếc trâm cài tóc cành bạc Everhart lên mái tóc màu bạch kim.
+Diana khẽ gật đầu. Nàng chỉnh lại dải lụa đen trên cổ áo, giấu mũi liễu kiếm bạc dọc theo nếp váy dạ tiệc.
 
 Chuông nhà thờ lớn St. Peter ngân vang sáu tiếng điểm giờ hoàng hôn.
 
-Đã đến lúc bước vào dạ hội của những kẻ thống trị.
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+Đã đến lúc bước vào sào huyệt của kẻ thống trị.
 
 ---
 
@@ -660,9 +653,19 @@ Gió đêm từ sông Tiber thổi vào lồng lộng, mang theo hơi ẩm se l�
 
 Alden cất tiếng. Giọng ông trầm ấm, điềm tĩnh, không một chút gợn sóng sợ hãi hay giận dữ, hệt như một người chú đang chào đón những đứa cháu gái đi xa trở về nhà:
 
-"Và cả Diana nữa. Con bé chưa từng nhìn thấy tuyết của lâu đài Everhart... Cha mẹ các cháu nuôi dạy cháu ở London rất tốt."
+"Và cả Diana nữa. Mẹ cháu đưa cháu trốn sang bờ bên kia eo biển, sống trong những dinh thự phủ rèm nhung ở London. Ta ngỡ cháu sẽ ngoan ngoãn lớn lên làm một tiểu thư đài các, uống trà chiều và quên hẳn cái lạnh của phương Bắc."
 
-Dienne đứng thẳng lưng cách ông năm bước chân. Nàng không chạm vào ly rượu vang:
+Diana bước lên một bước, đứng ngang hàng với Dienne. Bàn tay đeo găng lụa đen của nàng đặt thẳng lên đốc kiếm liễu giấu bên hông:
+
+"Mẹ cháu chưa từng quên, thưa Hoàng thúc. Suốt mười năm ho ra máu trong sương mù sông Thames, người chưa từng để cháu buông lơi một buổi tập kiếm nào. Vì mẹ biết ngày này sẽ tới. Thúc tưởng chi nhánh London trốn chạy sao? Con dấu niêm phong đưa cháu qua cổng chính đêm nay là thứ thúc từng gọi là 'tro tàn phế tích'. Cháu đến đây không phải để nhận sự thương hại hay hoài niệm giả tạo từ kẻ đã bán đứng gia tộc mình."
+
+Alden khẽ nheo mắt lại. Lần đầu tiên, cái nhìn xám tro của ông dừng lại trên mặt Diana với sự soi xét sắc lạnh:
+
+"Khí chất rất giống mẹ cháu—bướng bỉnh và thiển cận. Nếu cháu thức thời, tấm thiệp mời kia vẫn có thể đổi lấy một vị trí an toàn trong Viện Quý Tộc mới của Rome khi trật tự được thiết lập. Bước cùng Dienne chỉ có một ngõ cụt."
+
+"Everhart không cần chiếc ghế rác rưởi của Thẩm Phán Viện," Diana đáp, giọng lạnh tanh như thép nguội. "Đó là câu trả lời của nhánh London."
+
+Dienne nhìn người chú ruột, đôi mắt màu lam thẫm sâu không thấy đáy:
 
 "Tại sao, thưa Hoàng thúc?"
 
@@ -690,9 +693,9 @@ Nàng giơ bàn tay trái lên, thanh kiếm gỗ sồi của Rhea bên hông ph
 
 "Cân Bằng thực sự không phải là triệt tiêu hay đồng hóa. Cân Bằng là lòng dũng cảm để những thế giới khác biệt học cách tôn trọng và sống cùng nhau. Người Thầy Già đã dạy cháu điều đó. Louisa, Ryan, Diana, Soraya và Lục Thanh Vân đã chứng minh điều đó!"
 
-Alden nhìn nàng hồi lâu. Khóe môi ông bỗng cong lên một nụ cười lạnh lẽo:
+Alden nhìn hai người cháu gái hồi lâu. Khóe môi ông bỗng cong lên một nụ cười lạnh lẽo:
 
-"Lý tưởng của cháu rất đẹp, Dienne. Nhưng toán học của thực tại tàn nhẫn hơn những bài giảng của Người Thầy Già nhiều."
+"Lý tưởng của các cháu rất đẹp. Nhưng toán học của thực tại tàn nhẫn hơn những bài giảng của Người Thầy Già nhiều."
 
 Ông đặt chiếc ly pha lê xuống bệ đá phát ra một tiếng *cạch* dứt khoát.
 
@@ -704,12 +707,7 @@ Bầu trời đêm trên đỉnh nhà thờ St. Peter bỗng nhiên nứt toạc
 
 Alden khẽ mỉm cười, lùi lại một bước vào khoảng tối của ban công:
 
-"Đã quá muộn để tranh luận rồi, cháu gái bé bỏng của ta. Cỗ máy Cánh Cửa Thứ Bảy dưới đồi Vatican... đã chính thức thức tỉnh."
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+"Đã quá muộn để tranh luận rồi, các cháu gái của ta. Cỗ máy Cánh Cửa Thứ Bảy dưới đồi Vatican... đã chính thức thức tỉnh."
 
 ---
 
@@ -751,57 +749,53 @@ Một làn sóng xung kích màu đen quét qua!
 
 Ngọn lửa trên vương trượng của Soraya lập tức lụi tàn; kiếm khí của Diana bị dập tắt; Lam Hỏa của Dienne bị bóp nghẹt thành những tia khói xám.
 
-"Hư vô ma thạch triệt tiêu dòng chảy mana..." Lục Thanh Vân ôm ngực lùi lại một bước, khóe môi rỉ máu: "Nó khóa chặt toàn bộ đan điền và kinh mạch!"
+"Hư vô ma thạch triệt tiêu dòng chảy mana..." Lục Thanh Vân ôm ngực lùi lại nửa bước, sắc mặt trắng bệch, khóe môi rỉ máu tươi. "Nó khóa chặt kinh mạch!"
 
-"Chết đi, lũ dị giáo!" 
+"Chết đi, lũ dị giáo!"
 
-Malakor gầm lên man dại, vung lưỡi hái bóng tối bổ thẳng xuống đầu Dienne với tốc độ kinh hoàng!
+Malakor gầm lên man dại, vung lưỡi hái bóng tối rít gió chém ngang, nhắm thẳng cổ họng Dienne!
 
-*KENG!*
+*KEEEENG!*
 
-Một tia lửa chói lòa bắn tung tóe giữa không trung!
+Tia lửa vàng rực tóe lên chói lòa trong bóng tối!
 
-Lưỡi hái khổng lồ của Malakor không chạm được vào người Dienne. Nó bị chặn đứng lại bởi một thanh đoản đao tantō bằng thép tôi cứng của thế giới thực!
+Lưỡi hái khổng lồ dài ba mét của Malakor không chạm được vào da thịt Dienne. Nó chém sập vào sống lưng của một thanh **Đại Thái Đao dài hơn một mét tư** bằng thép tôi đa tầng!
 
-Louisa đứng chắn trước mặt Dienne. 
+Louisa đứng chắn sừng sững trước mặt Dienne. Hai chân nàng đóng chặt xuống kẽ đá hoa cương, hai tay ghì chặt cán đao bọc da cá đuối thô ráp. Sức nặng của cú va chạm dồn qua sống đao dày, chấn động truyền thẳng vào khớp vai khiến khớp xương nàng kêu rắc một tiếng khô khốc, nhưng ánh mắt xám tro sau sợi tóc mai vẫn lạnh như băng:
 
-Nàng thiếu nữ mười tám tuổi không hề lùi lại nửa bước. Trên khóe môi nàng, chiếc que kẹo mút dâu tây vẫn đong đưa một cách ngạo nghễ:
+"Hư vô ma thạch hút cạn mana à? Đáng tiếc thật đấy, đồ quái vật chắp vá..."
 
-"Hư vô ma thạch triệt tiêu mana à? Đáng tiếc thật đấy, đồ quái vật nửa người nửa máy..."
+Chiếc que kẹo mút dâu xoay nhẹ nơi khóe môi Louisa. Cơ bắp nàng gồng lên, dùng góc nghiêng của lưỡi thép gạt phăng đường chém của lưỡi hái:
 
-Đôi mắt Louisa lóe lên một tia sát khí lạnh buốt:
+"Tôi vốn dĩ **không có một giọt mana nào cả** ($\Psi = 0$). Thép của tôi chỉ biết đến định luật Newton!"
 
-"Tôi vốn dĩ **hoàn toàn không có một giọt mana nào cả** ($\Psi = 0$)!"
+Malakor sững sờ. Con mắt nhân tạo màu đỏ của gã co giật dữ dội: "Cái gì—"
 
-Malakor sững sờ. Con mắt nhân tạo màu đỏ của gã co giật dữ dội: "Cái... cái gì?!"
+Không cho gã kịp hoàn hồn, Louisa xoay người, dồn lực hạ đao chém đứt khớp xích chuyển động ở đầu gối phải của gã. Khối sắt nặng nề mất trọng tâm quỵ xuống.
 
-"Khoa học thế giới thực gửi lời chào ông đấy."
+"Diana! Cắt nguồn làm mát!" Louisa hét lớn, lồng ngực thở dốc vì phản lực va đập.
 
-Louisa xoay nhẹ cổ tay, gạt phăng lưỡi hái bóng tối sang một bên. Bằng một động tác nhanh như chớp giật của võ thuật đường phố, nàng áp sát vào lồng ngực bọc thép của Malakor.
+Diana lướt tới như một bóng ma lụa đen. Không dùng mana, nàng tận dụng toàn bộ bộ pháp đấu kiếm hoàng gia, mũi liễu kiếm bạc đâm xuyên chuẩn xác qua khe hở giáp dưới nách Malakor, bẻ gãy ống dẫn dầu thủy lực! Dòng dầu đen sôi sùng sục phụt ra, bắn rát bỏng lên mu bàn tay Diana, nhưng nàng không hề chớp mắt.
 
-Tay trái nàng rút khẩu súng ngắn giảm thanh gí thẳng vào khối tinh thể Hắc Ma Thạch lộ ra giữa ngực gã.
+"Đến lượt bần đạo!" Lục Thanh Vân cắn rách đầu ngón tay, dùng chính máu tươi áp lên lá lôi phù trên chuôi kiếm gỗ đào, bất chấp áp chế của ma thạch: *"Ngũ Lôi quy nhất, tà bất thắng chính!"*
+
+Chàng phóng thanh kiếm cắm thẳng vào viên tinh thể hắc ma thạch trên ngực Malakor!
+
+Cùng lúc đó, Louisa rút khẩu súng ngắn giảm thanh, kê sát họng súng vào đuôi thanh kiếm gỗ đào.
 
 *ĐOÀNG!*
 
-Phát đạn ở cự ly tiếp xúc hoàn toàn!
+Đầu đạn vonfram đội thanh kiếm xuyên thủng lõi năng lượng! Lôi điện tích tụ kết hợp với động năng nghiền nát khối tinh thể thành vụn đá!
 
-Đầu đạn vonfram siêu cứng nghiền nát lớp vỏ bảo vệ, cắm ngập vào trung tâm viên tinh thể cung cấp năng lượng cho cơ thể gã!
+*ẦM!*
 
-Cùng lúc đó, Diana lướt tới từ phía sau. Thanh liễu kiếm bạc trong tay nàng đâm xuyên qua khớp vai cơ khí của Malakor bằng một đường kiếm chính xác tuyệt đối; Lục Thanh Vân vung thanh kiếm gỗ đào dán ba lá lôi phù cắm thẳng vào đỉnh đầu gã:
+Khối cơ thể kim loại đồ sộ của Malakor phát nổ từ bên trong, sụp đổ thành một đống phế liệu bốc khói khét lẹt. Sóng xung kích hất văng cả nhóm ra xa, trần hầm rung chuyển dữ dội.
 
-*“Ngũ Lôi Oanh Đỉnh, phá tà trục xuất!”*
+"Ryan! Bảng điều khiển!" Dienne gượng dậy quát.
 
-*OÀNG OÀNG OÀNG!*
+Ryan lao vào bàn điều khiển đang cháy chập điện. Cậu nhét chiếc đĩa mềm virus logic vào khe đọc, hai bàn tay bấm phím điên cuồng bất chấp tia lửa điện bắn ran rát: "Đang ghi đè vector! Ba... hai... một... Ngắt kết nối!"
 
-Sấm sét xanh tím bùng nổ từ bên trong lồng ngực Malakor! 
-
-Đại Thẩm Phán gầm lên một tiếng đau đớn tuyệt vọng, toàn thân co giật dữ dội rồi đổ sụp xuống sàn đá như một tòa tháp gãy, vỡ vụn thành những mảnh kim loại bốc khói đen ngòm.
-
-"Ryan! Vô hiệu hóa bảng điều khiển ngay!" Dienne hét lớn.
-
-Ryan lao tới bàn điều khiển máy tính, cắm chiếc đĩa mềm chứa virus EMP logic do cậu và Louisa tự viết vào khe đọc: "Đang ghi đè giao thức điều khiển! Ngắt kết nối Cổng Rò Rỉ trong ba... hai... một... Thành công rồi!"
-
-Toàn bộ các màn hình quang học phụt tắt. Tiếng gầm rú của máy bay hơi nước im bặt.
+Bàn phím phát nổ phụt ra một chùm khói đen. Ryan hét lên một tiếng đau đớn, giật tay lại—các đầu ngón tay cậu đã bị cháy sém, chiếc máy quét trên cổ tay vỡ toác. Toàn bộ màn hình quang học phụt tắt. Tiếng máy móc cơ khí im bặt.
 
 Nhưng đúng lúc họ thở phào nhẹ nhõm thì sàn đá của hầm mộ bỗng nhiên nứt toác ra làm đôi!
 
@@ -814,11 +808,6 @@ Từ đáy sâu thăm thẳm của lòng đất Vatican, một lực hút không
 Phía dưới đáy sâu ấy... là một vòng xoáy năng lượng khổng lồ màu xám bạc đang nuốt chửng mọi định luật vật lý.
 
 Cánh Cửa Thứ Bảy đang nằm ngay bên dưới chân họ.
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
 
 ---
 
@@ -902,22 +891,17 @@ Dienne cất tiếng, giọng nàng đanh thép át cả tiếng gầm rú của
 
 "Trận chiến vì sự Cân Bằng bắt đầu!"
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
-
 ---
 
 ## CHƯƠNG 9: VỰC HƯ KHÔNG CỦA THỰC TẠI
 
 Không gian phi Euclid xé toạc mọi khái niệm về phương hướng.
 
-Dưới chân bảy người New Arrchirio, mặt sàn đá bazan đã biến mất, thay thế bằng một vùng chân không vô tận lấp lánh bụi sao và những mảnh vỡ kiến trúc trôi nổi bồng bềnh. 
+Dưới chân bảy người New Arrchirio, sàn đá bazan đã biến mất, thay thế bằng một vùng chân không vô tận lấp lánh bụi sao và những mảnh vỡ kiến trúc trôi nổi bồng bềnh. 
 
 Một nửa tháp chuông Big Ben của London xoay tròn chầm chậm ở góc chín giờ; một mái ngói lưu ly cong vút của Thiên Môn Đạo Quán Côn Lôn lơ lửng ở góc ba giờ; và ngay phía dưới chân họ, một ngã tư đường phố Tokyo với những cột đèn tín hiệu giao thông nhấp nháy ánh đỏ chập chờn như một ảo ảnh ma quái.
 
-Trọng lực biến mất hoàn toàn. Mọi người phải dùng luồng khí ma đạo hoặc điểm tựa của các mảnh vỡ trôi dạt để giữ thăng bằng cơ thể.
+Trọng lực biến mất hoàn toàn. Mọi người phải dùng luồng khí ma đạo hoặc điểm tựa của các mảnh vỡ trôi dạt để ghì chặt cơ thể.
 
 Và ở phía đối diện, cách họ chưa đầy năm mươi mét, Alden Everhart lơ lửng giữa biển sao như một vị thần hủy diệt.
 
@@ -931,11 +915,9 @@ Giọng nói của Alden dội thẳng vào màng nhĩ của mọi người như
 
 Ông vung thanh trường kiếm đen lên. 
 
-Một nhát chém đơn giản nhưng xé toạc không gian thành một vết nứt chân không dài hàng trăm mét! Một lưỡi đao bóng tối khổng lồ mang sức công phá của một quả bom nhiệt hạch phóng thẳng về phía nhóm người!
+Một nhát chém đơn giản nhưng xé toạc không gian thành một vết nứt chân không dài hàng trăm mét! Một lưỡi đao bóng tối khổng lồ mang sức công phá của sóng xung kích quy mô lớn phóng thẳng về phía nhóm người!
 
 "Tản ra! Hợp kích phòng ngự!" Dienne hét lớn.
-
-Toàn đội lập tức chuyển động theo một đội hình đã được rèn giũa qua bảy Volume chinh chiến:
 
 Lục Thanh Vân phi thân lên một tảng đá Côn Lôn trôi dạt. Chàng cắn rách đầu ngón tay trỏ, vạch một chữ "ĐẠO" bằng máu tươi lên thân thanh kiếm gỗ đào ngàn năm:
 
@@ -945,70 +927,67 @@ Một vòng tròn âm dương màu vàng ngọc bích rộng ba mươi mét bùn
 
 *OÀNG!*
 
-Sóng xung kích nổ tung dữ dội! 
+Sóng xung kích nổ tung dữ dội. Mặt lôi đài Bát Quái nứt toác từng mảng lớn. Lục Thanh Vân hộc ra một búng máu tươi, cả người bị phản lực bắn lùi về phía sau hàng chục mét, nhưng đã triệt tiêu được phần lớn sức công phá của đòn quét diện rộng!
 
-Mặt lôi đài Bát Quái nứt toác từng mảng lớn. Lục Thanh Vân hộc ra một búng máu tươi, cả người bị phản lực bắn lùi về phía sau hàng chục mét, nhưng đã triệt tiêu được bảy mươi phần trăm sức công phá của đòn đánh!
+"Soraya! Ryan! Phá nhịp thở của cỗ máy!" Dienne ra lệnh.
 
-Cùng lúc đó, Soraya và Ryan từ hai cánh phản công.
+Soraya giơ cao Vương trượng Cổ Ngọn Lửa. Viên hồng ngọc nứt nẻ từ đền Giza rung lên bần bật. Nàng dồn toàn bộ tàn dư mana vào ngực trượng, cất tiếng ngâm sa mạc khàn đặc: *"Ngọn lửa Al-Zahra... đốt cháy hư vô!"*
 
-Soraya giơ cao Vương trượng Cổ Ngọn Lửa, ngâm xướng khúc ca sa mạc bằng toàn bộ sinh lực còn lại: *"Hỡi ngọn lửa Al-Zahra, thiêu rụi bóng tối!"* Một con chim ưng bằng lửa cam khổng lồ sải cánh lao thẳng vào mặt Alden!
+Một con chim ưng bằng lửa cam rực sáng lao thẳng vào mặt Alden. Ngọn lửa sa mạc bốc cháy dữ dội khiến tầm nhìn của Alden bị che khuất trong nửa giây. Đổi lại, một tiếng *choảng* giòn tan vang lên—viên hồng ngọc nghìn năm vỡ tan thành từng mảnh vụn, Soraya ngã quỵ xuống một phiến đá lơ lửng, ngực nghẽn lại vì cạn kiệt mana ($\Psi \approx 0$).
 
-Ryan treo mình trên một khung sắt dầm cầu London, giương khẩu súng phóng lựu Magitech nã liên tiếp sáu quả đạn EMP đặc biệt: *"Nếm thử virus nhị phân cải tiến này xem, lão già độc tài!"*
+Cùng lúc đó, Ryan trườn trên thanh dầm cầu sắt London, hai bàn tay cháy xém bấm chặt vào bộ kích xung Magitech: "Không thể phá giáp từ ngoài, em sẽ đảo xung nhịp cáp thần kinh!"
 
-Sáu quả đạn nổ tung thành một tấm lưới điện xanh tím bao phủ lấy những sợi cáp thần kinh sau lưng Alden!
+Cậu nhóc phóng chiếc mỏ neo cáp đồng bện găm thẳng vào bó cáp vàng sau gáy Alden. Ryan gạt kịch kim công tắc xả tụ điện: *"Giao thức quá tải!"*
 
-Thế nhưng, Alden chỉ khẽ nhếch mép cười lạnh lùng.
+Một luồng xung điện bạc tỷ watt chạy ngược vào hệ thần kinh Alden. Người đàn ông khựng lại, cơ thể co giật dữ dội khi dòng lệnh đồng bộ bị nhiễu loạn 4.2 giây! Nhưng luồng điện dội ngược lập tức kích nổ cỗ máy trên tay Ryan. 
 
-*“Ấu trĩ.”*
+*ĐOÀNG!*
 
-Ông vung tay áo giáp trái lên. Một luồng xung lực hư vô cực mạnh ($\Psi > 20.000\text{ man}$) bùng nổ, dễ dàng dập tắt con chim ưng lửa của Soraya và thổi bay toàn bộ lưới điện của Ryan thành tro bụi!
+Cỗ máy phát xung gắn bó với Ryan từ Vol 1 nổ tung thành tro sắt vụn. Cậu nhóc bị hất văng vào bức tường đá vụn, hai cánh tay bỏng rộp, màng nhĩ rỉ máu lịm đi.
 
-Áp lực không khí tăng vọt làm Soraya ngã quỵ xuống một phiến đá lơ lửng, vương trượng tuột khỏi tay; Ryan bị chấn động văng mạnh vào một khối bê tông, chiếc ba-lô công nghệ sau lưng nổ tung tóe tia lửa!
+"Khốn kiếp!" Alden gầm lên, bàn tay bọc sắt vung ra bẻ gãy sợi cáp mỏ neo.
 
-"Soraya! Ryan!" Lucien lao tới, kéo hai người đồng đội nép vào sau một mảnh vỡ vách đá.
+Chính trong 4 giây tê liệt quý giá đó, hai bóng người lao vào khoảng mù của Alden:
 
-Trên chiến trường lúc này, chỉ còn lại ba bóng người áp sát Alden:
+Louisa vung thanh Đại Thái Đao dài hơn một mét tư chém phạt ngang từ dưới lên! Động năng thuần túy của thép tôi không mana đập vỡ vụn khớp nối ống dẫn năng lượng ở thắt lưng Alden, cắt đứt dòng cấp mana từ cỗ máy Cánh Cửa Thứ Bảy!
 
-Diana Everhart lướt đi trên không trung như một thiên nga bạc. Nàng tận dụng các mảnh vỡ trôi dạt làm bàn đạp, xoay tròn cơ thể thực hiện điệu dạ vũ nhanh nhất trong cuộc đời mình. Thanh liễu kiếm bạc trong tay nàng biến thành một cơn bão ánh sáng, đâm liên tiếp bốn mươi nhát vào các khớp nối giáp của Alden!
+Và từ trên cao, Diana Everhart lướt xuống như một tia chớp bạc. Thanh liễu kiếm trong tay nàng không chém bừa, mà đâm chuẩn xác vào kẽ hở giữa giáp ngực và giáp vai trái của Alden—nơi mẹ nàng từng vẽ lại trong sơ đồ giáp kỵ sĩ hoàng gia!
 
-*KENG! KENG! KENG! KENG!*
+*PHẬP!*
 
-Từng tia lửa chói lòa bắn ra liên hồi. Nhưng lớp giáp Hắc Ma Thạch của Alden quá dày, mũi kiếm của Diana chỉ để lại những vết xước mờ!
+Mũi liễu kiếm bạc xuyên sâu ba tấc, bẻ gãy chốt hãm giáp ngực!
 
-Alden quay ngược chuôi kiếm, một cú thúc báng kiếm sắt giáng thẳng vào mạn sườn Diana!
+Alden nghiến răng vì đau đớn. Bằng một phản xạ tàn khốc, ông vung sống kiếm đen đập thẳng vào mạn sườn Diana!
 
 *RẮC!*
 
-Xương sườn của Diana gãy rắc một tiếng đau đớn. Nàng công chúa nhỏ hộc máu, cơ thể bay vút ra xa như một cánh hoa tàn giữa bão tuyết!
+Xương sườn của Diana gãy rắc một tiếng chói tai. Nàng công chúa hộc máu, văng ra xa như cánh hoa rụng rơi xuống vực sâu không trọng lực.
+
+Nhưng chốt giáp ngực của Alden đã toạc mở!
 
 "DIANA!" 
 
-Dienne thét lên xé lòng. Đôi mắt nàng đỏ ngầu vì thịnh nộ và đau đớn.
+Dienne lao vút tới. Trong khoảnh khắc khoảng trống duy nhất được mở ra bằng máu của đồng đội, Dienne dồn toàn bộ lượng Lam Hỏa Asariën thuần khiết nhất vào thanh kiếm gỗ sồi của Rhea:
 
-Nàng phóng mình qua hư không, hai tay nắm chặt lấy thanh kiếm gỗ sồi của Rhea. Toàn bộ lượng mana còn lại trong cơ thể nàng—ngọn Lam Hỏa thuần khiết nhất của Asariën—bùng cháy rực rỡ quanh thân kiếm:
+*“Aethel — ignis — penetrare!”*
 
-*“Dura ignis spirare fiat!”*
-
-Dienne chém một nhát toàn lực vào lồng ngực Alden!
+Dienne đâm thẳng mũi kiếm gỗ rực lửa lam vào vết nứt hở trên ngực Alden!
 
 *ẦM!*
 
-Nhát chém của Lam Hỏa cắt thủng lớp giáp hắc ma thạch, để lại một vết chém sâu hoắm bốc cháy ngùn ngụt trên ngực ông!
+Lam Hỏa bùng nổ, thiêu đốt cơ thịt và các vi mạch thần kinh bên trong lồng ngực Alden!
 
-Alden khẽ rên lên một tiếng nghẹn ngào, lùi lại nửa bước. 
+Người đàn ông quyền lực nhất Đế quốc gầm lên một tiếng đau đớn nghẹn ngào, lùi lại ba bước trên không trung, máu đen rỉ ra từ giáp ngực bốc khói khét lẹt.
 
-Nhưng vết thương sâu ấy chỉ làm ánh mắt ông càng thêm tàn độc và điên cuồng. Ông nhìn xuống Dienne—cô cháu gái đang kiệt sức thở dốc trước mặt mình—bằng một sự lạnh lùng tuyệt đối:
+Thế nhưng, vết thương chí mạng ấy không đánh gục được kẻ đã kết nối linh hồn với Cánh Cửa Thứ Bảy.
 
-*“Cháu đã tiến bộ rất nhiều, Dienne... Nhưng chỉ bấy nhiêu thôi thì không đủ để cứu thế giới này đâu.”*
+Alden ngẩng đầu lên. Đôi mắt xám tro của ông giờ đây đã biến thành hai hố đen vô tận. Sự tàn độc và cuồng tín đạt đến đỉnh điểm:
 
-Alden nâng thanh trường kiếm đen lên trời cao. 
+*“Các cháu... đã ép ta phải dùng đến bước cuối cùng.”*
 
-Năng lượng của Cỗ Máy Nén Cánh Cửa Thứ Bảy dồn hết vào lưỡi kiếm, ngưng tụ thành một quả cầu hủy diệt màu đen tuyền khổng lồ, bao trùm toàn bộ không gian trong sự tĩnh lặng của cái chết.
+Alden giơ thẳng thanh kiếm đen lên trời cao.
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
+Toàn bộ năng lượng của Cỗ Máy Nén Cánh Cửa Thứ Bảy rít lên kinh hoàng, dồn hết vào lưỡi kiếm, ngưng tụ thành một quả cầu hủy diệt màu đen tuyền khổng lồ, bao trùm toàn bộ không gian trong sự tĩnh lặng của cái chết tuyệt đối.
 
 ---
 
@@ -1026,71 +1005,77 @@ Lượng mana nội tại của nàng đã hoàn toàn cạn kiệt ($\Psi \appr
 
 Giọng Alden lạnh lẽo như một bản án tử hình không thể kháng cáo. 
 
-Ông hạ thanh trường kiếm đen xuống. Quả cầu hủy diệt biến thành một chùm tia năng lượng hắc ám khổng lồ rộng mười mét, gầm thét lao thẳng vào Dienne với vận tốc ánh sáng!
+Ông hạ thanh trường kiếm đen xuống. Quả cầu hủy diệt biến thành một chùm tia năng lượng hắc ám khổng lồ rộng mười mét, gầm thét xé toạc chân không lao thẳng vào Dienne!
 
-Trong khoảnh khắc sinh tử ấy, khi cái chết chỉ còn cách Dienne một phần mười giây...
+Trong khoảnh khắc sinh tử ấy, khi cái chết chỉ còn cách Dienne một tích tắc...
 
-Một bóng người khoác đạo bào xanh rách rưới bỗng nhiên lao vút qua trước mắt nàng!
+Một bóng người khoác đạo bào xanh rách rưới lao vút qua trước mắt nàng!
 
 "Thanh Vân, đừng!" Dienne thét lên trong tuyệt vọng.
 
-Lục Thanh Vân phi thân chắn ngay trước mặt Dienne. Chàng đạo sĩ trẻ mười bảy tuổi cắn chặt răng, hai tay giơ ngang thanh kiếm gỗ đào ngàn năm của Thiên Môn Đạo Quán:
+Lục Thanh Vân phi thân chắn ngay trước mặt Dienne. Chàng đạo sĩ Côn Lôn nghiến răng đến bật máu, vỗ mạnh vào đan điền, cưỡng bức đảo ngược toàn bộ chu thiên kinh mạch—cấm thuật *Nghịch Chuyển Càn Khôn* thiêu đốt toàn bộ căn cơ tu đạo! Chàng giơ ngang thanh kiếm gỗ đào ngàn năm:
 
-*“Thiên địa vô cực, Càn Khôn chính khí! Lấy thân làm thuẫn, đoạn tuyệt tà ma!”*
+*“Thiên địa vô cực, lấy đạo tâm này đền nợ càn khôn!”*
 
 Chùm tia hắc ám giáng thẳng vào thanh kiếm gỗ đào!
 
 *RĂNG RẮC!*
 
-Thanh kiếm báu ngàn năm tuổi của núi tuyết Côn Lôn vỡ vụn thành hàng triệu mảnh mùn cưa phát sáng! 
+Thanh kiếm báu ngàn năm tuổi của núi tuyết Côn Lôn vỡ vụn thành hàng triệu mảnh mùn cưa phát sáng! Sức ép phản hồi bẻ gãy cả hai cẳng tay Lục Thanh Vân, chấn vỡ kinh mạch vàng ngọc. Chàng hộc máu văng ngược về phía sau, rơi xuống một tảng đá lơ lửng, bất tỉnh giữa vũng máu!
 
-Sức công phá khủng khiếp bẻ gãy hai cánh tay của Lục Thanh Vân, hất tung chàng văng ngược về phía sau như một cánh diều đứt dây. Chàng rơi xuống một phiến đá lơ lửng, toàn thân bê bết máu, bất tỉnh nhân sự!
-
-Thế nhưng, chùm tia hủy diệt của Alden chỉ bị suy giảm ba mươi phần trăm uy lực, vẫn tiếp tục gầm rú lao tới!
+Chùm tia hủy diệt của Alden bị suy giảm ba mươi phần trăm uy lực, nhưng tàn dư năng lượng vẫn đủ san phẳng một góc chiến trường, gầm rú lao tiếp!
 
 *ẦM!*
 
-Một tấm khiên cơ khí ma đạo phát nổ trước mặt Dienne!
+Một tấm màn chắn thủy ngân và kim loại lỏng bùng nổ trước mặt Dienne!
 
-Lucien Vale liều mình ném toàn bộ số bùa hộ mệnh còn lại và cuốn sổ cái bìa da dày cộp vào luồng năng lượng! Sức ép của vụ nổ làm vỡ tan cặp kính cận của Lucien, hất văng cậu học giả vào một bức tường gạch đổ nát của London, đầu đập vào đá ngất lịm!
+Lucien Vale đã lao tới. Không còn vẻ con buôn tính toán, cậu mở bung chiếc vali da gia bảo, bóp nát ba ống thủy ngân hoạt hóa và ném toàn bộ xấp khế ước vàng bảo chứng của gia tộc Vale vào luồng nhiệt! 
 
-Ryan bò lê trên một phiến đá, chiếc ba-lô đã vỡ nát nhưng cậu nhóc mười bốn tuổi vẫn gào khóc, giơ hai cánh tay trần bị bỏng rát lên cố phóng ra tia xung lực cuối cùng: "Master! Tránh ra đi Master ơi!"
+"Hợp đồng... thanh lý trắng!" Lucien hét khản giọng.
 
-Và rồi... một bóng đen quen thuộc lao vụt tới từ góc khuất!
+Vụ nổ nhiệt lượng đẩy lùi đòn đánh thêm nửa nhịp. Nhưng mảnh vỡ thủy tinh từ cặp kính cận cắm ngập vào gò má Lucien, sóng xung kích đập cậu gãy xương đòn, hất văng vào đống gạch đổ nát của London cũ, đầu đập vào đá ngất lịm!
 
-Một bàn tay nhỏ nhắn nhưng cứng như thép tóm lấy cổ áo Dienne, giật mạnh nàng ngã nhào sang một bên!
+Chùm tia đen tuyền còn lại một vệt hẹp nhưng sắc như dao cắt không-thời gian, đâm thẳng vào tim Dienne!
 
-*PHẬP!*
+*KENG!*
 
-Chùm tia năng lượng hắc ám sượt qua vai Dienne, bắn xuyên qua bả vai trái và mạn sườn của người vừa đẩy nàng ra!
+Một tiếng rít kim khí đanh gọn đến nhức óc xé toạc không gian!
 
-Máu tươi bắn tung tóe lên mặt Dienne. Một mùi máu tanh nồng quyện lẫn mùi vải cháy khét lẹt ùa vào khoang mũi nàng.
+Một bóng người lao tới húc mạnh vào sườn Dienne, quật nàng ngã nhào sang một bên. 
 
-Dienne trố mắt nhìn, đồng tử co rút lại thành hai điểm nhỏ xíu.
+Đồng thời, một thanh Đại Thái Đao dài hơn một mét tư vung lên theo một góc chém nghịch tuyệt vọng, lấy sống đao dày bằng hợp kim đen chắn ngang quỹ đạo của tia năng lượng tử thần!
 
 Đó là **Louisa**.
 
-Nàng thiếu nữ người thường—người duy nhất trong nhóm không có một giọt mana nào—ngã quỵ xuống phiến đá trước mặt Dienne. Chiếc áo khoác bomber màu đen của nàng bị xé rách một mảng lớn, nhuộm đỏ bởi dòng máu tươi đang tuôn ra xối xả từ vết thương thủng xuyên qua vai.
+Thanh đại đao cổ rèn từ quặng quý không gỉ không gãy trong hang động Côn Lôn đã cản đứng lõi chùm tia hủy diệt. Thân thép đen tuyền rung lên bần bật, không hề mẻ một tấc hay nứt vỡ lấy một vết! 
 
-Chiếc que kẹo mút dâu tây rơi ra khỏi khóe môi Louisa, lăn lốc trên mặt đá hoa cương rồi bị một tia lửa ma thuật nghiền nát thành tro bụi.
+Thế nhưng, Louisa không có một giọt mana nào để hấp thụ hay chuyển hóa nhiệt phản chấn. Thanh kiếm không thể gãy, nhưng da thịt con người thì có thể.
+
+Năng lượng photon đậm đặc và xung chấn động năng khổng lồ dội ngược toàn bộ vào cơ thể người thường của nàng! Khớp vai trái của Louisa trật khớp phát ra một tiếng rắc khô khốc, xương quai xanh và ba dải xương sườn rạn vỡ dưới áp lực ngàn cân. Sóng plasma trào qua hai bên sống kiếm xé toạc lớp áo khoác bomber, thiêu đốt da thịt bả vai và mạn sườn nàng thành một vết thương sâu hoắm rỉ máu!
+
+Máu tươi bắn tung tóe lên mặt Dienne. Mùi máu tanh nồng quyện lẫn mùi da thịt cháy khét lẹt ùa vào khoang mũi nàng.
+
+Louisa ngã quỵ xuống phiến đá. Bàn tay nàng vẫn bấu chặt lấy chuôi kiếm đen cắm ngập nửa tấc vào đá bazan để làm điểm tựa không cho mình đổ sụp.
+
+Chiếc que kẹo mút dâu tây rơi ra khỏi khóe môi Louisa, vỡ vụn trên nền đá dính máu.
 
 "LOUISA!" 
 
-Dienne lao tới, quỳ sụp xuống, run rẩy ôm lấy người bạn thân nhất, người học trò đầu tiên của mình. Đôi bàn tay dính đầy máu của nàng cố gắng ấn chặt vào vết thương trên ngực Louisa:
+Dienne lao tới quỳ sụp xuống, hai bàn tay run rẩy ấn chặt vào vết thương thủng rách bên vai bạn mình. Máu nóng tuôn qua kẽ ngón tay nàng xối xả:
 
-"Đừng nhắm mắt! Louisa, nhìn tôi này! Cố lên, tôi sẽ dùng phép hồi phục... tôi sẽ..."
+"Đừng nhắm mắt! Louisa, nhìn tôi này! Cố lên, tôi sẽ vẽ ma trận... tôi sẽ cầm máu..."
 
 "Đồ... ngốc..." 
 
-Louisa khẽ nhếch khóe môi dính đầy máu. Nàng ho sặc sụa, từng ngụm máu trào ra khóe miệng, nhưng đôi mắt sắc sảo ấy vẫn nhìn Dienne với vẻ giễu cợt quen thuộc:
+Louisa khẽ nhếch khóe môi dính đầy máu. Nàng ho sặc sụa, từng ngụm bọt máu trào ra khóe miệng, nhưng đôi mắt xám tro ấy vẫn nhìn Dienne với cái vẻ giễu cợt bất cần:
 
-"Đã bảo... tôi không có mana... phép thuật của cậu... không có tác dụng với tôi đâu..."
+"Đã bảo... tôi không có mana... ma trận của cậu... không vá được thịt người thường đâu..."
 
-Bàn tay phải của Louisa run rẩy nắm lấy vạt áo Dienne. Nàng thều thào từng chữ đứt quãng:
+Bàn tay phải dính máu của Louisa run rẩy bấu lấy cổ áo Dienne. Nàng thều thào từng chữ đứt quãng qua lồng ngực đang sụp xuống:
 
 "Cậu... không được chết ở đây, công chúa... Chị ấy... sắp về rồi..."
 
-Bàn tay Louisa buông thõng xuống sàn đá. Đôi mắt nàng khép lại, hơi thở yếu ớt như một sợi tơ mong manh trước gió bão.
+Ngón tay Louisa buông thõng khỏi vạt áo. Nàng gục đầu vào vai Dienne. Đôi mắt nàng khép lại, hơi thở mỏng manh như sợi khói sa mạc.
 
 "Louisa... Louisa ơi..."
 
@@ -1099,12 +1084,12 @@ Dienne quỳ giữa vũng máu, hai vai run rẩy bần bật.
 Xung quanh nàng, sự tĩnh lặng của cái chết bao trùm lên toàn bộ không gian kỳ dị.
 
 Lục Thanh Vân nằm bất động giữa đống mùn cưa của kiếm gỗ đào.  
-Lucien vùi mình trong đống gạch đá đổ nát, kính vỡ tan tành.  
-Diana gãy xương sườn, nằm gục bên cạnh thanh liễu kiếm bạc đã mờ đục.  
-Soraya kiệt sức bên cạnh vương trượng lụi tàn.  
-Ryan ôm cánh tay bỏng khóc nấc lên từng hồi yếu ớt.
+Lucien vùi mình trong đống gạch đá đổ nát, kính vỡ tan tành, máu nhuộm đỏ sổ khế ước.  
+Diana gãy ba xương sườn, nằm gục bên cạnh thanh liễu kiếm bạc mờ đục.  
+Soraya kiệt sức bên cạnh vương trượng vỡ nát viên ngọc cổ.  
+Ryan ôm hai cánh tay phỏng rộp rỉ máu, gục đầu bên bộ phát xung vỡ vụn.
 
-Toàn bộ sáu người đồng đội—những người đã cùng nàng đi qua vạn dặm gió sương, chia nhau từng mẩu bánh mì khô khốc và từng ngụm nước trà tuyết—đều đã gục ngã trên vũng máu để bảo vệ mạng sống cho nàng.
+Toàn bộ sáu người đồng đội—những người đã cùng nàng đi qua vạn dặm gió sương, chia nhau từng mẩu bánh mì khô khốc và từng ngụm nước trà tuyết—đều đã gục ngã trên vũng máu để che chắn mạng sống cho nàng.
 
 *CỘP… CỘP… CỘP…*
 
@@ -1132,66 +1117,61 @@ Nàng không cầu xin. Nàng không lùi bước.
 
 Nàng đứng đó—một mình giữa đống tro tàn của vũ trụ—chuẩn bị đón nhận đòn kết liễu của định mệnh.
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
-
 ---
 
 ## CHƯƠNG 11: TỘT CÙNG TUYỆT VỌNG & SỰ XUẤT HIỆN CỦA RHEA EVERWY
 
 Thời gian dường như ngưng đọng lại trong một phần vạn giây.
 
-Thanh trường kiếm đen của Alden chém xuống. 
+Thanh trường kiếm đen của Alden giơ cao giữa khoảng tối Điểm Kỳ Dị. 
 
-Lưỡi kiếm mang theo sức nặng của toàn bộ cỗ máy Cánh Cửa Thứ Bảy, mang theo sự tàn nhẫn của mười năm phản bội và sự hủy diệt của đa thực tại. Không khí bị xé toạc ra phát ra một tiếng rít chói tai như tiếng thét của một thế giới đang hấp hối.
+Lưỡi kiếm mang theo sức nặng của toàn bộ cỗ máy Cánh Cửa Thứ Bảy, mang theo sự tàn nhẫn của mười năm phản bội và sự hủy diệt của đa thực tại. Không khí rít lên chói tai như tiếng thét của một thế giới đang hấp hối.
 
-Dienne đứng trơ trọi giữa biển tro tàn.
+Dienne quỳ một gối giữa biển tro tàn. Bàn tay phải bỏng rát của nàng siết chặt lấy thanh kiếm gỗ sồi sứt sẹo, máu từ vết thương rách sườn nhỏ giọt xuống phiến đá nứt nẻ. 
 
-Nàng không nhắm mắt. Đôi mắt màu lam thẫm của nàng mở to, nhìn thẳng vào lưỡi kiếm tử thần đang bổ thẳng xuống trán mình. 
+Nhưng nàng không nhắm mắt buông xuôi. 
 
-Nàng nâng thanh kiếm gỗ sồi sứt sẹo lên bằng cả hai bàn tay trần đẫm máu. Nàng biết thớ gỗ sồi già nua này không thể cản nổi một đòn hủy diệt cấp độ vũ trụ. Nhưng đây là thứ duy nhất nàng còn lại. Đây là lời thề móc ngoéo của đứa trẻ sáu tuổi trong đêm Everhart ngập lửa thiêu:
+Ánh mắt màu lam thẫm của nàng quét nhanh qua đống đổ nát xung quanh:
 
-*“Em sẽ sống sót. Em sẽ giữ chặt thanh kiếm này... cho đến ngày gặp lại chị.”*
+Cách đó mười mét, Louisa gượng dậy bằng một cánh tay lành lặn, cắm ngập chuôi thanh Đại Thái Đao bất hoại xuống rãnh dẫn năng lượng phía Tây để làm mỏ neo động năng. 
 
-Lưỡi kiếm đen chỉ còn cách trán Dienne đúng ba tấc!
+Phía sau đài máy vỡ nát, Ryan dùng cánh tay phải chưa bị bỏng đập mạnh chốt tiếp địa bằng đồng xuống sàn đá phía Nam. 
+
+Bên cạnh cột trụ sụp đổ, Diana cắn chặt môi nén cơn đau từ ba chiếc xương sườn gãy, vung thanh liễu kiếm bạc cắm phập vào điểm nút phía Đông. 
+
+Lục Thanh Vân quỳ gối, hai cẳng tay gãy buốt nhói nhưng vẫn dùng trán điểm vào ký tự Bát Quái phương Bắc; Soraya thổi tàn tro ngọn lửa Al-Zahra cuối cùng vào rãnh đá trung tâm; và Lucien dùng hết tàn lực đập vỡ viên tinh chất thủy ngân cuối cùng vào mạch dẫn.
+
+Bảy con người. Bảy chiếc ghế. Bảy nút giao thoa không-thời gian.
+
+Họ không chờ đợi một phép màu ngẫu nhiên. Họ đang cùng nhau thực thi phép toán ranh giới cuối cùng!
+
+Dienne dồn toàn bộ 15 man năng lượng còn sót lại trong huyết quản, cắm phập mũi kiếm gỗ sồi vào tâm chấn bệ đá, ngâm xướng câu lệnh kích hoạt:
+
+*“Asariën... Centripetum fiat!”*
+
+Đó là **Dấu Ấn Hướng Tâm** mà Dienne từng khắc vào Dòng Chảy Ma Thuật năm tháng trước tại đèo Băng Giá! 
+
+Trong một tích tắc ngắn ngủi, bảy nút ma trận đồng loạt rực sáng, ép góc lệch pha giữa bảy nguồn ý chí tiệm cận về không: $\theta \to 0 \implies \cos(\theta) \to 1$! Hiện tượng cộng hưởng tuyệt đối bùng nổ, biến sàn đá Điểm Kỳ Dị thành một ngọn hải đăng không-thời gian khổng lồ, kéo giật Dòng Chảy Ma Thuật về đúng một tọa độ duy nhất!
+
+Thanh kiếm đen của Alden chém xuống, chỉ còn cách đỉnh đầu Dienne đúng ba tấc!
+
+Sâu bên trong Dòng Chảy Ma Thuật, nơi người nữ hiệp sĩ tóc bạc đã giương kiếm chờ đợi suốt mười năm ròng rã, chòm sao bảy cánh bỗng bừng sáng như một mặt trời rực lửa, định vị chính xác vị trí của đứa trẻ năm xưa.
+
+Rhea Everwy thét lên một tiếng gầm xé toạc hư không, dồn toàn lực đâm mũi kiếm bạc vào tâm chấn hải đăng!
 
 *XOẢNG!*
 
-Một tiếng nổ kinh thiên động địa xé toạc không-thời gian!
+Không gian giữa thanh kiếm đen của Alden và trán Dienne nứt toạc thành một khe hở thẳng đứng dài ba mét! 
 
-Không phải là tiếng kiếm va chạm. 
-
-Đó là tiếng rách toạc của chính **kết cấu thực tại**!
-
-Ngay giữa khoảng cách ba tấc mong manh giữa thanh kiếm đen của Alden và thanh kiếm gỗ của Dienne, không gian bỗng nhiên nứt toạc ra thành một khe hở thẳng đứng dài ba mét!
-
-Từ sâu bên trong vết rách ấy...
-
-Một đại dương ánh sáng màu bạc tinh khiết, rực rỡ, ấm áp và chói lòa hơn cả vạn ánh trăng rằm bùng nổ tuôn trào!
-
-Đó không phải là ma thuật thông thường. Đó là **Dòng Chảy Ma Thuật (The Astral Current)**—nơi lưu giữ linh hồn và ký ức của toàn bộ vũ trụ từ thuở hồng hoang!
-
-Ánh sáng bạc quét qua, thiêu rụi toàn bộ hắc khí xung quanh lưỡi kiếm của Alden!
-
-Và rồi... từ trong tâm bão của dòng ánh sáng bạc ấy...
-
-Một cánh tay bọc giáp sắt màu xám bạc vươn ra!
-
-Chiếc găng tay hộ thủ kim loại sứt sẹo, chằng chịt những vết chém của đao kiếm và vết xước của mười ngàn cơn bão thời-không. 
-
-Bàn tay sắt ấy nắm chặt lấy chuôi của một thanh **trường kiếm bạc** có lưỡi kiếm sứt mẻ quen thuộc!
+Một đại dương ánh sáng bạc tinh khiết từ Dòng Chảy Ma Thuật tuôn trào như thác lũ. Từ trong tâm bão ánh sáng ấy, một cánh tay bọc giáp sắt sứt sẹo vươn ra, vung thanh trường kiếm bạc chém bạt lưỡi kiếm tử thần của Alden!
 
 *KEEEENG!*
 
-Một tiếng va chạm kim khí vang dội khắp chín tầng trời!
-
-Thanh trường kiếm bạc vung lên một góc nghiêng tuyệt mỹ, chuẩn xác chém bay lưỡi kiếm đen của Alden sang một bên! Sức phản chấn khủng khiếp hất văng người đàn ông quyền lực nhất Đế quốc lùi lại bảy bước trên mặt đá, chiếc nhẫn hắc ma thạch trên tay ông nứt toác ra một vệt sâu hoắm!
+Sức phản chấn khủng khiếp hất văng Alden lùi lại bảy bước trên mặt đá hoa cương, chiếc nhẫn hắc ma thạch trên tay hắn rạn nứt một vệt sâu hoắm!
 
 Alden trố mắt nhìn, hơi thở nghẹn ứ nơi cuống họng:
 
-*“Cái gì... Ai dám?!”*
+*“Cái gì... Tọa độ neo ở đâu ra?!”*
 
 Ánh sáng bạc dần dần lắng đọng lại.
 
@@ -1249,11 +1229,6 @@ Rhea ngẩng đầu lên, quay lưng về phía Alden Everhart. Đôi mắt màu
 Nàng nhặt thanh kiếm gỗ sồi lên, đặt lại vào tay Dienne:
 
 "Bây giờ... hãy cùng ta kết thúc chuyện này."
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
 
 ---
 
@@ -1403,11 +1378,6 @@ Dienne để thanh kiếm chạm xuống nền.
 
 Rhea vẫn không buông tay nàng.
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
-
 ---
 
 ## CHƯƠNG 13: BÀN TRÒN VIÊN MÃN
@@ -1474,11 +1444,6 @@ Ngoài hành lang, một chiếc chuông hiệu chuẩn Cổng rung ba tiếng n
 
 Louisa nhặt ba lô từ chân ghế lên.
 
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
-
 ---
 
 ## CHƯƠNG 14: BƯỚC CHÂN CỦA NGƯỜI KHÔNG MANA
@@ -1487,7 +1452,7 @@ Một giờ sau khi sáp trên hiệp ước nguội đi, kho dã chiến phía 
 
 Louisa ngồi trên thùng đạn gỗ thông, ép viên đạn vonfram cuối cùng vào hộp tiếp đạn. Tiếng *tách... tách... cạch* đều đến mức nghe giống một chiếc đồng hồ cố tình làm người ta mất ngủ.
 
-Chiếc ba lô vải dù dưới chân nàng nặng trĩu. Bên hông là súng lục giảm thanh, tantō và còi bạc EMP. Thanh Đại Thái Đao vỏ gỗ bách Côn Lôn được quấn chéo sau lưng bằng hai dải da mới; nó dài quá vai nàng một đoạn, khiến cả chiếc ba lô nghiêng hẳn sang trái.
+Chiếc ba lô vải dù dưới chân nàng nặng trĩu. Bên hông là súng lục giảm thanh, tantō và còi bạc cộng hưởng ma trận. Thanh Đại Thái Đao vỏ gỗ bách Côn Lôn được quấn chéo sau lưng bằng hai dải da mới; nó dài quá vai nàng một đoạn, khiến cả chiếc ba lô nghiêng hẳn sang trái.
 
 Dienne dừng ở ngưỡng cửa. Tay phải của nàng vẫn bọc băng đen. Nàng không bước vào ngay.
 
@@ -1540,11 +1505,6 @@ Louisa chạm hai ngón tay lên vành mũ, một cái chào nửa vời. Rồi 
 Louisa buông ra, quay người đi. Ở cuối hành lang, ánh Cổng mở thành một vệt xanh lục mờ giữa lớp sương rừng, kéo theo mùi lá mục và đất ướt chưa từng có ở Sector 7.
 
 Thanh Đại Thái Đao va nhẹ vào khung cửa đá khi nàng khuất trong ánh sáng.
-
-
-# ARRCHIRIO: THE SEVENTH GATE
-### TẬP 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
-### ĐẠI KẾT CỤC TỐI THƯỢNG
 
 ---
 

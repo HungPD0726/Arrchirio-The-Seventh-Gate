@@ -1,8 +1,7 @@
 # DÀN Ý CHI TIẾT VOLUME 8: NHỮNG THÀNH PHỐ CỔ & TRẬN CHIẾN CÂN BẰNG
 ### (The Ancient Cities & The Battle of Balance) — ĐẠI KẾT CỤC TỐI THƯỢNG
 
-> **Mục tiêu cốt truyện:** 
-> Hành trình tối thượng khép lại thiên sử thi Arrchirio. Toàn bộ 7 thành viên Hội Đồng New Arrchirio tiến quân theo Trục Long Mạch toàn cầu: từ đại bản doanh **Pháo đài Sector 7** $\to$ vượt biển cát đến **Quần Thể Kim Tự Tháp Cairo (Ai Cập)** để giải mã ma thuật tượng hình và kích hoạt Tháp Cộng Hưởng ngầm $\to$ đột kích vào trung tâm quyền lực của Đế quốc tại **Thành Phố Tòa Thánh New Rome** $\to$ trận quyết chiến tối hậu tại **Điểm Kỳ Dị Cánh Cửa Thứ Bảy**; đối đầu với **Hoàng đế Aurelia** và **Hoàng thúc Alden Everhart (Lord Arknight)**; chứng kiến khoảnh khắc tột cùng tuyệt vọng và **SỰ TRỞ LẠI CỦA RHEA EVERWY** từ Dòng Chảy Ma Thuật; khép lại vòng lặp thù hận bằng một nền hòa bình phải được duy trì bằng luật lệ, giám sát và những cái giá còn lưu lại trên thân thể người sống sót.
+> Hành trình tối thượng khép lại thiên sử thi Arrchirio. Toàn bộ 7 thành viên Hội Đồng New Arrchirio tiến quân theo Trục Long Mạch toàn cầu: từ đại bản doanh **Pháo đài Sector 7** $\to$ vượt biển cát đến **Quần Thể Kim Tự Tháp Cairo (Ai Cập)** để giải mã ma thuật tượng hình và kích hoạt Tháp Cộng Hưởng ngầm $\to$ đột kích vào trung tâm quyền lực của Đế quốc tại **Thành Phố Tòa Thánh New Rome** $\to$ trận quyết chiến tối hậu tại **Điểm Kỳ Dị Cánh Cửa Thứ Bảy**; đối đầu với **Hoàng thúc Alden Everhart (Lord Arknight — Nhiếp chính vương nắm thực quyền Đế chế Aurelia)**; chứng kiến khoảnh khắc tột cùng tuyệt vọng và **SỰ TRỞ LẠI CỦA RHEA EVERWY** từ Dòng Chảy Ma Thuật nhờ nỗ lực kích hoạt Dấu Ấn Hướng Tâm của toàn đội; khép lại vòng lặp thù hận bằng một nền hòa bình phải được duy trì bằng luật lệ, giám sát và những cái giá còn lưu lại trên thân thể người sống sót.
 
 ---
 
@@ -102,7 +101,7 @@
 
 #### CHƯƠNG 14: BƯỚC CHÂN CỦA NGƯỜI KHÔNG MANA
 - **Tâm điểm**: **Louisa**. Sau khi hòa bình lập lại, Louisa nhận ra một câu hỏi lớn hơn: *Tại sao mana lại sinh ra? Tại sao nhân loại thế giới thực lại mất đi nó?*
-- **Quyết định lên đường**: Louisa khoác áo bomber, đeo thanh Đại Thái Đao vỏ gỗ Côn Lôn, mang súng, tantō và còi bạc EMP. Cô dẫn một đoàn thám hiểm nhỏ qua tuyến Cổng được giám sát tới **Vòm Cổ Thụ Yggdralis (Lunar Elves)**, để lần theo câu hỏi về nguồn gốc mana thay vì biến thành biểu tượng ngồi yên tại Sector 7.
+- **Quyết định lên đường**: Louisa khoác áo bomber, đeo thanh Đại Thái Đao vỏ gỗ Côn Lôn, mang súng, tantō và còi bạc cộng hưởng ma trận. Cô dẫn một đoàn thám hiểm nhỏ qua tuyến Cổng được giám sát tới **Vòm Cổ Thụ Yggdralis (Lunar Elves)**, để lần theo câu hỏi về nguồn gốc mana thay vì biến thành biểu tượng ngồi yên tại Sector 7.
 
 ---
 

@@ -4,52 +4,46 @@
 
 ## EPILOGUE: Ở NƠI RẤT XA
 
-Ở một nơi rất xa về phía Cực Bắc của lục địa.
+Một không gian hư vô không có ánh sáng mặt trời, lơ lửng giữa ranh giới của hai thế giới.
 
-Nơi biên cương hoang vu của Đế quốc Aurelia, một tiền đồn quân sự biệt lập bằng đá đen sừng sững đứng trên vách núi tuyết dựng đứng, hứng chịu những cơn cuồng phong buốt giá gầm rú quanh năm.
+Nơi đây không có phương hướng, không có bầu trời, chỉ có những dòng chảy hạt mana màu lam ngọc và ánh bạc trôi lơ lửng trong bóng tối vĩnh hằng như những dải ngân hà thu nhỏ. 
 
-Đây là tiền đồn Số 9—vùng đất lưu đày nghiệt ngã nhất của Đế chế. Nơi mà thủ đô Aurelia dùng để tống khứ những tù binh chính trị nguy hiểm, những kẻ thất sủng trong triều đình, và những tàn dư của các vương triều bại trận mà họ không thể xử tử công khai vì sợ gây biến động trong dư luận.
+Tại trung tâm của khoảng hư không tĩnh lặng ấy, một công trình cự thạch cổ đại hình vòm sừng sững trôi dạt. Bề mặt khối cự thạch đen nhẵn bóng như gương, khắc sâu bảy vòng tròn ma pháp đồng tâm đại diện cho bảy phong ấn nguyên thủy của thực tại.
 
-Trên đài quan sát cao nhất của pháo đài đá đen, một bóng người đang đứng lặng lẽ trong bão tuyết.
+Một người phụ nữ có mái tóc đen dài buông xõa đang đứng lặng trước khối cự thạch. Tà áo choàng màu xám tro của bà phẳng lặng, không gợn sóng giữa khoảng chân không ma đạo.
 
-Chiếc áo choàng dài màu trắng bạc đã bạc màu và xơ xác vì gió sương phủ đầy những bông tuyết trắng xóa. Bên hông người đó, một thanh trường kiếm bạc dài to bản cắm chặt vào bao kiếm bọc da sờn rách—thân kiếm khắc chìm chi chít những vết mẻ và vết xước, chứng tích của hàng trăm trận tử chiến đẫm máu suốt mười năm ròng rã nơi chiến trường ranh giới.
+Đột nhiên, vòng tròn thứ bảy ở ngoài rìa bỗng rung lên một nhịp cực nhỏ.
 
-Gió bấc thổi tung mái tóc màu bạc cắt ngắn ngang vai.
+*OONG...*
 
-Rhea Everwy.
+Một gợn sóng ánh sáng màu lam thẫm—thứ ánh sáng thuần khiết của ngọn lửa Asariën toán học—chậm rãi lóe lên trên bề mặt đá cổ, phát ra những tia sáng lam ngọc thanh mảnh rồi từ từ chìm vào tĩnh lặng.
 
-Mười năm đã trôi qua kể từ đêm hoàng cung Everhart sụp đổ trong biển lửa. 
+Người phụ nữ khẽ nghiêng đầu. Đôi mắt thâm trầm như đáy biển sâu phản chiếu ánh tàn lụi của vòng tròn ma pháp.
 
-Người nữ hiệp sĩ năm nào nay đã mang trên mình những vết sẹo phong trần của một chiến binh dày dạn kinh nghiệm. Đôi mắt màu xám tro của cô sắc bén và thâm trầm như một thanh kiếm thép vừa được tôi luyện qua ngàn tầng băng lửa, tĩnh lặng nhìn chằm chằm về hướng Nam—nơi cách xa hàng ngàn dặm tuyết trắng.
+Từ trong khoảng tối vô tận phía sau mái vòm đá, một giọng nói trầm thấp, vang vọng như tiếng chuông đồng từ thời tiền sử vọng lại:
 
-*Cộp. Cộp.*
+"Cổng thứ bảy lại xuất hiện dao động. Dấu ấn của Arrchirio vừa thức tỉnh ở một nhánh rẽ hoang vu."
 
-Tiếng bước chân gấp gáp của một người lính tuần tra bọc giáp đen vang lên từ cầu thang đá phía sau:
+Người phụ nữ vẫn đứng bất động. Những ngón tay thon dài, thanh mảnh khẽ chạm vào bề mặt khối cự thạch lạnh buốt:
 
-"Báo cáo Đại đội trưởng Rhea!"
+"Merlin." Giọng nói trong bóng tối tiếp tục thăm dò. "Bà nghĩ trật tự mà Đế quốc dựng lên suốt hai mươi năm qua… sắp xuất hiện vết rạn rồi sao?"
 
-Rhea không quay đầu lại, giọng điệu trầm tĩnh vang lên giữa tiếng gió hú: "Có chuyện gì?"
+Một khoảng im lặng kéo dài. 
 
-"Đoàn xe tiếp tế và phái đoàn thanh tra từ thủ đô vừa tới cổng tiền đồn," người lính đứng nghiêm chào theo điều lệnh. "Có tin mật từ các học phủ phía Nam gửi tới. Các Thẩm Phán Viện đang phát lệnh truy lùng gắt gao một kẻ sử dụng ma thuật cổ ngữ trái phép vừa xuất hiện tại khu vực gần Học Viện Ma Đạo Aetheris."
+Gió ma lực vô hình thổi qua làm tà áo xám của người phụ nữ khẽ lay động một nhịp nhẹ.
 
-Rhea khẽ chớp mắt. Ngón tay đeo găng da của cô vô thức siết nhẹ vào ngón tay út bên bàn tay phải.
+"Hòa bình xây dựng trên tro tàn và sự bóp nghẹt chân lý chưa bao giờ là vĩnh cửu," Merlin chậm rãi cất lời. Thanh âm của bà trầm tĩnh, đều đặn nhưng mang theo sức nặng ngàn năm của lịch sử hai cõi.
 
-*“Bằng danh dự của một hiệp sĩ Everwy, ta thề… ta sẽ tìm thấy người.”*
+Bà từ từ quay người lại, ánh mắt nhìn xuyên qua những tầng không gian vô tận ngăn cách giữa thế giới phép thuật và thế giới thực. Khóe môi bà khẽ cong lên một nét cười đầy ẩn ý:
 
-Một nụ cười rất khẽ, mờ nhạt nhưng ấm áp đến kỳ lạ thoáng qua trên khóe môi người nữ hiệp sĩ. Một nụ cười mà suốt mười năm bị đày ải nơi địa ngục băng tuyết này, chưa một người lính nào từng thấy xuất hiện trên gương mặt lạnh như băng của cô.
+"Bánh răng định mệnh đã bắt đầu chuyển động. Một kẻ mang tàn dư của vương triều đã mất vừa bước ra khỏi tuyết trắng để đi tìm sự thật."
 
-Đứa trẻ ấy… vẫn còn sống.
+"Là ai?"
 
-Và cô bé đang bắt đầu cất bước.
+Merlin ngước nhìn lên khoảng hư không vô tận nơi những dòng mana đang âm thầm đổi hướng, chậm rãi thốt ra từng từ:
 
-"Thế à," Rhea khẽ nói, kéo cao cổ áo choàng chắn đi cơn gió tuyết đang thốc vào mặt.
-
-Cô ngước nhìn bầu trời phương Nam mịt mù mây xám, bàn tay vỗ nhẹ lên chuôi thanh trường kiếm bạc:
-
-"Cứ để họ đi tìm đi."
-
-Bão tuyết lại gào thét, chôn vùi dấu chân của người hiệp sĩ trên đài quan sát đá đen, khép lại hồi ức của một vương quốc đã mất và mở ra những cánh cửa bí mật của một kỷ nguyên mới.
+"Dienne Everhart."
 
 ---
 
-### [HẾT TẬP 1]
+### [HẾT TẬP 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC]

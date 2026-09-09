@@ -11,7 +11,7 @@
 - **Họ và tên**: Dienne Everhart (Bí danh tại Học viện: *Dienne Hart*).
 - **Xuất thân**: Công chúa của Vương quốc Tự trị Everhart (đã bị Đế quốc Aurelia xóa sổ trong đêm thanh trừng).
 - **Độ tuổi qua các Volume**:
-  - *Volume 1*: 6 tuổi (đêm Everhart sụp đổ) $\to$ 12 tuổi (ngọn lửa lam đầu tiên) $\to$ 15 tuổi (rời thung lũng tuyết).
+  - *Volume 1*: 6 tuổi (đêm Everhart sụp đổ) $\to$ 12 tuổi (ngọn lửa lam đầu tiên) $\to$ 16 tuổi (rời thung lũng tuyết vào đầu năm thứ 10).
   - *Volume 2 - 3*: 15 $\to$ 16 tuổi (tại Aetheris và thâm nhập Kyoto).
   - *Volume 4*: 16 tuổi (thành lập Arrchirio mới tại pháo đài ngầm Sector 7).
 - **Ngoại hình**: Dáng người thon gọn, dẻo dai. Mái tóc dài màu hạt dẻ buộc gọn gàng sau gáy. Đôi mắt màu lam thẫm sâu thẳm như hồ băng, ánh mắt tĩnh lặng, kiên nghị vượt xa tuổi tác.
@@ -59,7 +59,7 @@
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Rhea Everwy.
 - **Vai trò**: Đội trưởng Đội Hộ vệ Hoàng gia Everhart; người bảo vệ và là chỗ dựa tinh thần lớn nhất thời thơ ấu của Dienne.
-- **Độ tuổi**: Khoảng 22 tuổi (khi Everhart sụp đổ) $\to$ Khoảng 32–33 tuổi theo dòng thời gian bên ngoài (ở thời điểm hiện tại Post-Vol 5 / Vol 6). Tuy nhiên, vì bị cuốn vào Dòng Chảy Ma Thuật (Astral Current) nơi thời gian tuyến tính bị đóng băng, tuổi sinh học của Rhea vẫn được bảo toàn nguyên vẹn ở thời điểm rơi vào vết nứt (~22–24 tuổi).
+- **Độ tuổi**: 22 tuổi (khi Everhart sụp đổ ở Năm 0) $\to$ 32 tuổi theo dòng thời gian bên ngoài (ở thời điểm hiện tại Năm 10). Tuy nhiên, vì bị cuốn vào Dòng Chảy Ma Thuật (Astral Current) nơi thời gian tuyến tính bị đóng băng, diện mạo và thể trạng sinh học của Rhea vẫn được bảo toàn nguyên vẹn ở tuổi 22.
 - **Ngoại hình**: Dáng người cao ráo, vững chãi. Mái tóc màu bạc cắt ngắn ngang vai. Đôi mắt xám tro lạnh lùng nhưng ấm áp. Giáp nhẹ hoen rỉ mang nhiều vết chém, áo choàng rách mang huy hiệu Everwy phai màu. Bàn tay chằng chịt sẹo kiếm.
 - **Trang bị**: Trường kiếm bạc phát ra luồng kiếm khí sắc lẹm, bão mana màu bạc.
 
@@ -295,8 +295,8 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Diana Everhart (Tên thường gọi tại Reverse London: *Diana Sterling*).
-- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Sinh ra tại **Reverse London** (London Nghịch Đảo) sau khi cha mẹ trốn thoát khỏi đêm thanh trừng của Đế quốc Aurelia.
-- **Độ tuổi**: Khoảng 14 – 15 tuổi (kém Dienne khoảng 1 – 2 tuổi).
+- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Sinh ra tại hoàng cung Everhart vào **Năm -5** (kém Dienne đúng 1 tuổi). Trong Đêm Everhart sụp đổ (Năm 0), khi mới tròn 1 tuổi còn bọc trong tã lót, Diana được các hộ vệ bí mật mở đường máu đưa sang **Reverse London** (London Nghịch Đảo) nhằm phân tán rủi ro tuyệt diệt dòng máu vương tộc.
+- **Độ tuổi**: **15 tuổi** (ở thời điểm gặp gỡ tại Volume 6, Năm 10).
 - **Ngoại hình**: Vẻ đẹp thanh tao, đài các toát lên từ trong máu tủy. Mái tóc vàng óng gợn sóng buông nhẹ sau lưng, đôi mắt màu lam trong veo như pha lê (màu mắt đặc trưng của dòng máu hoàng gia Everhart).
 - **Trang phục**: Thường mặc váy dạ hội cách tân hoặc âu phục quý tộc Anh may bằng lụa sẫm màu, tà váy xếp ly mềm mại được thiết kế đặc biệt để mở rộng tối đa theo từng bước xoay người khi múa kiếm.
 - **Vũ khí**: Một thanh liễu kiếm (rapier) bằng bạc tinh luyện mỏng nhẹ và dẻo dai, chuôi kiếm nạm đá sapphire khắc gia huy rồng vàng Everhart.
@@ -391,12 +391,18 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 
 ### Kẻ Phản Bội: Lord Arknight (Hoàng Thúc Alden Everhart)
 - **Danh tính thật**: Alden Everhart — em trai ruột của Vua cha Dienne, hoàng thúc ruột của Dienne và Diana Everhart.
-- **Lịch sử**: Từng là một trong những học giả ma pháp ranh giới và kiến trúc sư cấu trúc của tổ chức Arrchirio 20 năm trước.
-- **Tư tưởng biến chất & Bí ẩn dài hạn**:
-  - Tại Volume 6: Nhóm Dienne mới chỉ giải mã được **thân phận thực sự** của Arknight (Alden Everhart) và các chỉ thị hành động thực tế của hắn tại London qua hồ sơ của Malgrave.
-  - Động cơ sâu xa và triết lý tối thượng của Alden ("Vì sao một học giả uyên bác lại tin rằng hai thế giới là lỗi toán học và quyết tâm xóa sổ ranh giới?") vẫn là một màn sương bí ẩn lớn sẽ được bóc tách sâu hơn qua các cuộc đối đầu tư tưởng tại Côn Lôn (Volume 7) và Đại Kết Cục.
-- **Hành động phản bội**: Bán đứng hoàng thành Everhart và hệ thống phòng thủ Arrchirio cho Đế quốc và Thẩm Phán Viện trong Đêm Đại Thanh Trừng 20 năm trước; giấu kín thân phận dưới danh hiệu *Lord Arknight*, điều khiển mạng lưới tài phiệt ngầm tại Reverse London và các cứ điểm toàn cầu.
-- **Ý nghĩa kịch tính**: Tạo nên bi kịch huyết thống sâu sắc nhất cho hai chị em Dienne & Diana — kẻ thù lớn nhất không phải là quái vật vô hình, mà là người mang cùng dòng máu hoàng gia đã lựa chọn con đường độc tài.
+- **Chức vị chính trị thực tế**: **Nhiếp chính vương kiêm Tổng Tư lệnh Tối cao (Lord Arknight)** của Đế quốc Aurelia.
+- **Quan hệ với Hoàng quyền Aurelia**:
+  - Hoàng đế Aurelia VII là một quân vương già yếu, bệnh tật, ẩn dật sau những bức tường mạ vàng của Cung điện Palatine. Tên của ông được khắc trên các bia đá và tượng đồng khắp đế quốc, nhưng thực tế quyền lực điều hành quốc gia, sắc lệnh tôn giáo và tối cao chỉ huy quân đội đều nằm trọn vẹn trong tay Nhiếp chính vương Alden Everhart và Viện Thẩm Phán.
+  - Alden không cần phế truất Hoàng đế vì sự tồn tại của ngai vàng đóng vai trò như một bức bình phong hợp hiến, duy trì tính chính danh và sự an lòng của hàng triệu thị dân Đế quốc.
+- **Lịch sử**: Từng là một trong những học giả ma pháp ranh giới và kiến trúc sư cấu trúc của tổ chức Arrchirio trong cuộc biến loạn 20 năm trước (Năm -10). Sau khi Arrchirio tan rã, Alden rơi vào khủng hoảng tư tưởng và bắt đầu tìm kiếm "Trật Tự Duy Nhất".
+- **Tư tưởng biến chất & Chiều sâu phản diện (Duy lý cực đoan)**:
+  - Alden **không phải là kẻ phản diện cuồng sát hay hẹp hòi** kiểu "tiêu diệt lũ dị giáo". Ông là một học giả duy lý bi quan cực đoan:
+    - Ông tin rằng sự tồn tại song song giữa thế giới ma thuật ($\Psi > 0$) và thế giới thực vật lý ($\Psi = 0$) là một "lỗi cấu trúc" nguy hiểm. Khoa học động năng/hạt nhân của thế giới thực và ma thuật hỗn loạn của thế giới ranh giới sớm muộn sẽ va chạm trong một cuộc chiến hủy diệt hai chiều không thể cứu vãn.
+    - Với Alden, cái giá của tự do là sự hỗn loạn và diệt vong. Cách duy nhất để nhân loại tồn tại là kéo Cánh Cửa Thứ Bảy xuống thế giới vật chất, sáp nhập và cưỡng bức kiểm soát toàn bộ năng lượng dưới một ý chí thép duy nhất.
+  - **Sự ủng hộ của thị dân New Rome**: Đế chế Aurelia dưới sự cai trị của Alden đem lại cho dân thường sự an toàn tuyệt đối, hệ thống dẫn nước, đèn ma thạch ấm áp và trật tự nghiêm ngặt. Người dân New Rome nhìn nhận nhóm New Arrchirio như những kẻ nổi loạn cực đoan đang mưu toan phá vỡ trật tự hòa bình mà họ đang hưởng thụ.
+- **Hành động phản bội**: Sau 10 năm âm thầm cấu kết với Thẩm Phán Viện, Alden chính thức bán đứng hoàng thành Everhart trong Đêm Sụp Đổ 10 năm trước (Năm 0); giấu kín thân phận dưới danh hiệu *Lord Arknight*, điều khiển mạng lưới tài phiệt ngầm tại Reverse London và các cứ điểm toàn cầu.
+- **Ý nghĩa kịch tính**: Bi kịch huyết thống sâu sắc nhất cho hai chị em Dienne & Diana. Dienne đại diện cho lòng dũng cảm chấp nhận rủi ro để sống chung trong Cân Bằng Động; Alden đại diện cho nỗi sợ hãi muốn đóng băng thực tại trong Trật Tự Sắt Thép.
 
 ---
 

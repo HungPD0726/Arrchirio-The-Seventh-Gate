@@ -1,4 +1,4 @@
-﻿# Story Bible: HỆ THỐNG MA THUẬT
+# Story Bible: HỆ THỐNG MA THUẬT
 
 ### Magic System & Languages Bible
 
@@ -9,8 +9,8 @@
 > **Nguyên tắc nền tảng:** Có thể có rất nhiều cách *sử dụng* ma thuật, nhưng năng lượng mà chúng tương tác với vẫn thuộc cùng một hệ thống nền tảng. Sự khác nhau nằm ở cách mỗi nền văn minh hiểu, diễn giải và điều khiển nó.
 >
 > **Tài liệu tham khảo chuyên sâu liên kết:**
-> - **Động lực học Mana & Toán học ma pháp** (Ký hiệu $\Psi$, đơn vị `man`, hằng số $\varepsilon, \Omega, \lambda$, hai định luật Merlin): [`bible/mana_physics.md`](file:///d:/Workspaces/mylightnovel/bible/mana_physics.md)
-> - **Ngôn ngữ Asariën & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/Asariën_codex.md`](file:///d:/Workspaces/mylightnovel/bible/Asariën_codex.md)
+> - **Động lực học Mana & Toán học ma pháp** (Ký hiệu $\Psi$, đơn vị `man`, hằng số $\varepsilon, \Omega, \lambda$, ba định luật Merlin): [`bible/mana_physics.md`](file:///d:/Workspaces/mylightnovel/bible/mana_physics.md)
+> - **Ngôn ngữ Asariën & Cẩm nang ngâm xướng** (Từ vựng, cấu trúc 4 pha, câu chú cụ thể): [`bible/asarien_codex.md`](file:///d:/Workspaces/mylightnovel/bible/asarien_codex.md)
 
 ---
 
