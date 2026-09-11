@@ -1033,7 +1033,7 @@ Cô:
 - **Vị trí lịch sử đối với Vương tộc Everhart**: 
   - Sau đêm hoàng cung Everhart sụp đổ trong biển lửa, cha mẹ của Dienne đã bí mật vượt qua Cổng Rò Rỉ tìm đến Reverse London để lánh nạn.
   - Tại đây, họ sống cuộc đời của những thị dân bình thường trong một ngôi nhà gạch đỏ giản dị, làm lụng mưu sinh và cố gắng không để lộ tung tích vương triều.
-  - **Diana Everhart** đã được sinh ra và lớn lên trong chính ngôi nhà ấy. Dù sống giữa đời thường, cha mẹ đã âm thầm truyền dạy trọn vẹn văn hóa, lễ nghi, kiếm thuật và ma thuật hoàng gia cho Diana.
+  - **Diana Everhart** được cha mẹ đưa sang đây khi mới năm tuổi và lớn lên trong chính ngôi nhà ấy. Dù sống giữa đời thường, cha mẹ đã âm thầm truyền dạy trọn vẹn văn hóa, lễ nghi, kiếm thuật và ma thuật hoàng gia cho Diana.
 - **Đặc trưng ma pháp & Văn hóa**:
   - Kinh tuyến Greenwich (Kinh tuyến số 0) đóng vai trò trục định vị thời-không.
   - Thay vì ma pháp cứng nhắc, nơi đây phát triển trường phái **Ma thuật trong chuyển động** kết hợp **Kiếm thuật Ballet** và **Cơ khí đồng hồ ma đạo (Clockwork Arcana)**.

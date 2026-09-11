@@ -72,9 +72,9 @@
 
 #### CHƯƠNG 10: SỰ HY SINH CỦA CÂN BẰNG
 - **Tuyệt vọng leo thang**: Alden nạp năng lượng dự trữ vào quả cầu chân không đen ngòm, xả chùm tia tử thần.
-- **Chiến thuật 7 điểm neo**: Sáu đồng đội liều mình che chắn chùm tia, đồng thời cắm vũ khí và giọt máu vào đúng 6 nút ranh giới ngoại biên của sàn đá bazan: Thanh Vân (Phương Bắc), Lucien (Tây Nam), Diana (Phương Đông), Soraya (Trung tâm), Ryan (Phương Nam), và Louisa chịu toàn bộ xung chấn vật lý dập nát vai trái để cắm Đại Thái Đao (Phương Tây). Dienne đứng dậy tại tâm chấn, chuẩn bị kích hoạt phép toán ranh giới cuối cùng.
+- **Chiến thuật 7 điểm neo**: Sáu đồng đội liều mình che chắn chùm tia, đồng thời cắm vũ khí và giọt máu vào đúng 6 nút ranh giới ngoại biên của sàn đá bazan: Thanh Vân (Phương Bắc), Lucien (Tây Nam), Diana (Phương Đông), Soraya (Đông Bắc), Ryan (Phương Nam), và Louisa chịu toàn bộ xung chấn vật lý dập nát vai trái để cắm Đại Thái Đao (Phương Tây). Dienne đứng dậy tại tâm chấn, chuẩn bị kích hoạt phép toán ranh giới cuối cùng.
 
-#### CHƯƠNG 11: TỘT CÙNG TUYỆT VỌNG & SỰ XUẤT HIỆN CỦA RHEA EVERWY
+#### CHƯƠNG 11: DẤU ẤN HƯỚNG TÂM
 - **Kích hoạt Dấu Ấn Hướng Tâm**: Bảy nút ranh giới đồng loạt phát sáng, triệt tiêu góc lệch pha ($\theta \to 0$), biến sàn đá bazan thành ngọn hải đăng không-thời gian neo thẳng vào Dòng Chảy Ma Thuật.
 - **KHOẢNH KHẮC HUYỀN THOẠI**:
   - Không gian rách toạc bằng một tiếng nổ ngân vang.

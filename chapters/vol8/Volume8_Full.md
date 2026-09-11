@@ -370,7 +370,7 @@ Những đường ống dẫn bằng hợp kim chịu nhiệt to như thân xe b
 
 "Bọn khốn nạn Arknight..." Ryan siết chặt chiếc cờ-lê trong tay, hai hàm răng nghiến lại ken két: "Chúng đang cưỡng bức hút cạn mana tích lũy suốt ba ngàn năm của kim tự tháp để nạp năng lượng cho cỗ máy Cánh Cửa Thứ Bảy ở New Rome!"
 
-"Không chỉ hút mana," Lucien soi kính lúp qua mép bờ vực, sắc mặt tái nhợt: "Mũi khoan đó làm nứt vỡ lõi tản nhiệt! Nếu lõi plasma này nổ tung, năng lượng giải phóng tương đương với mười triệu man—đủ để biến toàn bộ Cairo và vùng hạ lưu sông Nile thành một biển tro tàn phóng xạ ma thuật!"
+"Không chỉ hút mana," Lucien soi kính lúp qua mép bờ vực, sắc mặt tái nhợt: "Mũi khoan đó làm nứt vỡ lõi tản nhiệt! Năng lượng kích hoạt mười triệu man nếu bùng phát sẽ châm ngòi cho một phản ứng dây chuyền qua toàn bộ mạng lưới long mạch địa tầng sông Nile—đủ để biến toàn bộ Cairo và vùng hạ lưu thành một biển tro tàn phóng xạ ma thuật!"
 
 *PẰNG!*
 
@@ -724,7 +724,7 @@ Gió đêm từ sông Tiber thốc vào lồng lộng, mang theo hơi ẩm lạn
 
 Alden đứng tựa một tay vào lan can đá, hai ly rượu pha lê đặt ngay ngắn trên bệ cẩm thạch trước mặt.
 
-"Chi nhánh London giữ con dấu bảo chứng đó suốt mười năm," Alden cất tiếng. Giọng ông trầm ấm, âm sắc vang đều và tĩnh tại hệt như một bài giảng học viện cũ. "Ta cứ ngỡ người chị họ của các cháu sẽ dùng nó để đổi lấy một ghế điền trang ở ngoại ô, sống hết đời trong yên ổn. Nhưng các cháu lại dùng nó để mua một tấm vé bước thẳng vào miệng vực."
+"Chi nhánh London giữ con dấu bảo chứng đó suốt mười năm," Alden cất tiếng. Giọng ông trầm ấm, âm sắc vang đều và tĩnh tại hệt như một bài giảng học viện cũ. "Ta cứ ngỡ người chị dâu của ta—mẹ các cháu—sẽ dùng nó để đổi lấy một ghế điền trang ở ngoại ô, sống hết đời trong yên ổn. Nhưng các cháu lại dùng nó để mua một tấm vé bước thẳng vào miệng vực."
 
 Diana bước lên nửa bước, lưng giữ thẳng tắp theo chuẩn mực nghi lễ của một vương nữ:
 
@@ -764,7 +764,7 @@ Thành phố New Rome dưới chân pháo đài hiện ra như một mê cung tr
 
 Alden khẽ nhướng mày.
 
-"Năng lượng không tự nhiên biến mất trong một hệ cô lập," Dienne bước lên một bước, đối diện trực tiếp với ông. "Thúc không thể triệt tiêu sự dị biệt của hai thế giới bằng cách nén chúng lại. Nén một cấu trúc năng lượng khổng lồ mà không có điểm thoát sẽ chỉ tạo ra một khối áp suất nén $Q$ cực đại. Thúc đang biến cỗ máy dưới đồi Vatican thành một quả bom ranh giới; và khi lớp vỏ chịu lực sụp đổ, New Rome tráng lệ này sẽ là nơi đầu tiên bị biến thành bình địa."
+"Năng lượng không tự nhiên biến mất trong một hệ cô lập," Dienne bước lên một bước, đối diện trực tiếp với ông. "Thúc không thể triệt tiêu sự dị biệt của hai thế giới bằng cách nén chúng lại. Nén một cấu trúc năng lượng khổng lồ mà không có điểm thoát sẽ khiến nhiệt lượng dư $Q_{\text{loss}}$ tích tụ làm áp suất trong lõi tăng vượt ngưỡng chịu tải. Thúc đang biến cỗ máy dưới đồi Vatican thành một quả bom ranh giới; và khi lớp vỏ chịu lực sụp đổ, New Rome tráng lệ này sẽ là nơi đầu tiên bị biến thành bình địa."
 
 Alden nhìn Dienne hồi lâu. Lần đầu tiên, trong đôi mắt xám tro phẳng lặng như mặt hồ đóng băng của ông lóe lên một tia dao động rất mỏng:
 
@@ -970,7 +970,7 @@ Dienne siết chặt chuôi kiếm gỗ sồi. Khớp tay đau rát vì vết b�
 
 Không gian phi Euclid xé toạc mọi quy ước về phương hướng.
 
-Dưới chân bảy người New Arrchirio, mặt sàn bazan đã đứt gãy thành từng mảng trôi nổi giữa một khoảng chân không vô tận lấp lánh bụi sao và mảnh vỡ kiến trúc từ hai thế giới. 
+Dưới chân bảy người New Arrchirio, mặt sàn bazan đã đứt gãy thành từng mảng trôi nổi giữa một khoảng hư không vô tận lấp lánh bụi sao và mảnh vỡ kiến trúc từ hai thế giới. Mỗi mảnh vỡ không gian giữ lại một túi khí quyển mỏng mờ, đủ để dưỡng khí và âm thanh truyền đi từng hồi đứt quãng. 
 
 Một nửa mặt đồng hồ tháp Big Ben bằng gang rỉ sét quay lững lờ ở góc chín giờ; một góc mái ngói lưu ly của Thiên Môn Đạo Quán Côn Lôn trôi dạt ở góc ba giờ; và ngay phía dưới chân họ, một ngã tư đường phố Tokyo với những cột đèn giao thông tắt ngấm trôi qua như một tàn tích của một nền văn minh đã mất.
 
@@ -980,17 +980,17 @@ Cách họ chưa đầy bốn mươi mét, Alden Everhart đứng tựa lưng v�
 
 Bộ chiến giáp hắc ma thạch trên người ông liên tục hấp thụ những dòng thông lượng $\Psi$ từ lõi nén phía sau. Thanh trường kiếm đen trong tay ông dài gần hai mét, bao bọc bởi một lớp vi biến dạng không gian, hút trọn ánh sáng xung quanh khiến đường kính lưỡi kiếm trông như một vệt rách đen ngòm giữa hư không.
 
-"Đừng để hắn hoàn tất chu trình tích tụ!" Dienne ra lệnh. Giọng nàng đanh lại giữa tiếng gió rít chân không.
+"Tản ra theo sáu góc trận địa!" Dienne ra lệnh. Ánh mắt nàng nhận ra sơ đồ ma trận tiếp địa sáu nút khắc chìm trên các bệ bazan. "Khóa các nút ngoại biên, đừng để áp suất dồn vào một điểm!"
 
-Alden không đợi họ thiết lập đội hình. Ông vung thanh trường kiếm đen theo một đường quét ngang tàn nhẫn. 
+Alden không đợi họ thiết lập xong vị trí. Ông vung thanh trường kiếm đen theo một đường quét ngang tàn nhẫn. 
 
-Một lưỡi đao áp suất chân không dài ba mươi mét xé toạc không gian phóng thẳng về phía nhóm người!
+Một lưỡi đao áp suất ranh giới dài ba mươi mét xé toạc không gian phóng thẳng về phía nhóm người!
 
 Lục Thanh Vân là người đầu tiên phản xạ. Chàng đạp mạnh lên một tảng đá Côn Lôn đang trôi dạt, phóng mình chắn trước mạn sườn đồng đội. Ngón tay trỏ dính máu của chàng quẹt một đường ngang chuôi kiếm gỗ đào, kích hoạt hai lá phù Bát Quái cuối cùng:
 
 "Khí tụ đan điền, dĩ nhu khắc cương!"
 
-Một mặt kính Bát Quái bằng khí cương màu ngọc bích bùng lên trong không trung, đón đỡ trực diện nhát chém chân không của Alden.
+Một mặt kính Bát Quái bằng khí cương màu ngọc bích bùng lên trong không trung, đón đỡ trực diện nhát chém xung kích của Alden.
 
 *OÀNG!*
 
@@ -1062,15 +1062,15 @@ Từ lõi cỗ máy đồng hồ cát khổng lồ phía sau, một âm thanh r�
 
 Quả cầu năng lượng trên đỉnh lưỡi kiếm của Alden không còn phát ra ánh sáng.
 
-Nó là một hố đen thu nhỏ, nuốt trọn mọi hạt quang tử và bụi đá trôi gần đó vào lòng lực hút kỳ dị. Áp lực đè nặng lên ngực Dienne như một phiến đá tảng ngàn cân; lớp áo choàng đen rách nát dính bết vào da thịt rách rưới vì nhiệt lượng phản chấn $Q$ của những đòn đánh trước.
+Nó là một giếng triệt quang suy biến, nuốt trọn mọi hạt quang tử và bụi đá trôi gần đó vào lòng lực hút kỳ dị. Áp lực đè nặng lên ngực Dienne như một phiến đá tảng ngàn cân; lớp áo choàng đen rách nát dính bết vào da thịt rách rưới vì nhiệt lượng phản chấn $Q$ của những đòn đánh trước.
 
-Lượng mana trong huyết quản nàng đã cạn kiệt đến mức chạm đáy sinh tồn ($\Psi \approx 10\text{ man}$). Hai bàn tay nàng run rẩy dữ dội, các khớp ngón tay sưng tấy vì vết bỏng sa mạc Cairo chưa kịp lành.
+Lượng mana trong huyết quản nàng đã cạn kiệt đến mức chạm đáy sinh tồn ($\Psi \approx 15\text{ man}$). Hai bàn tay nàng run rẩy dữ dội, các khớp ngón tay sưng tấy vì vết bỏng sa mạc Cairo chưa kịp lành.
 
 "Kết thúc rồi, Dienne," giọng Alden vang lên, không hề có sự đắc thắng hay giận dữ, chỉ có sự dứt khoát lạnh buốt của một bản án đã đóng dấu.
 
 Ông hạ thanh trường kiếm đen xuống.
 
-Quả cầu năng lượng cô đặc nổ tung thành một luồng tia xung kích áp suất chân không khổng lồ, gầm thét xé toạc không gian phi Euclid lao thẳng vào vị trí của Dienne!
+Quả cầu năng lượng cô đặc nổ tung thành một luồng tia xung kích áp suất ranh giới khổng lồ, gầm thét xé toạc không gian phi Euclid lao thẳng vào vị trí của Dienne!
 
 Trong khoảnh khắc sinh tử ấy, một bóng đạo bào xanh rách rưới lao vút qua trước tầm mắt nàng.
 
@@ -1112,7 +1112,7 @@ Thế nhưng, Louisa không có một giọt mana nào để hấp thụ hay t�
 
 Toàn bộ động năng cơ học khổng lồ và nhiệt lượng plasma dội thẳng vào cơ thể người thường của nàng! 
 
-Khớp vai trái của Louisa trật ra với một tiếng rắc khô khốc; xương quai xanh và ba dải xương sườn rạn vỡ dưới áp lực ngàn cân. Sóng nhiệt trào qua hai bên sống kiếm xé toạc lớp áo khoác bomber, thiêu đốt da thịt bả vai và mạn sườn nàng thành một vết sẹo sâu hoắm rỉ máu!
+Khớp vai trái của Louisa trật ra với một tiếng rắc khô khốc; xương quai xanh và ba dải xương sườn rạn vỡ dưới áp lực ngàn cân. Sóng nhiệt trào qua hai bên sống kiếm xé toạc lớp áo khoác bomber, thiêu đốt da thịt bả vai và mạn sườn nàng thành một vết bỏng sâu rỉ máu!
 
 Máu tươi bắn tung tóe lên mặt Dienne. Mùi máu tanh nồng quyện lẫn mùi vải cháy ùa vào khoang mũi nàng.
 
@@ -1147,11 +1147,11 @@ Không phải là sự ngã xuống vô nghĩa.
 Lục Thanh Vân nằm bất động cạnh nút giao thoa phương Bắc.  
 Lucien vùi mình bên rãnh dẫn năng lượng Tây Nam.  
 Diana cắn chặt môi nén cơn đau từ ba chiếc xương sườn gãy, cắm sâu thanh liễu kiếm bạc vào nút phía Đông.  
-Soraya kiệt sức bên cạnh vương trượng cổ với viên hồng ngọc rạn tối, thổi tàn tro cuối cùng vào rãnh trung tâm.  
+Soraya kiệt sức bên cạnh vương trượng cổ với viên hồng ngọc rạn tối, thổi tàn tro cuối cùng vào rãnh dẫn Đông Bắc.  
 Ryan ôm hai cánh tay bỏng rộp, đập chốt tiếp địa bằng đồng xuống sàn đá phía Nam.  
 Và Louisa, bằng thanh Đại Thái Đao cắm ngập vào kẽ nứt phía Tây, đã hoàn tất điểm neo động năng cuối cùng.
 
-Sáu người đồng đội. Sáu điểm neo không-thời gian trên vòng tròn ma trận.
+Sáu người đồng đội. Sáu điểm neo không-thời gian trên vòng tròn ma trận. Sáu nút ngoại biên và một tâm chấn.
 
 Tiếng đế giày sắt của Alden nện trên nền đá lơ lửng, từng bước chậm rãi tiến lại gần.
 
@@ -1163,7 +1163,7 @@ Dienne nhẹ nhàng đặt Louisa nằm tựa vào phiến đá.
 
 Nàng đứng dậy.
 
-Chiếc áo choàng rách bươm bay phần phật trong làn gió chân không buốt giá. Đôi chân nàng run lên vì kiệt sức, nhưng sống lưng nàng thẳng tắp như một ngọn giáo.
+Chiếc áo choàng rách bươm bay phần phật trong làn gió ranh giới buốt giá. Đôi chân nàng run lên vì kiệt sức, nhưng sống lưng nàng thẳng tắp như một ngọn giáo.
 
 Nàng nâng thanh kiếm gỗ sồi sứt sẹo của Rhea lên bằng cả hai tay. Trong đôi mắt màu lam thẫm sâu không thấy đáy, không còn sự sợ hãi, không còn nỗi đau đớn của một đứa trẻ mồ côi mười năm lưu lạc.
 
@@ -1171,7 +1171,7 @@ Nàng nâng thanh kiếm gỗ sồi sứt sẹo của Rhea lên bằng cả hai 
 
 ---
 
-## CHƯƠNG 11: TỘT CÙNG TUYỆT VỌNG & SỰ XUẤT HIỆN CỦA RHEA EVERWY
+## CHƯƠNG 11: DẤU ẤN HƯỚNG TÂM
 
 Thời gian dường như ngưng đọng trong một khoảnh khắc phi thời tính.
 
@@ -1186,11 +1186,11 @@ Nàng không nhắm mắt.
 Ở góc Tây, Louisa gượng dậy bằng một cánh tay lành lặn, cắm ngập chuôi thanh Đại Thái Đao đen xuống rãnh dẫn để làm mỏ neo động năng.  
 Phía Nam, Ryan dùng bàn tay dập nát ép chốt đồng tiếp địa ăn sâu vào kẽ nứt.  
 Bên mạn Đông, Diana nén cơn đau từ ba dải xương sườn rạn, cắm sâu mũi liễu kiếm bạc xuống phiến đá vôi.  
-Phương Bắc, Lục Thanh Vân điểm giọt máu tươi lên ký tự Bát Quái; Soraya thổi tàn tro ngọn lửa Al-Zahra vào rãnh trung tâm; và Lucien dùng tàn lực đập vỡ viên tinh chất thủy ngân cuối cùng vào mạch dẫn Tây Nam.
+Phương Bắc, Lục Thanh Vân điểm giọt máu tươi lên ký tự Bát Quái; Soraya thổi tàn tro ngọn lửa Al-Zahra vào rãnh dẫn Đông Bắc; và Lucien dùng tàn lực đập vỡ viên tinh chất thủy ngân cuối cùng vào mạch dẫn Tây Nam.
 
 Bảy con người. Bảy điểm neo. Sáu nút ngoại biên và một tâm chấn.
 
-Họ không trông chờ vào một phép màu ngẫu nhiên. Họ đã dùng chính xương máu của mình để hoàn thành cấu trúc hình học của một trạm tiếp sóng ranh giới!
+Sáu nguồn dao động ngoại biên bao bọc quanh tâm bệ đá nơi Dienne đang quỳ. Bảy điểm neo tạo thành một ma trận tiếp địa hoàn hảo, sẵn sàng khóa góc lệch pha của Dòng Chảy Ma Thuật.
 
 Dienne dồn toàn bộ 15 man năng lượng cuối cùng trong huyết quản—nguồn năng lượng nhỏ nhoi được giữ vững và tiếp đất nhờ sáu điểm neo xung quanh—cắm phập mũi kiếm gỗ sồi xuống tâm bệ đá.
 
@@ -1281,7 +1281,7 @@ Nàng nâng thanh trường kiếm bạc lên, mũi kiếm hướng thẳng vào
 
 Dienne và Rhea đứng tựa lưng vào nhau.
 
-Không ai trong hai người lành lặn. Máu từ vết rách ở sườn Dienne thấm qua lớp áo choàng đen, lạnh ngắt dưới gió chân không. Bàn tay phải của nàng cứng lại quanh chuôi kiếm gỗ sồi. Phía sau lưng, hơi thở Rhea chạm vào gáy nàng, đứt quãng nhưng đều.
+Không ai trong hai người lành lặn. Máu từ vết rách ở sườn Dienne thấm qua lớp áo choàng đen, lạnh ngắt dưới làn gió ranh giới. Bàn tay phải của nàng cứng lại quanh chuôi kiếm gỗ sồi. Phía sau lưng, hơi thở Rhea chạm vào gáy nàng, đứt quãng nhưng đều.
 
 "Đừng rót mana vào em," Dienne nói.
 
@@ -1349,7 +1349,7 @@ $\theta = \pi$.
 
 Âm thanh biến mất.
 
-Lớp giáp của Alden phồng lên rồi lún vào chính nó. Những dòng năng lượng đen không tìm thấy đường đi ra; chúng dội ngược qua dây cáp, chui vào các vành tản nhiệt bằng đá bazan dưới chân cỗ máy. Đá chuyển từ xám sang đỏ, rồi trắng lóa. Hơi nước kim loại bốc lên, khét mùi đồng cháy và máu.
+Lớp giáp của Alden phồng lên rồi lún vào chính nó. Những dòng năng lượng đen không tìm thấy đường đi ra; chúng dội ngược qua dây cáp, chui vào các vành tản nhiệt bằng đá bazan dưới chân cỗ máy. Đá chuyển từ xám sang đỏ, rồi trắng lóa. Hơi kim loại bốc lên, khét mùi đồng cháy và máu.
 
 Nhiệt phản chấn $Q$ quật trả qua hai thanh kiếm.
 

@@ -23,7 +23,7 @@ $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $RepoRoot = Split-Path -Parent $ScriptDir
 $ChaptersDir = Join-Path $RepoRoot "chapters"
 $BibleDir = Join-Path $RepoRoot "bible"
-$SkillsDir = Join-Path $RepoRoot ".agents\skills"
+$SkillsDir = Join-Path (Join-Path $RepoRoot ".agents") "skills"
 $MetaFile = Join-Path $ScriptDir "volume_meta.json"
 
 if (-not (Test-Path $MetaFile)) {
@@ -161,7 +161,7 @@ if ($infantHits.Count -eq 0) {
 # 2. CANON-YEL-06: Scan for deprecated 'còi bạc EMP' in chapters, bible, and skills
 Write-Host "2. Checking for deprecated 'coi bac EMP' across repo..." -NoNewline
 $empHits = @()
-$scanEmpFiles = @($allChapterFiles) + @($allBibleFiles) + @($allSkillFiles)
+$scanEmpFiles = (@($allChapterFiles) + @($allBibleFiles) + @($allSkillFiles)) | Where-Object { $_.Name -ne "canon_audit.md" }
 foreach ($f in $scanEmpFiles) {
     $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
     if ($text -match "c[oò]i\s+b[aạ]c\s+EMP") {
@@ -275,7 +275,7 @@ Write-Host "Total Words (8 Volumes): $TotalWordsSeries words" -ForegroundColor G
 Write-Host "Total Size (Full Files): $TotalKB KB" -ForegroundColor Green
 
 if ($foundAnomalies -eq 0) {
-    Write-Host "Audit Status: [ALL CHECKS PASSED - ZERO DRIFT / ZERO DEFECTS]" -ForegroundColor Green
+    Write-Host "Audit Status: [ALL AUTOMATED CHECKS PASSED - ZERO FILE DRIFT]" -ForegroundColor Green
     exit 0
 } else {
     Write-Host "Audit Status: [FAILED - $foundAnomalies ANOMALIES DETECTED]" -ForegroundColor Red

@@ -49,7 +49,7 @@ mylightnovel/
 │   ├── vol5/                         <-- Bản thảo Tập 5 (188 KB - 31.174 từ)
 │   ├── vol6/                         <-- Bản thảo Tập 6 (146 KB - 24.485 từ)
 │   ├── vol7/                         <-- Bản thảo Tập 7 (119 KB - 19.812 từ)
-│   └── vol8/                         <-- Bản thảo Tập 8 (118 KB - 19.515 từ)
+│   └── vol8/                         <-- Bản thảo Tập 8 (127 KB - 21.157 từ)
 │       ├── Volume8_Full.md
 │       ├── prologue.md -> ch14.md
 │       └── epilogue.md

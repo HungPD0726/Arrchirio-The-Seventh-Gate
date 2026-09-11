@@ -44,5 +44,5 @@
 | **Vol 5** | Tiếng Vang Từ Biên Cương & Vùng Đất Spirit Arts | Hoàn thành 100% | 188 KB | 31.174 từ |
 | **Vol 6** | Dạ Vũ Trong Sương Mù & Bóng Ma Arknight (Reverse London) | Hoàn thành 100% | 146 KB | 24.485 từ |
 | **Vol 7** | Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (Phương Đông) | Hoàn thành 100% | 119 KB | 19.812 từ |
-| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng) | **Hoàn thành 100%** | **118 KB** | **19.515 từ** |
-| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **803 KB** | **176.252 từ** |
+| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng) | **Hoàn thành 100%** | **127 KB** | **21.157 từ** |
+| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **810 KB** | **177.894 từ** |
