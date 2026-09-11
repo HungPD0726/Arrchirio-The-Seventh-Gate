@@ -272,6 +272,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 - Không dùng ngữ pháp Asariën châu Âu thông thường của Đế quốc, mà vận hành bằng Cổ ngữ Chiêm Tinh (Celestial Glyphs), nghi lễ thanh tẩy và ngọn lửa nguyên thủy.
 - Tôn kính các quy luật cổ xưa của đất trời; thường xuyên tranh luận hài hước với Ryan (*"Cậu lại làm bẩn tấm thảm nghi lễ bằng dầu máy rồi đấy!"*).
 - Nhìn nhận Dienne là một Master thực thụ của Arrchirio có đủ tư cách phục hưng Cân Bằng hai cõi.
+- **Hậu quả sau Cairo (Vol. 8)**: Hồng ngọc của Vương trượng Cổ Ngọn Lửa đã nứt khi Soraya gọi Trục phía Nam; nó vẫn dẫn được nghi lễ quen thuộc nhưng không còn mở lối bí mật của dòng Al-Zahra. Lòng bàn tay cô để lại sẹo bỏng.
 
 ---
 
@@ -441,6 +442,5 @@ graph TD
 | **Diana** | **Louisa** | Hai thái cực của thế giới thực | Diana múa ballet giữ trọn lễ nghi quý tộc; Louisa ngậm kẹo mút xả đạn giảm thanh — cặp đôi "trái dấu" cực kỳ thú vị khi tác chiến. |
 | **Ryan** | **Soraya** | Kỹ thuật máy móc vs Nghi lễ sa mạc cổ đại | Ryan chê nghi thức rườm rà; Soraya quở mắng Ryan vì để dầu máy bôi bẩn thảm tế lễ và vương trượng cổ. |
 | **Dienne** | **Vane** | Bảo vệ Cân Bằng vs Báo thù cực đoan | Vane chế giễu sự non nớt của Dienne; Dienne từ chối biến mình thành kẻ ác như Đế quốc. |
-
 
 

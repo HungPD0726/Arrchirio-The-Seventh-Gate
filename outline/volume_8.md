@@ -39,8 +39,8 @@
 - **Xung đột**: Đụng độ tiểu đoàn Thần Sa Mạc nhân tạo của Arknight trang bị súng phóng tia nhiệt ma đạo. Louisa dùng đạn vonfram phủ lôi phù Bát Quái phá hủy lõi phát năng lượng của chúng.
 
 #### CHƯƠNG 4: THẮP SÁNG NGỌN LỬA AL-ZAHRA
-- **Cao trào Cairo**: Soraya cắm Vương trượng vào đài cộng hưởng trung tâm kim tự tháp, ngâm xướng khúc ca cổ đại giải phóng mạch năng lượng bị phong ấn.
-- **Kết quả**: Cột sáng vàng kim phóng thẳng lên trời đêm nối với Côn Lôn; Trục Long Mạch phía Nam hoàn toàn thức tỉnh, vạch đường bay thẳng đến New Rome.
+- **Cao trào Cairo**: Soraya chủ động gọi Trục bằng nghi lễ Al-Zahra, còn cả đội chia nhau giữ bệ đá, mở giếng tản nhiệt và dẫn phần nhiệt lượng $Q$ dư đi đúng đường. Dienne dựng biên giới Asariën bốn pha, không thể xóa nhiệt lượng khỏi hệ thống.
+- **Cái giá & kết quả**: Hồng ngọc Vương trượng nứt, Soraya bỏng tay và mất chìa khóa về lối vào bí mật của dòng Al-Zahra. Trục Long Mạch phía Nam thức tỉnh, mở tuyến khẩn đến New Rome, đồng thời phát tín hiệu để Đế quốc xác định được nguồn bất thường.
 
 ---
 
@@ -51,15 +51,16 @@
 - **Hậu cần & Trinh sát**: Lucien Vale dùng mạng lưới chợ đen cũ mua chuộc lính gác, đưa toàn đội vào hầm ngầm của đấu trường cổ Colosseum.
 
 #### CHƯƠNG 6: DẠ HỘI TRONG TỔNG HÀNH DINH
-- **Chiến dịch xâm nhập**: Diana và Dienne cải trang quý tộc dự dạ hội ngoại giao tại Lâu đài Thiên Thần (Castel Sant'Angelo).
-- **Gặp gỡ định mệnh**: Dienne lần đầu tiên chạm trán trực diện **Hoàng thúc Alden Everhart (Lord Arknight)** bằng xương bằng thịt. Cuộc đối thoại lạnh buốt giữa hai dòng máu Everhart về lý tưởng và vết nhơ phản bội.
+- **Chiến dịch xâm nhập**: Diana dùng con dấu bảo chứng cuối cùng của Đại sứ quán London đưa Dienne vào Lâu đài Thiên Thần (Castel Sant'Angelo) dưới danh nghĩa hai vương nữ Everhart xin diện kiến.
+- **Gặp gỡ định mệnh**: Dienne chạm trán trực diện **Hoàng thúc Alden Everhart (Lord Arknight)**. Cuộc đối thoại lạnh buốt trên ban công nhìn ra Rome: Alden phơi bày lý tưởng trật tự sắt thép để ngăn chặn entropy hủy diệt; Dienne chỉ ra nghịch lý nhiệt động lực học $Q$ sẽ biến cỗ máy thành quả bom ranh giới. Ryan và Louisa kích nổ khói ngầm dưới sông Tiber làm tín hiệu đột kích.
 
 #### CHƯƠNG 7: TỬ HUYỆT THẨM PHÁN VIỆN
-- **Đột kích**: Nhóm phối hợp tấn công trung tâm điều khiển Cổng Rò Rỉ tại Đại Giáo Đường. Lục Thanh Vân dùng Kiếm Khí Bát Quái chém tan kết giới Hắc Ma Thạch; Ryan thả virus EMP vào mạng lưới máy tính ma đạo của Đế quốc.
-- **Thanh trừng Malakor**: Đại Thẩm Phán Malakor gục ngã dưới mũi liễu kiếm ballet của Diana và phát súng giảm thanh quyết định của Louisa.
+- **Đột kích**: Nhóm xâm nhập hầm mộ Thánh Peter. Kết giới Hắc Ma Thạch của Thẩm Phán Viện triệt tiêu toàn bộ mana ($\Psi \to 0$).
+- **Thực chiến phi mana**: Louisa với $\Psi = 0$ dùng Đại Thái Đao phá vỡ trường kích và chém gãy khớp gối của Đại Thẩm Phán Malakor; Diana cắt ống dẫn dầu thủy lực; Thanh Vân và Louisa xuyên thủng lõi ngực. Ryan cắm băng đồng đục lỗ Magitech ghi đè vector làm quá tải dàn máy tính vi sai. Sàn đá nứt toạc cuốn cả nhóm xuống miệng vực Cánh Cửa Thứ Bảy.
 
 #### CHƯƠNG 8: BƯỚC VÀO TÂM CHẤN
-- **Bùng nổ**: Alden kích hoạt cỗ máy nén thực tại cổ xưa bên dưới đồi Vatican, xé toạc ranh giới không gian để kéo Cánh Cửa Thứ Bảy xuống thế giới vật chất. Cả thành phố New Rome rung chuyển dữ dội.
+- **Không gian Điểm Kỳ Dị**: Rơi vào buồng kỳ dị phi Euclid nơi Cỗ Máy Nén Thực Tại (đồng hồ cát không gian 100m) đang vận hành. Alden cắm cáp thần kinh vào cột sống, quyết tâm đóng băng thực tại.
+- **Thực tại va chạm**: Các mảnh vỡ kiến trúc London, Kyoto, Côn Lôn trôi nổi bồng bềnh; Alden khóa chặt các tham số dao động, mở đầu trận chiến ranh giới.
 
 ---
 
@@ -67,21 +68,22 @@
 
 #### CHƯƠNG 9: VỰC HƯ KHÔNG CỦA THỰC TẠI
 - **Bối cảnh**: Không gian phi Euclid nơi giao nhau giữa 7 thế giới. Các mảnh vỡ của kiến trúc London, thung lũng tuyết, Kyoto và Côn Lôn trôi nổi bồng bềnh giữa biển sao vô tận.
-- **Đối đầu tối thượng**: Đội hình 7 người New Arrchirio đối đầu với Alden Everhart — kẻ đã dung hợp linh hồn với cỗ máy Cánh Cửa, liên tục rút một kho dự trữ $\Psi$ cực lớn nhưng hữu hạn. Mỗi nhịp xả đều buộc cỗ máy mở một cửa nạp năng lượng: tử huyệt duy nhất của hắn.
+- **Đối đầu tối thượng**: Đội hình 7 người New Arrchirio đối đầu với Alden Everhart — kẻ đã dung hợp linh hồn với cỗ máy Cánh Cửa, liên tục rút một kho dự trữ $\Psi$ cực lớn nhưng hữu hạn. Soraya dùng tàn tro sa mạc làm mù cảm biến qua viên hồng ngọc rạn; Ryan đảo xung làm tê liệt 4 giây; Louisa chém gãy khớp cấp mana phụ; Diana bẻ gãy chốt giáp ngực (chịu gãy xương sườn); Dienne dùng Lam Hỏa Asariën bốn pha thiêu đốt mạch thần kinh ngực Alden.
 
 #### CHƯƠNG 10: SỰ HY SINH CỦA CÂN BẰNG
-- **Tuyệt vọng leo thang**: Sức mạnh áp đảo của cỗ máy bẻ cong định luật vật lý.
-- Toàn bộ đồng đội lần lượt ngã xuống để che chắn: Ryan hy sinh ba-lô công nghệ bảo vệ Soraya; Lucien gãy kính và trúng chấn động; Lục Thanh Vân vỡ nát kiếm gỗ đào; Diana kiệt sức vì điệu múa dạ khúc; Louisa trúng đạn trọng thương vẫn cố bóp cò phát đạn cuối cùng.
+- **Tuyệt vọng leo thang**: Alden nạp năng lượng dự trữ vào quả cầu chân không đen ngòm, xả chùm tia tử thần.
+- **Chiến thuật 7 điểm neo**: Sáu đồng đội liều mình che chắn chùm tia, đồng thời cắm vũ khí và giọt máu vào đúng 6 nút ranh giới ngoại biên của sàn đá bazan: Thanh Vân (Phương Bắc), Lucien (Tây Nam), Diana (Phương Đông), Soraya (Trung tâm), Ryan (Phương Nam), và Louisa chịu toàn bộ xung chấn vật lý dập nát vai trái để cắm Đại Thái Đao (Phương Tây). Dienne đứng dậy tại tâm chấn, chuẩn bị kích hoạt phép toán ranh giới cuối cùng.
 
 #### CHƯƠNG 11: TỘT CÙNG TUYỆT VỌNG & SỰ XUẤT HIỆN CỦA RHEA EVERWY
-- **Tình thế nghìn cân treo sợi tóc**: Căn cứ nứt toạc, toàn bộ đồng minh trọng thương. Dienne một mình đứng giữa đống tro tàn, cạn kiệt mana ($\Psi \approx 0$), giơ thanh kiếm gỗ sồi sứt sẹo đón nhận đòn hủy diệt của Alden.
+- **Kích hoạt Dấu Ấn Hướng Tâm**: Bảy nút ranh giới đồng loạt phát sáng, triệt tiêu góc lệch pha ($\theta \to 0$), biến sàn đá bazan thành ngọn hải đăng không-thời gian neo thẳng vào Dòng Chảy Ma Thuật.
 - **KHOẢNH KHẮC HUYỀN THOẠI**:
-  - Không gian rách toạc bằng một tiếng nổ xé lòng.
+  - Không gian rách toạc bằng một tiếng nổ ngân vang.
   - **Dòng Chảy Ma Thuật (Astral Current)** tuôn trào ánh sáng bạc chói lòa!
-  - Một cánh tay bọc giáp sắt sứt sẹo vươn ra, thanh trường kiếm bạc chém bay đòn hủy diệt của Alden!
+  - Một cánh tay bọc giáp sắt sứt sẹo vươn ra, thanh trường kiếm bạc chém bạt nhát kiếm tử thần của Alden!
   - **RHEA EVERWY BƯỚC RA TỪ THỜI KHÔNG!** Mái tóc bạc xõa vai, áo choàng rách bươm qua ngàn năm trôi dạt.
 - **Câu thoại nhận ra nhau sau 10 năm**:
   > *“Ta đã bảo em bao nhiêu lần rồi, Dienne? Đừng bao giờ để thanh kiếm nằm quá xa tay...”*
+- **Tái ngộ xúc động**: Dienne bật khóc nức nở như đứa trẻ sáu tuổi năm xưa; Rhea tháo găng gạt nước mắt cho em gái, trao lại thanh kiếm gỗ sồi và cùng nàng bước vào đòn phản công cuối cùng.
 
 #### CHƯƠNG 12: ĐÒN PHẢN CÔNG CỦA CÂN BẰNG — HAI LỰA CHỌN
 - **Đại hợp lực có giới hạn**: Rhea chỉ còn một lượng $\Psi$ hữu hạn cô giữ được trong giáp bạc qua Dòng Chảy Ma Thuật; cô chuyển cho Dienne lượng tối thiểu để dựng ma trận. Hai người đồng pha với nhau ($\theta = 0$), sau đó Dienne xoay pha thành $\theta = \pi$ tại cửa nạp của cỗ máy. Với $\eta \approx 91\%$, phần nhiệt phản chấn $Q$ làm chảy giáp bạc của Rhea, bỏng bàn tay Dienne và phá hủy vĩnh viễn đường dẫn Astral của Rhea.

@@ -27,7 +27,7 @@
 6. **Ban Cố Vấn & Kỹ Thuật**:
    - **Ryan (14 tuổi)**: Trưởng ban Kỹ thuật Magitech thế hệ mới; cánh tay trái còn di chứng bỏng từ ba-lô che chắn ở Điểm Kỳ Dị.
    - **Lucien Vale (17 tuổi)**: Tổng quản lý Ngân khố và Bản đồ địa chính trị đa thế giới.
-   - **Soraya (18 tuổi)**: Đại Tư Tế Sa Mạc Al-Zahra, người canh giữ Trục Long Mạch Kim Tự Tháp Cairo.
+   - **Soraya (18 tuổi)**: Đại Tư Tế Sa Mạc Al-Zahra, người canh giữ Trục Long Mạch Kim Tự Tháp Cairo. Lòng bàn tay còn sẹo bỏng sau nghi lễ Cairo; hồng ngọc trên Vương trượng Cổ Ngọn Lửa đã nứt và không còn là chìa khóa mở lối vào gia tộc cũ.
 7. **Hậu Phương Vững Chắc**:
    - **Người Thầy Già**: Vẫn mạnh khỏe bên căn chòi gỗ thung lũng tuyết phương Bắc, nhả khói tẩu và đón hai người học trò trở về đoàn tụ trong bữa súp nóng bên lò sưởi.
 
