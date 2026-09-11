@@ -16,7 +16,7 @@
 > *(Dienne is the princess who lost her kingdom. Diana is the princess who never had a kingdom.)*
 
 - **Dienne Everhart**: Lớn lên trong tuyết lạnh, mang thanh kiếm gỗ sứt sẹo, tư duy bằng toán học thực chứng và bản năng sinh tồn khốc liệt. Với Dienne, *Everhart là một vết thương hở rỉ máu*.
-- **Diana Everhart**: Lớn lên trong ngôi nhà bình dân ở ngoại ô Reverse London, chưa từng một ngày bước lên thảm đỏ hoàng cung, nhưng được cha mẹ truyền dạy trọn vẹn phong thái, khiêu vũ ballet, âm nhạc và kiếm thuật hoàng tộc. Với Diana, *Everhart là một nền văn hóa và niềm kiêu hãnh bất diệt*.
+- **Diana Everhart (9–10 tuổi)**: Chào đời trong lưu vong, lớn lên trong ngôi nhà bình dân ở ngoại ô Reverse London dưới sự bảo bọc của người dì họ già yếu, chưa từng một ngày bước lên thảm đỏ hoàng cung, nhưng được truyền dạy trọn vẹn phong thái, khiêu vũ ballet, âm nhạc và kiếm thuật hoàng tộc theo di huấn của Mẫu hậu Eleanor. Với Diana, *Everhart là một nền văn hóa và niềm kiêu hãnh bất diệt*.
 
 ---
 
@@ -24,8 +24,8 @@
 
 ### PROLOGUE: KHÚC DẠ VŨ BÊN DÒNG SÔNG THAMES
 - **Bối cảnh**: Đêm sương mù dày đặc buông xuống thành phố ranh giới **Reverse London**. Ánh đèn khí đốt ma đạo vàng vọt rọi bóng Tháp Big Ben xuống mặt nước sông Thames lững lờ.
-- **Phân cảnh**: Trong khoảng sân sau rêu phong của một ngôi nhà gạch đỏ giản dị ở ngoại ô, thiếu nữ mười lăm tuổi **Diana Everhart** đang một mình múa kiếm dưới ánh trăng mờ.
-- **Phong thái**: Không có tiếng gầm rú hay cơ bắp nặng nề. Chuyển động nhẹ nhàng như gió thoảng, xoay tròn trên mũi chân (*pirouette*) như một vũ công ballet cổ điển. Thanh liễu kiếm bạc mỏng manh lướt qua không trung như nét cọ, mỗi nhịp chân nhón dệt nên một ma trận lam ngọc phát quang êm dịu.
+- **Phân cảnh**: Trong khoảng sân sau rêu phong của một ngôi nhà gạch đỏ giản dị ở ngoại ô, tiểu công chúa mười tuổi **Diana Everhart** đang một mình múa kiếm dưới ánh trăng mờ.
+- **Phong thái**: Không có tiếng gầm rú hay cơ bắp nặng nề. Chuyển động nhẹ nhàng như gió thoảng, vóc dáng nhỏ nhắn xoay tròn trên mũi chân (*pirouette*) như một vũ công ballet cổ điển. Thanh liễu kiếm bạc mỏng manh lướt qua không trung như nét cọ, mỗi nhịp chân nhón dệt nên một ma trận lam ngọc phát quang êm dịu.
 - **Dạ khúc**: Vừa múa kiếm, đôi môi cô khẽ cất lên bài cổ ca hoàng gia Everhart:  
   *“...Hỡi ngọn lửa xanh trên đỉnh tuyết ngàn năm, bao giờ người lữ hành sẽ trở về nhà?...”*
 
@@ -44,7 +44,7 @@
 
 ### CHƯƠNG 2: NGÔI NHÀ GẠCH ĐỎ
 - **Phân cảnh**: Lần theo tọa độ sóng vô tuyến từ bức điện tín ở cuối Tập 5, Dienne và Louisa tách nhóm đi sâu vào con ngõ vắng lát đá cuội ở ngoại ô London.
-- **Bối cảnh**: Không có lâu đài nguy nga hay lính canh cẩm y. Nơi bức điện gửi đi chỉ là một ngôi nhà gạch đỏ hai tầng đơn sơ, giàn hoa hồng dại leo quanh hàng rào sắt rỉ sét.
+- **Bối cảnh**: Không có lâu đài nguy nga hay lính canh cẩm y. Nơi bức điện gửi đi chỉ là một ngôi nhà gạch đỏ hai tầng đơn sơ, giàn hoa hồng dại leo quanh hàng rào sắt rỉ sét, dưới gốc cây táo già sau vườn là một nấm mồ phủ đá cuội của người dì họ quá cố.
 - **Cảm xúc thắt lại**: Khi Dienne vừa bước tới thềm cửa gỗ, một giai điệu ru con quen thuộc thời thơ ấu bỗng từ bên trong khe cửa vọng ra. Ký ức năm 6 tuổi ùa về khiến bước chân Dienne hoàn toàn đông cứng.
 
 ---
@@ -56,20 +56,20 @@
   - Dienne không lùi, tay phải giữ chặt thanh kiếm gỗ sứt sẹo của Rhea bên hông.
   - Hai đôi mắt màu lam thẫm chạm nhau qua làn sương sớm.
 - **Đối lập visual**:
-  - Dienne: Áo choàng đen sờn gấu, ủng da bám bụi đường trường, mái tóc buộc vội, gương mặt sắc lạnh như băng tuyết — *hình hài của kẻ sống sót từ đống tro tàn*.
-  - Diana: Tà váy xếp ly mềm mại thắt eo thanh nhã, lưng thẳng tắp, tóc vàng gợn sóng buông lơi, toát lên cốt cách hoàng tộc tự nhiên — *hình hài của một nàng công chúa thuần khiết*.
+  - Dienne (16 tuổi): Áo choàng đen sờn gấu, ủng da bám bụi đường trường, mái tóc buộc vội, gương mặt sắc lạnh như băng tuyết — *hình hài của kẻ sống sót từ đống tro tàn*.
+  - Diana (9–10 tuổi): Tà váy xếp ly nhỏ nhắn mềm mại, lưng thẳng tắp, tóc vàng gợn sóng buông lơi, toát lên cốt cách hoàng tộc tự nhiên — *hình hài của một tiểu công chúa thuần khiết*.
 - **Hạ kiếm**: Diana từ từ hạ mũi liễu kiếm, ngấn lệ cúi đầu hành lễ hoàng gia cổ xưa:  
   *“Chị... thực sự đã đến. Chị Dienne.”*
 
 ---
 
-### CHƯƠNG 4: DI SẢN CỦA CHA MẸ
+### CHƯƠNG 4: DI SẢN CỦA NGƯỜI ĐI TRƯỚC & CHÂN TƯỚNG KHÁNG CHIẾN
 - **Bối cảnh**: Gian phòng khách nhỏ ấm cúng, lò sưởi bập bùng củi khô, trà nóng bốc khói nghi ngút.
-- **Câu chuyện quá khứ**: Diana mở chiếc hòm gỗ sồi cũ kỹ, kể lại trọn vẹn hành trình lưu vong:
-  - Cha mẹ sống sót sau đêm kinh hoàng, vượt Cổng sang ẩn náu tại London dưới tên giả, làm việc chân tay để nuôi nấng Diana.
-  - Họ không gieo rắc hận thù vào tâm hồn Diana. Thay vào đó, họ dạy cô trọn vẹn văn hóa, lễ nghi, kiếm thuật và dạ khúc của Everhart — để vương triều không bao giờ chết trong tâm khảm.
-  - Cha mẹ đã thanh thản qua đời vì bạo bệnh hai năm trước, trao lại cho Diana cuốn biên niên sử hoàng gia và con dấu rồng vàng.
-- **Chiêm nghiệm**: Dienne nhận ra bấy lâu nay mình xem Everhart là một mối thù cần trả, trong khi Diana đã giữ cho Everhart sống sót như một ngọn lửa sưởi ấm.
+- **Câu chuyện quá khứ & Bước ngoặt chấn động**: Diana mở chiếc hòm gỗ sồi cũ kỹ, kể lại trọn vẹn sự thật:
+  - Phụ hoàng George đã hy sinh trong biển lửa ở Everhart mười năm trước để bảo vệ gia đình.
+  - Mẫu hậu Eleanor đang mang thai đã được các kỵ sĩ trung thành đưa sang Reverse London, hạ sinh Diana. Nhằm tránh nanh vuốt Thẩm Phán Viện, Mẫu hậu gửi gắm Diana cho người dì họ nuôi nấng, còn bà dấn thân vào bóng tối xây dựng **Lực Lượng Kháng Chiến Hoàng Gia (Royalist Resistance)**.
+  - Người dì họ đã qua đời hai năm trước vì bạo bệnh, để lại nấm mồ dưới gốc cây táo già và trao lại cho Diana cuốn biên niên sử hoàng gia, con dấu rồng vàng cùng thanh liễu kiếm bạc.
+  - **Dienne rơi lệ**: Dienne chấn động và vỡ òa xúc động khi biết Mẫu hậu vẫn còn sống trên đời và đang chiến đấu. Nỗi đau cô độc mười năm qua được gỡ bỏ.
 
 ---
 
@@ -85,8 +85,8 @@
 ### CHƯƠNG 6: LỜI TỪ CHỐI CỦA DIANA ⭐ *(Xung Đột Cốt Lõi)*
 - **Xung đột**: Dienne đề nghị Diana thu xếp hành lý rời Reverse London để trở về pháo đài ngầm Sector 7, ngồi vào chiếc ghế thứ ba của Hội đồng New Arrchirio.
 - **Lời từ chối bất ngờ**: Diana nhẹ nhàng lắc đầu.
-  - *“London không phải cung điện, nhưng nơi này là mái nhà cha mẹ đã dành cả đời để che chở cho em. Em không thể bỏ rơi những người bình dân nơi đây để bước vào một cuộc chiến báo thù mà em không hề biết mặt kẻ thù.”*
-  - Diana sợ rằng nếu cầm vũ khí đi theo con đường chiến tranh, cô sẽ đánh mất chính vẻ đẹp mà cha mẹ đã cố công gìn giữ.
+  - *“London không phải cung điện, nhưng nơi này là mái nhà người dì họ và Mẫu hậu đã dành cả tâm huyết để che chở cho em. Em không thể bỏ rơi những người bình dân nơi đây để bước vào một cuộc chiến báo thù mà em không hề biết mặt kẻ thù.”*
+  - Diana sợ rằng nếu cầm vũ khí đi theo con đường chiến tranh, cô sẽ đánh mất chính vẻ đẹp mà Mẫu hậu đã cố công gìn giữ.
 - **Phản ứng của Dienne**: Thay vì áp đặt hay ép buộc, Dienne trầm ngâm nhìn đôi bàn tay chai sạn của mình, rồi nói: *"Em nói đúng. Arrchirio không được phép biến ai thành công cụ chiến tranh thêm một lần nào nữa."* Hai chị em tôn trọng ranh giới của nhau.
 
 ---

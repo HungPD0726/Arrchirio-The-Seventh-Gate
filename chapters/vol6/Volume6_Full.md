@@ -29,9 +29,9 @@ Không có tiếng quát tháo. Không có sự ồn ào của những câu th�
 
 Chỉ có tiếng tà váy lụa xào xạc lướt qua không khí, nhẹ tênh như một cánh bướm đêm vỗ cánh.
 
-Một thiếu nữ mười lăm tuổi đang một mình múa kiếm dưới ánh trăng mờ.
+Một cô bé mười tuổi đang một mình múa kiếm dưới ánh trăng mờ.
 
-Cô gái mang dáng người mảnh mai, thanh thoát như một nhánh dương liễu ven hồ. Nàng mặc chiếc váy xếp ly bằng lụa sẫm màu cắt may theo phong cách dạ phục quý tộc Anh cách tân—phần thân trên ôm sát bờ vai thon thả với dải ruy băng nhung đen buộc nơi cổ áo, tà váy phía dưới xòe rộng thành nhiều lớp nếp gấp mềm mại, được tính toán chuẩn xác để bung nở như một đóa hoa mỗi khi thân thể xoay tròn.
+Cô bé mang dáng người nhỏ nhắn, thanh thoát như một nhánh dương liễu non ven hồ. Nàng mặc chiếc váy xếp ly bằng lụa sẫm màu cắt may theo phong cách dạ phục quý tộc Anh cách tân—phần thân trên ôm sát bờ vai nhỏ nhắn với dải ruy băng nhung đen buộc nơi cổ áo, tà váy phía dưới xòe rộng thành nhiều lớp nếp gấp mềm mại, được tính toán chuẩn xác để bung nở như một đóa hoa mỗi khi thân thể xoay tròn.
 
 Mái tóc vàng óng gợn sóng buông lơi tự nhiên sau lưng, vài lọn tóc mai buông xõa ôm lấy gò má trắng ngần không một tì vết. Đôi mắt nàng mang một sắc xanh lam trong veo, sâu lắng và thuần khiết như tinh thể pha lê được gọt giũa dưới đáy hồ băng—sắc mắt đặc trưng không thể nhầm lẫn của dòng máu vương tộc Everhart.
 
@@ -70,15 +70,15 @@ Một giọng hát trong trẻo, u sầu và truyền cảm ngân vang qua kho�
 
 Bài dạ khúc hoàng gia Everhart.
 
-Đó là bài hát ru mà mẹ nàng từng hát bên giường ngủ mười năm về trước khi mới đặt chân tới London, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
+Đó là khúc hát ru mà người dì họ kính yêu từng cất lên bên chiếc nôi gỗ sồi mười năm về trước—người họ hàng vương tộc đã nhận lời gửi gắm thiêng liêng của Mẫu hậu Eleanor trong đêm tháo chạy định mệnh, giấu đi thân phận quý tộc, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, thêu ren trong con ngõ ẩm ướt này để bảo bọc giọt máu của vương triều.
 
-Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi cha và mẹ của nàng. 
+Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi người dì họ già yếu.
 
-Họ ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không để lại cho Diana một tòa lâu đài, một tấc đất đai hay một rương vàng bạc nào. Họ chỉ để lại cho nàng hai nấm mồ nhỏ dưới gốc cây táo sau vườn, một chiếc rương gỗ sồi đựng cuốn biên niên sử chép tay, một con dấu rồng vàng, và một di huấn thiêng liêng:
+Bà ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không để lại cho Diana một tòa lâu đài, một tấc đất đai hay một rương vàng bạc nào. Bà chỉ để lại cho nàng một nấm mồ nhỏ dưới gốc cây táo sau vườn, một chiếc rương gỗ sồi đựng cuốn biên niên sử chép tay, một con dấu rồng vàng, thanh liễu kiếm bạc và một di huấn thiêng liêng từ Mẫu hậu Eleanor:
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
-Rời khỏi hoàng cung khi mới lên năm tuổi, ký ức kinh thành bốc cháy đã bị chôn vùi dưới những cơn sang chấn thời thơ ấu và màn sương mù sông Thames. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức trưởng thành như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn hơn là một ngai vàng cụ thể.
+Chào đời trong cảnh lưu vong sau đêm hoàng cung chìm trong biển lửa, Diana chưa từng một lần nhìn thấy mặt cha, cũng chưa từng được một ngày bước chân vào cung điện đá cẩm thạch trắng. Mẫu hậu sau khi sinh nàng đã gạt nước mắt dấn thân vào con đường kháng chiến ngầm ở các vùng ranh giới xa xôi để tìm kiếm một con đường phục quốc. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn qua lời kể của người dì quá cố và tình mẫu tử thiêng liêng từ phương xa.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.
 
@@ -98,7 +98,7 @@ Dưới lòng bàn chân của nàng—nơi tiếp xúc với nền đất ẩm 
 
 Đồng thời, ở phía ngoài hàng rào sắt rỉ sét quấn đầy hoa hồng dại, hai cái bóng đen khoác áo choàng dạ dài của Viện Quý Tộc vừa thoáng ẩn hiện dưới ánh đèn khí đốt rồi biến mất vào bóng tối.
 
-Ánh mắt Diana trở nên sắc sảo, kiên nghị vượt xa vẻ ngoài mềm mại của một thiếu nữ múa ba-lê.
+Ánh mắt Diana trở nên sắc sảo, kiên nghị vượt xa vẻ ngoài ngây thơ của một cô bé mười tuổi.
 
 Nàng đưa tay chạm vào túi áo bên hông váy. Bên trong lớp lụa mềm là chiếc chìa khóa đồng thau mở ngăn tủ bí mật dưới bệ lò sưởi phòng khách—nơi đặt chiếc máy điện tín ngầm nối liền với mạng lưới cáp xuyên đại dương cổ xưa của tổ chức Arrchirio.
 
@@ -279,11 +279,11 @@ Mùi khói than đá ở đây mỏng hơn, nhường chỗ cho mùi xà phòng 
 
 "Thế giới thực bên tôi vào những năm cuối thế kỷ mười chín cũng từng trông hệt như thế này," Louisa cất giọng đều đều, ánh mắt liếc nhìn những ống khói hình trụ vươn lên từ các mái ngói dốc: "Khu ổ chuột của công nhân. Người ta làm việc mười bốn tiếng mỗi ngày trong các xưởng dệt và xưởng luyện kim để đổi lấy vài lát bánh mì đen và một cốc trà loãng. Không ngờ giới phù thủy ở đây lại để một nhánh hoàng tộc lưu vong sống ở một nơi như thế này."
 
-"Cha mẹ tôi... đã chủ động chọn nơi này," Dienne nói khẽ, đôi mắt màu lam thẫm nhìn chằm chằm vào mặt đá cuội dưới chân. 
+"Mẫu hậu tôi... đã chủ động chọn nơi này," Dienne nói khẽ, đôi mắt màu lam thẫm nhìn chằm chằm vào mặt đá cuội dưới chân. 
 
 Từng bước chân của nàng vững chãi nhưng trĩu nặng:
 
-"Họ không muốn lặp lại bi kịch của Everhart. Khi một vương triều bị thiêu rụi, bất kỳ sự xa hoa nào cũng sẽ trở thành ngọn hải đăng thu hút lưỡi hái của Thẩm Phán Viện. Trốn giữa hàng vạn thường dân lao động... chính là cách an toàn nhất để bảo vệ một đứa trẻ vừa tròn một tuổi còn ẵm ngửa."
+"Người không muốn lặp lại bi kịch của Everhart. Khi một vương triều bị thiêu rụi, bất kỳ sự xa hoa nào cũng sẽ trở thành ngọn hải đăng thu hút lưỡi hái của Thẩm Phán Viện. Gửi gắm giọt máu hoàng tộc giữa hàng vạn thường dân lao động... chính là cách an toàn nhất để che chở cho một đứa trẻ vừa mới chào đời."
 
 Louisa khẽ liếc nhìn sườn mặt nghiêng của Dienne. 
 
@@ -303,11 +303,11 @@ Những viên gạch đỏ đã ngả sang màu nâu sẫm vì khói sương qua
 
 Phía trước ngôi nhà là một khoảng sân nhỏ được bao quanh bởi hàng rào sắt rỉ sét uốn hoa văn kiểu cổ. Giàn hoa hồng dại leo bám chằng chịt quanh các thanh sắt, lác đác những đóa hoa hồng trắng muốt ngậm sương đêm đang run rẩy hé nở trong gió lạnh.
 
-Ở góc sân, một cây táo cổ thụ vươn những cành khẳng khiu phủ bóng râm mát rượi. Dưới gốc táo già, hai nấm đất nhỏ được đắp gọn gàng, viền xung quanh bằng những viên đá cuội sông Thames nhẵn bóng, trên mỗi gò đất đặt một nhánh hoa hồng trắng đã héo khô vì gió buốt.
+Ở góc sân, một cây táo cổ thụ vươn những cành khẳng khiu phủ bóng râm mát rượi. Dưới gốc táo già, một nấm đất nhỏ được đắp gọn gàng, viền xung quanh bằng những viên đá cuội sông Thames nhẵn bóng, trên gò đất đặt một nhánh hoa hồng trắng đã héo khô vì gió buốt.
 
-Đó là nơi yên nghỉ của cha mẹ nàng.
+Đó là nơi yên nghỉ của người họ hàng vương tộc—người dì đã thay mặt hoàng gia bảo bọc nuôi nấng Diana suốt những năm tháng ấu thơ.
 
-Họ đã nằm lại ở đây, bên bờ con sông xa xứ này, sau mười bốn năm lưu lạc.
+Người đã nằm lại ở đây, bên bờ con sông xa xứ này, sau những năm tháng âm thầm gánh vác sứ mệnh.
 
 Dienne đứng chôn chân nơi đầu hẻm.
 
@@ -418,9 +418,9 @@ Và đôi mắt nàng...
 
 Đôi mắt màu xanh lam trong veo, sâu thẳm và thuần khiết như tinh thể pha lê được gọt giũa từ một hồ băng nguyên sơ—đôi mắt của dòng máu hoàng tộc Everhart mà Dienne từng nhìn thấy trong những bức chân dung hoàng gia thuở ấu thơ.
 
-Nhìn người thiếu nữ trước mặt, một ý nghĩ bất giác trào dâng trong lồng ngực Dienne, khiến khóe môi nàng khẽ run lên:
+Nhìn cô bé trước mặt, một ý nghĩ bất giác trào dâng trong lồng ngực Dienne, khiến khóe môi nàng khẽ run lên:
 
-*“Em ấy... trông giống một nàng công chúa thực thụ hơn mình.”*
+*“Em ấy... một cô bé mười tuổi, nhưng trông giống một nàng công chúa thực thụ hơn mình.”*
 
 Suốt mười năm qua, Dienne đã sống trong gió tuyết và máu lửa. 
 
@@ -428,15 +428,15 @@ Nàng khoác chiếc áo choàng đen sờn rách viền gấu, đôi ủng da t
 
 Với Dienne, vương quốc Everhart là một vết thương hở rỉ máu, một gánh nặng của trách nhiệm và sự sinh tồn tàn khốc.
 
-Nhưng người thiếu nữ trước mặt nàng thì khác.
+Nhưng cô bé trước mặt nàng thì khác.
 
 Diana lớn lên trong một ngôi nhà bình dân ở con ngõ nghèo ngoại ô London, chưa từng một ngày bước chân vào cung điện đá cẩm thạch trắng, chưa từng được đám đông thần dân tung hô dưới cờ hoa rực rỡ. 
 
-Thế nhưng, trong từng cử chỉ nhón chân, từng nếp váy xếp ly phẳng phiu, cho đến cách nàng cầm chuôi liễu kiếm bạc nạm sapphire... tất cả đều toát lên một cốt cách vương giả tự nhiên, thanh cao và kiêu hãnh đến mức không một bùn lầy hay khói sương nào của thế tục có thể vấy bẩn.
+Thế nhưng, trong từng cử chỉ nhón chân, từng nếp váy xếp ly phẳng phiu, cho đến cách cô bé cầm chuôi liễu kiếm bạc nạm sapphire... tất cả đều toát lên một cốt cách vương giả tự nhiên, thanh cao và kiêu hãnh đến mức không một bùn lầy hay khói sương nào của thế tục có thể vấy bẩn.
 
 Với Diana, Everhart không phải là một chiến trường hay một món nợ máu. 
 
-Everhart là một bản dạ khúc, một nền văn hóa thuần khiết, một ngọn lửa sưởi ấm tâm hồn mà cha mẹ đã truyền lại trọn vẹn trong căn nhà gạch đỏ này.
+Everhart là một bản dạ khúc, một nền văn hóa thuần khiết, một ngọn lửa sưởi ấm tâm hồn mà người dì họ và Mẫu hậu đã truyền lại trọn vẹn trong căn nhà gạch đỏ này.
 
 Ở phía đối diện, đôi mắt xanh trong veo của Diana cũng đang dán chặt vào Dienne.
 
@@ -448,7 +448,7 @@ Và trên ngực áo trong của Dienne, lấp ló sau nếp áo choàng đen, l
 
 Hơi thở của Diana bỗng nghẹn lại.
 
-Lồng ngực thiếu nữ mười lăm tuổi phập phồng run rẩy. Đầu mũi liễu kiếm bạc khẽ chao đảo, phát ra tiếng rung vo ve êm ái như tiếng thở dài của kim loại.
+Lồng ngực cô bé mười tuổi phập phồng run rẩy. Đầu mũi liễu kiếm bạc khẽ chao đảo, phát ra tiếng rung vo ve êm ái như tiếng thở dài của kim loại.
 
 Diana nhìn sâu vào đôi mắt màu lam thẫm của Dienne—đôi mắt mang cùng một sắc độ xanh thẳm của dòng máu hoàng tộc, nhưng thăm thẳm và trĩu nặng những vết thương mà nàng chưa từng phải trải qua.
 
@@ -482,9 +482,9 @@ Hai cánh tay mảnh mai của Diana ôm chặt lấy bờ vai sờn rách của
 
 Dienne siết chặt vòng tay, ôm lấy người em gái nhỏ vào lòng.
 
-Mười lăm năm xa cách. Mười lăm năm ngỡ như đã vĩnh viễn mất đi tất cả trên cõi đời này.
+Mười năm xa cách. Mười năm ngỡ như đã vĩnh viễn mất đi tất cả trên cõi đời này.
 
-Giữa màn sương sớm buốt giá của thành phố nghịch đảo London, dưới bóng cây táo cổ thụ và bên cạnh hai nấm mồ lặng lẽ của cha mẹ, hai nàng công chúa cuối cùng của vương triều Everhart đã tìm thấy nhau.
+Giữa màn sương sớm buốt giá của thành phố nghịch đảo London, dưới bóng cây táo cổ thụ và bên cạnh nấm mồ lặng lẽ của người dì họ, hai nàng công chúa của vương triều Everhart đã tìm thấy nhau.
 
 *Tách.*
 
@@ -500,7 +500,7 @@ Diana khẽ giật mình buông Dienne ra, đôi má đỏ bừng vì ngượng 
 
 ---
 
-## CHƯƠNG 4: DI SẢN CỦA CHA MẸ
+## CHƯƠNG 4: DI SẢN VÀ CHÂN TƯỚNG KHÁNG CHIẾN
 
 Củi sồi khô nổ lách tách trong lò sưởi bằng gạch nung, tỏa ra một làn hơi ấm sực ngào ngạt mùi nhựa cây thông và than ấm.
 
@@ -512,9 +512,9 @@ Diana bưng một chiếc khay đồng nhỏ từ gian bếp bước ra.
 
 Trên khay là một ấm trà bằng sứ xương trắng vẽ hoa hồng lam, ba chiếc tách sứ mỏng manh và một đĩa bánh quy bơ hạt dẻ nướng vàng ruộm vừa mới ra lò còn bốc khói thơm phức.
 
-Nàng công chúa nhỏ đặt chiếc khay xuống bàn, nhẹ nhàng xoay quai tách về phía bên phải người ngồi, rồi nâng ấm trà lên rót dòng nước trà màu hổ phách sóng sánh vào từng chiếc tách. 
+Nàng công chúa nhỏ mười tuổi đặt chiếc khay xuống bàn, nhẹ nhàng xoay quai tách về phía bên phải người ngồi, rồi nâng ấm trà lên rót dòng nước trà màu hổ phách sóng sánh vào từng chiếc tách. 
 
-Từng cử chỉ của nàng—từ độ nghiêng của cổ tay, cách ngón trỏ khẽ đỡ lấy nắp ấm trà cho đến nụ cười mỉm thanh nhã trên môi—đều toát lên vẻ đoan trang, hoàn mỹ như đang chủ trì một buổi tiệc trà chiều hoàng gia trong cung điện lộng lẫy nhất.
+Từng cử chỉ của cô bé—từ độ nghiêng của cổ tay, cách ngón trỏ khẽ đỡ lấy nắp ấm trà cho đến nụ cười mỉm thanh nhã trên môi—đều toát lên vẻ đoan trang, hoàn mỹ như đang chủ trì một buổi tiệc trà chiều hoàng gia trong cung điện lộng lẫy nhất.
 
 "Mời chị Dienne, mời tiểu thư Louisa dùng trà. Đây là trà đen Assam ủ hoa hồng dại thu hái từ khoảng sân sau nhà, bánh quy do chính tay em nướng sáng nay."
 
@@ -528,7 +528,7 @@ Dienne ngồi đối diện, hai bàn tay áp vào thành tách trà ấm nóng.
 
 Đôi mắt màu lam thẫm của nàng lướt qua gian phòng khách mộc mạc. Ở góc phòng có một chiếc máy khâu đạp chân bằng gang đúc đã rỉ sét, một giỏ mây đựng đầy những cuộn len và kim đan, và một chiếc giá gỗ nhỏ đặt vài ba chiếc đồng hồ quả lắc đang chạy tích tắc đều đặn.
 
-"Cha mẹ... đã sống ở đây suốt mười bốn năm sao?" Giọng Dienne khẽ run lên.
+"Người dì họ... đã nuôi nấng em ở đây suốt những năm qua sao?" Giọng Dienne khẽ run lên.
 
 "Vâng ạ," Diana gật đầu. 
 
@@ -540,48 +540,54 @@ Nắp rương mở ra.
 
 Bên trong không hề có những chuỗi ngọc trai lấp lánh, không có vàng thỏi hay những bảo vật ma đạo đắt giá.
 
-Những thứ nằm trong rương chỉ là những kỷ vật giản dị của một cuộc đời thường dân lao động:
+Những thứ nằm trong rương là những kỷ vật giản dị của một cuộc đời thường dân lao động:
 
-Một bộ áo liền quần bằng vải bạt thô dính đầy muội than và dầu máy mỡ cừu—bộ đồ mà người cha từng mặc khi làm thợ phụ trong các xưởng sửa chữa đồng hồ cơ khí ở bờ nam sông Thames.
+Một chiếc kéo cắt vải cán đồng và những cuộn chỉ thô—dụng cụ mà người dì họ từng dùng để thêu ren áo dạ thuê cho các gia đình tiểu thương nghèo trong con ngõ này để nuôi nấng Diana.
 
-Một chiếc kéo cắt vải cán đồng và những cuộn chỉ thô—dụng cụ mà người mẹ từng dùng để thêu ren áo dạ thuê cho các gia đình tiểu thương nghèo trong con ngõ này.
+Và ở đáy rương, được bọc cẩn thận trong một tấm vải nhung đỏ thẫm thêu gia huy rồng vàng, là những vật phẩm thiêng liêng của hoàng tộc:
 
-Và ở đáy rương, được bọc cẩn thận trong một tấm vải nhung đỏ thẫm thêu gia huy rồng vàng, là hai vật phẩm thiêng liêng:
-
-Một cuốn biên niên sử hoàng gia chép tay bằng mực muội than trên giấy da cừu đã ố vàng theo năm tháng, và một chiếc hộp gỗ trắc nhỏ xíu đựng con dấu hoàng tộc hình rồng vàng cuộn mình quanh đóa hoa tuyết—*The Royal Seal of Everhart*.
+Một cuốn biên niên sử hoàng gia chép tay bằng mực muội than trên giấy da cừu đã ố vàng, chiếc hộp gỗ trắc nhỏ xíu đựng con dấu hoàng tộc hình rồng vàng cuộn mình quanh đóa hoa tuyết—*The Royal Seal of Everhart*, và một chiếc trâm cài tóc bằng ngọc lam khắc hoa văn vương hậu.
 
 Diana hai tay nâng tấm vải nhung đỏ bước lại bàn, trân trọng đặt cuốn biên niên sử và chiếc hộp con dấu trước mặt Dienne:
 
-"Đêm lâu đài Everhart bốc cháy mười năm trước... cha mẹ đã được các hiệp sĩ trung thành còn sót lại yểm trợ vượt Cổng trốn thoát sang đây. Khi ấy, em mới chỉ là một đứa bé tròn một tuổi còn ẵm ngửa bọc trong tã lót."
+"Đêm lâu đài Everhart bốc cháy mười năm trước... Phụ hoàng đã quyết tử cầm chân quân Chấp Pháp tại Đại Điện Mặt Trời để che chắn cho đoàn người sơ tán. Khi ấy, Mẫu hậu đang mang thai em, được các kỵ sĩ trung thành mở đường máu đưa sang ẩn náu tại Reverse London này."
 
-Diana khẽ chớp mắt, hồi tưởng lại những lời kể của cha mẹ năm xưa:
+Diana khẽ chớp mắt, giọng nói nhỏ nhẹ nhưng rành rọt từng chữ:
 
-"Cha mẹ kể rằng, trước khi bước qua Cổng không gian, người nhìn thấy bóng lưng của chị Rhea bọc hậu giữa biển lửa nguyền lôi điện, và nghe tin chị Dienne đã bị cuốn trôi trong dòng người tị nạn. Suốt mười năm sau đó, cha mẹ chưa từng một ngày thôi ngóng trông tin tức của chị. Mỗi mùa đông tuyết rơi trên đỉnh núi bên thế giới phù thủy, cha mẹ lại thắp một ngọn nến màu lam bên bậu cửa sổ này, cầu nguyện cho ngọn lửa Lam Hỏa của chị không bao giờ tắt."
+"Mẫu hậu đã hạ sinh em trong gian khó tại chính ngôi nhà này. Nhưng sau khi em chào đời, Mẫu hậu biết rằng mật thám của Thẩm Phán Viện Aurelia đang lùng sục khắp các thành phố ranh giới. Nếu Mẫu hậu ở lại bên cạnh em, sự dao động mana của một Vương hậu sẽ sớm muộn kéo quân thù tới tiêu diệt giọt máu cuối cùng của vương triều. Vì thế, Mẫu hậu đã nuốt nước mắt trao em cho người dì họ—người thân vương tộc duy nhất còn sót lại ở London—nuôi nấng dưới thân phận thường dân."
 
-Dienne vươn bàn tay thon thả nhưng đầy vết chai sạn, khẽ chạm ngón tay lên bề mặt sần sùi của con dấu rồng vàng.
+Dienne nín thở. Lồng ngực nàng quặn thắt lại:
 
-Kim loại bằng vàng ròng mát lạnh tiếp xúc với da thịt nàng. 
+"Còn... còn Mẫu hậu thì sao?!"
 
-Trong khoảnh khắc ấy, một dòng ký ức tuổi thơ năm 6 tuổi bỗng dội về như sóng triều: Bàn tay to lớn ấm áp của người cha từng bế bồng nàng trên lưng ngựa, nụ cười hiền hậu của người mẹ từng cài chiếc trâm ngọc lên mái tóc hạt dẻ của nàng trước gương lớn...
+"Mẫu hậu chưa từng bỏ cuộc, chị Dienne," đôi mắt xanh trong veo của Diana sáng rực niềm tự hào kiên định. "Mẹ đã rút vào bóng tối, vượt qua các vùng đất ranh giới để bí mật tập hợp những kỵ sĩ trung thành, các học giả lưu vong và những thành bang từng chịu ơn Everhart, gây dựng nên **Lực Lượng Kháng Chiến Hoàng Gia**."
 
-"Tại sao..." Giọng Dienne nghẹn lại, đôi mắt lam thẫm ngấn lệ: "Tại sao cha mẹ không gieo vào lòng em sự căm thù? Tại sao cha mẹ không dạy em cách rèn luyện ma thuật sát thủ để quay trở lại Đế quốc báo thù cho gia tộc?"
+*XOẢNG.*
 
-Đó là câu hỏi mà Dienne đã tự dằn vặt suốt từ lúc bước chân vào con ngõ này.
+Tách trà trên tay Dienne run rẩy chạm mạnh vào đĩa sứ phát ra tiếng kêu giòn tan.
 
-Bản thân Dienne đã lớn lên trong thung lũng tuyết giá lạnh với một ngọn lửa hận thù cháy âm ỉ trong lồng ngực. Nàng luyện kiếm gỗ đến toác da bàn tay, học thuộc từng phương trình giải tích ma pháp chết chóc chỉ vì một mục đích: tìm ra kẻ phản bội và bắt Đế quốc phải trả giá.
+Nàng công chúa mười sáu tuổi ngồi chết lặng giữa gian phòng ấm áp. 
 
-Thế nhưng, Diana ngồi trước mặt nàng lại không hề có một chút sát khí hay hận thù nào.
+Mẫu hậu... vẫn còn sống!
 
-Diana nhìn sâu vào mắt Dienne, khẽ lắc đầu, nụ cười trên môi nàng ấm áp như ánh nắng sớm xuyên qua sương mù:
+Suốt mười năm qua, trong căn lều tuyết giá buốt phương Bắc, Dienne đã sống với vết thương lòng rỉ máu rằng mình là kẻ mồ côi trơ trọi giữa thế gian, rằng toàn bộ người thân ruột thịt đã bị ngọn lửa tàn bạo của Đế quốc thiêu thành tro bụi. Nàng đã biến nỗi đau ấy thành sự căm hận, thành lưỡi kiếm sắc lạnh để sinh tồn.
 
-"Trước khi qua đời hai năm trước, cha đã nắm lấy tay em và nói một câu mà em sẽ ghi nhớ suốt cả cuộc đời này..."
+Thế nhưng, sự thật lại rực rỡ như một ánh bình minh xé tan màn đêm mười năm qua: Mẫu hậu không chết! Người mẹ kiên cường của nàng vẫn đang sống, vẫn đang âm thầm giương cao ngọn cờ kháng chiến trong bóng tối để giành lại tương lai cho hai chị em nàng!
 
-Nàng công chúa nhỏ hít một hơi sâu, cất giọng tái hiện lại lời dặn của người cha quá cố:
+Những giọt nước mắt nóng hổi bỗng trào ra khỏi mi mắt Dienne, lăn dài trên gò má phong trần đầy vết chai sạn. Nàng vội đưa mu bàn tay áo choàng đen quệt đi, nhưng nước mắt cứ thế tuôn rơi không kìm lại được.
+
+"Tại sao..." Giọng Dienne nghẹn ngào trong tiếng nấc: "Tại sao người dì họ và Mẫu hậu không dạy em cách căm thù? Tại sao không dạy em cách rèn luyện ma thuật sát thủ để báo thù cho phụ hoàng?"
+
+Diana nhìn sâu vào mắt Dienne, khẽ lắc đầu, nụ cười trên môi cô bé ấm áp như ánh nắng sớm xuyên qua sương mù:
+
+"Trước khi qua đời vì bệnh tật hai năm trước, người dì họ đã ôm em vào lòng và nhắc lại bức thư di huấn mà Mẫu hậu đã để lại cho em..."
+
+Nàng công chúa nhỏ hít một hơi sâu, cất giọng đọc lại từng câu từng chữ đã khắc sâu vào linh hồn:
 
 > *“Diana à, sự căm thù là một ngọn lửa độc. Kẻ cầm nó trong tay sẽ bị bỏng rát trước khi kịp làm tổn thương kẻ thù. Đế quốc có thể dùng đao kiếm và sấm sét để san phẳng lâu đài của chúng ta, nhưng chúng không thể giết chết Everhart.*  
 > *Everhart chưa bao giờ nằm ở những bức tường đá cẩm thạch hay ngai vàng nạm ngọc.*  
-> *Everhart nằm trong từng bước khiêu vũ của con, trong từng khúc dạ ca con hát, trong sự kiêm nhường trước người nghèo khó và sự kiêu hãnh giữ thẳng lưng trước nghịch cảnh.*  
-> *Hãy sống thật đẹp, con gái à. Chỉ khi ngọn lửa Everhart sống sót bằng lòng nhân từ và văn hóa thuần khiết, vương quốc của chúng ta mới thực sự bất tử.”*
+> *Everhart nằm trong từng bước khiêu vũ của con, trong từng khúc dạ ca con hát, trong sự khiêm nhường trước người nghèo khó và sự kiên định giữ thẳng lưng trước nghịch cảnh.*  
+> *Hãy sống thật đẹp, con gái bé bỏng của ta. Chỉ khi ngọn lửa Everhart sống sót bằng lòng nhân từ và văn hóa thuần khiết, vương quốc của chúng ta mới thực sự bất tử.”*
 
 Gian phòng khách chìm vào một sự tĩnh lặng thiêng liêng.
 
@@ -591,11 +597,11 @@ Louisa khẽ gật đầu, đặt tách trà xuống đĩa sứ, ánh mắt nhì
 
 Còn Dienne, nàng công chúa mười sáu tuổi ngồi im phăng phắc như một bức tượng đá.
 
-Từng lời nói của người cha qua đôi môi Diana như một hồi chuông cảnh tỉnh gõ vang trong tâm thức Dienne. 
+Từng lời di huấn của Mẫu hậu qua đôi môi Diana như một hồi chuông cảnh tỉnh gõ vang trong tâm thức Dienne. 
 
 Nàng nhận ra rằng, suốt mười năm qua, mình đã mang trên vai một gánh nặng méo mó. Nàng ngỡ rằng bảo vệ Everhart là phải trả thù, là phải tiêu diệt những kẻ đã hủy diệt quá khứ. 
 
-Thế nhưng, chính người cha, người mẹ và đứa em gái nhỏ sống trong căn nhà gạch đỏ nghèo nàn này mới là những người thực sự gìn giữ linh hồn của vương triều.
+Thế nhưng, chính sự hy sinh anh dũng của phụ hoàng, ý chí kiên cường của mẫu hậu và người em gái nhỏ sống trong căn nhà gạch đỏ này mới là những người thực sự gìn giữ linh hồn của vương triều.
 
 Dienne mất vương quốc trước khi kịp hiểu nó—nên Everhart với nàng là một vết thương.
 
@@ -747,7 +753,7 @@ Dienne tra thanh kiếm gỗ sồi vào bao da bên hông, bước tới chìa b
 
 Diana mỉm cười rạng rỡ, hai má ửng hồng vì vui sướng. Nàng đưa bàn tay nhỏ nhắn mềm mại nắm lấy bàn tay chai sạn của chị gái:
 
-"Nhờ có sự chỉ dạy của cha mẹ và... nhờ có sự kiên cường của chị nữa, chị Dienne."
+"Nhờ có sự chỉ dạy của người dì quá cố, di huấn của Mẫu hậu và... nhờ có sự kiên cường của chị nữa, chị Dienne."
 
 Gió sớm thổi tan đi những vệt sương cuối cùng. 
 
@@ -787,7 +793,7 @@ Nàng công chúa nhỏ đặt ấm đồng xuống bệ bếp, chậm rãi bư�
 
 Nàng không tỏ ra hoảng sợ, cũng không hề phấn khích trước lời mời bước lên vị trí quyền lực của một hội kín cổ đại. 
 
-Diana đứng bên cạnh chiếc ghế tựa, hai bàn tay thon thả đan nhẹ vào nhau đặt trước nếp váy xếp ly. Nàng nhìn ra khung cửa sổ con công—nơi những đóa hồng trắng dại đang khẽ lay động dưới bóng cây táo già và hai nấm mộ phủ đá cuội của cha mẹ.
+Diana đứng bên cạnh chiếc ghế tựa, hai bàn tay thon thả đan nhẹ vào nhau đặt trước nếp váy xếp ly. Nàng nhìn ra khung cửa sổ con công—nơi những đóa hồng trắng dại đang khẽ lay động dưới bóng cây táo già và nấm mộ phủ đá cuội của người dì họ.
 
 Rồi, nàng nhẹ nhàng lắc đầu.
 
@@ -801,7 +807,7 @@ Dienne thoáng sững người, đôi mắt lam thẫm nheo lại vì ngỡ ngà
 
 Diana bước lại gần cửa sổ, ngón tay khẽ chạm lên mặt kính con công bám đầy hơi nước:
 
-"Nhưng chị Dienne ơi... Ngôi nhà gạch đỏ này là mái nhà duy nhất mà em biết trên cõi đời này. Dưới gốc cây táo kia là xương cốt của cha và mẹ. Em không thể bỏ rơi họ trong cô độc để đi tìm sự an toàn cho riêng mình."
+"Nhưng chị Dienne ơi... Ngôi nhà gạch đỏ này là mái nhà duy nhất mà em biết trên cõi đời này. Dưới gốc cây táo kia là nơi yên nghỉ của người dì họ—người đã dành cả tuổi già để chở che cho em. Em không thể bỏ rơi nơi này trong cô độc để đi tìm sự an toàn cho riêng mình."
 
 Diana quay người lại, ánh mắt trong veo nhìn sâu vào mắt Dienne:
 
@@ -813,7 +819,7 @@ Diana hít một hơi sâu, đôi môi nhỏ nhắn khẽ run lên khi nói ra n
 
 "Em sợ?" Dienne nhíu mày.
 
-"Vâng. Cha mẹ đã dành cả cuộc đời lưu vong để gột rửa mùi máu tanh và sự hận thù ra khỏi tâm hồn em," Diana cúi đầu nhìn xuống hai bàn tay trắng ngần của mình: "Họ dạy em múa ba-lê, dạy em chơi đàn và ngắm hoa tuyết nở. Họ muốn em giữ cho linh hồn Everhart luôn thuần khiết. Em biết chị đang gánh vác một cuộc chiến vĩ đại để bảo vệ Cân Bằng. Nhưng nếu em bước lên chiến xa của Arrchirio, nếu em phải dùng thanh liễu kiếm này để chém giết và trả thù... thì em sợ rằng một ngày nào đó, em sẽ đánh mất chính bản thân mình. Em sẽ trở thành một cỗ máy chiến đấu tàn nhẫn giống như những kẻ đã thiêu rụi quê hương chúng ta."
+"Vâng. Người dì quá cố và Mẫu hậu đã gửi gắm cả tâm nguyện để gột rửa mùi máu tanh và sự hận thù ra khỏi tâm hồn em," Diana cúi đầu nhìn xuống hai bàn tay trắng ngần của mình: "Người dạy em múa ba-lê, dạy em chơi đàn và ngắm hoa tuyết nở. Mẫu hậu muốn em giữ cho linh hồn Everhart luôn thuần khiết. Em biết chị đang gánh vác một cuộc chiến vĩ đại để bảo vệ Cân Bằng. Nhưng nếu em bước lên chiến xa của Arrchirio, nếu em phải dùng thanh liễu kiếm này để chém giết và trả thù... thì em sợ rằng một ngày nào đó, em sẽ đánh mất chính bản thân mình. Em sẽ trở thành một cỗ máy chiến đấu tàn nhẫn giống như những kẻ đã thiêu rụi quê hương chúng ta."
 
 Từng lời nói của Diana rơi vào không gian như những giọt sương mai lạnh buốt, nhưng lại có sức nặng ngàn cân gõ thẳng vào tâm khảm của Dienne.
 
@@ -909,9 +915,9 @@ Và đứng ở vị trí chỉ huy phía trước cây táo cổ thụ là mộ
 
 "Một con nhóc mồ côi cầm kiếm gỗ sứt sẹo từ đống tro tàn tuyết trắng, và một ả lính đánh thuê trần thế dùng thứ vũ khí thuốc súng hạ đẳng... New Arrchirio mà đám phản loạn rêu rao bấy lâu nay chẳng qua chỉ là một trò hề của lũ chuột nhắt."
 
-"Malgrave!" Diana bước lên chắn trước Dienne, thanh liễu kiếm bạc trong tay nàng rung lên từng hồi đanh thép: "Viện Quý Tộc từ bao giờ đã trở thành con chó săn phục vụ dưới chân Thẩm Phán Viện Aurelia vậy?! Cha mẹ ta đã ký hiệp ước trung lập với Nữ hoàng từ mười bốn năm trước! Các người không có quyền xâm phạm lãnh địa này!"
+"Malgrave!" Diana bước lên chắn trước Dienne, thanh liễu kiếm bạc trong tay nàng rung lên từng hồi đanh thép: "Viện Quý Tộc từ bao giờ đã trở thành con chó săn phục vụ dưới chân Thẩm Phán Viện Aurelia vậy?! Người bảo hộ của ta đã ký hiệp ước trung lập với Nữ hoàng từ mười năm trước! Các người không có quyền xâm phạm lãnh địa này!"
 
-"Hiệp ước trung lập đó đã hết hạn từ ngày cha mẹ cô nhắm mắt xuôi tay rồi, thưa công chúa nhỏ," Malgrave lạnh lùng gõ mũi gậy ba-toong xuống mặt đất đá cuội: 
+"Hiệp ước trung lập đó đã hết hạn từ ngày người bảo hộ của cô nhắm mắt xuôi tay rồi, thưa công chúa nhỏ," Malgrave lạnh lùng gõ mũi gậy ba-toong xuống mặt đất đá cuội: 
 
 "Thời thế đã thay đổi. Thời đại của những hiệp sĩ ba-lê và những bài thơ ru êm đềm đã chấm dứt. Bằng việc kết nối năng lượng của Tháp Big Ben với mạng lưới Hắc Ma Thạch của Đế quốc Aurelia, chúng ta sẽ mở toang cánh Cổng Cổ Đại, biến toàn bộ thế giới trần thế bên kia bờ sông thành thuộc địa cung cấp nguyên liệu và nhân lực vô tận cho giới quý tộc phù thủy!"
 
@@ -1205,9 +1211,9 @@ Diana ôm lấy miệng, đôi mắt lam trong veo tràn ngập sự bàng hoàn
 
 Ký ức tuổi thơ của Diana ùa về như một cơn ác mộng.
 
-Trong những đêm đông bên lò sưởi của ngôi nhà gạch đỏ nghèo nàn, cha mẹ nàng từng kể cho nàng nghe về Hoàng thúc Alden. Người từng là em trai ruột được Vua cha yêu quý nhất, một học giả toán học ma pháp thiên tài của vương triều, người từng cùng Vua cha nghiên cứu các phương trình ranh giới không gian. 
+Trong những đêm đông bên lò sưởi của ngôi nhà gạch đỏ nghèo nàn, người dì họ từng kể cho nàng nghe về Hoàng thúc Alden. Người từng là em trai ruột được Vua cha yêu quý nhất, một học giả toán học ma pháp thiên tài của vương triều, người từng cùng Vua cha nghiên cứu các phương trình ranh giới không gian. 
 
-Cha mẹ từng rơi nước mắt thương tiếc vì nghĩ rằng Hoàng thúc Alden đã anh dũng hy sinh dưới chân thành Everhart trong đêm thảm sát năm xưa.
+Cả hoàng gia từng rơi nước mắt thương tiếc vì nghĩ rằng Hoàng thúc Alden đã anh dũng hy sinh dưới chân thành Everhart trong đêm thảm sát năm xưa.
 
 Thế nhưng... sự thật cay đắng và tàn khốc lại phơi bày trần trụi trước mắt hai chị em:
 
@@ -1239,13 +1245,13 @@ Nhưng sự im lặng sau đó còn ngột ngạt và đau đớn hơn gấp ng�
 
 Diana quỳ sụp xuống sàn nhà lạnh ngắt.
 
-Nàng công chúa mười lăm tuổi ôm chặt lấy mặt, những giọt nước mắt nóng hổi tuôn rơi qua kẽ ngón tay. 
+Nàng công chúa nhỏ mười tuổi ôm chặt lấy mặt, những giọt nước mắt nóng hổi tuôn rơi qua kẽ ngón tay. 
 
 Trái tim nàng tan nát thành từng mảnh vụn. 
 
-Nàng có thể đối mặt với sự nghèo khó, có thể đối mặt với cái chết của cha mẹ, thậm chí có thể dũng cảm giơ kiếm chống lại kẻ thù xa lạ để bảo vệ những người hàng xóm bình dân. 
+Nàng có thể đối mặt với sự nghèo khó, có thể đối mặt với sự ra đi của người dì họ, thậm chí có thể dũng cảm giơ kiếm chống lại kẻ thù xa lạ để bảo vệ những người hàng xóm bình dân. 
 
-Nhưng làm sao nàng có thể chấp nhận được sự thật rằng: Kẻ đã giết chết quê hương nàng, kẻ đã khiến cha mẹ nàng phải sống lưu vong trong cơ hàn rồi chết trong uất hận... lại chính là người chú ruột mà nàng từng được dạy phải tôn kính và tưởng nhớ?!
+Nhưng làm sao nàng có thể chấp nhận được sự thật rằng: Kẻ đã giết chết quê hương nàng, kẻ đã khiến phụ hoàng phải bỏ mạng giữa biển lửa, khiến mẫu hậu phải chịu cảnh tha hương dấn thân vào hiểm nguy... lại chính là người chú ruột mà nàng từng được dạy phải tôn kính và tưởng nhớ?!
 
 "Tại sao chứ..." Diana nấc nghẹn trong đau đớn tột cùng: "Tại sao người mang cùng dòng máu hoàng gia... lại có thể tàn nhẫn đến mức đó..."
 
@@ -1355,7 +1361,7 @@ Nhưng Diana quay đầu lại, mỉm cười với Dienne.
 
 Ánh mắt màu xanh lam trong veo của nàng lúc này tĩnh lặng và thanh thản lạ kỳ. Đó không còn là ánh mắt của một cô bé sợ hãi chiến tranh, mà là ánh mắt của một người bảo hộ thực sự đã tìm thấy sứ mệnh thiêng liêng của đời mình.
 
-"Chị Dienne đã dạy em rằng: Everhart nằm trong trái tim thuần khiết của em," Diana nói khẽ, giọng nói của nàng bằng một cách kỳ diệu nào đó vượt qua tiếng gầm rú của máy móc, rót thẳng vào tai Dienne: "Và cha mẹ đã dạy em rằng: Âm nhạc và vẻ đẹp có thể cảm hóa mọi sự cuồng bạo của thế gian."
+"Chị Dienne đã dạy em rằng: Everhart nằm trong trái tim thuần khiết của em," Diana nói khẽ, giọng nói của nàng bằng một cách kỳ diệu nào đó vượt qua tiếng gầm rú của máy móc, rót thẳng vào tai Dienne: "Và người dì cùng di huấn của Mẫu hậu đã dạy em rằng: Âm nhạc và vẻ đẹp có thể cảm hóa mọi sự cuồng bạo của thế gian."
 
 Diana quay mặt về phía cỗ máy nén khổng lồ.
 
@@ -1372,7 +1378,7 @@ Một giọng hát thuần khiết, trong trẻo và thanh thoát tựa như ti�
 
 Giọng hát của Diana không dùng âm lượng thô bạo để lấn át tiếng ồn cơ khí. 
 
-Nó là một dòng chảy tần số âm học tự nhiên hoàn mỹ nhất—bài dạ khúc hoàng gia mà cha mẹ đã truyền lại cho nàng bên chiếc nôi thuở ấu thơ. 
+Nó là một dòng chảy tần số âm học tự nhiên hoàn mỹ nhất—bài dạ khúc hoàng gia mà người dì và Mẫu hậu đã truyền lại cho nàng bên chiếc nôi thuở ấu thơ. 
 
 Và điều kỳ diệu nằm ở chỗ: Cỗ máy nén của Alden được lập trình dựa trên chính hệ điều hòa sóng âm của hoàng gia Everhart! Những nốt luyến láy trong trẻo của Diana chính là chiếc "chìa khóa ngược pha" (counter-harmonic key) duy nhất trên thế giới có thể khớp hoàn hảo vào từng khe hở của cỗ máy, xoa dịu những xung dao động đang bị kích động cực độ!
 
@@ -1611,7 +1617,7 @@ Một tiếng ngân vang trong trẻo, thanh thoát và thiêng liêng vang lên
 
 Một thanh kiếm gỗ mộc mạc sứt sẹo mang theo ký ức của đống tro tàn, của sự sinh tồn khốc liệt và tinh thần bảo vệ thế giới của người hiệp sĩ tóc bạc.
 
-Một thanh liễu kiếm bạc tinh xảo dẻo dai mang theo tình yêu thương của cha mẹ, của điệu múa ba-lê thuần khiết và niềm kiêu hãnh bất diệt của một nền văn hóa không bao giờ chết.
+Một thanh liễu kiếm bạc tinh xảo dẻo dai mang theo tình yêu thương và di huấn của Mẫu hậu, của điệu múa ba-lê thuần khiết và niềm kiêu hãnh bất diệt của một nền văn hóa không bao giờ chết.
 
 Hai thanh kiếm. Hai nửa của vương triều Everhart. 
 

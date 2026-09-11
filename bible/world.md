@@ -1031,9 +1031,9 @@ Cô:
 ### 10.2. Reverse London (London Nghịch Đảo / Anh Quốc) — *Thành Phố Nơi Ẩn Náu & Kiếm Vũ Hoàng Gia*
 - **Bản chất không gian**: **Reverse London (London Nghịch Đảo)** là một thành phố ranh giới phản chiếu, tồn tại kẹp giữa màn sương mù dày đặc của London thế giới thực và dòng chảy ma đạo của thế giới phép thuật. Kiến trúc Victorian Gothic cổ kính, tháp đồng hồ Big Ben rêu phong soi bóng xuống dòng sông Thames ma ảo, nơi các cỗ xe ngựa chạy song song với những đường ống áp suất hơi nước.
 - **Vị trí lịch sử đối với Vương tộc Everhart**: 
-  - Sau đêm hoàng cung Everhart sụp đổ trong biển lửa, cha mẹ của Dienne đã bí mật vượt qua Cổng Rò Rỉ tìm đến Reverse London để lánh nạn.
-  - Tại đây, họ sống cuộc đời của những thị dân bình thường trong một ngôi nhà gạch đỏ giản dị, làm lụng mưu sinh và cố gắng không để lộ tung tích vương triều.
-  - **Diana Everhart** được cha mẹ đưa sang đây khi mới năm tuổi và lớn lên trong chính ngôi nhà ấy. Dù sống giữa đời thường, cha mẹ đã âm thầm truyền dạy trọn vẹn văn hóa, lễ nghi, kiếm thuật và ma thuật hoàng gia cho Diana.
+  - Sau đêm hoàng cung Everhart sụp đổ trong biển lửa (Vua cha George hy sinh anh dũng), Mẫu hậu Eleanor đang mang thai đã được các kỵ sĩ trung thành mở đường máu đưa sang Reverse London lánh nạn.
+  - Diana Everhart chào đời trong cảnh lưu vong tại đây. Nhằm bảo vệ an toàn cho giọt máu hoàng tộc trước các mạng lưới mật thám của Thẩm Phán Viện Aurelia, Mẫu hậu Eleanor đã gửi gắm Diana cho một người họ hàng vương tộc (người dì họ) chăm sóc trong một ngôi nhà gạch đỏ giản dị, còn bản thân rút vào bóng tối lãnh đạo **Lực Lượng Kháng Chiến Hoàng Gia (Royalist Resistance)**.
+  - Diana (9–10 tuổi) lớn lên dưới sự dạy dỗ tận tụy của người dì họ (người dì đã qua đời vì bệnh tật 2 năm trước), được truyền thụ trọn vẹn văn hóa, lễ nghi, kiếm thuật ballet và ma thuật hoàng gia theo di huấn và kỷ vật của Mẫu hậu.
 - **Đặc trưng ma pháp & Văn hóa**:
   - Kinh tuyến Greenwich (Kinh tuyến số 0) đóng vai trò trục định vị thời-không.
   - Thay vì ma pháp cứng nhắc, nơi đây phát triển trường phái **Ma thuật trong chuyển động** kết hợp **Kiếm thuật Ballet** và **Cơ khí đồng hồ ma đạo (Clockwork Arcana)**.

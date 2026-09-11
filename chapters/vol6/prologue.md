@@ -29,9 +29,9 @@ Không có tiếng quát tháo. Không có sự ồn ào của những câu th�
 
 Chỉ có tiếng tà váy lụa xào xạc lướt qua không khí, nhẹ tênh như một cánh bướm đêm vỗ cánh.
 
-Một thiếu nữ mười lăm tuổi đang một mình múa kiếm dưới ánh trăng mờ.
+Một cô bé mười tuổi đang một mình múa kiếm dưới ánh trăng mờ.
 
-Cô gái mang dáng người mảnh mai, thanh thoát như một nhánh dương liễu ven hồ. Nàng mặc chiếc váy xếp ly bằng lụa sẫm màu cắt may theo phong cách dạ phục quý tộc Anh cách tân—phần thân trên ôm sát bờ vai thon thả với dải ruy băng nhung đen buộc nơi cổ áo, tà váy phía dưới xòe rộng thành nhiều lớp nếp gấp mềm mại, được tính toán chuẩn xác để bung nở như một đóa hoa mỗi khi thân thể xoay tròn.
+Cô bé mang dáng người nhỏ nhắn, thanh thoát như một nhánh dương liễu non ven hồ. Nàng mặc chiếc váy xếp ly bằng lụa sẫm màu cắt may theo phong cách dạ phục quý tộc Anh cách tân—phần thân trên ôm sát bờ vai nhỏ nhắn với dải ruy băng nhung đen buộc nơi cổ áo, tà váy phía dưới xòe rộng thành nhiều lớp nếp gấp mềm mại, được tính toán chuẩn xác để bung nở như một đóa hoa mỗi khi thân thể xoay tròn.
 
 Mái tóc vàng óng gợn sóng buông lơi tự nhiên sau lưng, vài lọn tóc mai buông xõa ôm lấy gò má trắng ngần không một tì vết. Đôi mắt nàng mang một sắc xanh lam trong veo, sâu lắng và thuần khiết như tinh thể pha lê được gọt giũa dưới đáy hồ băng—sắc mắt đặc trưng không thể nhầm lẫn của dòng máu vương tộc Everhart.
 
@@ -70,15 +70,15 @@ Một giọng hát trong trẻo, u sầu và truyền cảm ngân vang qua kho�
 
 Bài dạ khúc hoàng gia Everhart.
 
-Đó là bài hát ru mà mẹ nàng từng hát bên giường ngủ mười năm về trước khi mới đặt chân tới London, khi hai vợ chồng cựu hoàng tộc phải giấu đi họ tên thật, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, sửa đồng hồ trong con ngõ ẩm ướt này để bảo vệ giọt máu cuối cùng của vương triều.
+Đó là khúc hát ru mà người dì họ kính yêu từng cất lên bên chiếc nôi gỗ sồi mười năm về trước—người họ hàng vương tộc đã nhận lời gửi gắm thiêng liêng của Mẫu hậu Eleanor trong đêm tháo chạy định mệnh, giấu đi thân phận quý tộc, khoác lên mình manh áo vải thô của thường dân và làm lụng quét dọn, thêu ren trong con ngõ ẩm ướt này để bảo bọc giọt máu của vương triều.
 
-Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi cha và mẹ của nàng. 
+Hai năm trước, một cơn bạo bệnh mùa đông đã cướp đi người dì họ già yếu.
 
-Họ ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không để lại cho Diana một tòa lâu đài, một tấc đất đai hay một rương vàng bạc nào. Họ chỉ để lại cho nàng hai nấm mồ nhỏ dưới gốc cây táo sau vườn, một chiếc rương gỗ sồi đựng cuốn biên niên sử chép tay, một con dấu rồng vàng, và một di huấn thiêng liêng:
+Bà ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không để lại cho Diana một tòa lâu đài, một tấc đất đai hay một rương vàng bạc nào. Bà chỉ để lại cho nàng một nấm mồ nhỏ dưới gốc cây táo sau vườn, một chiếc rương gỗ sồi đựng cuốn biên niên sử chép tay, một con dấu rồng vàng, thanh liễu kiếm bạc và một di huấn thiêng liêng từ Mẫu hậu Eleanor:
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
-Rời khỏi hoàng cung khi mới lên năm tuổi, ký ức kinh thành bốc cháy đã bị chôn vùi dưới những cơn sang chấn thời thơ ấu và màn sương mù sông Thames. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức trưởng thành như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn hơn là một ngai vàng cụ thể.
+Chào đời trong cảnh lưu vong sau đêm hoàng cung chìm trong biển lửa, Diana chưa từng một lần nhìn thấy mặt cha, cũng chưa từng được một ngày bước chân vào cung điện đá cẩm thạch trắng. Mẫu hậu sau khi sinh nàng đã gạt nước mắt dấn thân vào con đường kháng chiến ngầm ở các vùng ranh giới xa xôi để tìm kiếm một con đường phục quốc. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn qua lời kể của người dì quá cố và tình mẫu tử thiêng liêng từ phương xa.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.
 
@@ -98,7 +98,7 @@ Dưới lòng bàn chân của nàng—nơi tiếp xúc với nền đất ẩm 
 
 Đồng thời, ở phía ngoài hàng rào sắt rỉ sét quấn đầy hoa hồng dại, hai cái bóng đen khoác áo choàng dạ dài của Viện Quý Tộc vừa thoáng ẩn hiện dưới ánh đèn khí đốt rồi biến mất vào bóng tối.
 
-Ánh mắt Diana trở nên sắc sảo, kiên nghị vượt xa vẻ ngoài mềm mại của một thiếu nữ múa ba-lê.
+Ánh mắt Diana trở nên sắc sảo, kiên nghị vượt xa vẻ ngoài ngây thơ của một cô bé mười tuổi.
 
 Nàng đưa tay chạm vào túi áo bên hông váy. Bên trong lớp lụa mềm là chiếc chìa khóa đồng thau mở ngăn tủ bí mật dưới bệ lò sưởi phòng khách—nơi đặt chiếc máy điện tín ngầm nối liền với mạng lưới cáp xuyên đại dương cổ xưa của tổ chức Arrchirio.
 

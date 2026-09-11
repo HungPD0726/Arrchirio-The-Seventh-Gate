@@ -207,11 +207,17 @@ Cô vươn tay ra, nhẹ nhàng xoa rối mái tóc màu hạt dẻ của Dienne
 
 Dienne ngước đôi mắt tròn xoe lên nhìn Rhea, vẻ giận dỗi ban nãy lập tức biến mất, thay vào đó là sự tò mò rực sáng:
 
-"Kiểm tra mana thật sao chị? Em sẽ được học làm phép thuật giống chị chứ?"
+"Kiểm tra mana thật sao chị? Em sẽ được học làm phép thuật giống chị chứ? Em muốn thắp một ngọn lửa nhỏ để khoe với phụ hoàng và mẫu hậu!"
 
-Rhea mỉm cười, ánh mắt nhìn sâu vào đáy mắt thuần khiết của đứa trẻ sáu tuổi. Đó là những năm tháng bình yên nhất của Everhart, nơi một nàng công chúa nhỏ có thể vô tư nô đùa dưới nắng ấm mà không hề hay biết rằng, nền hòa bình rực rỡ bao quanh em thực chất chỉ là một lớp tro tàn mỏng manh phủ lên những thùng thuốc súng đang chực chờ phát nổ.
+Rhea mỉm cười, ngồi xổm xuống khẽ véo má cô bé:
 
-"Được chứ," Rhea khẽ nói, nắm lấy bàn tay nhỏ bé của Dienne dắt đi về phía hành lang ngập nắng. "Nhưng trước tiên, người phải vượt qua bài kiểm tra lễ nghi đã, thưa công chúa bướng bỉnh."
+"Mẫu hậu của người đang cần tĩnh dưỡng trong tẩm điện vì đang mang thai em bé đấy. Nếu người nghịch lửa làm mẫu hậu giật mình, phụ hoàng nhất định sẽ phạt người chép phạt nghi lễ thêm mười lần."
+
+"Em biết rồi mà!" Dienne bĩu môi, hai mắt lấp lánh niềm vui thơ ngây: "Em sẽ làm một người chị mẫu mực! Em sẽ dạy em bé cách trốn tìm dưới gầm bàn!"
+
+Đó là những năm tháng bình yên nhất của Everhart, nơi một nàng công chúa nhỏ có thể vô tư mơ về ngày làm chị gái dưới nắng ấm mà không hề hay biết rằng, nền hòa bình rực rỡ bao quanh em thực chất chỉ là một lớp tro tàn mỏng manh phủ lên những thùng thuốc súng đang chực chờ phát nổ.
+
+"Được rồi, thưa người chị mẫu mực tương lai," Rhea khẽ nói, nắm lấy bàn tay nhỏ bé của Dienne dắt đi về phía hành lang ngập nắng. "Nhưng trước tiên, người phải vượt qua bài kiểm tra lễ nghi đã, thưa công chúa bướng bỉnh."
 
 ---
 
@@ -425,7 +431,7 @@ Dienne ngẩng gương mặt lấm lem bùn đất và muội than lên, đôi m
 
 "Để ta cõng người."
 
-"Không… Phụ hoàng đâu rồi chị?!" Đứa trẻ òa khóc nức nở, hai bàn tay nhỏ bé cào cấu vào giáp ngực của nữ hiệp sĩ. "Mẫu hậu đâu rồi?! Mọi người đâu hết rồi?! Tại sao lâu đài lại cháy thế này?!"
+"Không… Phụ hoàng đâu rồi chị?!" Đứa trẻ òa khóc nức nở, hai bàn tay nhỏ bé cào cấu vào giáp ngực của nữ hiệp sĩ. "Mẫu hậu đâu rồi?! Em bé trong bụng mẫu hậu nữa?! Mọi người đâu hết rồi?! Tại sao lâu đài lại cháy thế này?!"
 
 Rhea khựng lại.
 
@@ -437,9 +443,9 @@ Cô chậm rãi ngẩng đầu lên, nhìn qua bức tường cung điện vừa
 
 Mái vòm bằng vàng ròng kiêu hãnh đã sụp đổ tan tành. Hàng chục luồng sét tím của quân đoàn chấp pháp vẫn đang dội xối xả vào đống đổ nát ấy để đảm bảo không một sinh linh nào bên trong có cơ hội sống sót. 
 
-Rhea hiểu rõ hơn ai hết: Phụ hoàng của Dienne đã từ chối giao nộp tài liệu bí mật của Arrchirio cho Đế quốc. Ông đã chọn ở lại nơi đó, dùng chính tính mạng của mình để cầm chân đạo quân xâm lược, đánh đổi từng giây từng phút quý giá để Rhea có thể đưa đứa con gái duy nhất của ông trốn thoát.
+Rhea hiểu rõ hơn ai hết: Phụ hoàng của Dienne đã từ chối giao nộp tài liệu bí mật của Arrchirio cho Đế quốc. Ông đã chọn ở lại nơi đó, dùng chính tính mạng của mình để cầm chân đạo quân xâm lược, đánh đổi từng giây từng phút quý giá. Trước khi đại điện sụp đổ, Tiên vương đã hạ lệnh cho những kỵ sĩ hộ vệ trung thành nhất mở đường máu đưa Hoàng hậu Eleanor—người đang mang thai giọt máu thứ hai của vương tộc—rút lui qua lối thoát hiểm ngầm dẫn sang thế giới ranh giới. Còn nhiệm vụ sinh mạng của Rhea là bảo vệ Trưởng công chúa Dienne.
 
-Họ đã không còn nữa rồi. Vương quốc này đã chết rồi.
+Phụ hoàng đã vĩnh viễn ngã xuống trong biển lửa. Còn mẫu hậu cùng sinh linh bé bỏng trong bụng vẫn đang bặt vô âm tín giữa vòng vây khốc liệt của kẻ thù. Vương quốc này đã chết rồi.
 
 Nhưng nhìn vào đôi mắt đẫm lệ, ngây thơ và hoảng loạn của đứa trẻ mới lên sáu đang run rẩy trước mặt mình, Rhea không thể nói ra sự thật tàn khốc ấy.
 
@@ -603,7 +609,7 @@ Từng lời nói của ông lão như những nhát búa tạ giáng thẳng v�
 
 Một mình cô. Chỉ có một mình cô trốn thoát.
 
-Everhart đã mất. Phụ hoàng và mẫu hậu đã bị chôn vùi trong biển lửa. Và giờ đây, ngay cả người duy nhất thề sẽ bảo vệ cô, người đã móc ngoéo ngón tay út hứa sẽ tìm thấy cô… cũng đã biến mất vào cõi hư vô.
+Everhart đã mất. Phụ hoàng đã bị chôn vùi trong biển lửa. Mẫu hậu và sinh linh bé bỏng chưa chào đời bặt vô âm tín giữa sự lùng quét tàn khốc của Đế quốc. Và giờ đây, ngay cả người duy nhất thề sẽ bảo vệ cô, người đã móc ngoéo ngón tay út hứa sẽ tìm thấy cô… cũng đã biến mất vào cõi hư vô.
 
 "Oaaaa…!"
 

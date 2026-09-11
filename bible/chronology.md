@@ -11,7 +11,7 @@
 | Biến cố | Thời điểm | Bản chất sự kiện | Nhân vật liên quan | Hệ quả lâu dài |
 |:---|:---:|:---|:---|:---|
 | **Đại Chiến Phù Thủy & Cuộc Đại Thanh Trừng Arrchirio (The Arrchirio Purge)** | **20 năm trước** *(Năm -10)* | Đế quốc Aurelia mở chiến dịch tận diệt tổ chức cổ đại Arrchirio. Các căn cứ bí mật bị đánh sập hoặc phong tỏa. | - Hội trưởng cũ tử trận.<br>- Vane trốn xuống hầm.<br>- Kenneth mất vợ tại cảng biển.<br>- **Hoàng thúc Alden Everhart** (lúc này là học giả nghiên cứu Cổng) bắt đầu dao động tư tưởng, hoài nghi sự Cân Bằng và ngầm tiếp cận các thế lực tìm kiếm "Trật Tự Tuyệt Đối". | Tổ chức Arrchirio tan rã thành các tàn dư ẩn dật. Pháo đài Sector 7 chìm vào giấc ngủ 20 năm. |
-| **Đêm Hoàng Cung Everhart Sụp Đổ (The Fall of Everhart)** | **10 năm trước** *(Năm 0)* | Đế quốc Aurelia điều quân đoàn Chấp Pháp thiêu rụi kinh đô Everhart vì Vương tộc từ chối bàn giao bí mật Cánh Cửa Thứ Bảy. Alden Everhart chính thức phản bội (Lord Arknight). | - **Dienne Everhart: 6 tuổi** (trốn dưới gầm bàn, tưởng cha mẹ chết trong lửa, được Người Thầy Già cứu vào thung lũng tuyết).<br>- **Diana Everhart: 5 tuổi** (cô bé 5 tuổi được cha mẹ và hộ vệ mở đường máu sơ tán sang Reverse London; cha mẹ sống ẩn dật làm thợ sửa đồng hồ và thêu ren suốt 8 năm rồi mất vì bệnh tật).<br>- **Rhea Everwy: 22 tuổi** (Đội trưởng Hộ vệ bọc hậu tại Everhart Gate, cắm kiếm phong ấn Cổng và rơi vào Dòng Chảy Ma Thuật). | Vương quốc Everhart diệt vong. Dienne được nuôi dạy trong thung lũng tuyết 10 năm. Diana lớn lên cùng cha mẹ tại Reverse London cho đến khi cha mẹ qua đời năm cô 13 tuổi. Rhea mắc kẹt trong vết nứt thời-không. |
+| **Đêm Hoàng Cung Everhart Sụp Đổ (The Fall of Everhart)** | **10 năm trước** *(Năm 0)* | Đế quốc Aurelia điều quân đoàn Chấp Pháp thiêu rụi kinh đô Everhart vì Vương tộc từ chối bàn giao bí mật Cánh Cửa Thứ Bảy. Alden Everhart chính thức phản bội (Lord Arknight). | - **Dienne Everhart: 6 tuổi** (chứng kiến phụ hoàng quyết tử cầm chân địch, mẫu hậu đang mang thai được mở đường máu thoát ly; Dienne được Rhea bọc hậu và Người Thầy Già cứu vào thung lũng tuyết).<br>- **Diana Everhart: Bào thai (trong bụng mẹ)** (Hoàng hậu Eleanor mang thai thoát nạn sang Reverse London, hạ sinh Diana; gửi con gái cho người họ hàng nuôi dưỡng rồi rút vào bóng tối lãnh đạo Kháng Chiến Hoàng Gia; người họ hàng qua đời năm Diana 8 tuổi).<br>- **Rhea Everwy: 22 tuổi** (Đội trưởng Hộ vệ bọc hậu tại Everhart Gate, cắm kiếm phong ấn Cổng và rơi vào Dòng Chảy Ma Thuật). | Vương quốc Everhart diệt vong. Dienne được nuôi dạy trong thung lũng tuyết 10 năm. Diana lớn lên cùng người họ hàng tại Reverse London cho đến khi người họ hàng qua đời 2 năm trước. Mẫu hậu Eleanor âm thầm chuẩn bị lực lượng kháng chiến. Rhea mắc kẹt trong vết nứt thời-không. |
 
 ---
 
@@ -27,17 +27,22 @@
 ### Năm -6 (16 năm trước hiện tại):
 - **Dienne Everhart** sinh ra tại hoàng cung Everhart (Trưởng Công Chúa).
 
-### Năm -5 (15 năm trước hiện tại):
-- **Diana Everhart** sinh ra tại hoàng cung Everhart (Em gái ruột của Dienne, kém Dienne đúng 1 tuổi).
-
 ### Năm 0 (Đêm Everhart sụp đổ — 10 năm trước hiện tại):
-- **Dienne Everhart (6 tuổi)**: Đang dùng bữa tối cùng hoàng gia thì lâu đài bốc cháy. Dienne chui dưới gầm bàn đá, chứng kiến cha mẹ ra lệnh hộ tống các con. Dienne được Người Thầy Già cõng chạy trốn vào thung lũng tuyết và tin rằng cha mẹ đã hy sinh trong biển lửa.
-- **Diana Everhart (5 tuổi)**: Đứa trẻ năm tuổi được cha mẹ và đoàn kỵ sĩ trung thành mở đường máu đưa sang Reverse London nhằm phân tán huyết thống vương tộc, tránh họa diệt môn. Tại đây, cha mẹ giấu thân phận vương tộc, sống bằng nghề sửa đồng hồ và thêu ren, âm thầm dạy Diana cốt cách hoàng gia, âm nhạc và kiếm thuật ballet. Nỗi kinh hoàng của đêm lửa cháy và chuyến vượt biển bão tố đã vùi sâu ký ức thơ ấu của cô dưới tầng sang chấn tâm lý, để lại một tâm hồn thanh khiết lớn lên trong sương mù sông Thames.
+- **Dienne Everhart (6 tuổi)**: Đang dùng bữa tối cùng hoàng gia thì lâu đài bốc cháy. Dienne chui dưới gầm bàn đá, chứng kiến cha mẹ ra lệnh hộ tống các con. Vua cha George quyết tử cầm chân quân Chấp Pháp tại Đại Điện Mặt Trời. Dienne được Rhea hộ tống tới Cổng ngầm rồi được Người Thầy Già cõng chạy trốn vào thung lũng tuyết.
+- **Hoàng hậu Eleanor (mang thai)**: Được các kỵ sĩ trung thành mở đường máu đưa qua lối thoát bí mật sang Reverse London.
 - **Rhea Everwy (22 tuổi)**: Đơn độc bọc hậu tại Everhart Gate trước hàng ngàn quân Thẩm Phán Viện. Trước khi chia tay, Rhea trao thanh kiếm gỗ sồi cho Dienne cùng lời hứa móc ngoéo: *“Ta sẽ theo sau em”*. Rhea đâm trường kiếm bạc vào tâm chấn Cánh Cửa Thứ Bảy, kích hoạt tự hủy phong ấn và bị hút vào **Dòng Chảy Ma Thuật (The Astral Current)**. Ở đó, thời gian sinh học bị đông cứng.
 - Người Thầy Già bắt đầu 10 năm rèn giũa Dienne trong thung lũng tuyết tách biệt.
 
+### Cuối Năm 0 / Đầu Năm 1 (9.5 – 10 năm trước hiện tại):
+- **Diana Everhart chào đời** trong cảnh lưu vong tại Reverse London.
+- Để bảo vệ an toàn cho giọt máu vương tộc trước các mạng lưới mật thám của Thẩm Phán Viện, Hoàng hậu Eleanor trao bé Diana cho **một người họ hàng vương tộc (người dì họ)** nuôi dưỡng cùng cuốn biên niên sử, di huấn và thanh liễu kiếm bạc gia truyền.
+- Hoàng hậu Eleanor gạt nước mắt rút vào hoạt động bí mật, gây dựng **Lực Lượng Kháng Chiến Hoàng Gia (Royalist Resistance)** khắp các vùng ranh giới.
+
 ### Năm 6 (6 năm sau thảm họa):
 - **Dienne (12 tuổi)**: Sau 6 năm khổ luyện Asariën toán học và thể chất, Dienne ngưng tụ thành công ngọn Lam Hỏa tinh khiết đầu tiên (*Vol 1 Ch 8*).
+
+### Năm 8 (8 năm sau thảm họa / 2 năm trước hiện tại):
+- **Diana (8 tuổi)**: Người họ hàng già yếu qua đời vì một cơn bạo bệnh mùa đông, được chôn cất dưới gốc cây táo già sau vườn nhà gạch đỏ ở Reverse London. Diana tiếp tục sống tự lập, kiên cường gìn giữ cốt cách hoàng gia, âm nhạc và kiếm thuật ballet.
 
 ### Năm 9 (9 năm sau thảm họa):
 - **Dienne (15 tuổi)**: Đón sinh nhật 15 tuổi. Người Thầy Già dẫn Dienne xuống căn hầm Arrchirio, trao huy hiệu nhánh cây bạc và kể về sự phản bội của Arknight (*Vol 1 Ch 9*).
@@ -64,7 +69,8 @@
   - Dienne khắc **Dấu Ấn Hướng Tâm** vào Dòng Chảy Ma Thuật, thề sẽ đón Rhea trở về. Louisa nhận Ghế Sồi Thứ Hai.
   - *Epilogue*: Nhận bức điện tín từ **Diana Everhart** tại Reverse London.
 - **Tháng 10–11 — Volume 6 (Dạ Vũ Trong Sương Mù & Bóng Ma Arknight)**:
-  - Nhóm sang Reverse London hội ngộ em gái ruột **Diana Everhart (15 tuổi)**.
+  - Nhóm sang Reverse London hội ngộ em gái ruột **Diana Everhart (9–10 tuổi)**.
+  - Diana tiết lộ Mẫu hậu Eleanor còn sống và đang lãnh đạo kháng chiến ngầm. Dienne xúc động trút bỏ gánh nặng cô độc.
   - Vạch trần Hoàng thúc **Alden Everhart** chính là *Lord Arknight*.
   - Phá tan cỗ máy nén không gian tại Tháp Big Ben. Diana nhận Ghế Sồi Thứ Ba.
 - **Tháng 11–12 — Volume 7 (Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư)**:
@@ -84,7 +90,7 @@
 | Nhân vật | Năm sinh | Tuổi Đêm Everhart (Năm 0) | Tuổi Hiện Tại (Năm 10) | Ghi chú sinh học & Diện mạo |
 |:---|:---:|:---:|:---:|:---|
 | **Dienne Everhart** | Năm -6 | **6 tuổi** | **16 tuổi** | Nhớ rõ cha mẹ, bữa tiệc, và lời thề với Rhea. Rời núi đầu năm 16 tuổi. |
-| **Diana Everhart** | Năm -5 | **5 tuổi** | **15 tuổi** | Kém Dienne 1 tuổi. Sơ tán sang London lúc 5 tuổi; ký ức hoàng cung mờ nhạt do sang chấn tâm lý đêm sụp đổ. |
+| **Diana Everhart** | Cuối Năm 0 / Đầu Năm 1 | **Bào thai (trong bụng mẹ)** | **9.5 – 10 tuổi** | Kém Dienne 6 tuổi. Sinh ra trong lưu vong ở London; tiểu công chúa thiên tài kiếm vũ ballet; Mẫu hậu Eleanor còn sống lãnh đạo kháng chiến. |
 | **Rhea Everwy** | Năm -22 | **22 tuổi** | **32 tuổi** *(thời gian ngoài)* | **Diện mạo & thể trạng sinh học 22 tuổi** (đóng băng trong Dòng Chảy Ma Thuật). |
 | **Louisa** | Năm -8 | 8 tuổi *(ở Kyoto)* | **18 tuổi** | Deuteragonist, $\Psi = 0$, học trò đầu tiên. |
 | **Lucien Vale** | Năm -7 | 7 tuổi | **17 tuổi** | Học đồ thủ thư Aetheris, con buôn khế ước. |
@@ -93,3 +99,4 @@
 | **Lục Thanh Vân** | Năm -7 / -8 | 7–8 tuổi | **17–18 tuổi** | Đạo sĩ Thiên Môn Đạo Quán Côn Lôn. |
 | **Người Thầy Già** | Cổ xưa | ~60+ tuổi | ~70+ tuổi | Trụ cột sống sót của Arrchirio cũ, ở ẩn thung lũng tuyết. |
 | **Alden Everhart** | Năm -30 | ~30 tuổi | ~40 tuổi | Hoàng thúc, Lord Arknight, em trai Tiên vương. |
+
