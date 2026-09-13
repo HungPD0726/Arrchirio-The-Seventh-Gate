@@ -9,13 +9,14 @@ Tài liệu này chứa toàn bộ hướng dẫn dành cho **Showrunner (Tác g
 
 ```text
 mylightnovel/
-├── .agents/skills/                   <-- Hệ sinh thái 5 Skill chuyên biệt + Orchestrator
+├── .agents/skills/                   <-- Hệ sinh thái 6 Skill chuyên biệt + Orchestrator
 │   ├── novel-craft/                  <-- Master Orchestrator (Điều phối tổng thể)
 │   ├── arrchirio-canon/              <-- Continuity Guard & Khóa Hard Magic (Gatekeeper)
 │   ├── arrchirio-style/              <-- Động cơ văn phong & Bộ lọc Anti-AI Slop
 │   ├── arrchirio-story-review/       <-- Bác sĩ chẩn đoán cốt truyện (Story Doctor)
 │   ├── arrchirio-chapter-writer/     <-- Pipeline chấp bút 6 bước có kiểm soát
-│   └── arrchirio-worldbuilder/       <-- Mở rộng thế giới theo cơ chế [PROPOSAL] First
+│   ├── arrchirio-worldbuilder/       <-- Mở rộng thế giới theo cơ chế [PROPOSAL] First
+│   └── arrchirio-illustrator/        <-- Mỹ thuật thị giác, Concept Art & Tranh minh họa
 ├── bible/                            <-- Hệ thống Story Bible chuẩn mực
 │   ├── chronology.md                 <-- Single Source of Truth Dòng thời gian Series
 │   ├── style_profile.md              <-- Quy chuẩn văn phong, nhịp câu & Anti-AI Slop Engine
@@ -44,7 +45,7 @@ mylightnovel/
 
 ---
 
-## 🚀 Hệ Thống 5 Module AI Chuyên Biệt
+## 🚀 Hệ Thống 6 Module AI Chuyên Biệt
 
 Trong studio này, **bạn là Showrunner / Tác giả tối cao**, còn AI đóng vai trò là **Hội đồng Biên tập & Trợ lý Chấp bút**.
 
@@ -77,6 +78,12 @@ Trong studio này, **bạn là Showrunner / Tác giả tối cao**, còn AI đó
 * *"Tôi muốn thiết kế một thành phố mới trên Trục Tây Bắc, hãy phỏng vấn tôi từng bước."*
 * *"Thiết kế một món vũ khí ma đạo cơ khí cho Ryan chế tạo."*
 * *"Xuất bản đề xuất `[PROPOSAL]` để tôi phê duyệt trước khi đưa vào `bible/places.md`."*
+
+### 6. 🎨 Giám Đốc Mỹ Thuật & Tranh Minh Họa (`arrchirio-illustrator`)
+*Khóa đặc điểm nhận diện nhân vật (Character Consistency), thiết kế bìa sách khổ 2:3, concept sheet, và xuất prompt tối ưu cho Midjourney v6/Niji, FLUX.1, SDXL.*
+* *"Vẽ concept sheet toàn thân cho Dienne Everhart kèm 3 biểu cảm gương mặt."*
+* *"Tạo prompt bìa sách cho Tập 1: Dienne cầm kiếm gỗ sồi giữa bão tuyết phương Bắc."*
+* *"Tạo prompt đại cảnh 16:9 trận chiến Cánh Cửa Thứ Bảy với ma trận Asariën phát sáng."*
 
 ---
 
