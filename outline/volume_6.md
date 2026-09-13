@@ -1,7 +1,7 @@
 # DÀN Ý CHI TIẾT VOLUME 6: DẠ VŨ TRONG SƯƠNG MÙ & BÓNG MA ARKNIGHT
 ### (Waltz in the Mist & The Phantom of Arknight)
 
-> **Mục tiêu cốt truyện:** Thâm nhập **Reverse London** (London Nghịch Đảo); cuộc tái ngộ định mệnh và xung đột tư tưởng giữa hai nàng công chúa Everhart (**Dienne & Diana**); lấp đầy Chiếc Ghế Sồi Trống Thứ Ba; bóc trần chân tướng bi kịch huyết thống về kẻ phản bội gia tộc Arknight; và ngăn chặn âm mưu kích hoạt Cổng Cổ Đại Tháp Big Ben.
+> **Mục tiêu cốt truyện:** Thâm nhập **Reverse London** (London Nghịch Đảo); cuộc tái ngộ định mệnh và xung đột tư tưởng giữa hai nàng công chúa Everhart (**Dienne & Diana**); lấp đầy Chiếc Ghế Sồi Trống Thứ Ba; bóc trần chân tướng bi kịch huyết thống về kẻ phản bội Lord Arknight (Alden Everhart); và ngăn chặn âm mưu kích hoạt Cổng Cổ Đại Tháp Big Ben.
 > 
 > **Định hướng phong cách & Giọng văn (Tone & Aesthetics):**
 > - Không gian: Mang đậm phong vị Victorian Magitech — sương mù sông Thames, đèn khí đốt ma đạo, ngõ đá cuội, lâu đài đá xám và những cỗ xe song mã.

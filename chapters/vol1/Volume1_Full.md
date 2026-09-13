@@ -101,7 +101,7 @@ Lưỡi kiếm bạc hạ thấp ngang ngực, mũi kiếm chĩa thẳng vào đ
 
 ## CHƯƠNG 1: MỘT VƯƠNG QUỐC ĐANG HỒI SINH
 
-Sáu năm trước.
+Mười năm trước — ba ngày trước Đêm Everhart sụp đổ.
 
 Gần ba thập kỷ đã trôi qua kể từ khi The Great Wizard War — cuộc Đại Chiến Pháp Thuật chấn động cả hai cõi thực tại — chính thức khép lại.
 
@@ -123,7 +123,7 @@ Và ngay trong khuôn viên hoàng cung Everhart lộng lẫy, cũng có một �
 
 Tiếng gọi thất thanh của người hầu gái vang vọng khắp hành lang lát đá cẩm thạch trắng.
 
-Cô bé không thèm ngoái đầu lại. Đôi giày da nhỏ nhắn gõ lách cách rộn ràng trên tấm thảm len dệt hoa văn rồng vàng. Vạt váy lụa viền ren trắng bồng bềnh tung bay theo từng bước chân thoăn thoắt. Mái tóc màu hạt dẻ buộc hai bên lắc lư qua lại như đôi tai thỏ đang hoảng hốt trốn chạy.
+Cô bé không thèm ngoái đầu lại. Đôi giày da nhỏ nhắn gõ lách cách rộn ràng trên tấm thảm len dệt hoa văn rồng vàng. Vạt váy lụa viền ren trắng bồng bềnh tung bay theo từng bước chân thoăn thoắt. Mái tóc vàng champagne buộc hai bên lắc lư qua lại như đôi tai thỏ đang hoảng hốt trốn chạy.
 
 "Điện hạ Dienne Everhart! Người mau dừng lại đi ạ! Giờ học nghi lễ ngoại giao với quan sứ Đế quốc sắp bắt đầu rồi!"
 
@@ -755,7 +755,7 @@ Dienne mười hai tuổi.
 
 Sáu năm rèn giũa giữa băng tuyết khắc nghiệt đã gột rửa hoàn toàn dáng vẻ mềm yếu của một nàng công chúa cung đình ngày nào. 
 
-Vóc dáng cô bé đã cao lớn hơn, thanh mảnh nhưng ẩn chứa sự dẻo dai và săn chắc của một kiếm sĩ thực thụ. Mái tóc màu hạt dẻ dài chấm lưng được buộc gọn gàng sau gáy bằng một dải dây da giản dị. Đôi mắt màu lam thẫm sâu thẳm như mặt hồ đóng băng, chứa đựng sự điềm tĩnh và tĩnh lặng vượt xa lứa tuổi mười hai. Trên hai lòng bàn tay cô, những vết chai sần dày cộp do vung thanh kiếm gỗ của Rhea hàng vạn lần đã thay thế cho làn da mịn màng thuở nhỏ.
+Vóc dáng cô bé đã cao lớn hơn, thanh mảnh nhưng ẩn chứa sự dẻo dai và săn chắc của một kiếm sĩ thực thụ. Mái tóc màu vàng champagne dài chấm lưng được buộc gọn gàng sau gáy bằng một dải dây da giản dị. Đôi mắt màu lam thẫm sâu thẳm như mặt hồ đóng băng, chứa đựng sự điềm tĩnh và tĩnh lặng vượt xa lứa tuổi mười hai. Trên hai lòng bàn tay cô, những vết chai sần dày cộp do vung thanh kiếm gỗ của Rhea hàng vạn lần đã thay thế cho làn da mịn màng thuở nhỏ.
 
 Hôm nay, Dienne đứng giữa một khoảng đất trống trong rừng thông tuyết phủ, đối diện với một tảng đá hoa cương khổng lồ đóng một lớp băng dày đến nửa thước.
 
@@ -873,7 +873,7 @@ Người thầy già bật cười mỉa mai.
 
 "Vậy tại sao… nó lại sụp đổ?" Dienne khẽ hỏi, lồng ngực đập thình thịch.
 
-"Vì sự phản bội," giọng người thầy già chùng xuống, nặng trĩu sức nặng của hàng vạn sinh mạng đã ngã xuống trong quá khứ. "Hai mươi năm trước, một trong những trụ cột sáng lập của tổ chức—gia tộc Arknight—đã đâm một nhát dao chí mạng vào sau lưng các đồng minh. Chúng bán đứng toàn bộ mạng lưới ngầm và các cứ điểm bí mật cho phe Dominion để đổi lấy quyền lực và sự bảo hộ của Đế quốc."
+"Vì sự phản bội," giọng người thầy già chùng xuống, nặng trĩu sức nặng của hàng vạn sinh mạng đã ngã xuống trong quá khứ. "Hai mươi năm trước, một trong những trụ cột kiệt xuất nhất của tổ chức—kẻ mang danh hiệu Arknight tối cao, kẻ sau này đã cấu kết cùng Thẩm Phán Viện—đã đâm một nhát dao chí mạng vào sau lưng các đồng minh. Hắn bán đứng toàn bộ mạng lưới ngầm và các cứ điểm bí mật cho phe Dominion để đổi lấy quyền lực và sự bảo hộ của Đế quốc."
 
 Ông siết chặt nắm tay:
 
@@ -917,7 +917,7 @@ Và cuối cùng, thanh kiếm gỗ sồi sứt sẹo của Rhea Everwy.
 
 Mười năm qua, thanh kiếm gỗ ấy chưa từng rời khỏi tay cô dù chỉ một ngày. Thớ gỗ sồi đã sẫm lại vì mồ hôi và máu, những vết sẹo chém trên thân kiếm nay được Dienne dùng mana gia cố đến mức cứng cáp không thua kém bất kỳ thanh bảo kiếm bằng thép thau nào của Đế quốc. 
 
-Cô đeo thanh kiếm gỗ chéo qua lưng, khoác lên mình chiếc áo choàng lữ hành màu xám bạc giản dị, kéo chiếc mũ trùm đầu che khuất mái tóc màu hạt dẻ buộc gọn.
+Cô đeo thanh kiếm gỗ chéo qua lưng, khoác lên mình chiếc áo choàng lữ hành màu xám bạc giản dị, kéo chiếc mũ trùm đầu che khuất mái tóc vàng champagne buộc gọn.
 
 Dienne đẩy cánh cửa gỗ, bước ra khoảng sân ngập nắng.
 

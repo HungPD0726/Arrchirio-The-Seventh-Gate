@@ -113,7 +113,7 @@ Pháp sư bậc cao không bị bó buộc vào câu thần chú cố định:
 Mọi ma pháp trận đều có các **điểm nút giao thoa (Interference Nodes)**. Pháp sư bậc cao có thể vô hiệu hóa hoặc làm nổ ngược phép của đối thủ bằng 3 cách:
 - **Cấy toán tử đối nghịch**: Nhìn thấy kẻ địch tích tụ năng lượng qua ký hiệu $\oplus$, lập tức phóng một nét vẽ mang ký hiệu $\otimes$ (phân tán) hoặc $-$ (triệt tiêu) vào giao điểm $\to$ Dòng mana bị đoản mạch, ma trận tự vỡ vụn.
 - **Biến đổi thông số**: Thay đổi toán tử $\times$ thành $\div$ để phân rã sức công phá thành làn gió vô hại.
-- **Đảo pha tần số ($\theta = \pi$)**: Bơm một luồng sóng có tần số ngược pha $180^\circ$ vào tâm ma trận đối phương $\to$ Triệt tiêu năng lượng tức thì.
+- **Đảo pha tần số ($\theta = \pi$)**: Bơm một luồng sóng có tần số ngược pha $180^\circ$ vào tâm ma trận đối phương $\to$ Triệt tiêu biên độ tại cửa phát; năng lượng không biến mất mà bị đẩy vào hệ thống tản nhiệt chuyển thành nhiệt và dao động cơ học.
 
 ### C. Nguyên Tắc Ghép Nối Ngữ Nghĩa Tùy Biến (Modular Semantic Assembly)
 Pháp sư giỏi không cần học thuộc hàng ngàn câu chú riêng biệt. Họ ghép nối các từ tố và toán tử hình học theo nhu cầu thực chiến:
@@ -132,18 +132,22 @@ Pháp sư giỏi không cần học thuộc hàng ngàn câu chú riêng biệt.
 
 # 4. CHUYỂN HÓA MANA THÀNH NHIỆT VÀ CƠ HỌC
  
-### 4.1. Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$) và Nhiệt Hiệu Dụng
+### 4.1. Năng Lượng Mana Thất Thoát ($\Psi_{\text{loss}}$) và Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$)
 Theo Định luật Bảo toàn Mana, năng lượng đầu vào luôn phân rã thành phần hữu ích và phần thất thoát:
-$$\Psi_{\text{cung cấp}} = \Psi_{\text{hiệu quả}} + \Psi_{\text{thất thoát}}$$
+$$\Psi_{\text{cung cấp}} = \Psi_{\text{hiệu quả}} + \Psi_{\text{loss}}$$
  
-Trong hầu hết trường hợp thi triển ma thuật, phần năng lượng thất thoát chuyển hóa trực tiếp thành **Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$)**:
-$$Q_{\text{loss}} = (1 - \eta) \cdot \Psi_{\text{cung cấp}}$$
+Trong đó, phần năng lượng mana thất thoát ($\Psi_{\text{loss}}$, đơn vị *man*) được xác định theo hiệu suất thi triển $\eta$:
+$$\Psi_{\text{loss}} = (1 - \eta) \cdot \Psi_{\text{cung cấp}}$$
+
+Phần mana thất thoát này chuyển hóa thành **Nhiệt Hao Phí Phản Chấn ($Q_{\text{loss}}$, đơn vị *Joule*)** thông qua hệ số chuyển đổi nhiệt cơ $\kappa$ ($\kappa = 10^5\text{ J/man}$):
+$$Q_{\text{loss}} = \kappa \cdot \Psi_{\text{loss}} = \kappa \cdot (1 - \eta) \cdot \Psi_{\text{cung cấp}}$$
  
-- **Ý nghĩa sinh học & cơ học**: Khi $\eta < 100\%$, phần $Q_{\text{loss}}$ này tỏa ra môi trường hoặc ngấm ngược vào kinh mạch/vũ khí của người sử dụng. Nếu pháp sư tung đòn uy lực lớn ($\Psi$ cao) mà hiệu suất thấp, nhiệt phản chấn sẽ gây bỏng rộp da thịt, trật khớp và kiệt sức (ví dụ: Louisa khi đỡ đòn Alden ở Vol 8 Ch 10 phải chịu trọn vẹn $Q_{\text{loss}}$ của chùm tia, gây bỏng mạn sườn).
+- **Ý nghĩa sinh học & cơ học của Nhiệt Phản Chấn**: Khi $\eta < 100\%$, lượng nhiệt $Q_{\text{loss}}$ này tỏa ra môi trường hoặc ngấm ngược vào kinh mạch/vũ khí của người thi triển. Nếu pháp sư tung đòn uy lực lớn ($\Psi$ cao) mà hiệu suất thấp, nhiệt phản chấn sẽ gây bỏng rộp da thịt, co giật cơ bắp và kiệt sức.
+- **Phân biệt với Cơ chế Sát thương Nhận vào (Transferred Energy)**: Cần phân biệt rõ: Khi một người bị đòn tấn công ma thuật đánh trúng (ví dụ Louisa dùng Đại Thái Đao cản chùm tia của Alden ở Vol 8 Ch 10), tổn thương mà cơ thể phải gánh chịu không phải là $Q_{\text{loss}}$ do hiệu suất của bản thân, mà là năng lượng động lực học và bức xạ nhiệt truyền trực tiếp từ chiêu thức đối phương vào vũ khí và xương khớp ($E_{\text{impact}}$).
 - **Phép nguyên tố Hỏa (Nhiệt Lượng Hữu Ích $Q_{\text{fire}}$)**:
   Khi Dienne tạo ngọn lửa lam tinh khiết, năng lượng hữu ích chuyển hóa thành nhiệt lượng:
   $$Q_{\text{fire}} = \eta \cdot \Psi_{\text{cung cấp}} \cdot \kappa$$
-  Với $\Psi = 20\text{ man}$, $\eta = 92\%$, phần năng lượng hữu ích là $\Psi_{\text{eff}} = 18.4\text{ man} \equiv 1.84\text{ MegaJoules}$. Khi được nén vào thể tích cực nhỏ bán kính $r = 2\text{ cm}$, mật độ năng lượng nhiệt cực cao tạo ra ngọn Lam Hỏa $3000^\circ\text{C}+$ làm thăng hoa băng đá tức thì, trong khi nhiệt phản chấn $Q_{\text{loss}} = (1 - \eta)\Psi = 1.6\text{ man}$ tỏa tản mát ra không khí xung quanh, không làm bỏng tay nàng.
+  Với $\Psi = 20\text{ man}$, $\eta = 92\%$, phần năng lượng hữu ích là $\Psi_{\text{eff}} = 18.4\text{ man} \equiv 1.84\text{ MegaJoules}$. Khi được nén vào thể tích cực nhỏ bán kính $r = 2\text{ cm}$, mật độ năng lượng nhiệt cực cao tạo ra ngọn Lam Hỏa $3000^\circ\text{C}+$ làm thăng hoa băng đá tức thì, trong khi nhiệt phản chấn $Q_{\text{loss}} = \kappa (1 - \eta)\Psi = 0.16\text{ MegaJoules}$ tỏa tản mát ra không khí xung quanh, không làm bỏng tay nàng.
 
 ---
 

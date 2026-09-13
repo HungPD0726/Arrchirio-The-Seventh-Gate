@@ -18,7 +18,7 @@ Những vành đai đồng thau quay chậm, phát ra những tiếng *tích t�
 
 Dienne Everhart đứng cạnh bàn đá.
 
-Cô gái mười sáu tuổi khoác chiếc áo len đen dài, mái tóc màu bạch kim buộc gọn sau gáy. Tay trái cô buông lỏng, ngón tay chạm vào lớp vỏ gỗ sần sùi của thanh kiếm gỗ sồi sứt sẹo—kỷ vật người hộ vệ để lại trong đêm Everhart sụp đổ mười năm trước.
+Cô gái mười sáu tuổi khoác chiếc áo len đen dài, mái tóc màu hạt dẻ buộc gọn sau gáy. Tay trái cô buông lỏng, ngón tay chạm vào lớp vỏ gỗ sần sùi của thanh kiếm gỗ sồi sứt sẹo—kỷ vật người hộ vệ để lại trong đêm Everhart sụp đổ mười năm trước.
 
 Ánh mắt Dienne dõi theo ba điểm sáng trên quả cầu:
 
@@ -32,7 +32,7 @@ Ba điểm nút. Ba nền văn minh.
 
 Thế nhưng, điều giữ chặt ánh mắt Dienne là một vệt sáng mới vừa thức tỉnh.
 
-Từ đỉnh Côn Lôn, một vệt sáng màu hổ phách vạch một đường thẳng tắp xuyên qua lục địa, cắm thẳng vào **Quần Thể Kim Tự Tháp Cairo** bên bờ sông Nile. Từ Cairo, dải sáng tiếp tục kéo dài về phía bắc, chỉ vào **Thành Phố Tòa Thánh New Rome**—trung tâm quyền lực của Thẩm Phán Viện và cứ điểm của gia tộc Arknight.
+Từ đỉnh Côn Lôn, một vệt sáng màu hổ phách vạch một đường thẳng tắp xuyên qua lục địa, cắm thẳng vào **Quần Thể Kim Tự Tháp Cairo** bên bờ sông Nile. Từ Cairo, dải sáng tiếp tục kéo dài về phía bắc, chỉ vào **Thành Phố Tòa Thánh New Rome**—trung tâm quyền lực của Thẩm Phán Viện và cứ điểm của Cơ quan Arknight (Arknight Directorate).
 
 *OÒNG...*
 
@@ -202,7 +202,7 @@ Lục Thanh Vân ngồi xếp bằng ở hàng ghế sau, thanh kiếm gỗ đà
 
 Dienne đứng cạnh Soraya bên cửa sổ trần xe.
 
-Nàng công chúa mười sáu tuổi không nói lời nào. Gió sa mạc thổi tung những lọn tóc bạc bay phần phật quanh gò má gầy guộc. Đôi mắt màu lam thẫm của nàng nhìn chăm chú về phía đường chân trời phía đông.
+Nàng công chúa mười sáu tuổi không nói lời nào. Gió sa mạc thổi tung những lọn tóc màu hạt dẻ bay phần phật quanh gò má gầy guộc. Đôi mắt màu lam thẫm của nàng nhìn chăm chú về phía đường chân trời phía đông.
 
 Dưới ánh trăng rằm vằng vặc màu bạc lạnh, ba hình chóp tam giác khổng lồ sừng sững đâm thẳng lên trời đêm u tối:
 
@@ -364,11 +364,11 @@ Soraya bước lên mép thềm đá, đôi bàn tay run rẩy đưa lên ngực
 
 Giọng Louisa đột ngột lạnh băng. Nàng giơ họng súng ngắn chỉ thẳng vào đáy hồ dung nham.
 
-Giữa quả cầu plasma vàng kim tôn nghiêm ấy, một mũi khoan cơ khí khổng lồ bằng thép đen—dày hơn mười mét, mang phù hiệu nhánh cây bạc bị bẻ gãy của **Gia tộc Arknight**—đang cắm ngập vào lõi thạch anh!
+Giữa quả cầu plasma vàng kim tôn nghiêm ấy, một mũi khoan cơ khí khổng lồ bằng thép đen—dày hơn mười mét, mang phù hiệu nhánh cây bạc bị bẻ gãy của **Quân đoàn Arknight (Arknight Legion)**—đang cắm ngập vào lõi thạch anh!
 
 Những đường ống dẫn bằng hợp kim chịu nhiệt to như thân xe buýt liên tục bơm những dòng mana vàng óng bị biến chất sang màu tím đen vào hàng trăm khối pin ma thạch xếp thành hàng dài trên bờ đá. Mùi dầu mỡ công nghiệp, khói than đá khét lẹt và tiếng búa máy nện *thình… thình…* thô bạo xé nát vẻ trang nghiêm ngàn năm của thánh địa.
 
-"Bọn khốn nạn Arknight..." Ryan siết chặt chiếc cờ-lê trong tay, hai hàm răng nghiến lại ken két: "Chúng đang cưỡng bức hút cạn mana tích lũy suốt ba ngàn năm của kim tự tháp để nạp năng lượng cho cỗ máy Cánh Cửa Thứ Bảy ở New Rome!"
+"Bọn khốn nạn Arknight..." Ryan siết chặt nắm tay, hai hàm răng nghiến lại ken két: "Chúng đang cưỡng bức hút cạn mana tích lũy suốt ba ngàn năm của kim tự tháp để nạp năng lượng cho cỗ máy Cánh Cửa Thứ Bảy ở New Rome!"
 
 "Không chỉ hút mana," Lucien soi kính lúp qua mép bờ vực, sắc mặt tái nhợt: "Mũi khoan đó làm nứt vỡ lõi tản nhiệt! Năng lượng kích hoạt mười triệu man nếu bùng phát sẽ châm ngòi cho một phản ứng dây chuyền qua toàn bộ mạng lưới long mạch địa tầng sông Nile—đủ để biến toàn bộ Cairo và vùng hạ lưu thành một biển tro tàn phóng xạ ma thuật!"
 
@@ -694,7 +694,7 @@ Cánh cửa đôi bằng gỗ sồi viền đồng dẫn ra ban công lớn hư�
 
 Một người đàn ông sải bước tiến vào sảnh.
 
-Người đó trạc năm mươi tuổi, vóc người cao lớn, thẳng tắp như một cột đá cẩm thạch. Ông không mặc lễ phục nhung lộng lẫy như các công tước xung quanh, mà khoác một chiếc áo măng-tô quân đội màu đen tuyền cài khuy thép; ve áo bẻ góc vuông vức không đính bất kỳ huân chương danh dự nào. Mái tóc hoa râm chải ngược để lộ vầng trán cao và đôi mắt màu xám tro sâu thẳm, tĩnh lặng đến mức không gợn một tia cảm xúc.
+Người đàn ông trạc bốn mươi tuổi, nhưng mái tóc hoa râm và những đường nhăn hằn sâu khiến ông trông già hơn tuổi thật. Vóc người cao lớn, thẳng tắp như một cột đá cẩm thạch. Ông không mặc lễ phục nhung lộng lẫy như các công tước xung quanh, mà khoác một chiếc áo măng-tô quân đội màu đen tuyền cài khuy thép; ve áo bẻ góc vuông vức không đính bất kỳ huân chương danh dự nào. Mái tóc hoa râm chải ngược để lộ vầng trán cao và đôi mắt màu xám tro sâu thẳm, tĩnh lặng đến mức không gợn một tia cảm xúc.
 
 Trên ngón trỏ bàn tay phải của ông, một chiếc nhẫn đá obsidian đen tuyền khắc hình **nhánh cây bạc bị bẻ gãy** hắt lên ánh sáng lạnh lẽo:
 
@@ -1228,7 +1228,7 @@ Giữa khoảng không đổ nát của Điểm Kỳ Dị, một bóng người 
 
 Đó là một nữ hiệp sĩ cao lớn, vững chãi như một vách đá sừng sững giữa bão tuyết.
 
-Nàng khoác bộ chiến giáp hoàng gia màu bạc đã sờn cũ, tấm áo choàng lụa trắng viền bạc sau lưng rách bươm qua một thập kỷ trôi dạt giữa các dòng chảy không gian. Mái tóc màu bạch kim dài chấm lưng xõa bay trong làn gió lạnh; trên gò má trắng ngần của nàng có một vết sẹo nhỏ kéo dài từ khóe mắt xuống gò má—dấu tích của trận bọc hậu tại cổng thành Everhart mười năm về trước.
+Nàng khoác bộ chiến giáp hoàng gia màu bạc đã sờn cũ, tấm áo choàng lụa trắng viền bạc sau lưng rách bươm qua một thập kỷ trôi dạt giữa các dòng chảy không gian. Mái tóc bạc cắt ngắn ngang vai, bết lại vì bụi kim loại và sương Astral xõa bay trong làn gió lạnh; trên gò má trắng ngần của nàng có một vết sẹo nhỏ kéo dài từ khóe mắt xuống gò má—dấu tích của trận bọc hậu tại cổng thành Everhart mười năm về trước.
 
 Nàng đứng đó, tay phải cầm thanh trường kiếm bạc cắm hờ xuống sàn đá.
 
@@ -1373,7 +1373,7 @@ Phía sau đống máy vỡ, một tiếng ngân mỏng vang lên.
 
 Một vòng ánh sáng mở ra trên không. Không phải giọng nói ban ơn, cũng không phải lời gọi từ cõi chết. Đó là giao diện cuối cùng của Cánh Cửa Thứ Bảy đang cố khởi động lại theo tọa độ còn lưu trong trục neo: Everhart, mười năm trước.
 
-Qua mặt sáng run rẩy là ban công đá của lâu đài cũ. Cờ hiệu vàng đỏ còn nguyên. Một Dienne sáu tuổi chạy qua vườn cúc, tóc bạch kim đuổi theo những con bướm phát sáng. Xa hơn, nhà vua đang cười với hoàng hậu.
+Qua mặt sáng run rẩy là ban công đá của lâu đài cũ. Cờ hiệu vàng đỏ còn nguyên. Một Dienne sáu tuổi chạy qua vườn cúc, mái tóc màu hạt dẻ đuổi theo những con bướm phát sáng. Xa hơn, nhà vua đang cười với hoàng hậu.
 
 Rhea đứng sững.
 
@@ -1429,21 +1429,19 @@ Rhea vẫn không buông tay nàng.
 
 Sáu tuần sau trận chiến tại Điểm Kỳ Dị Cánh Cửa Thứ Bảy, Pháo đài Sector 7 vẫn còn mùi đá ẩm, dầu máy và thuốc sát trùng.
 
-Trong Đại sảnh Bàn Tròn, những lá cờ Arrchirio chỉ chiếm một góc tường. Phần còn lại là phù hiệu của bốn mươi phái đoàn: các thành bang độc lập, chính phủ lâm thời của Aurelia, đại diện từ Kyoto, Reverse London và Cairo. Chúng không tung bay. Chúng được ghim thẳng xuống vải bố bằng đinh đồng, ngay hàng như những mục trong một bản hợp đồng khó nuốt.
+Trong Đại sảnh Bàn Tròn, những lá cờ Arrchirio chỉ chiếm một góc tường. Phần còn lại là phù hiệu của bốn mươi phái đoàn: các thành bang độc lập, chính phủ lâm thời của Aurelia, đại diện dân sự từ Kyoto, Reverse London và Cairo. Các bộ trưởng lâm thời, thẩm phán dân sự và sứ giả trưởng thành ngồi chật kín các dãy bàn ngoài, tranh luận gắt gao từng điều khoản trước khi hạ bút ký. Những lá cờ không tung bay; chúng được ghim thẳng xuống vải bố bằng đinh đồng, ngay hàng như những mục trong một bản hợp đồng thực dụng.
 
-Lucien đứng bên bàn đá, đẩy gọng kính mới lên sống mũi. Trước mặt cậu là bốn mươi bản Hiệp ước Đình chiến Ba Năm, mép giấy vẫn nhăn vì vừa đi qua mưa tuyết đường hầm.
+Lucien đứng bên bàn đá, cùng vị đại diện thương nghiệp của Liên minh Thành bang rà soát văn bản. Trước mặt họ là bốn mươi bản Hiệp ước Đình chiến Ba Năm, mép giấy vẫn nhăn vì vừa đi qua mưa tuyết đường hầm.
 
-"Điều ba: mỗi lần mở Cổng phải có chữ ký của hai đầu thế giới và một người giám sát không thuộc hai bên," Lucien đọc, ngón tay gõ nhịp lên con dấu sáp. "Điều bảy: New Arrchirio không có quyền tự ý đóng tuyến giao thương. Điều mười một: chúng ta gia hạn hay không sau ba năm thì phải ngồi lại từ đầu."
+"Điều ba: mỗi lần mở Cổng phải có chữ ký của chính quyền dân sự hai đầu thế giới và một giám sát viên độc lập," Lucien đọc, chờ vị sứ giả thành bang đóng triện đồng. "Điều bảy: New Arrchirio và Aurelia đều không có quyền tự ý đóng tuyến giao thương. Điều mười một: gia hạn hay hủy bỏ sau ba năm đều bắt buộc tổ chức hội nghị hiệp thương toàn thể."
+
+Một bộ trưởng của chính phủ lâm thời Aurelia thở phào, hạ chiếc bút lông ngỗng xuống sau khi ký tên: "Chừng nào không ai biến cái bàn này thành ngai vàng, chúng tôi tôn trọng hiệp ước."
 
 Ryan huýt sáo nhỏ. Cánh tay trái của cậu còn bó chặt từ vai đến cổ tay, lớp băng trắng đã lốm đốm dầu đen.
 
-"Nói cách khác, không ai được biến cái bàn này thành ngai vàng."
+Ở phía đối diện, Louisa lấy mũi dao găm chỉ lên tấm bản đồ Cổng. Một vết sẹo mảnh còn đỏ chạy từ xương đòn xuống dưới cổ áo bomber:
 
-"Cuối cùng cậu cũng đọc được một văn bản không có sơ đồ mạch điện," Lucien đáp.
-
-Ở phía đối diện, Louisa ngậm que kẹo dâu, lấy mũi dao găm gõ lên tấm bản đồ Cổng. Một vết sẹo mảnh còn đỏ chạy từ xương đòn xuống dưới cổ áo bomber.
-
-"Thêm một dòng nữa," cô nói. "Ai muốn mở tuyến Kyoto thì phải hỏi người Kyoto trước. Đừng có gọi nó là cân bằng rồi bật đèn cho cả thành phố cháy như lần trước."
+"Thêm một dòng nữa từ phía phái đoàn Kyoto," cô nói, liếc nhìn người đại diện dân sự đang ngồi đối chiếu biên bản. "Ai muốn mở tuyến Kyoto thì phải có sự đồng thuận bằng văn bản của chính quyền địa phương trước. Đừng có gọi nó là cân bằng rồi làm quá tải lưới điện dân sự như lần trước."
 
 Dienne đứng gần cửa sổ thông gió. Bàn tay phải của nàng quấn băng đen tới cổ tay; khi cố nắm lại, các ngón tay chỉ khép được nửa chừng. Thanh kiếm gỗ sồi cháy sẫm một cạnh đặt trên bệ đá cạnh nàng.
 

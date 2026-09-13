@@ -1,104 +1,51 @@
 # ARRCHIRIO: THE SEVENTH GATE (Cánh Cửa Thứ Bảy)
-### Official Novel Studio Workspace
 
-Chào mừng bạn đến với không gian sáng tác tác phẩm Light Novel **ARRCHIRIO: THE SEVENTH GATE**.
-
----
-
-## 📁 Cấu Trúc Dự Án Hoàn Chỉnh
-
-```text
-mylightnovel/
-├── .agents/skills/                   <-- Hệ sinh thái 5 Skill chuyên biệt + Orchestrator
-│   ├── novel-craft/                  <-- Master Orchestrator (Điều phối tổng thể)
-│   ├── arrchirio-canon/              <-- Continuity Guard & Khóa Hard Magic (Gatekeeper)
-│   ├── arrchirio-style/              <-- Động cơ văn phong & Bộ lọc Anti-AI Slop
-│   ├── arrchirio-story-review/       <-- Bác sĩ chẩn đoán cốt truyện (Story Doctor)
-│   ├── arrchirio-chapter-writer/     <-- Pipeline chấp bút 6 bước có kiểm soát
-│   └── arrchirio-worldbuilder/       <-- Mở rộng thế giới theo cơ chế [PROPOSAL] First
-├── bible/                            <-- Hệ thống Story Bible chuẩn mực
-│   ├── chronology.md                 <-- Single Source of Truth Dòng thời gian Series
-│   ├── style_profile.md              <-- Quy chuẩn văn phong, nhịp câu & Anti-AI Slop Engine
-│   ├── world.md                      <-- Thiết lập thế giới & Trục du hành thành phố
-│   ├── places.md                     <-- Địa lý 15 thành phố & kỳ quan ma thuật (9 trục chuẩn mực)
-│   ├── species.md                    <-- 7 chủng tộc (Human, Lunar Elves, Midgogant, Sky Kin...)
-│   ├── characters.md                 <-- Hồ sơ nhân vật (Dienne, Louisa, Ryan, Soraya, Lucien, Diana, Rhea...)
-│   ├── Merlin.md                     <-- Canon về Merlin, Paradox & Gate 7
-│   ├── magic.md                      <-- Triết lý & hệ thống ma thuật tổng quan
-│   ├── mana_physics.md               <-- Động lực học Mana & Toán học ma pháp (3 Định luật Merlin)
-│   ├── asarien_codex.md              <-- Ngôn ngữ cổ Asariën, ngữ pháp 4 pha & thần chú
-│   ├── magic_appendix.md             <-- Phụ lục xuất bản (Ký hiệu ma pháp trận, 5 ví dụ)
-│   ├── canon_audit.md                <-- Master Status Tracker & Kiểm định Canon (Active Tracker)
-│   ├── arrchirio_codex.md            <-- Cấu trúc thứ bậc, 5 đại hệ, Umbraguard & Thần thoại Hai Chị Em
-│   └── state.md                      <-- Trạng thái cốt truyện (Volume 8 Tracker)
-├── outline/                          <-- Dàn ý chi tiết các Volume
-│   ├── master_plot.md                <-- Cốt truyện tổng thể & lộ trình tương lai (Vol 1-8)
-│   ├── volume_1.md                   <-- Dàn ý Tập 1 (Công chúa mất đi vương quốc)
-│   ├── volume_2.md                   <-- Dàn ý Tập 2 (Những thành phố không có trên bản đồ)
-│   ├── volume_3.md                   <-- Dàn ý Tập 3 (Thế giới không có phép thuật)
-│   ├── volume_4.md                   <-- Dàn ý Tập 4 (Những tàn tích của Arrchirio)
-│   ├── volume_5.md                   <-- Dàn ý Tập 5 (Tiếng vang từ biên cương)
-│   ├── volume_6.md                   <-- Dàn ý Tập 6 (Reverse London & Bức điện Diana)
-│   ├── volume_7.md                   <-- Dàn ý Tập 7 (Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư)
-│   └── volume_8.md                   <-- Dàn ý Tập 8 (Những Thành Phố Cổ & Trận Chiến Cân Bằng - Đại Kết Cục)
-├── chapters/
-│   ├── vol1/                         <-- Bản thảo Tập 1 (81 KB - 13.477 từ)
-│   ├── vol2/                         <-- Bản thảo Tập 2 (65 KB - 10.887 từ)
-│   ├── vol3/                         <-- Bản thảo Tập 3 (170 KB - 28.562 từ)
-│   ├── vol4/                         <-- Bản thảo Tập 4 (171 KB - 28.539 từ)
-│   ├── vol5/                         <-- Bản thảo Tập 5 (188 KB - 31.174 từ)
-│   ├── vol6/                         <-- Bản thảo Tập 6 (148 KB - 24.730 từ)
-│   ├── vol7/                         <-- Bản thảo Tập 7 (119 KB - 19.812 từ)
-│   └── vol8/                         <-- Bản thảo Tập 8 (128 KB - 21.184 từ)
-│       ├── Volume8_Full.md
-│       ├── prologue.md -> ch14.md
-│       └── epilogue.md
-├── scripts/                          <-- Script bảo trì, CI & Recompile tự động
-│   ├── recompile_volumes.ps1         <-- Tự động ghép Full Volumes & Kiểm định Canon
-│   └── volume_meta.json              <-- Metadata tiêu đề chuẩn 8 tập
-├── templates/scene_template.md       <-- Biểu mẫu Scene & Sequel
-└── README.md                         <-- Hướng dẫn này
-```
+> *"Khi Đế quốc Aurelia san phẳng vương triều Everhart để thâu tóm mạng lưới Cổng Cổ Đại, nàng công chúa sống sót mười sáu tuổi cùng một thiếu nữ không có mana phải tái lập hội đồng Arrchirio thất truyền, dùng toán học giải tích và kiếm thuật vật lý để ngăn chặn một cỗ máy thời gian đe dọa thiêu rụi cả thế giới phép thuật lẫn nhân loại."*
 
 ---
 
-## 🚀 Hướng Dẫn Vận Hành Studio Cùng AI (Showrunner Playbook)
+## 📖 Giới Thiệu Tác Phẩm
 
-Trong studio này, **bạn là Showrunner / Tác giả tối cao**, còn AI đóng vai trò là **Hội đồng Biên tập & Trợ lý Chấp bút**. Hệ thống được chia thành 5 module chuyên sâu:
+**Arrchirio: The Seventh Gate** là bộ Light Novel dài kỳ thuộc thể loại **Epic Science-Fantasy / Hard Magic / Song Hành Đa Thế Giới**. Tác phẩm đưa người đọc bước vào một thế giới nơi ma thuật không vận hành bằng "sức mạnh niềm tin" mơ hồ, mà được xây dựng như một hệ thống toán học - động lực học chặt chẽ ($\Psi, \eta, Q$, ngôn ngữ Asariën 4 pha), kết hợp cùng công nghệ cơ khí Magitech thời kỳ công nghiệp hóa và những âm mưu chính trị sắc lạnh.
 
-### 1. 🛡️ Bảo Vệ Canon & Tính Liên Tục (`arrchirio-canon`)
-*Tra cứu `bible/canon_audit.md`, `bible/state.md`, `bible/mana_physics.md` để ngăn chặn tuyệt đối mâu thuẫn.*
-* *"Kiểm tra canon phân cảnh này."*
-* *"Đoạn này có vi phạm định luật bảo toàn $\Psi$ và tản nhiệt $\eta$ không?"*
-* *"Kiểm tra lại trang bị và vết thương hiện tại của Dienne/Louisa trong `state.md`."*
-
-### 2. 🎨 Văn Phong & Thanh Trừng AI Slop (`arrchirio-style`)
-*Dựa trên `bible/style_profile.md` để gọt giũa câu chữ, khử văn mẫu dịch máy, đan xen nhịp câu và bảo toàn giọng thoại.*
-* *"Gọt giũa đoạn văn này: khử các từ ngữ sáo rỗng thường thấy của AI."*
-* *"Viết lại phân cảnh này với nhịp câu dồn dập (staccato) cho cảnh cận chiến."*
-* *"Kiểm tra xem câu thoại của Louisa có bị mất chất cộc lốc/sát khí ngầm không."*
-
-### 3. 🩺 Bác Sĩ Chẩn Đoán Truyện (`arrchirio-story-review`)
-*Ứng dụng mô hình Story Sense (Assess $\to$ Diagnose $\to$ Intervene $\to$ Reassess) để bắt bệnh mà không tự ý viết đè lên tác giả.*
-* *"Review chương này giúp tôi: Scene Engine có đủ Desire, Dilemma và Cost không?"*
-* *"Tại sao phân cảnh này đọc cảm giác hơi trôi tuột?"*
-* *"Đoạn này có bị lỗi nhồi nhét lore (Exposition dump) không?"*
-
-### 4. ✍️ Quy Trình Chấp Bút 6 Bước Có Kiểm Soát (`arrchirio-chapter-writer`)
-*Chuỗi SOP khép kín: Pre-Flight $\to$ Beat Sheet $\to$ Show-Don't-Tell Draft $\to$ Audit $\to$ Scrubbing $\to$ State Proposal.*
-* *"Lên dàn ý 3 beat cho Chương mới dựa theo `outline/`."*
-* *"Chấp bút Beat 1 chú ý miêu tả ngũ quan (mùi khói than đá, hơi lạnh, tiếng kim khí)."*
-* *"Tạo bản đề xuất cập nhật `bible/state.md` sau khi kết thúc chương."*
-
-### 5. 🏛️ Mở Rộng Thế Giới Proposal-First (`arrchirio-worldbuilder`)
-*Phỏng vấn sâu từng lớp (Writers Toolkit), xuất bản `[PROPOSAL]` độc lập, tuyệt đối không tự ý sửa Bible.*
-* *"Tôi muốn thiết kế một thành phố mới trên Trục Tây Bắc, hãy phỏng vấn tôi từng bước."*
-* *"Thiết kế một món vũ khí ma đạo cơ khí cho Ryan chế tạo."*
-* *"Xuất bản đề xuất `[PROPOSAL]` để tôi phê duyệt trước khi đưa vào `bible/places.md`."*
+### Thông Tin Tác Phẩm
+- **Tác giả / Showrunner:** HungPD0726
+- **Thể loại:** Epic Science-Fantasy, Hard Magic, Steampunk Magitech, Âm mưu chính trị & Gián điệp, Parallel Worlds
+- **Quy mô Series:** 8 Volume (Toàn bộ cốt truyện chính đã hoàn thành 100%)
+- **Tác phẩm tham chiếu (Comps):** *Fullmetal Alchemist: Brotherhood*, *Mistborn* (Brandon Sanderson)
 
 ---
 
-## ✍️ Nguyên Tắc Vàng Cho Tác Giả
+## 📚 Danh Sách & Thứ Tự Đọc 8 Tập (Volume Reading Order)
 
-1. **Khóa State (State Continuity):** Luôn yêu cầu AI cập nhật `bible/state.md` sau mỗi chương. Đây là mỏ neo giúp AI không bao giờ bị quên chi tiết dù bộ truyện kéo dài 15–20 Volume.
-2. **Quyền Quyết Định Thuộc Về Bạn:** Mọi sáng tạo mới của AI chỉ là bản đề xuất `[PROPOSAL]`. Chỉ khi bạn duyệt, nó mới trở thành Canon chính thức!
+| Tập | Tên Tập | Bối Cảnh Chính | Trọng Tâm Câu Chuyện |
+|:---:|:---|:---|:---|
+| **Tập 1** | **Công Chúa Mất Đi Vương Quốc**<br>*(The Princess Who Lost Her Kingdom)* | Thung Lũng Tuyết Phương Bắc | Bi kịch Đêm Everhart sụp đổ, mười năm rèn giũa Asariën toán học, và bước chân đầu tiên ra thế giới bên ngoài. |
+| **Tập 2** | **Những Thành Phố Không Có Trên Bản Đồ**<br>*(The Cities Beyond the Map)* | Lumeria & Học viện Aetheris | Thế giới công nghệ ma đạo Magitech, sự tha hóa của quyền lực Đế chế, và cuộc gặp gỡ với Lucien Vale. |
+| **Tập 3** | **Thế Giới Không Có Phép Thuật**<br>*(The World Without Magic)* | Cố đô Kyoto (Thế giới thực) | Vượt Cổng sang thế giới loài người ($\Psi = 0$), cuộc hội ngộ định mệnh với Louisa và xung đột tư duy ma thuật - vật lý. |
+| **Tập 4** | **Những Tàn Tích Của Arrchirio**<br>*(The Ruins of Arrchirio)* | Pháo đài ngầm Sector 7 | Tìm lại di sản của tổ chức bảo vệ Cân Bằng thất truyền, thu nạp thợ máy Ryan và nữ tư tế sa mạc Soraya. |
+| **Tập 5** | **Tiếng Vang Từ Biên Cương**<br>*(Echoes of the Frontier)* | Biên cương tuyết phủ phương Bắc | Giải mã hiện tượng xung năng lượng Cánh Cửa Thứ Hai, sự thật về Rhea Everwy trong Dòng Chảy Ma Thuật, và bức điện tín từ London. |
+| **Tập 6** | **Dạ Vũ Trong Sương Mù & Bóng Ma Arknight**<br>*(Waltz in the Mist & The Phantom of Arknight)* | Reverse London (Anh Quốc nghịch đảo) | Tái ngộ người em gái Diana Everhart, phát hiện chân tướng Mẫu hậu Eleanor còn sống, và vạch trần kẻ phản bội Lord Arknight. |
+| **Tập 7** | **Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư**<br>*(The Dragon Leylines of Kunlun & The Fourth Chair)* | Dãy núi tuyết Côn Lôn (Phương Đông) | Phục hồi long mạch Bát Quái cùng Đạo sĩ Lục Thanh Vân, Louisa tìm thấy thanh Đại Thái Đao cổ bất hoại. |
+| **Tập 8** | **Những Thành Phố Cổ & Trận Chiến Cân Bằng**<br>*(The Ancient Cities & The Battle of Balance)* | Cairo, Vatican New Rome & Điểm Kỳ Dị | Đại chiến quyết định tại Cánh Cửa Thứ Bảy, sự trở về của Rhea Everwy, cái giá đắt đỏ của sự thật và Hiệp ước Đình chiến Ba Năm. |
+
+---
+
+## 👥 Dàn Nhân Vật Chính (The Core Cast)
+
+- **Dienne Everhart (16 tuổi):** Trưởng công chúa của Vương quốc Everhart đã mất. Điềm tĩnh, lý trí, tư duy chiến đấu bằng toán học Asariën và kiếm thuật gỗ sồi chuẩn xác.
+- **Louisa (18 tuổi):** Thiếu nữ trần thế mang chỉ số mana tuyệt đối $\Psi = 0$. Chuyên gia cận chiến, sử dụng súng giảm thanh đạn vonfram, còi bạc phá tần số và đại thái đao cổ.
+- **Lucien Vale (17 tuổi):** Nhà tài chính thế giới ngầm, người phụ trách hậu cần và điều khoản hợp đồng của New Arrchirio.
+- **Ryan (14 tuổi):** Cậu bé thiên tài chế tạo cơ khí Magitech, đam mê tháo lắp vi mạch và động cơ hơi nước.
+- **Soraya (18 tuổi):** Nữ tư tế sa mạc mang dòng máu Al-Zahra, kiểm soát nghi thức cổ xưa và ngọn lửa tinh tú.
+- **Diana Everhart (9.5–10 tuổi):** Nhị công chúa Everhart lớn lên tại Reverse London. Kiếm vũ ballet, giọng hát cộng hưởng sóng âm Asariën thuần khiết.
+- **Rhea Everwy (32 tuổi / Thân thể đóng băng tuổi 22):** Nữ hiệp sĩ hộ vệ tối cao mang giáp bạc, người mang lời thề sinh mạng với vương tộc Everhart.
+- **Lord Alden Everhart (40 tuổi):** Hoàng thúc của Dienne và Diana, Tổng tư lệnh Quân đoàn Arknight; học giả duy lý cực đoan muốn khóa thực tại trong trật tự vĩnh cửu.
+
+---
+
+## 🔗 Liên Kết Dành Cho Nhà Phát Triển & Biên Tập
+
+- **Quy trình AI Studio & Showrunner Playbook:** Xem [STUDIO_WORKFLOW.md](STUDIO_WORKFLOW.md)
+- **Nhật ký phát triển & Kiểm toán Canon:** Xem [DEVELOPMENT_NOTES.md](DEVELOPMENT_NOTES.md)
+- **Hệ thống Story Bible chi tiết:** Xem thư mục [`bible/`](bible/)

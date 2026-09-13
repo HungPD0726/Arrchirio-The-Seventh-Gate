@@ -31,7 +31,7 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 - **Magic**: Trường phái **Hoàng Gia Everhart** dựa trên toán học Asariën 4 pha ngữ pháp chuẩn xác ($\eta \to 95\%$), điều khiển Lam Hỏa (Ngọn Lửa Lam Thuần Khiết) và kết giới hình vuông $\square$ bảo vệ kiên cố.
 - **Economy**: Từng là trung tâm kinh tế trù phú nhất phương Nam, lưu thông đồng tiền vàng rồng Everhart; nay chỉ còn là đống đổ nát bị lãng quên.
 - **Culture**: Đề cao danh dự hiệp sĩ, sự kiêu hãnh dòng máu, tình cảm gia đình và tri thức uyên bác. Lễ hội Hoa Tuyết từng là ngày hội lớn nhất năm.
-- **Conflict**: Đêm Đại Thanh Trừng 10 năm trước: Sự phản bội từ bên trong của gia tộc Arknight kết hợp cùng cuộc tấn công chớp nhoáng của Thẩm Phán Viện Aurelia san phẳng hoàng thành.
+- **Conflict**: Đêm Đại Thanh Trừng 10 năm trước: Sự phản bội từ bên trong của Lord Arknight (Alden Everhart) kết hợp cùng cuộc tấn công chớp nhoáng của Thẩm Phán Viện Aurelia san phẳng hoàng thành.
 - **What the protagonists feel**: 
   - *Dienne*: Nỗi đau xé lòng, cảm giác tội lỗi của một kẻ sống sót mồ côi, và chiếc nôi của mọi câu hỏi định mệnh.
 
@@ -171,7 +171,7 @@ Mỗi địa danh trong thế giới đều được phân tích theo 9 trục c
 - **Climate**: Khí hậu Địa Trung Hải ấm áp, hương thơm của dầu ô liu và rượu vang thánh, nhưng bao trùm bởi bầu không khí ngột ngạt của sự kiểm duyệt.
 - **Population**: Các Đại Thẩm Phán áo đỏ, kỵ binh thập tự ma đạo, các viện sĩ thần học giáo điều, và những người dân sống dưới sự giám sát nghiêm ngặt của mật thám.
 - **Magic**: **Thần Chú Pháp Chế & Lôi Điện Thanh Trừng**: Các câu chú Latin cổ đại cưỡng chế tuyên thệ, xiềng xích ma thuật giam cầm kinh mạch, và sấm sét hủy diệt kẻ dị giáo.
-- **Economy**: Tập trung toàn bộ của cải thu thuế từ bốn mươi thuộc địa của Đế quốc; các ngân hàng giáo hội khổng lồ.
+- **Economy**: Tập trung thuế từ các tỉnh trực thuộc Aurelia và phí thương mại từ mạng lưới Cổng quốc tế; các ngân hàng giáo hội khổng lồ.
 - **Culture**: Tôn sùng trật tự tuyệt đối, căm ghét dị giáo và những thứ không thuần ma thuật.
 - **Conflict**: Pháo Đài Hắc Thạch của Đại Thẩm Phán Malakor và hang ổ của kẻ phản bội Arknight đang âm mưu mở tung Cánh Cửa Thứ Bảy.
 - **What the protagonists feel**:

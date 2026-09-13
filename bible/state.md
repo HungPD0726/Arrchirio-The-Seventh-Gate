@@ -38,12 +38,12 @@
 
 | Volume | Tên Tập | Trạng thái | Dung lượng (KB) | Số từ |
 |:---:|:---|:---:|:---:|:---:|
-| **Vol 1** | Công Chúa Mất Đi Vương Quốc (The Fallen Princess) | Hoàn thành 100% | 81 KB | 13.477 từ |
+| **Vol 1** | Công Chúa Mất Đi Vương Quốc (The Princess Who Lost Her Kingdom) | Hoàn thành 100% | 81 KB | 13.498 từ |
 | **Vol 2** | Những Thành Phố Không Có Trên Bản Đồ (The Cities Beyond the Map) | Hoàn thành 100% | 65 KB | 10.887 từ |
-| **Vol 3** | Thế Giới Không Có Phép Thuật (The World Without Magic) | Hoàn thành 100% | 170 KB | 28.562 từ |
-| **Vol 4** | Những Tàn Tích Của Arrchirio (The Remnants of Arrchirio) | Hoàn thành 100% | 171 KB | 28.539 từ |
-| **Vol 5** | Tiếng Vang Từ Biên Cương & Vùng Đất Spirit Arts | Hoàn thành 100% | 188 KB | 31.174 từ |
-| **Vol 6** | Dạ Vũ Trong Sương Mù & Bóng Ma Arknight (Reverse London) | Hoàn thành 100% | 148 KB | 24.730 từ |
-| **Vol 7** | Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (Phương Đông) | Hoàn thành 100% | 119 KB | 19.812 từ |
-| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng (Đại Kết Cục Tối Thượng) | **Hoàn thành 100%** | **128 KB** | **21.184 từ** |
-| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **813 KB** | **178.365 từ** |
+| **Vol 3** | Thế Giới Không Có Phép Thuật (The World Without Magic) | Hoàn thành 100% | 170 KB | 28.557 từ |
+| **Vol 4** | Những Tàn Tích Của Arrchirio (The Ruins of Arrchirio) | Hoàn thành 100% | 169 KB | 28.248 từ |
+| **Vol 5** | Tiếng Vang Từ Biên Cương (Echoes of the Frontier) | Hoàn thành 100% | 187 KB | 31.104 từ |
+| **Vol 6** | Dạ Vũ Trong Sương Mù & Bóng Ma Arknight (Waltz in the Mist & The Phantom of Arknight) | Hoàn thành 100% | 148 KB | 24.808 từ |
+| **Vol 7** | Long Mạch Côn Lôn & Chiếc Ghế Thứ Tư (The Dragon Leylines of Kunlun & The Fourth Chair) | Hoàn thành 100% | 119 KB | 19.799 từ |
+| **Vol 8** | Những Thành Phố Cổ & Trận Chiến Cân Bằng | **Hoàn thành 100%** | **128 KB** | **21.303 từ** |
+| **TỔNG** | **Toàn bộ 8 Volume Series Arrchirio** | **Master Complete** | **812 KB** | **178.204 từ** |

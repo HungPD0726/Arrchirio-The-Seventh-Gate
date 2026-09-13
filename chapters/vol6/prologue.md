@@ -78,6 +78,8 @@ Bà ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không đ
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
+Sau khi người dì qua đời, Diana không hề phải đơn độc: Những cựu kỵ sĩ và mạng lưới cơ sở trung thành thuộc Kháng Chiến Hoàng Gia đóng giả làm thợ may, phu xe và người bán than quanh ngõ đã tiếp tục âm thầm chu cấp, che chắn từ xa để cô bé mười tuổi sinh hoạt và luyện tập an toàn.
+
 Chào đời trong cảnh lưu vong sau đêm hoàng cung chìm trong biển lửa, Diana chưa từng một lần nhìn thấy mặt cha, cũng chưa từng được một ngày bước chân vào cung điện đá cẩm thạch trắng. Mẫu hậu sau khi sinh nàng đã gạt nước mắt dấn thân vào con đường kháng chiến ngầm ở các vùng ranh giới xa xôi để tìm kiếm một con đường phục quốc. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn qua lời kể của người dì quá cố và tình mẫu tử thiêng liêng từ phương xa.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.

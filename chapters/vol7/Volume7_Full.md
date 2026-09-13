@@ -197,7 +197,7 @@ Louisa leo thoăn thoắt trên những bậc đá trơn trượt. Đôi bốt d
 
 Trong khi đó, Diana lại di chuyển với một sự nhẹ nhõm đến khó tin.
 
-Nàng công chúa mười lăm tuổi nhón nhẹ trên đầu hai mũi giày da, tà váy xếp ly lướt nhẹ trên những bậc đá đóng băng mà không hề phát ra một tiếng bước chân nặng nề. 
+Cô bé mười tuổi nhón nhẹ trên đầu hai mũi giày da, tà váy xếp ly lướt nhẹ trên những bậc đá đóng băng mà không hề phát ra một tiếng bước chân nặng nề. 
 
 Mỗi khi một cơn gió lốc từ vực sâu thốc ngược lên, Diana không hề gồng mình chống cự. Nàng khẽ nghiêng người nương theo chiều gió, dùng nguyên lý thăng bằng của vũ đạo ballet để chuyển hóa lực cản của gió thành đà tiến về phía trước. 
 
@@ -484,7 +484,7 @@ Lục Thanh Vân bước vào nửa vòng tròn màu đen (Âm trận). Ánh m�
 
 Ở phía đối diện, Diana bước vào nửa vòng tròn màu trắng (Dương trận).
 
-Nàng công chúa mười lăm tuổi nhón nhẹ trên đầu mũi giày da mềm, tay phải rút thanh liễu kiếm bạc nạm đá sapphire ra khỏi bao. 
+Cô bé mười tuổi nhón nhẹ trên đầu mũi giày da mềm, tay phải rút thanh liễu kiếm bạc nạm đá sapphire ra khỏi bao. 
 
 *Keng!*
 
@@ -586,7 +586,7 @@ Và đầu mũi kiếm gỗ sồi của Dienne cũng dừng chuẩn xác ngay tr
 
 Cả hai người đứng bất động giữa thạch đài Bát Quái.
 
-Gió núi thổi tung mái tóc hạt dẻ của Dienne và tà áo đạo bào của Lục Thanh Vân.
+Gió núi thổi tung mái tóc vàng champagne của Dienne và tà áo đạo bào của Lục Thanh Vân.
 
 "Haha... Hahaha!"
 
@@ -1140,9 +1140,9 @@ Chưa từng có ai nghĩ rằng... thực thể ngàn năm ấy lại cần đ�
 
 "Chúng ta sẽ cùng xoa dịu nó," Dienne quay sang nhìn em gái, khẽ gật đầu: "Diana, hãy hát cho nó nghe."
 
-Diana mỉm cười, đôi mắt xanh lam ánh lên một niềm tin tuyệt đối.
+Diana mỉm cười, đôi mắt xanh lam ánh lên sự kiên định.
 
-Nàng công chúa mười lăm tuổi cất thanh liễu kiếm vào bao, chậm rãi bước ra giữa cây cầu xích sắt đang chao đảo lơ lửng trên vực thẳm.
+Cô bé mười tuổi cất thanh liễu kiếm vào bao, chậm rãi bước ra giữa cây cầu xích sắt đang chao đảo lơ lửng trên vực thẳm.
 
 Gió tuyết gào thét quanh thân hình mảnh mai của nàng, nhưng bước chân Diana vững vàng như một nhành liễu trước gió.
 
@@ -1254,7 +1254,7 @@ Tám bộ Bát Quái Phù Mạch trên tám bệ đá đồng loạt phát sáng
 
 Diana bắt đầu xoay tròn vũ khúc ballet. 
 
-Thân hình nàng công chúa mười lăm tuổi lướt đi nhẹ tựa làn gió, liễu kiếm bạc vung lên theo từng nhịp dạ khúc Asariën trong trẻo, dệt nên một dải sóng âm thanh điều hòa ngược pha bao trùm lấy toàn bộ các cọc sắt.
+Thân hình cô bé mười tuổi lướt đi nhẹ tựa làn gió, liễu kiếm bạc vung lên theo từng nhịp dạ khúc Asariën trong trẻo, dệt nên một dải sóng âm thanh điều hòa ngược pha bao trùm lấy toàn bộ các cọc sắt.
 
 Lục Thanh Vân vung kiếm gỗ đào, tà đạo bào xanh ngọc bích tung bay phần phật:
 
@@ -1471,7 +1471,7 @@ Một giọng nói nhỏ nhẹ vang lên sau lưng nàng.
 
 Diana cất tiếng đàn, bước nhẹ tới bên cạnh chị gái. 
 
-Nàng công chúa mười lăm tuổi khẽ nghiêng đầu, tựa nhẹ mái tóc vàng óng ả của mình lên bờ vai gầy guộc của Dienne. 
+Cô bé mười tuổi nghiêng đầu, tựa nhẹ mái tóc vàng óng ả của mình lên bờ vai gầy guộc của Dienne. 
 
 Hai chị em cùng đứng sóng vai bên bờ vực thẳm, ngắm nhìn vầng thái dương đỏ ối đang từ từ rực sáng trên biển mây trắng ngút ngàn.
 

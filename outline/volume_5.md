@@ -1,5 +1,5 @@
-# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG & VÙNG ĐẤT SPIRIT ARTS
-### (Echoes of the Frontier & The Spirit Realm)
+# DÀN Ý CHI TIẾT VOLUME 5: TIẾNG VANG TỪ BIÊN CƯƠNG
+### (Echoes of the Frontier)
 
 > **Mục tiêu cốt truyện:** Giải mã hiện tượng Cánh Cửa Thứ Hai phát xung; khám phá bản thiết kế va chạm hai thế giới; cuộc vượt Cổng của **Louisa** sang thế giới phép thuật; làm sáng tỏ sự thật đau đớn về sự biến mất của Rhea Everwy trong **Dòng Chảy Ma Thuật (The Astral Current)**; lấp đầy Chiếc Ghế Sồi Trống Thứ Hai; và nhận bức điện tín từ em gái ruột **Diana Everhart** tại **Reverse London**.
 
@@ -87,7 +87,7 @@
 ### CHƯƠNG 13: CẮT ĐỨT NGUỒN PHÁT XUNG
 - Máy gia tốc Cổng phương Bắc bắt đầu quá tải, chuẩn bị phóng luồng năng lượng cưỡng chế mỏ neo Cánh Cửa Thứ Hai.
 - Ryan và Dienne tính toán điểm đảo pha sóng ma thuật ($\theta = \pi$). Louisa thổi còi bạc cộng hưởng kích hoạt xung ngược pha đúng thời điểm $t = 0$.
-- Cú nổ cộng hưởng triệt tiêu toàn bộ năng lượng ép xung mà không làm sụp đổ cấu trúc địa tầng. Nguồn phát xung phương Bắc bị ngắt hoàn toàn!
+- Hai luồng sóng triệt tiêu biên độ tại cửa phát; năng lượng không biến mất mà bị đẩy ngược vào mười hai vành tản nhiệt biến thành nhiệt và dao động cơ học, bảo toàn cấu trúc địa tầng. Nguồn phát xung phương Bắc bị ngắt hoàn toàn!
 - Cánh Cửa Thứ Hai tại Sector 7 trở lại trạng thái ngủ đông an toàn. Hiểm họa va chạm 5 tháng tạm thời được hóa giải.
 
 ### CHƯƠNG 14: CHIẾC GHẾ SỒI THỨ HAI VÀ LỜI HỨA

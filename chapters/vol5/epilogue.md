@@ -49,7 +49,7 @@ Bằng trực giác huyết thống của dòng máu vương tộc Everhart, nà
 > *Gửi người chị gái mà em chưa từng được gặp mặt — Dienne Everhart.*  
 > *Em là **Diana Everhart**.*  
 > 
-> *Mười sáu năm trước, sau khi hoàng thành Everhart sụp đổ trong biển lửa, những người thân cận còn sót lại của cha mẹ chúng ta đã đưa em bí mật vượt Cổng trốn sang thế giới thực, ẩn náu tại thành phố Reverse London bên bờ sông Thames.*  
+> *Mười năm trước, khi hoàng thành Everhart sụp đổ, Mẫu hậu đang mang thai em đã được các kỵ sĩ trung thành hộ tống vượt Cổng trốn sang thế giới thực, ẩn náu tại thành phố Reverse London bên bờ sông Thames.*  
 > 
 > *Em lớn lên giữa những lâu đài cổ kính của sương mù Anh quốc, được nuôi dạy như một nàng công chúa đích thực, học kiếm thuật vũ đạo ba-lê và những nghi thức ma thuật hoàng gia cổ xưa nhất.*  
 > 
@@ -77,7 +77,7 @@ Dienne đứng lặng người giữa đại sảnh, hai bàn tay run lên bần
 
 Nước mắt một lần nữa lại ứa ra nơi khóe mi cô gái nhỏ!
 
-Người em gái ruột thất lạc mười sáu năm qua... đứa trẻ mang cùng dòng máu Everhart mà cô cứ ngỡ đã vĩnh viễn bỏ mạng trong đêm định mệnh năm xưa... vẫn còn sống!
+Người em gái cô chưa từng biết đến—đứa trẻ được sinh ra trong cảnh lưu vong sau đêm Everhart sụp đổ—vẫn còn sống!
 
 Cô bé đang ở Reverse London! 
 

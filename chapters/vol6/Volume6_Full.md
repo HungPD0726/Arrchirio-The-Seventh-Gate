@@ -78,6 +78,8 @@ Bà ra đi trong thanh thản bên lò sưởi bập bùng củi khô, không đ
 
 *“Everhart chưa bao giờ là những bức tường đá cẩm thạch, con gái à. Everhart là cách con đứng thẳng lưng, cách con mỉm cười trước bão giông, và cách con giữ cho tâm hồn mình thuần khiết như ánh trăng trên đỉnh núi.”*
 
+Sau khi người dì qua đời, Diana không hề phải đơn độc: Những cựu kỵ sĩ và mạng lưới cơ sở trung thành thuộc Kháng Chiến Hoàng Gia đóng giả làm thợ may, phu xe và người bán than quanh ngõ đã tiếp tục âm thầm chu cấp, che chắn từ xa để cô bé mười tuổi sinh hoạt và luyện tập an toàn.
+
 Chào đời trong cảnh lưu vong sau đêm hoàng cung chìm trong biển lửa, Diana chưa từng một lần nhìn thấy mặt cha, cũng chưa từng được một ngày bước chân vào cung điện đá cẩm thạch trắng. Mẫu hậu sau khi sinh nàng đã gạt nước mắt dấn thân vào con đường kháng chiến ngầm ở các vùng ranh giới xa xôi để tìm kiếm một con đường phục quốc. Nàng không nếm trải trọn vẹn nỗi đau mất mát bằng ý thức như người chị gái xa xôi—với nàng, Everhart là một bản trường ca đẹp đẽ được nuôi dưỡng trong tâm hồn qua lời kể của người dì quá cố và tình mẫu tử thiêng liêng từ phương xa.
 
 Thế nhưng, trong căn nhà gạch đỏ này, nàng đã lớn lên như một công chúa thực thụ.
@@ -227,7 +229,7 @@ Trái tim Dienne khẽ thắt lại.
 
 Đó là nét chữ của mẹ nàng.
 
-Mười sáu năm trước, khi ôm đứa con gái út trốn chạy qua Cổng để bảo toàn giọt máu hoàng gia, mẹ nàng đã đi qua chính cây cầu đá này. Người đã để lại dấu vết này trong sương mù, như một ngọn hải đăng câm lặng chờ đợi một ngày nào đó... đứa con gái đầu lòng lớn lên từ đống tro tàn phương Bắc sẽ lần theo dấu vết tìm về.
+Mười năm trước, khi đang mang thai Diana và được hộ tống vượt Cổng để bảo toàn giọt máu hoàng gia, mẹ nàng đã đi qua chính cây cầu đá này. Người đã để lại dấu vết này trong sương mù, như một ngọn hải đăng câm lặng chờ đợi một ngày nào đó... đứa con gái đầu lòng lớn lên từ đống tro tàn phương Bắc sẽ lần theo dấu vết tìm về.
 
 "Tọa độ của bức điện tín... cách đây bao xa, Lucien?" Giọng Dienne trầm xuống, tĩnh lặng nhưng chứa đựng một sự kiên định không thể lay chuyển.
 
@@ -410,7 +412,7 @@ Và rồi, ánh mắt của hai nàng công chúa chạm nhau.
 
 Đó là một khoảnh khắc kỳ dị đến nghẹt thở của số phận.
 
-Trước mắt Dienne là một thiếu nữ mười lăm tuổi mang vẻ đẹp thanh tao, đài các toát lên từ tận trong xương tủy. 
+Trước mắt Dienne là một cô bé mười tuổi mang nét đẹp thanh tao, đài các toát lên từ tận trong xương tủy. 
 
 Diana đứng thẳng lưng, mũi chân trái nhón nhẹ trên mặt cỏ theo thế đứng vững chãi của một vũ công ballet đang giữ thăng bằng sau cú xoay người. Chiếc váy lụa sẫm màu xếp ly nhiều lớp rũ xuống mềm mại quanh đôi bốt da cổ thấp, thắt lưng siết gọn lấy vòng eo con kiến thanh nhã. Mái tóc vàng óng ả như mật ong buông lơi tự nhiên sau bờ vai gầy, vài sợi tóc mai bay phất phơ trước vầng trán trắng ngần.
 
@@ -424,7 +426,7 @@ Nhìn cô bé trước mặt, một ý nghĩ bất giác trào dâng trong lồn
 
 Suốt mười năm qua, Dienne đã sống trong gió tuyết và máu lửa. 
 
-Nàng khoác chiếc áo choàng đen sờn rách viền gấu, đôi ủng da thô mộc bám đầy bụi quặng và tro tàn, mái tóc hạt dẻ buộc vội sau gáy bằng một sợi dây da mộc mạc. Bàn tay nàng đầy những vết chai sạn vì cầm kiếm gỗ và siết mỏ lết ma đạo. Ánh mắt nàng sắc lạnh, tĩnh lặng và phòng thủ như một con sói cô độc giữa bão tuyết. 
+Nàng khoác chiếc áo choàng đen sờn rách viền gấu, đôi ủng da thô mộc bám đầy bụi quặng và tro tàn, mái tóc vàng champagne buộc vội sau gáy bằng một sợi dây da mộc mạc. Bàn tay nàng đầy những vết chai sạn vì cầm kiếm gỗ và siết mỏ lết ma đạo. Ánh mắt nàng sắc lạnh, tĩnh lặng và phòng thủ như một con sói cô độc giữa bão tuyết.
 
 Với Dienne, vương quốc Everhart là một vết thương hở rỉ máu, một gánh nặng của trách nhiệm và sự sinh tồn tàn khốc.
 
@@ -580,9 +582,9 @@ Những giọt nước mắt nóng hổi bỗng trào ra khỏi mi mắt Dienne,
 
 Diana nhìn sâu vào mắt Dienne, khẽ lắc đầu, nụ cười trên môi cô bé ấm áp như ánh nắng sớm xuyên qua sương mù:
 
-"Trước khi qua đời vì bệnh tật hai năm trước, người dì họ đã ôm em vào lòng và nhắc lại bức thư di huấn mà Mẫu hậu đã để lại cho em..."
+"Trước khi qua đời vì bệnh tật hai năm trước, người dì họ đã ôm em vào lòng và nhắc lại bức thư di huấn mà Mẫu hậu đã để lại cho em. Sau khi dì mất, các cô chú thuộc mạng lưới Kháng Chiến đóng giả làm thường dân quanh ngõ vẫn luôn thay phiên tiếp tế củi khô, bột mì và âm thầm che chở bên ngoài cho em..."
 
-Nàng công chúa nhỏ hít một hơi sâu, cất giọng đọc lại từng câu từng chữ đã khắc sâu vào linh hồn:
+Cô bé mười tuổi hít một hơi sâu, cất giọng đọc lại từng câu từng chữ đã khắc sâu vào linh hồn:
 
 > *“Diana à, sự căm thù là một ngọn lửa độc. Kẻ cầm nó trong tay sẽ bị bỏng rát trước khi kịp làm tổn thương kẻ thù. Đế quốc có thể dùng đao kiếm và sấm sét để san phẳng lâu đài của chúng ta, nhưng chúng không thể giết chết Everhart.*  
 > *Everhart chưa bao giờ nằm ở những bức tường đá cẩm thạch hay ngai vàng nạm ngọc.*  
@@ -645,7 +647,7 @@ Ngay khoảnh khắc âm thanh vang lên, Diana đã chuyển động.
 
 Không có tiếng quát tháo lấy khí thế, không có bước dậm chân làm rung chuyển mặt đất.
 
-Nàng công chúa mười lăm tuổi nhón nhẹ trên đầu hai mũi bốt da mềm, cơ thể trượt dài trên thảm cỏ ẩm ướt êm ru như một giọt nước lướt trên mặt lá sen. 
+Nàng công chúa nhỏ mười tuổi nhón nhẹ trên đầu hai mũi bốt da mềm, cơ thể trượt dài trên thảm cỏ ẩm ướt êm ru như một giọt nước lướt trên mặt lá sen. 
 
 Diana xoay người ba vòng *pirouette* liên tiếp với tốc độ mắt thường khó lòng bắt kịp! Tà váy xếp ly bằng lụa sẫm màu bung xòe tròn trịa như một đám mây bạc xoay quanh trục cơ thể thanh mảnh. 
 
@@ -689,7 +691,7 @@ Mép kiếm gỗ của Dienne không chỉ chặn đứng ba mũi đâm bạc c�
 
 Lần này, đến lượt Dienne chủ động tấn công.
 
-Nàng công chúa tóc hạt dẻ sải một bước dài đầy dứt khoát. Thể lực rèn luyện qua hàng ngàn trận chiến đường phố và những ngày tháng sinh tồn khốc liệt bùng nổ trong từng thớ cơ bắp.
+Nàng công chúa tóc vàng champagne sải một bước dài đầy dứt khoát. Thể lực rèn luyện qua hàng ngàn trận chiến đường phố và những ngày tháng sinh tồn khốc liệt bùng nổ trong từng thớ cơ bắp.
 
 Thanh kiếm gỗ sồi vung lên từ trên cao giáng xuống!
 
@@ -987,7 +989,7 @@ Thế nhưng—
 
 Một luồng áp lực lạnh lẽo đến thấu xương bỗng nhiên bùng nổ từ bóng lưng của nàng công chúa phương Bắc.
 
-Dienne đứng giữa khoảng sân, mái tóc hạt dẻ bay lòa xòa trước trán. 
+Dienne đứng giữa khoảng sân, mái tóc vàng champagne bay lòa xòa trước trán.
 
 Đôi mắt màu lam thẫm của nàng lúc này không còn sự ngần ngại, không còn những giọt nước mắt yếu mềm. Nó biến thành một hồ băng tuyệt đối của sự hủy diệt.
 
@@ -1351,7 +1353,7 @@ Một bước chân nhẹ tênh bỗng tiến lên phía trước.
 
 Diana tháo dải ruy băng nhung đen buộc nơi cổ áo, để mái tóc vàng óng ả tung bay tự do trong luồng gió bão ma đạo đang gầm rú.
 
-Nàng công chúa mười lăm tuổi không cầm kiếm. 
+Nàng công chúa nhỏ mười tuổi không cầm kiếm. 
 
 Nàng bước lên một gờ đá hoa cương nhô cao ngay sát cạnh luồng xoáy năng lượng tím đen, hai tay buông nhẹ bên tà váy xếp ly.
 
@@ -1359,9 +1361,9 @@ Nàng bước lên một gờ đá hoa cương nhô cao ngay sát cạnh luồng
 
 Nhưng Diana quay đầu lại, mỉm cười với Dienne. 
 
-Ánh mắt màu xanh lam trong veo của nàng lúc này tĩnh lặng và thanh thản lạ kỳ. Đó không còn là ánh mắt của một cô bé sợ hãi chiến tranh, mà là ánh mắt của một người bảo hộ thực sự đã tìm thấy sứ mệnh thiêng liêng của đời mình.
+Ánh mắt màu xanh lam trong veo của cô bé lúc này tĩnh lặng và thanh thản. Đó không còn là ánh mắt của một đứa trẻ sợ hãi trước cỗ máy tử thần, mà là sự can đảm của một người em gái muốn đứng chắn cùng chị mình.
 
-"Chị Dienne đã dạy em rằng: Everhart nằm trong trái tim thuần khiết của em," Diana nói khẽ, giọng nói của nàng bằng một cách kỳ diệu nào đó vượt qua tiếng gầm rú của máy móc, rót thẳng vào tai Dienne: "Và người dì cùng di huấn của Mẫu hậu đã dạy em rằng: Âm nhạc và vẻ đẹp có thể cảm hóa mọi sự cuồng bạo của thế gian."
+"Chị Dienne từng bảo với em: Everhart nằm ở nơi trái tim không từ bỏ," Diana nói khẽ, giọng cô bé trong trẻo xuyên qua tiếng rít của máy móc: "Người dì và mẹ dạy em rằng âm nhạc có thể xoa dịu những cuồng bạo. Chị để em thử nhé?"
 
 Diana quay mặt về phía cỗ máy nén khổng lồ.
 
@@ -1409,7 +1411,7 @@ Tần số dao động trên đồng hồ đo rơi thẳng xuống:
 
 Dienne không bỏ lỡ một phần trăm giây nào!
 
-Ngay khi nốt ngân cao vút của Diana vừa chạm đỉnh điểm của sự tĩnh lặng, Dienne đạp mạnh chân lên mặt đá hoa cương, cả thân hình nàng phóng vút qua khoảng không như một tia chớp màu hạt dẻ!
+Ngay khi nốt ngân cao vút của Diana vừa chạm đỉnh điểm của sự tĩnh lặng, Dienne đạp mạnh chân lên mặt đá hoa cương, cả thân hình nàng phóng vút qua khoảng không như một tia chớp màu vàng champagne!
 
 Thanh kiếm gỗ sồi của Rhea trong tay nàng bùng cháy một ngọn Lam Hỏa thuần khiết chưa từng thấy—ngọn lửa lam kết tinh từ toàn bộ tình yêu thương, ký ức tuổi thơ và ý chí bảo vệ hòa bình của hai chị em Everhart!
 
@@ -1587,7 +1589,7 @@ Rạng đông buông xuống mặt nước phẳng lặng như gương của dò
 
 Trên đài quan sát lộ thiên cao hơn chín mươi mét so với mặt đất, hai bóng người đang đứng sát bên nhau nhìn ra chân trời xa xăm.
 
-Dienne Everhart khoác chiếc áo choàng đen dài sờn gấu, mái tóc hạt dẻ tung bay tự do trong gió lộng, bàn tay phải đặt lên chuôi thanh kiếm gỗ sồi sứt sẹo của Rhea bên hông.
+Dienne Everhart khoác chiếc áo choàng đen dài sờn gấu, mái tóc vàng champagne tung bay tự do trong gió lộng, bàn tay phải đặt lên chuôi thanh kiếm gỗ sồi sứt sẹo của Rhea bên hông.
 
 Bên cạnh nàng, Diana Everhart mặc chiếc váy xếp ly lụa sẫm màu cách tân, tà váy mềm mại bay phần phật theo từng đợt gió sớm, tay cầm thanh liễu kiếm bạc nạm đá sapphire lấp lánh dưới nắng ban mai.
 

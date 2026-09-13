@@ -8,11 +8,10 @@
 - **Tên tác phẩm:** *Arrchirio: The Seventh Gate* (Arrchirio: Cánh Cửa Thứ Bảy)
 - **Tác giả:** HungPD0726 (Showrunner)
 - **Thể loại:** Epic Science-Fantasy / Hard Magic / Song Hành Đa Thế Giới (Parallel Worlds) / Âm Mưu Chính Trị / Bi Kịch & Cứu Rỗi
-- **Quy mô toàn bộ series:** 8 Volume (Bản thảo hoàn chỉnh — 177.894 từ / ~810 KB toàn văn).
+- **Quy mô toàn bộ series:** 8 Volume (Bản thảo hoàn chỉnh — 178.204 từ / ~812 KB toàn văn).
 - **Tác phẩm tham chiếu (Comps):**
-  - *Fullmetal Alchemist: Brotherhood*: Triết lý Trao Đổi Đồng Giá, ma thuật có giới hạn và phải trả bằng tổn thương thực tế.
-  - *Brandon Sanderson (Mistborn / Stormlight Archive)*: Hệ thống Hard Magic cơ giới hóa chính xác ($\Psi, \eta, Q$, ngữ pháp Asariën 4 pha).
-  - *Fate/Zero & Arcane*: Xung đột lý tưởng đanh thép, nhân vật đa chiều, không có thiện-ác nhị nguyên ngây thơ.
+  - *Fullmetal Alchemist: Brotherhood*: Quy tắc ma thuật có giới hạn, sự đánh đổi và cái giá tổn thương vật chất cụ thể.
+  - *Brandon Sanderson (Mistborn)*: Hệ thống Hard Magic với các tham số, hiệu suất chuyển hóa và định luật bảo toàn rõ ràng.
 
 ### LOGLINE (Câu Chủ Đề)
 > *“Khi Đế quốc Aurelia san phẳng vương triều Everhart để thâu tóm mạng lưới Cổng Cổ Đại, nàng công chúa sống sót mười sáu tuổi cùng một thiếu nữ không có mana phải tái lập hội đồng Arrchirio thất truyền, dùng toán học giải tích và kiếm thuật vật lý để ngăn chặn một cỗ máy thời gian đe dọa thiêu rụi cả thế giới phép thuật lẫn nhân loại.”*
@@ -33,18 +32,16 @@ Trở về pháo đài Sector 7 bỏ hoang, Dienne cùng Lucien tập hợp thê
 ### Âm mưu sương mù London & Long mạch Côn Lôn (Volume 6 & 7)
 Tại Reverse London, Dienne tìm lại người em gái ruột Diana Everhart—tiểu công chúa mười tuổi sở hữu kiếm vũ ballet tuyệt kỹ, phát hiện chân tướng chấn động rằng Mẫu hậu Eleanor còn sống đang lãnh đạo kháng chiến ngầm, và vạch trần âm mưu thao túng giới quý tộc của các Arknight biến chất. Tiến về phương Đông huyền bí, Dienne gặp Đạo sĩ Lục Thanh Vân của Côn Lôn (Chiếc Ghế Thứ Tư), trong khi Louisa tìm thấy thanh Đại Thái Đao cổ bất hoại trong hang động đá—thanh đao không bao giờ gãy và không cần mana.
 
-### Đại Kết Cục Tối Thượng: Trận Chiến Cân Bằng (Volume 8)
-Hoàng thúc Alden Everhart kích hoạt cỗ máy Điểm Kỳ Dị Cánh Cửa Thứ Bảy tại Rome Vatican, mưu đồ hút cạn năng lượng của các thành phố cổ (Cairo, Côn Lôn, Rome) để đảo ngược thời gian về mười năm trước nhằm độc chiếm ngôi vương. Hội đồng New Arrchirio đồng loạt tham chiến và trả giá tàn khốc: Ryan nổ tung động cơ Magitech, Soraya nứt vương trượng hồng ngọc, Lục Thanh Vân gãy kiếm gỗ đào và chấn thương kinh mạch, Lucien hy sinh toàn bộ sản nghiệp bảo chứng, Diana gãy xương sườn, và Louisa dùng thanh Đại Thái Đao cản đứng chùm tia tử thần dù toàn bộ cơ thể người thường bị chấn động nghiền nát. 
+### Trận Chiến Cân Bằng (Volume 8)
+Hoàng thúc Alden Everhart kích hoạt cỗ máy Điểm Kỳ Dị Cánh Cửa Thứ Bảy tại Rome Vatican nhằm khóa toàn bộ mạng lưới thực tại dưới một trật tự duy nhất, tin rằng tự do và dị biệt cuối cùng sẽ dẫn đến chiến tranh hủy diệt. Hội đồng New Arrchirio đồng loạt tham chiến và trả giá tàn khốc: Ryan nổ tung động cơ Magitech, Soraya nứt vương trượng hồng ngọc, Lục Thanh Vân gãy kiếm gỗ đào và chấn thương kinh mạch, Lucien hy sinh toàn bộ sản nghiệp bảo chứng, Diana gãy xương sườn, và Louisa dùng thanh Đại Thái Đao cản đứng chùm tia tử thần dù toàn bộ cơ thể người thường bị chấn động nghiền nát. 
 
-Trong thời khắc tuyệt vọng, Rhea Everwy đạp vỡ ranh giới Dòng Chảy trở về với lời thề: *"I'll stay by your side."* Dienne dùng đòn lật pha $\theta = \pi$ phá hủy nguồn nạp của Alden, rồi tự tay dùng mũi kiếm gỗ sồi đâm gãy trục neo thời gian, từ chối quá khứ hão huyền để chọn thực tại. Bốn mươi thế giới ký Hiệp ước Đình chiến Ba Năm; Rhea tiếp quản Chiếc Ghế Sồi Thứ Nhất; Louisa dẫn đoàn thám hiểm tới Rừng Cội Nguồn Yggdralis; và Dienne cùng Rhea trở về thung lũng tuyết thăm Người Thầy Già trong một chiều cuối đông ấm áp.
+Trong thời khắc tuyệt vọng, Rhea Everwy đạp vỡ ranh giới Dòng Chảy trở về với lời thề: *"I'll stay by your side."* Dienne dùng đòn lật pha $\theta = \pi$ phá hủy nguồn nạp của Alden, rồi tự tay dùng mũi kiếm gỗ sồi đâm gãy trục neo thời gian, từ chối quá khứ hão huyền để chọn thực tại. Bốn mươi phái đoàn quốc gia ký Hiệp ước Đình chiến Ba Năm; Rhea tiếp quản Chiếc Ghế Sồi Thứ Nhất; Louisa dẫn đoàn thám hiểm tới Rừng Cội Nguồn Yggdralis; và Dienne cùng Rhea trở về thung lũng tuyết thăm Người Thầy Già trong một chiều cuối đông ấm áp.
 
 ---
 
 ## III. BA CHƯƠNG MỞ ĐẦU MẪU (THE 3 STRONGEST OPENING CHAPTERS)
 
-```markdown
-<!-- SLIDE 1: PROLOGUE - NỮ HIỆP SĨ -->
-```
+
 
 ### CHƯƠNG MỞ ĐẦU 1: PROLOGUE — NỮ HIỆP SĨ (TẬP 1)
 
@@ -142,13 +139,11 @@ Lưỡi kiếm bạc hạ thấp ngang ngực, mũi kiếm chĩa thẳng vào đ
 
 ---
 
-```markdown
-<!-- SLIDE 2: CHƯƠNG 1 - MỘT VƯƠNG QUỐC ĐANG HỒI SINH -->
-```
+
 
 ### CHƯƠNG MỞ ĐẦU 2: CHƯƠNG 1 — MỘT VƯƠNG QUỐC ĐANG HỒI SINH (TẬP 1)
 
-Sáu năm trước.
+Mười năm trước — ba ngày trước Đêm Everhart sụp đổ.
 
 Gần ba thập kỷ đã trôi qua kể từ khi The Great Wizard War — cuộc Đại Chiến Pháp Thuật chấn động cả hai cõi thực tại — chính thức khép lại.
 
@@ -170,7 +165,7 @@ Và ngay trong khuôn viên hoàng cung Everhart lộng lẫy, cũng có một �
 
 Tiếng gọi thất thanh của người hầu gái vang vọng khắp hành lang lát đá cẩm thạch trắng.
 
-Cô bé không thèm ngoái đầu lại. Đôi giày da nhỏ nhắn gõ lách cách rộn ràng trên tấm thảm len dệt hoa văn rồng vàng. Vạt váy lụa viền ren trắng bồng bềnh tung bay theo từng bước chân thoăn thoắt. Mái tóc màu hạt dẻ buộc hai bên lắc lư qua lại như đôi tai thỏ đang hoảng hốt trốn chạy.
+Cô bé không thèm ngoái đầu lại. Đôi giày da nhỏ nhắn gõ lách cách rộn ràng trên tấm thảm len dệt hoa văn rồng vàng. Vạt váy lụa viền ren trắng bồng bềnh tung bay theo từng bước chân thoăn thoắt. Mái tóc vàng champagne buộc hai bên lắc lư qua lại như đôi tai thỏ đang hoảng hốt trốn chạy.
 
 "Điện hạ Dienne Everhart! Người mau dừng lại đi ạ! Giờ học nghi lễ ngoại giao với quan sứ Đế quốc sắp bắt đầu rồi!"
 
@@ -250,9 +245,7 @@ Dienne ngước nhìn người cận vệ thân thương. Dưới ánh nắng v�
 
 ---
 
-```markdown
-<!-- SLIDE 3: CHƯƠNG 2 - CÔNG CHÚA KHÔNG MUỐN LÀM CÔNG CHÚA -->
-```
+
 
 ### CHƯƠNG MỞ ĐẦU 3: CHƯƠNG 2 — CÔNG CHÚA KHÔNG MUỐN LÀM CÔNG CHÚA (TẬP 1)
 

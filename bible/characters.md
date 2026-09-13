@@ -6,148 +6,350 @@
 ---
 
 # 1. NHÂN VẬT CHÍNH: Dienne Everhart
+### The Princess Who Lost Her Kingdom
 
-### Thông Tin Cơ Bản
+---
+
+## I. TỔNG QUAN NGOẠI HÌNH & THÔNG TIN CƠ BẢN
 - **Họ và tên**: Dienne Everhart (Bí danh tại Học viện: *Dienne Hart*).
-- **Xuất thân**: Công chúa của Vương quốc Tự trị Everhart (đã bị Đế quốc Aurelia xóa sổ trong đêm thanh trừng).
+- **Xuất thân**: Trưởng công chúa của Vương quốc Tự trị Everhart (bị Đế quốc Aurelia xóa sổ trong đêm thanh trừng Năm 0).
 - **Độ tuổi qua các Volume**:
   - *Volume 1*: 6 tuổi (đêm Everhart sụp đổ) $\to$ 12 tuổi (ngọn lửa lam đầu tiên) $\to$ 16 tuổi (rời thung lũng tuyết vào đầu năm thứ 10).
-  - *Volume 2 - 3*: 15 $\to$ 16 tuổi (tại Aetheris và thâm nhập Kyoto).
-  - *Volume 4*: 16 tuổi (thành lập Arrchirio mới tại pháo đài ngầm Sector 7).
-- **Ngoại hình**: Dáng người thon gọn, dẻo dai. Mái tóc dài màu hạt dẻ buộc gọn gàng sau gáy. Đôi mắt màu lam thẫm sâu thẳm như hồ băng, ánh mắt tĩnh lặng, kiên nghị vượt xa tuổi tác.
-- **Trang phục & Hành trang**:
-  - Áo choàng đen sờn gấu có mũ trùm.
-  - Chiếc trâm cài vương tộc Everhart giấu kín dưới đáy túi da.
-  - Huy hiệu nhánh cây bạc của Arrchirio cài sát bên ngực trong.
-  - Cuốn sổ tay ghi chép ngữ pháp Asariën và sơ đồ năng lượng hai thế giới.
-  - **Vũ khí bất ly thân**: Thanh kiếm gỗ cũ kỹ sứt sẹo của Rhea, giắt chặt bên hông trái.
+  - *Volume 2–8*: 16 tuổi; toàn bộ mạch truyện chính diễn ra trong Năm 10.
+- **Vóc dáng**: Dienne là một thiếu nữ khoảng **16 tuổi**, có vóc dáng thanh mảnh và gọn gàng. Cô không có thân hình yếu ớt của một tiểu thư quý tộc, nhưng cũng không sở hữu cơ bắp rõ rệt của một chiến binh chuyên nghiệp.
+- **Chiều cao**: Khoảng **163–166 cm**, thân hình cân đối, vai tương đối nhỏ, eo gọn và chân dài vừa phải.
+- Cơ thể của Dienne được hình thành bởi **nhiều năm luyện kiếm, di chuyển trong môi trường khắc nghiệt và sinh tồn**, vì vậy từng chuyển động đều có cảm giác tiết kiệm và có mục đích.
+- Ấn tượng đầu tiên khi nhìn Dienne không phải là "xinh đẹp", mà là:
+  > **Cô gái này trông quá bình tĩnh so với tuổi của mình.**
+- Dienne thường đứng thẳng, nhưng không phải kiểu thẳng lưng kiêu hãnh của một công chúa. Đó là tư thế của một người đã quen với việc **luôn phải quan sát xung quanh và sẵn sàng phản ứng**.
 
-### Động Cơ & Tâm Lý (The Core Arc)
-- **Khao khát bề nổi (Want)**: Tìm thấy Rhea Everwy và lật tẩy kẻ phản bội đã hủy diệt quê hương Everhart.
-- **Nhu cầu nội tâm (Need)**: Vượt qua lòng căm thù cá nhân; nhận ra thế giới không đơn giản chỉ là "thiện vs ác"; học cách trở thành người bảo vệ Cân Bằng thực sự thay vì biến Arrchirio thành công cụ báo thù.
-- **Vết thương quá khứ (The Ghost/Wound)**: Đêm lâu đài Everhart bốc cháy năm 6 tuổi, phải trốn dưới gầm bàn và nhìn bóng lưng Rhea ở lại bọc hậu giữa biển lửa.
-- **Điểm yếu (Flaw)**: Quá dựa vào phân tích lý thuyết toán học/công thức; ban đầu thiếu kinh nghiệm thực chiến đường phố; đôi khi quá gánh vác trách nhiệm một mình.
+---
 
-### Phong Cách Ma Thuật & Chiến Đấu
-- **Thế mạnh**: Tư duy toán học kết hợp ngữ pháp Asariën nguyên bản. Tốc độ phân tích cấu trúc ma trận cực nhanh, triển khai phép không có động tác thừa.
-- **Vũ khí**: Kết hợp truyền mana gia cố độ cứng/bén vào thanh kiếm gỗ + phóng thích ma thuật nguyên tố (gió nén, lửa lam tinh khiết, ma trận phong tỏa).
+## II. MÁI TÓC — ĐẶC ĐIỂM NHẬN DIỆN QUAN TRỌNG NHẤT
+- **Màu sắc**: **Vàng champagne lạnh — pale champagne blonde**.
+  - Không phải màu vàng óng rực rỡ.
+  - Không phải vàng mật ong.
+  - Không phải vàng trắng hoàn toàn.
+  - Nằm giữa **vàng nhạt và vàng ánh bạc**, tạo cảm giác lạnh giống ánh sáng phản chiếu trên tuyết.
+- **Hiệu ứng môi trường**:
+  - *Ánh sáng ban ngày*: Tóc có màu vàng nhạt rất mềm.
+  - *Dưới ánh nắng*: Xuất hiện những sợi vàng sáng như kim tuyến.
+  - *Trong bóng tối*: Tóc có xu hướng chuyển thành màu vàng xám.
+  - *Dưới ánh trăng hoặc tuyết trắng*: Tóc gần như hòa vào ánh sáng trắng bạc xung quanh.
+  - Điều này tạo ra một hiệu ứng hình ảnh rất đẹp: **Đôi mắt lam thẫm trở thành điểm màu mạnh nhất trên khuôn mặt**.
 
-### Truyền Thống Thầy - Trò Thiêng Liêng (Arrchirio Master - Disciple Bond)
-- Arrchirio truyền đời bằng liên kết **Thầy - Trò (Master - Disciple)** vô cùng thiêng liêng:
-  - Người Thầy Già truyền dạy và rèn giũa Dienne.
-  - Giờ đây, Dienne trở thành **Master**:
-    * **Louisa**: **Học trò đầu tiên**, người đầu tiên đồng hành, nhân vật chính thứ hai. Tình cảm thầy trò gắn kết thiêng liêng, thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt.
-    * **Ryan**: **Học trò thứ hai**, được Dienne khai phóng tư duy cơ khí và toán học Asariën; Ryan gọi Dienne là **"Master"**.
+---
 
-### Giọng Thoại & Hành Vi
-- **Xưng hô**:
-  - Với **Louisa**: Thân mật, ấm áp, tin cậy tuyệt đối, vừa là người thầy dẫn dắt vừa là tri kỷ thấu hiểu nhau hơn chị em.
-  - Với **Ryan**: Ryan gọi Dienne là **"Master"** (cách gọi tự nhiên, gần gũi, không câu nệ sáo rỗng).
-  - Với **Soraya**: Tôn trọng như một học giả cổ đại đồng hành ngang hàng.
-  - Với **Lucien**: "Tôi - Cậu" (đồng minh thân thiết, bạn cùng tiến).
-  - Với **Rhea**: "Em - Chị" (lời thề sinh mạng).
-- **Hành vi vô thức khi căng thẳng**: Ngón tay chạm vào chuôi kiếm gỗ của Rhea; ánh mắt khóa chặt đối phương và tính toán trong đầu.
-- **CẤM KỴ OOC**:
-  - Tuyệt đối KHÔNG hành xử như kẻ phản diện mù quáng vì thù hận (không biến Arrchirio thành nhóm khủng bố như Vane muốn).
-  - Không bao giờ tự phụ mình là thiên tài toàn tri.
-  - Không bao giờ phá vỡ lời thề móc ngoéo với Rhea.
+## III. KIỂU TÓC
+- Tóc Dienne dài **qua lưng**, tương đối dày nhưng không quá bồng, phần lớn tóc khá thẳng, chỉ hơi gợn nhẹ ở phần đuôi.
+- Cô không có kiểu tóc cầu kỳ do nhiều năm sống trong điều kiện thiếu thốn ngoài tự nhiên.
+- **Kiểu tóc thường ngày**: Buộc thấp phía sau gáy bằng một dải dây da đen hoặc dây vải tối màu mộc mạc. Phần tóc phía trước để tự nhiên, hai bên thái dương có một vài lọn tóc mảnh rơi xuống, mái dài hơi lệch chạm gần mắt.
+- Sau trận chiến hoặc di chuyển lâu: Dây buộc có thể hơi lỏng, đuôi tóc rối, vài lọn rơi xuống vai, che một phần mắt. Dienne **không lập tức chỉnh lại tóc** nếu tình hình chưa an toàn (tính cách thực dụng cao).
+
+---
+
+## IV. KHUÔN MẶT
+- Khuôn mặt hình **oval hơi thon**, không quá góc cạnh, không quá trẻ con. Đường nét mềm nhưng có điểm sắc quanh mắt và xương hàm.
+- **Trán**: Tương đối cao và thoáng, mái rơi xuống nhẹ nhưng không che kín.
+- **Lông mày**: Màu vàng nâu nhạt, mảnh, thường hơi nhíu lại khi đang tính toán. *(Signature: Dienne không cau mày vì tức giận — cô cau mày vì đang giải một bài toán ma trận trong đầu).*
+- **Mũi**: Thẳng, nhỏ và thanh, không quá cao theo kiểu sắc sảo.
+- **Môi**: Màu hồng nhạt tự nhiên, môi dưới đầy hơn môi trên một chút. Thường giữ ở trạng thái thư giãn, khép môi nhẹ khi suy nghĩ sâu. Khi thực sự vui, khóe môi chỉ nhếch lên rất nhẹ.
+
+---
+
+## V. ĐÔI MẮT: Deep Ice Blue
+- **Màu mắt**: **Lam thẫm như một hồ nước đóng băng dưới bầu trời mùa đông**. Không phải xanh sáng, không phải xanh ngọc, mà là màu xanh sâu, lạnh và hơi tối. Phần ngoài mống mắt đậm hơn, gần đồng tử có vòng lam nhạt mỏng. Ánh sáng mạnh phản chiếu sapphire, bóng tối chuyển xanh xám.
+- **Ánh mắt bình thường**: Nhìn thẳng, không đảo mắt liên tục, quan sát trước rồi mới nói, nhìn trực diện vào mắt người đối diện như đang "đọc" tâm can họ.
+- **Khi phân tích ma trận**: Đồng tử tập trung, mắt hơi nheo, đầu hơi nghiêng, ánh nhìn chuyển sang các điểm chịu lực trong không gian. Cảm giác như *toàn bộ phép thuật đang được tính toán trong đầu cô*.
+- **Khi chiến đấu**: Lạnh hoàn toàn, không tức giận, không hét, nhìn đối thủ như một hệ thống cần được giải.
+- **Khi nhìn Rhea**: Ánh mắt mềm hẳn lại, gần như trở về ánh mắt đứa trẻ sáu tuổi trước người bảo hộ ruột thịt.
+
+---
+
+## VI. DA & BÀN TAY
+- **Làn da**: Trắng sáng hơi lạnh, phù hợp với khí hậu thung lũng tuyết; có chút ửng đỏ ở má khi trời lạnh, đầu ngón tay hơi thô, có vết chai ở lòng bàn tay do vung kiếm gỗ hàng vạn lần.
+- **Bàn tay**: Tương đối nhỏ, ngón tay dài và thanh; chai rõ ở ngón cái, ngón trỏ và lòng bàn tay. Khi căng thẳng, bàn tay phải **vô thức tìm đến chuôi thanh kiếm gỗ sồi của Rhea**.
+
+---
+
+## VII. VẾT SẸO VÀ DẤU VẾT THỰC CHIẾN
+- Không chằng chịt như chiến binh giác đấu, giữ nét thanh nhã nhưng có dấu vết sinh tồn:
+  - Một vết xước mảnh ở đầu gối;
+  - Vài vết chai luyện kiếm;
+  - Một vết xước mờ trên cẳng tay;
+  - **Dấu ấn sau Đại Kết Cục (Vol 8)**: Bàn tay phải mang vết sẹo bỏng nhiệt lượng $Q$ sau khi đâm gãy trục neo thời gian tại Điểm Kỳ Dị Cổng 7, thường quấn dải băng đen chịu lực.
+
+---
+
+## VIII. CƠ THỂ VÀ CHUYỂN ĐỘNG
+- Chiến đấu bằng: **Tốc độ xử lý + Vị trí + Độ chính xác + Ma thuật giải tích**.
+- Bước chân nhẹ, chuyển trọng tâm nhanh, không đứng quá rộng, không động tác thừa.
+- Khi chiến đấu: Vai hạ xuống, đầu gối hơi cong, trọng tâm thấp, mắt khóa mục tiêu, tay gần chuôi kiếm gỗ.
+
+---
+
+## IX. TRANG PHỤC & SILHOUETTE
+- **Áo choàng ngoài**: Áo choàng đen sờn cũ, dài ngang hoặc qua đầu gối, vải bạc màu theo thời gian, gấu áo sờn rách nhẹ được vá bằng chỉ tối màu. Mũ trùm rộng che được một phần ba khuôn mặt.
+- **Lớp trong**: Áo chẽn len hoặc sơ mi tối màu đơn giản, ấm, nhẹ, dễ vận động, dễ sửa chữa.
+- **Quần**: Quần vải thô ôm vừa vặn, màu xám đen, thuận tiện chạy nhảy.
+- **Giày**: Bốt da tối màu, đế đúc rãnh bám băng tuyết và nền đá.
+
+---
+
+## X. NHỮNG THỨ DƯỚI LỚP ÁO CHOÀNG
+- **Trâm Everhart**: Mang huy hiệu vương tộc Everhart, giấu kín dưới đáy túi da (bằng chứng cuối cùng về quá khứ công chúa).
+- **Huy hiệu Arrchirio**: Nhánh cây bạc cài sát bên ngực trong (hướng về tương lai).
+- **Cuốn sổ tay da rồng cổ**: Chép tay ngữ pháp Asariën của Người Thầy Già cùng bút lông ma đạo ngòi đồng.
+
+---
+
+## XI. VŨ KHÍ BIỂU TƯỢNG: THANH KIẾM GỖ CỦA RHEA
+- Trông cũ hơn nhân vật: Gỗ sồi sẫm màu, sứt sẹo nhiều vết chém, một cạnh cháy sẫm sau trận cuối, tay cầm quấn lại bằng da thô.
+- Giắt bên **hông trái**.
+- **Ý nghĩa**: Dienne không mang kiếm gỗ vì nó mạnh, mà mang vì **Rhea đã trao nó cho cô**. Đó là mỏ neo tinh thần và lời hứa chưa từng bị phá vỡ.
+
+---
+
+## XII. BẢNG MÀU NHÂN VẬT
+- `Black / Charcoal`: Áo choàng và trang phục sinh tồn.
+- `Deep Ice Blue`: Đôi mắt và ma trận Asariën.
+- `Champagne Blonde`: Mái tóc vàng champagne lạnh.
+- `Silver`: Huy hiệu cành bạc Arrchirio.
+- `Pure Blue Flame`: Ngọn lam hỏa tinh khiết.
+> **Bảng màu tổng thể: Vàng lạnh — Lam thẫm — Đen — Bạc — Lam phát sáng.**
+
+---
+
+## XIII. BA TRẠNG THÁI NGOẠI HÌNH
+1. **Dienne — Everyday**: Tóc buộc thấp, áo choàng mở, gương mặt bình tĩnh, tay cầm sổ, kiếm gỗ bên hông. Cảm giác một cô gái trẻ đang cố sống bình thường.
+2. **Dienne — Scholar**: Tóc hơi rối, mắt tập trung cao độ, một tay cầm sổ hoặc bản đồ, ngón tay vạch phương trình trong không trung. Một nhà toán học đang giải bài toán vô hình.
+3. **Dienne — Battle**: Mũ trùm hạ xuống, tóc vàng champagne bung lòa xòa trước trán, áo choàng bay theo gió mana, tay trên chuôi kiếm gỗ, mắt lam thẫm sắc lạnh, vòng tròn Asariën lam hỏa rực sáng xung quanh.
+
+---
+
+## XIV. ĐỘNG CƠ CỐT LÕI & TRUYỀN THỐNG MASTER - DISCIPLE
+- **Khao khát bề nổi (Want)**: Tìm thấy Rhea Everwy và hóa giải âm mưu phá hủy các thế giới.
+- **Nhu cầu nội tâm (Need)**: Vượt qua hận thù; trở thành người bảo vệ Cân Bằng chân chính thay vì công cụ báo thù.
+- **Vết thương quá khứ (Wound)**: Đêm hoàng cung cháy năm 6 tuổi, trốn dưới gầm bàn nhìn bóng lưng Rhea bọc hậu.
+- **Truyền thống Thầy - Trò (Master - Disciple)**:
+  - Dienne là học trò của Người Thầy Già.
+  - Dienne là **Master** của **Louisa** (Đệ tử đầu tiên, tri kỷ hơn ruột thịt) và **Ryan** (Đệ tử thứ hai, kỹ sư Magitech).
+- **Cấm kỵ OOC**: Không bao giờ biến thành kẻ phản diện mù quáng vì thù hận; không bao giờ tự phụ toàn tri; không bao giờ phá vỡ lời thề móc ngoéo với Rhea.
+
+---
+
+## XV. ĐIỂM ĐỐI TRỌNG GIỮA HAI CHỊ EM
+- **Dienne (16 tuổi)**: Tóc vàng champagne lạnh, mắt lam thẫm hồ băng, áo choàng đen cũ sờn, kiếm gỗ sứt sẹo, tư duy giải tích sinh tồn $\to$ *Công chúa đã mất vương quốc*.
+- **Diana (9.5–10 tuổi)**: Tóc vàng óng mật ong, mắt lam pha lê sáng, đầm dạ hội lụa London, liễu kiếm rapier bạc, kiếm vũ ballet thanh nhã $\to$ *Công chúa chưa từng có vương quốc*.
+
+---
+
+## XVI. HÌNH ẢNH BIỂU TƯỢNG
+Dienne đứng một mình giữa cánh đồng tuyết lúc hoàng hôn. Áo choàng đen cũ bay nhẹ trong gió. Mái tóc **vàng champagne lạnh** bị gió thổi tung khỏi dây buộc. Một vài sợi tóc nằm trước khuôn mặt. Đôi mắt **lam thẫm** nhìn thẳng về phía chân trời. Bàn tay phải đặt lên thanh kiếm gỗ cũ của Rhea. Không có vương miện, ngai vàng, cung điện hay đoàn tùy tùng—chỉ có một cô gái 16 tuổi, một thanh kiếm gỗ sứt sẹo và một lời hứa vĩnh cửu.
 
 ---
 
 # 2. NGƯỜI BẢO VỆ: Rhea Everwy
+### The High Royal Protector & The One Trapped in the Current
 
-### Thông Tin Cơ Bản
+---
+
+## I. TỔNG QUAN NGOẠI HÌNH & THÔNG TIN CƠ BẢN
 - **Họ và tên**: Rhea Everwy.
-- **Vai trò**: Đội trưởng Đội Hộ vệ Hoàng gia Everhart; người bảo vệ và là chỗ dựa tinh thần lớn nhất thời thơ ấu của Dienne.
-- **Độ tuổi**: 22 tuổi (khi Everhart sụp đổ ở Năm 0) $\to$ 32 tuổi theo dòng thời gian bên ngoài (ở thời điểm hiện tại Năm 10). Tuy nhiên, vì bị cuốn vào Dòng Chảy Ma Thuật (Astral Current) nơi thời gian tuyến tính bị đóng băng, diện mạo và thể trạng sinh học của Rhea vẫn được bảo toàn nguyên vẹn ở tuổi 22.
-- **Ngoại hình**: Dáng người cao ráo, vững chãi. Mái tóc màu bạc cắt ngắn ngang vai. Đôi mắt xám tro lạnh lùng nhưng ấm áp. Giáp nhẹ hoen rỉ mang nhiều vết chém, áo choàng rách mang huy hiệu Everwy phai màu. Bàn tay chằng chịt sẹo kiếm.
-- **Trang bị**: Trường kiếm bạc phát ra luồng kiếm khí sắc lẹm, bão mana màu bạc.
-
-### Tính Cách & Động Cơ Cốt Lõi
-- **Bản chất của sự biến mất (Twist Vĩ Đại)**:
-  - Rhea **không chết, không bị bắt giam, không phản bội, và tuyệt đối KHÔNG bỏ rơi Dienne**.
-  - Đêm hoàng cung Everhart sụp đổ năm Dienne 6 tuổi, khi một mình bọc hậu dưới chân Cổng Cổ Đại, sự sụp đổ áp suất không gian đã cuốn Rhea vào **Dòng Chảy Ma Thuật (The Astral Current / Mana Current)**.
-  - Rhea bị dòng chảy thời-không nuốt chửng, trôi dạt vô định ngoài dòng thời gian bình thường mà không có bất kỳ cơ hội nào để tự quay trở lại.
-  - Suốt 10 năm Dienne lớn lên trong cô độc, Dienne luôn mang vết thương lòng rằng người hiệp sĩ đã hy sinh hoặc bỏ rơi mình. Nhưng sự thật nghiệt ngã là: **Rhea chưa từng có cơ hội quay lại**.
+- **Vai trò**: Đội trưởng Đội Hộ vệ Hoàng gia Everhart; người bảo vệ và là chỗ dựa tinh thần lớn nhất thời thơ ấu của Dienne. Chủ nhân Chiếc Ghế Sồi Thứ Nhất tại Bàn Tròn New Arrchirio.
+- **Độ tuổi**: 22 tuổi (khi Everhart sụp đổ ở Năm 0) $\to$ 32 tuổi theo dòng thời gian bên ngoài (ở thời điểm hiện tại Năm 10). 
+- **Đóng băng sinh học (Temporal Stasis)**: Vì bị cuốn vào **Dòng Chảy Ma Thuật (The Astral Current)** nơi thời gian tuyến tính bị đóng băng, **diện mạo, thể trạng sinh học và làn da của Rhea vẫn được bảo toàn nguyên vẹn ở tuổi 22**.
+- **Vóc dáng & Chiều cao**: Cao khoảng **175–177 cm**, dáng người cao lớn, thanh mảnh nhưng sở hữu bờ vai rộng, khung xương vững chắc và tỷ lệ cơ thể hoàn hảo của một kiếm sĩ chuyên sử dụng trường kiếm hai tay.
+- **Thần thái**: Dù thể trạng 22 tuổi, Rhea mang sự mệt mỏi và kiên định của một người lính đã đứng gác suốt một vạn đêm giông bão. Lưng luôn thẳng tắp như cột đá cẩm thạch không thể lay chuyển, hai bàn chân cắm chặt xuống mặt đất như rễ cổ thụ.
 
 ---
 
-### Màn Tái Xuất Ở Trận Đấu Cuối Cùng (The Final Climax Payoff)
-- **Rhea KHÔNG xuất hiện sớm** ở các Volume giữa, mà sự trở lại của cô được giữ kín cho đến **Trận Chiến Cuối Cùng (The Final Battle)** để tạo nên cú nổ cảm xúc lớn nhất toàn bộ series:
-  - Khi New Arrchirio đã liên kết các thành phố ma thuật, tập hợp đủ đồng minh (Lucien, Ryan, Soraya, Diana, Louisa...), nhưng vẫn đứng trước bờ vực diệt vong trước kẻ thù tối thượng.
-  - Căn cứ sụp đổ, hệ thống Cổng vỡ vụn, các đồng minh đều trọng thương, Dienne đứng đơn độc trơ trọi giữa đống đổ nát, cầm thanh kiếm gỗ cũ kỹ chuẩn bị đón nhận đòn kết liễu.
-  - Đúng khoảnh khắc tuyệt vọng nhất: Một khe nứt không gian rách toạc. **Dòng Chảy Ma Thuật tràn ra như một thác lũ ánh sáng bạc**.
-  - Một bóng người bước qua: Áo giáp cũ sứt mẻ, trường kiếm bạc, mái tóc ngắn màu bạc sương gió: **RHEA EVERWY**.
-
-### Cảnh Nhận Ra Nhau (Recognition Scene)
-- Dienne **không nhận ra ngay lập tức**, vì trong tâm trí cô, người phụ nữ ấy đã biến mất hàng chục năm và thuộc về một cõi hư vô xa xăm.
-- Rhea đứng trước mặt Dienne, nhìn cô gái mười mấy tuổi mang thanh kiếm gỗ của mình, rồi thốt lên câu nói in sâu vào ký ức tuổi thơ:
-  > *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*  
-  *(hoặc: "Công chúa không được đứng giữa chiến trường như thế.")*
-- Giây phút ấy, cả thế giới sụp đổ trong Dienne. Cô gái kiên cường như đá tảng chết lặng giữa khói lửa. Người bảo hộ của cô... đã thực sự trở về.
+## II. MÁI TÓC — ĐẶC ĐIỂM NHẬN DIỆN
+- **Màu sắc**: **Bạc ánh trăng sương muối — Pure Moon Silver**.
+  - Không phải màu xám bạc của tuổi già.
+  - Màu bạc nguyên chất lấp lánh như ánh trăng rằm chiếu trên lưỡi gươm thép lạnh ngắt.
+  - *Ánh sáng ban ngày*: Tóc có màu trắng bạc tinh khôi, sáng lóa.
+  - *Trong ánh lửa chiến trường*: Phản chiếu những vệt sáng vàng cam và đỏ rực như thép vừa ra lò.
+  - *Trong bóng tối/sương mù*: Tựa như một dải lân tinh bạc nhạt, luôn là điểm sáng đầu tiên giúp Dienne nhận ra cô giữa hàng ngàn người.
 
 ---
 
-### Cảnh "Hai Lựa Chọn" Sau Trận Cuối (The Two Choices)
-Sau khi đánh bại kẻ thù tối thượng, Dòng Chảy Ma Thuật mở ra một lần cuối cùng trước khi khép lại vĩnh viễn, đặt Rhea trước hai ngã rẽ định mệnh:
-1. **Lựa chọn 1 — Quay về quá khứ**:
-   - Dòng chảy có thể đưa Rhea trở về đúng khoảnh khắc đêm Everhart bốc cháy năm Dienne 6 tuổi.
-   - Cô có thể bế cô bé chạy thoát, cứu sống Tiên vương, sửa chữa lại toàn bộ bi kịch quá khứ.
-   - **Cái giá**: Dòng thời gian hiện tại sẽ bị xóa sổ! Dienne của ngày hôm nay, Diana, Louisa, New Arrchirio, những tình bạn và sự trưởng thành mà họ đã đánh đổi bằng xương máu sẽ tan thành mây khói!
-2. **Lựa chọn 2 — Ở lại tương lai hiện tại**:
-   - Chấp nhận rằng quá khứ đã trôi qua. Nhìn nhận rằng Dienne không còn là cô bé cần người che chở nữa.
+## III. KIỂU TÓC
+- Cắt **ngắn ngang cằm hoặc vừa chạm vai**, phong cách hiệp sĩ thực chiến: đuôi tóc cắt bằng dứt khoát, hai bên mang tai tỉa gọn để không vướng vào cổ giáp sắt.
+- Không có nơ hay trâm cài. Khi cúi đầu, những lọn tóc bạc đẫm mồ hôi thường dính bết bên gò má hoặc che một phần sống mũi.
 
-### Lời Bộc Bạch & Quyết Định Của Rhea
-Rhea nhìn vào khe nứt không gian đang vẫy gọi về quá khứ, rồi quay lại nhìn Dienne:
-> *"Ta từng nghĩ mình chỉ sống để quay lại... Ta nghĩ nếu có một ngày được trở về, ta sẽ ôm lấy cô bé ấy và nói rằng mọi chuyện rồi sẽ ổn.*  
-> *Nhưng ta đã nhìn thấy em.*  
-> *Em không còn là cô bé mà ta từng mang khỏi Everhart nữa.*  
-> *Em đã có bạn bè. Em đã có một nơi thuộc về mình. Và em đã tự mình đi đến tận đây.*  
-> *Ta không muốn quay về để cứu một quá khứ đã không còn tồn tại.*  
-> *Lần đầu tiên trong đời... ta muốn chọn tương lai."*
+---
 
-### Signature Ending Line Của Series
-Dienne không nói một lời nào, đôi mắt rưng rưng ngấn lệ, từ từ đưa bàn tay đầy vết chai sạn ra phía trước.  
-Rhea nhìn bàn tay ấy, khẽ mỉm cười, tiến một bước lên đứng ngang hàng bên cạnh Dienne, nắm chặt lấy tay cô và nói:
+## IV. KHUÔN MẶT & ĐÔI MẮT
+- **Khuôn mặt**: Vẻ đẹp trang nghiêm, cổ điển và kiêu hãnh như một bức tượng điêu khắc thời phục hưng. Sống mũi cao, thẳng tắp như đường kẻ hình học. Lông mày xám bạc sắc như lưỡi kiếm liễu. Môi mỏng, sắc môi nhạt màu, khóe môi nghiêm nghị nhưng luôn nở nụ cười bao dung ấm áp khi nhìn Dienne.
+- **Đôi mắt: Ash Grey — Xám Tro Núi Lửa**:
+  - Toát lên sự tĩnh lặng của tro tàn sau cuộc chiến tranh hủy diệt.
+  - *Khi nhìn kẻ thù*: Đanh lại như đá granit, không chớp, khóa chặt đường kiếm đối phương.
+  - *Khi nhìn Dienne sau 10 năm*: Ánh mắt chấn động dữ dội, tro tàn bùng lên tia lửa ấm áp, rực lên nỗi đau xót, sự kinh ngạc trước sự trưởng thành của công chúa nhỏ và niềm tự hào nghẹn ngào.
+
+---
+
+## V. DA, BÀN TAY & DẤU VẾT CHIẾN TRẬN
+- **Làn da**: Trắng sáng mang sắc thái của sương tuyết và kim loại, khô ráp vì hơi lạnh Dòng Chảy Ma Thuật.
+- **Bàn tay**: Dài, khớp xương to, mu bàn tay nổi rõ gân xanh; lòng bàn tay chằng chịt vết chai sần dày đặc do hơn mười lăm năm cầm chuôi trường kiếm; khớp ngón tay có sẹo cắt đan chéo.
+- **Vết thương chiến trận**:
+  - *Bả vai trái*: Vết sẹo chém sâu hoắm từ đêm Everhart sụp đổ, chạy dài từ vai qua xương quai xanh.
+  - *Khắp cơ thể*: Vô số vết sẹo mảnh li ti do tinh thể không-thời gian cắt phải trong Dòng Chảy Ma Thuật.
+
+---
+
+## VI. TRANG PHỤC & GIÁP TRỤ HOÀNG GIA HOEN RỈ
+- **Giáp ngực & Hộ giáp**: Làm bằng hợp kim bạc tinh luyện (Silver-steel Alloy), nhẹ và chịu lực cực cao. Bề mặt giáp chằng chịt vết chém đao kích, mẻ góc. Đặc biệt sau Trận chiến Cổng Thứ Bảy (Vol 8), **tấm giáp ngực bị nhiệt lượng Điểm Kỳ Dị nung chảy thành những mảng rỗ mấp mô màu chì xám**, được giữ nguyên như một huân chương danh dự.
+- **Áo choàng Everwy**: Từng là lụa trắng muốt thêu khiên rồng bạc; nay đã rách tươm ở gấu áo, bết dính muội than, vết máu khô sẫm màu và bụi đá 10 năm.
+- **Giày giáp sắt (Sabatons)**: Giày bọc giáp sắt nện xuống sàn đá tiếng vang: *Cộp. Cộp. Cộp.*—âm thanh mở đầu đầy ám ảnh của series.
+
+---
+
+## VII. VŨ KHÍ BIỂU TƯỢNG: TRƯỜNG KIẾM BẠC HOÀNG THẤT
+- **Chất liệu & Cấu tạo**: Bạc nguyên chất kết hợp lõi thép Astral. Trường kiếm hai tay phong cách hiệp sĩ kinh điển, lưỡi kiếm dài thẳng tắp, có rãnh dẫn truyền mana sâu chạy dọc sống kiếm. Chuôi kiếm bọc da thú xám, đốc kiếm chạm khắc gia huy rồng Everwy.
+- **Đặc tính**: Khi Rhea dồn mana bạc vào kiếm, toàn bộ thân kiếm phát quang rực rỡ như một thanh xà ánh sáng, phát ra tiếng rít khô khốc làm đông cứng không khí xung quanh.
+
+---
+
+## VIII. BẢNG MÀU NHÂN VẬT
+- `Moon Silver`: Mái tóc bạc ánh trăng, lưỡi trường kiếm.
+- `Battle-worn Silver & Scorched Grey`: Giáp nung chảy, xám chì.
+- `Ash Grey`: Đôi mắt xám tro kiên định.
+- `Faded Royal White`: Áo choàng rách Everwy.
+
+---
+
+## IX. BA TRẠNG THÁI NGOẠI HÌNH
+1. **Rhea — The Royal Captain (Ký ức 10 năm trước)**: Giáp bạc sáng bóng, áo choàng trắng tinh khôi tung bay trong nắng sớm lâu đài. Nụ cười trêu chọc công chúa nhỏ trốn học dưới gầm bàn, xoay tròn thanh kiếm gỗ sồi trên ngón tay.
+2. **Rhea — The Gatekeeper in the Current (Trong Dòng Chảy Ma Thuật)**: Bóng lưng đơn độc đứng giữa khe nứt không gian vô tận. Mái tóc bạc tung bay ngược chiều trọng lực. Trường kiếm bạc cắm ngập vào hư không, cơ thể đông cứng giữa những dòng sông ánh sáng đa chiều, đôi mắt xám tro dõi nhìn về một hướng duy nhất.
+3. **Rhea — The Returned Vanguard (Màn tái xuất trận cuối)**: Bước ra từ vết nứt thời-không rách toạc. Giáp trụ rách nát, muội than bám đầy mặt, trường kiếm bạc rung lên bão mana sáng chói. Bước lên chắn trọn tầm mắt của Dienne: *"Ta đã bảo em bao nhiêu lần rồi? Đừng để thanh kiếm nằm quá xa tay."*
+
+---
+
+## X. TÍNH CÁCH & ĐỘNG CƠ CỐT LÕI
+- **Bản chất của sự biến mất (Twist Vĩ Đại)**: Rhea **không chết, không bị bắt giam, không phản bội, và tuyệt đối KHÔNG bỏ rơi Dienne**. Đêm hoàng cung Everhart sụp đổ năm Dienne 6 tuổi, khi một mình bọc hậu dưới chân Cổng Cổ Đại, sự sụp đổ áp suất không gian đã cuốn Rhea vào **Dòng Chảy Ma Thuật (The Astral Current)**, nơi cô trôi dạt vô định ngoài dòng thời gian mà không có cơ hội tự quay lại.
+- **Màn Tái Xuất Ở Trận Đấu Cuối Cùng (The Final Climax Payoff)**: Rhea không xuất hiện sớm; sự trở lại của cô được giữ kín cho đến Trận Chiến Cuối Cùng (Vol 8) khi 7 thành viên New Arrchirio đồng bộ ma trận kích hoạt Dấu Ấn Hướng Tâm đón cô trở về.
+- **Quyết định chọn tương lai (The Two Choices)**: Sau khi đánh bại Alden, Dòng Chảy mở ra cơ hội quay về đêm Everhart sụp đổ để cứu Tiên vương. Nhưng Rhea từ chối quay về cứu một quá khứ không còn tồn tại, vì cô nhìn thấy Dienne đã trưởng thành và có một gia đình mới.
+
+---
+
+## XI. SIGNATURE ENDING LINE CỦA SERIES
+Dienne đưa bàn tay quấn băng đen đầy sẹo bỏng ra phía trước. Rhea tiến lên đứng ngang hàng bên cạnh Dienne, nắm chặt lấy tay cô và nói:
 
 > **“I'll stay by your side.”**
 
-*(Giữ nguyên câu tiếng Anh, không dịch)*.  
-- **Ý nghĩa tối thượng**: 
-  - Trong Tập 1: Rhea nói *"Ta sẽ theo sau em"* nhưng rồi bị cuốn mất.
-  - Tại Trận cuối: **“I'll stay by your side.”** — Lần này, cô thực sự ở lại!
-  - Rhea không ở lại như một người bề tôi phục vụ công chúa bé nhỏ, mà ở lại với tư cách một người đồng đội bình đẳng đứng cạnh người phụ nữ vĩ đại mà Dienne đã tôi luyện trở thành. Đây chính là câu kết thúc hoàn hảo cho toàn bộ thiên sử thi Arrchirio!
+*(Rhea ở lại không phải như một người bề tôi phục vụ công chúa bé nhỏ, mà là một người đồng đội bình đẳng đứng cạnh người phụ nữ kiên cường mà Dienne đã trở thành).*
+
+---
+
+## XII. HÌNH ẢNH BIỂU TƯỢNG CỦA RHEA
+Rhea đứng thẳng tắp bên cạnh Dienne dưới ánh hoàng hôn mùa đông sau khi Cánh Cửa Thứ Bảy khép lại. Tấm giáp bạc nơi lồng ngực cô vẫn còn âm ỉ khói xám của nhiệt lượng bị nung chảy. Mái tóc ngắn màu bạc đẫm mồ hôi khẽ lay động trong gió lạnh. Bàn tay chai sạn của người hiệp sĩ buông chuôi trường kiếm bạc, nắm chặt lấy bàn tay Dienne. Đôi mắt xám tro nhìn thẳng về phía tương lai, khóe môi khẽ mỉm cười thanh thản.
 
 ---
 
 # 3. NHÂN VẬT CHÍNH THỨ HAI (DEUTERAGONIST) & HỌC TRÒ ĐẦU TIÊN: Louisa
+### The Girl Without Magic ($\Psi = 0$) & The First Disciple
 
-### Thông Tin Cơ Bản
+---
+
+## I. TỔNG QUAN NGOẠI HÌNH & THÔNG TIN CƠ BẢN
 - **Tên chính thức và duy nhất**: **Louisa** (Louisa chỉ là Louisa — không bí danh, không họ tộc, không số hiệu).
-- **Xuất thân & Nghịch cảnh dòng dõi**:
-  - Sinh ra trong một **gia tộc phù thủy cổ xưa (witch lineage)** lâu đời, nhưng oái oăm thay cơ thể cô lại **hoàn toàn không có lấy một tí phép thuật nào ($\Psi = 0$)**.
-  - Bị dòng họ xem như một kẻ khiếm khuyết, Louisa rời bỏ thế giới ma thuật sang ẩn náu và mưu sinh tại **Kyoto (Nhật Bản, Trái Đất)**.
-  - **Bù lại nghịch cảnh**: Cô sở hữu thể chất phi thường, cơ thể dẻo dai nhanh nhẹn tuyệt đỉnh, khả năng dùng kiếm, dao găm tantō và phản xạ cận chiến đạt đến mức xuất quỷ nhập thần, kết hợp sử dụng thành thạo súng đạn hiện đại và công nghệ trần thế.
 - **Vị trí cốt lõi trong toàn bộ series**:
   - **Nhân vật chính thứ hai (Deuteragonist)** của tác phẩm, kề vai sát cánh cùng Dienne qua mọi biến cố.
-  - **Học trò đầu tiên (First Disciple)** và là **người đầu tiên thực sự đồng hành cùng Dienne**.
-  - **Mối quan hệ với Dienne**: Tình cảm Thầy - Trò theo truyền thống thiêng liêng của Arrchirio, **thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt**.  
-    *(Lưu ý Canon: Danh xưng "Master" là biểu tượng của sợi dây kế thừa tri thức và sự gắn kết tâm hồn sâu sắc, **tuyệt đối không phải là cấp bậc hành chính hay chức vụ quan liêu**).*
-- **Độ tuổi**: Khoảng 17 - 18 tuổi.
-- **Ngoại hình**: Cô gái châu Á mảnh khảnh, ánh mắt sắc sảo, mái tóc đen buộc túm cẩu thả sau gáy. Trang phục đặc trưng: Áo khoác bomber đen rộng thùng thình, áo phông trắng, quần túi hộp thụng, giày bốt đen. Miệng thường xuyên ngậm kẹo mút vị dâu hoặc nhai kẹo cao su thổi bóng.
-- **Trang bị & Đạo cụ Biểu Tượng**:
-  - **Thanh Đại Thái Đao (Ōdachi / Nodachi) bọc vỏ gỗ Côn Lôn**: Vũ khí cận chiến biểu tượng bất ly thân của Louisa (thu được tại hang động tuyết Côn Lôn ở Volume 7). 
-    * *Đặc tính 3 tầng*:
-      1. **Tầng 1 — Vật lý:** Cực bền, giữ cạnh sắc vượt trội qua thời gian, độ dẻo dai và cân bằng trọng lực tuyệt hảo; không thể gãy trong điều kiện bình thường nhưng không phải "thần khí bất khả hủy".
-      2. **Tầng 2 — Ma thuật:** "Ổn định vật chất cực cao + tương tác mana cực thấp". Không dẫn mana, không hấp thụ mana, trơ với sự ăn mòn của phép thuật. Không phải "anti-magic auto-hack"; để phá hủy kết giới hay khí tài ma đạo, Louisa phải dùng kinh nghiệm và đôi mắt tinh tường tìm đúng điểm neo vật chất hoặc mối nối chịu lực rồi chém vào đó.
-      3. **Tầng 3 — Lịch sử & Văn hóa:** Lưỡi đao rèn bởi danh tượng Nhật Bản thời Thế chiến, theo chân một kiếm khách tự xưng đệ nhất sang Côn Lôn và trải qua trận quyết đấu huyền thoại. Vỏ đao được đẽo gọt mộc mạc từ gỗ núi Côn Lôn bởi người ở lại.
-    * *Triết lý cốt lõi*: **Thanh kiếm không chọn Louisa. Louisa chọn thanh kiếm.**
-  - Súng lục giảm thanh giắt trong bao da dưới nách (dùng đạn hợp kim nặng trịch phi ma thuật).
-  - Dao găm ngắn / tantō dắt ngang thắt lưng sau.
-  - Còi bạc cộng hưởng âm tần phá sóng ma trận.
-  - Súng phóng dây móc leo trèo.
-  - Túi bùa chú yểm sẵn và ma thạch thô (dùng bằng mẹo kích hoạt cơ học chứ không tự dẫn mana).
-  - Chiếc smartphone màn hình nứt góc dùng để liên lạc và định vị bản đồ đô thị.
+  - **Học trò đầu tiên (First Disciple)** và là người đầu tiên thực sự đồng hành cùng Dienne.
+  - **Mối quan hệ với Dienne**: Tình cảm Thầy - Trò theo truyền thống thiêng liêng của Arrchirio, **thân thiết và thấu hiểu nhau còn hơn cả chị em ruột thịt**.
+- **Độ tuổi**: Khoảng **18 tuổi** (sinh năm -8, ở thời điểm hiện tại Năm 10).
+- **Vóc dáng**: Thiếu nữ châu Á dong dỏng cao, khoảng **167–169 cm**, thân hình mảnh khảnh nhưng ẩn chứa mật độ cơ bắp săn chắc, khô ráo và dẻo dai tuyệt đối như loài báo săn mồi đường phố. Không mỡ thừa.
+- **Thần thái**: Bất cần đời, lười biếng, nguy hiểm và hoàn toàn không quan tâm đối phương là ai hay mang bao nhiêu phép thuật. Thường đứng tựa vai vào tường, hai tay thọc sâu vào túi áo bomber để che giấu góc rút súng giảm thanh dưới nách và dao găm sau lưng.
+
+---
+
+## II. MÁI TÓC — ĐẶC ĐIỂM NHẬN DIỆN
+- **Màu sắc**: **Đen tuyền ánh chì — Jet Black / Cold Slate**. Không có ánh nâu, không highlight; đen đặc quánh như màn đêm ở những con hẻm Kyoto không đèn đường, hấp thụ ánh sáng thay vì phản chiếu. Dưới đèn neon đô thị hoặc chớp ma thuật, tóc ánh lên vệt sắc lạnh xám kim loại.
+- **Kiểu tóc**: Dài ngang vai hoặc chạm xương quai xanh, cắt tỉa layer tầng so le bằng dao găm. Thường ngày được túm cẩu thả thành búi nhỏ hoặc đuôi gà ngắn sát sau gáy bằng sợi dây thun giãn hoặc dây dù sinh tồn. Mái so le lòa xòa trước trán, vài lọn tóc dài hai bên thái dương rơi xuống gò má.
+
+---
+
+## III. KHUÔN MẶT & ĐÔI MẮT
+- **Khuôn mặt**: Đường nét Á Đông sắc sảo, xương gò má hơi cao, cằm nhọn, đường viền quai hàm dứt khoát.
+- **Lông mày**: Đen nhánh, rậm vừa phải, xếch nhẹ lên; có vết sẹo nhỏ làm đứt một đoạn ở chân mày trái do đọ dao thời niên thiếu.
+- **Sống mũi**: Cao, thon gọn, có gờ xương nhỏ ở giữa tạo vẻ bướng bỉnh khó thuần phục.
+- **Môi & Miệng**: Môi mỏng sắc màu hồng đất, khô ráo vì gió lạnh.
+  - *Signature trait*: **Khóe môi luôn ngậm một que kẹo mút vị dâu tây** (hoặc nhai kẹo cao su thổi bóng). Cắn nát kẹo *rắc* một tiếng bằng răng hàm là dấu hiệu sắp bẻ khớp đối thủ. Nụ cười signature: Nhếch mép một bên đầy thách thức.
+- **Đôi mắt: Sharp Amber Hazel (Hổ Phách Sắc Lẹm)**:
+  - Màu hổ phách ánh vàng nâu sắc như mắt mèo săn mồi, viền mống mắt đen thẫm, mắt một mí lót.
+  - *Bình thường*: Lờ đờ, chán chường, như đang đánh giá đồ đạc đối phương có bán được tiền không.
+  - *Khi tác chiến & Quét ma trận*: Đồng tử co lại, quét cực nhanh góc đặt bàn chân, khớp giáp, bao súng và điểm nút ma trận đang nạp năng lượng.
+  - *Khi nhìn Dienne*: Ánh mắt dịu đi một phần mười độ, giễu cợt bên ngoài nhưng bảo bọc sắt đá bên trong.
+
+---
+
+## IV. DA, BÀN TAY & DẤU VẾT THỰC CHIẾN
+- **Làn da**: Trắng sáng nhưng rám nhẹ màu nắng gió (light olive / sun-kissed pale), thân nhiệt cao tự nhiên, nhịp tim nghỉ ngơi chậm và ổn định.
+- **Bàn tay**: Thon dài nhưng khớp ngón tay gồ rõ; vết chai dày ở đốt thứ hai ngón trỏ phải (ngón bóp cò) và lòng bàn tay (vung Đại Thái Đao); ngón trỏ vô thức gõ nhịp *tách... tách...* lên đùi hoặc bao súng.
+- **Vết sẹo**:
+  - Vết sẹo chém dài 5cm ngang xương đòn trái;
+  - Vài vết bỏng ma sát dây cáp súng phóng móc trên cẳng tay;
+  - Khớp ngón tay chai sần do cận chiến tay không.
+
+---
+
+## V. CƠ THỂ VÀ CHUYỂN ĐỘNG (COMBAT MOVEMENT)
+- Hiện thân của **Cơ học Newton tuyệt đối đối đầu Thế giới Ma thuật**:
+  - Trọng tâm luôn giữ cực thấp, trượt dài trên sàn, xoay 180 độ bật dậy như lò xo thép;
+  - Tiết kiệm động tác tối đa, không la hét, đòn đánh nhắm thẳng: yết hầu, khớp gối, mắt, họng súng, điểm tì cơ học;
+  - Cự ly dưới 5 mét, tốc độ rút súng hoặc vung tantō nhanh hơn tốc độ ngâm xướng Asariën của bất kỳ pháp sư nào.
+
+---
+
+## VI. TRANG PHỤC: TACTICAL STREETWEAR NOIR
+- **Áo khoác Bomber MA-1 (Oversized)**: Màu đen mờ (matte black), vải dù quân sự chống rách. Dáng thụng rộng, bo chun len dày ở cổ tay và gấu áo. **Lớp lót bên trong màu cam cứu hộ (hazard orange) rực rỡ** có thể lộn ngược để phát tín hiệu khẩn cấp.
+- **Lớp áo trong**: Áo ba lỗ (tank top) hoặc áo phông cổ tròn màu xám xi-măng ôm sát cơ thể.
+- **Quần Cargo Pants**: Màu xám than (charcoal), ống thụng bo gấu, 6–8 túi hộp đựng đầy đạn vonfram, băng ép y tế và dây thít.
+- **Bốt Combat**: Bốt da đen cổ cao qua mắt cá, mũi bọc composite chịu lực, đế cao su đúc rãnh sâu, dây cáp thép bọc dù đen.
+
+---
+
+## VII. NHỮNG THỨ TRONG TÚI & TRANG BỊ NGẦM
+1. **Bao da súng dưới nách trái**: Súng lục bán tự động đen mờ gắn nòng giảm thanh titan dài, dùng đạn hợp kim vonfram phi ma thuật.
+2. **Dao găm Tantō**: Lưỡi thép trắng sắc lẹm, cài ngang thắt lưng sau lưng quần.
+3. **Còi bạc cộng hưởng ma trận (Acoustic Matrix Resonator)**: Treo dây da mảnh quanh cổ, giắt túi trong áo bomber.
+4. **Huy hiệu cành bạc Arrchirio**: Ghim kín đáo trong cổ áo bomber, mặt sau có vết xước thô Rhea khắc bằng mảnh giáp chảy.
+5. **Chiếc smartphone nứt màn hình**: Dán băng dính đen che camera, dùng định vị bản đồ đô thị.
+6. **Kẹo mút dâu tây & Bật lửa Zippo**: Nằm lăn lóc trong túi áo cùng vài bao đạn dự phòng.
+
+---
+
+## VIII. VŨ KHÍ BIỂU TƯỢNG: THANH ĐẠI THÁI ĐAO (ŌDACHI) CÔN LÔN
+- **Vỏ đao**: Đẽo thô từ **gỗ bách núi tuyết Côn Lôn**, không sơn mài, giữ nguyên thớ gỗ thô ráp nâu xám và mùi nhựa thơm ngàn năm.
+- **Lưỡi đao**: Dài hơn 1m3, rèn gập hàng trăm lớp bởi danh tượng Nhật Bản thời Thế chiến, màu xám đục không phản quang.
+- **Đặc tính 3 tầng**:
+  1. *Vật lý*: Cực bền, giữ cạnh sắc vượt trội, độ dẻo dai và cân bằng hoàn hảo, trơ với sự ăn mòn của phép thuật.
+  2. *Ma thuật*: Hoàn toàn không dẫn và không tương tác mana. Để phá kết giới, Louisa dùng kinh nghiệm tìm đúng điểm neo vật chất rồi chém vào đó.
+  3. *Triết lý*: **Thanh kiếm không chọn Louisa. Louisa chọn thanh kiếm.**
+- **Cách mang**: Đeo chéo sau lưng từ vai phải xuống hông trái bằng hai quai da bản lớn, chuôi đao nhô cao vượt qua vai phải.
+
+---
+
+## IX. BẢNG MÀU NHÂN VẬT
+- `Matte Black`: Áo bomber MA-1, bốt combat.
+- `Charcoal Grey`: Quần cargo pants.
+- `Sharp Amber Hazel`: Đôi mắt hổ phách sắc lẹm.
+- `Hazard Orange`: Lớp lót ẩn trong áo bomber.
+- `Cold Steel Grey`: Lưỡi Đại Thái Đao.
+- `Strawberry Pink / Red`: Que kẹo mút dâu tây.
+
+---
+
+## X. BA TRẠNG THÁI NGOẠI HÌNH
+1. **Louisa — Street Slacker (Thường ngày)**: Hai tay thọc túi áo bomber, que kẹo mút đong đưa khóe môi, lưng hơi gù, bước chân lê thê lười biếng.
+2. **Louisa — Urban Recon (Trinh sát)**: Mũ bomber trùm đầu, súng giảm thanh cầm xuôi cẳng tay, mắt hổ phách quét điểm yếu, lướt trên mái ngói không tiếng động.
+3. **Louisa — The Anti-Magic Vanguard (Xung kích tối thượng)**: Áo bomber phanh ngực, Đại Thái Đao rút khỏi vỏ gỗ bách với tiếng *keng* khô khốc, hai tay siết chuôi đao da cá đuối, hạ thấp trọng tâm nghênh chiến kết giới ma thuật bằng sát khí thuần khiết của con người.
+
+---
+
+## XI. HÌNH ẢNH BIỂU TƯỢNG
+Đêm mưa lạnh Kyoto trước cổng đền Torii rò rỉ ma thuật. Louisa đứng tựa lưng cột sơn đỏ, áo bomber đen ướt sũng lấp loáng dưới đèn vàng. Cô rút que kẹo mút dâu khỏi khóe môi, thở ra làn khói trắng mỏng manh trong không khí buốt giá. Tay trái trong túi áo chạm còi bạc; tay phải vắt ngược sau vai nắm chặt chuôi thanh Đại Thái Đao vỏ gỗ bách Côn Lôn dài quá đầu người. Đôi mắt **hổ phách** sắc lẹm nheo lại trước hàng trăm vòng tròn ma pháp phát sáng của đối phương: *"Lũ các người... xong bài phát biểu chưa?"*
 
 ---
 
@@ -296,7 +498,7 @@ Louisa không "được tuyển dụng" và không cần thề thốt gia nhập
 
 ### Thông Tin Cơ Bản
 - **Họ và tên**: Diana Everhart (Tên thường gọi tại Reverse London: *Diana Sterling*).
-- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Trong Đêm Everhart sụp đổ (Năm 0), Mẫu hậu Eleanor đang mang thai Diana đã được các kỵ sĩ trung thành mở đường máu đưa sang **Reverse London** (London Nghịch Đảo) nhằm phân tán rủi ro tuyệt diệt huyết thống hoàng tộc. Diana chào đời trong cảnh lưu vong (cuối Năm 0 / đầu Năm 1). Nhằm che giấu tung tích con gái trước mật thám Thẩm Phán Viện, Hoàng hậu Eleanor trao bé Diana cho **một người họ hàng vương tộc (người dì họ)** nuôi dưỡng, còn bản thân dấn thân vào con đường bí mật lãnh đạo **Lực Lượng Kháng Chiến Hoàng Gia (Royalist Resistance)**. Người dì họ nuôi dưỡng Diana cho đến khi qua đời vì bệnh tật năm cô bé lên 8 tuổi.
+- **Xuất thân**: Công chúa thứ hai của Vương tộc Everhart, em gái ruột của Dienne Everhart. Trong Đêm Everhart sụp đổ (Năm 0), Mẫu hậu Eleanor đang mang thai Diana đã được các kỵ sĩ trung thành mở đường máu đưa sang **Reverse London** (London Nghịch Đảo) nhằm phân tán rủi ro tuyệt diệt huyết thống hoàng tộc. Diana chào đời trong cảnh lưu vong (cuối Năm 0 / đầu Năm 1). Nhằm che giấu tung tích con gái trước mật thám Thẩm Phán Viện, Hoàng hậu Eleanor trao bé Diana cho **một người họ hàng vương tộc (người dì họ)** nuôi dưỡng, còn bản thân dấn thân vào con đường bí mật lãnh đạo **Lực Lượng Kháng Chiến Hoàng Gia (Royalist Resistance)**. Sau khi người dì họ qua đời vì bệnh tật năm Diana 8 tuổi, mạng lưới cựu thần và kỵ sĩ trung thành của Kháng Chiến Hoàng Gia tiếp tục âm thầm chu cấp, che chở và bảo vệ cô bé tại ngôi nhà gạch đỏ bên bờ sông Thames.
 - **Độ tuổi**: **9.5 – 10 tuổi** (ở thời điểm gặp gỡ tại Volume 6, Năm 10; kém Dienne 6 tuổi). Mô mẫu *Tiểu công chúa thiên tài (Little Sister Prodigy)*.
 - **Ngoại hình**: Vóc dáng nhỏ nhắn của một cô bé 9–10 tuổi nhưng phong thái thanh tao, đài các toát lên từ trong máu tủy. Mái tóc vàng óng gợn sóng buông nhẹ sau bờ vai gầy, đôi mắt màu lam trong veo như pha lê (màu mắt đặc trưng của dòng máu hoàng gia Everhart).
 - **Trang phục**: Thường mặc váy dạ hội cách tân hoặc âu phục quý tộc Anh may bằng lụa sẫm màu, tà váy xếp ly mềm mại được thiết kế đặc biệt để mở rộng tối đa theo từng bước xoay người khi múa kiếm.
@@ -413,7 +615,7 @@ Diana vận hành theo: `[Cảm nhận] -> [Nhịp điệu] -> [Vũ đạo] -> [
 ```mermaid
 graph TD
     Dienne["Dienne Everhart (16 tuổi)<br/>Leader & Master / Toán học Asariën"]
-    Diana["Diana Everhart (15 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
+    Diana["Diana Everhart (9.5–10 tuổi)<br/>Kiếm vũ Ballet / Reverse London"]
     Rhea["Rhea Everwy (32 tuổi)<br/>Hộ vệ Hoàng gia / Hiệp sĩ tóc bạc"]
     Louisa["Louisa (Deuteragonist)<br/>Đệ tử đầu tiên / Không Mana / Thân hơn chị em"]
     Lucien["Lucien Vale<br/>Hậu cần / Tài chính"]

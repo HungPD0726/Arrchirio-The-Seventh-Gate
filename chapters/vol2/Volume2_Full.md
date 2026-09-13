@@ -9,7 +9,7 @@ Mùi tuyết tan ẩm ướt lùi dần lại sau lưng.
 
 Dienne dừng chân ở đỉnh con đèo đá dốc đứng—nơi ranh giới khắc nghiệt của thung lũng sương mù hoàn toàn chấm dứt. 
 
-Một cơn gió mạnh từ bình nguyên bao la phía dưới thốc ngược lên, thổi tung chiếc áo choàng lữ hành màu xám bạc đã sờn rách nơi gấu áo. Mái tóc màu hạt dẻ dài bay phần phật trong gió, để lộ ra gương mặt thanh tú với những đường nét kiên nghị, lạnh lùng như được tạc từ băng tuyết.
+Một cơn gió mạnh từ bình nguyên bao la phía dưới thốc ngược lên, thổi tung chiếc áo choàng lữ hành màu xám bạc đã sờn rách nơi gấu áo. Mái tóc màu vàng champagne dài bay phần phật trong gió, để lộ ra gương mặt thanh tú với những đường nét kiên nghị, lạnh lùng như được tạc từ băng tuyết.
 
 Mười năm qua, toàn bộ thế giới của nàng công chúa mất nước chỉ thu bé lại vừa bằng một căn lều gỗ đơn sơ, một khoảng sân đầy tuyết phủ và một căn hầm ngầm nồng nặc mùi giấy mục cổ xưa.
 

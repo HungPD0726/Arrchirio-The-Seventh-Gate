@@ -17,7 +17,7 @@ Những vành đai đồng thau quay chậm, phát ra những tiếng *tích t�
 
 Dienne Everhart đứng cạnh bàn đá.
 
-Cô gái mười sáu tuổi khoác chiếc áo len đen dài, mái tóc màu bạch kim buộc gọn sau gáy. Tay trái cô buông lỏng, ngón tay chạm vào lớp vỏ gỗ sần sùi của thanh kiếm gỗ sồi sứt sẹo—kỷ vật người hộ vệ để lại trong đêm Everhart sụp đổ mười năm trước.
+Cô gái mười sáu tuổi khoác chiếc áo len đen dài, mái tóc màu hạt dẻ buộc gọn sau gáy. Tay trái cô buông lỏng, ngón tay chạm vào lớp vỏ gỗ sần sùi của thanh kiếm gỗ sồi sứt sẹo—kỷ vật người hộ vệ để lại trong đêm Everhart sụp đổ mười năm trước.
 
 Ánh mắt Dienne dõi theo ba điểm sáng trên quả cầu:
 
@@ -31,7 +31,7 @@ Ba điểm nút. Ba nền văn minh.
 
 Thế nhưng, điều giữ chặt ánh mắt Dienne là một vệt sáng mới vừa thức tỉnh.
 
-Từ đỉnh Côn Lôn, một vệt sáng màu hổ phách vạch một đường thẳng tắp xuyên qua lục địa, cắm thẳng vào **Quần Thể Kim Tự Tháp Cairo** bên bờ sông Nile. Từ Cairo, dải sáng tiếp tục kéo dài về phía bắc, chỉ vào **Thành Phố Tòa Thánh New Rome**—trung tâm quyền lực của Thẩm Phán Viện và cứ điểm của gia tộc Arknight.
+Từ đỉnh Côn Lôn, một vệt sáng màu hổ phách vạch một đường thẳng tắp xuyên qua lục địa, cắm thẳng vào **Quần Thể Kim Tự Tháp Cairo** bên bờ sông Nile. Từ Cairo, dải sáng tiếp tục kéo dài về phía bắc, chỉ vào **Thành Phố Tòa Thánh New Rome**—trung tâm quyền lực của Thẩm Phán Viện và cứ điểm của Cơ quan Arknight (Arknight Directorate).
 
 *OÒNG...*
 

@@ -91,9 +91,9 @@ Khi các nhân vật trò chuyện, **tuyệt đối không để họ nói năn
 1. **Tuân thủ Định luật Vật lý Mana:**
    * Mọi câu chú phải tuân thủ công thức và hao phí $\eta$. Nếu Dienne dùng phép công suất lớn, phải miêu tả nhiệt lượng $Q$ tỏa ra làm cháy xém gấu áo, hoặc cơ bắp rung lên vì phản lực.
    * Cấm tiệt "sức mạnh tăng đột biến không rõ nguyên nhân". Thắng lợi phải đến từ chiến thuật, góc độ phản xạ, triệt tiêu ngược pha ($\theta = \pi$), hoặc phối hợp vũ khí phi ma thuật của Louisa.
-2. **Cổ ngữ Asariën 4 pha:**
-   * Khi niệm chú, bắt buộc dùng đúng 4 pha: *Pha 1 (Kích hoạt) $\to$ Pha 2 (Nguyên tố/Định dạng) $\to$ Pha 3 (Vector động thái) $\to$ Pha 4 (Phóng thích/Cân bằng)*.
-   * *Ví dụ:* `Vaelyn ignis scissar fiat!`
+2. **Cổ ngữ Asariën 4 pha & Niệm Chú Rút Gọn (Shorthand Invocation):**
+   * **Thần chú đầy đủ bắt buộc đủ 4 pha:** *Pha 1 (Khởi nguyên) $\to$ Pha 2 (Toán tử/Nguyên tố) $\to$ Pha 3 (Định hình/Vector) $\to$ Pha 4 (Phóng thích/Cân bằng)*. Ví dụ: `Vaelyn ignis scissar fiat!`
+   * **Quy chuẩn Niệm chú rút gọn (2–3 pha):** Chỉ được phép áp dụng khi mana đã nạp sẵn vào vật dẫn/vũ khí. Khi dùng câu rút gọn (như *“Sylva velociter”*, *“Sylva scissar”*), **bắt buộc phải thể hiện cái giá vật lý**: hiệu suất $\eta$ giảm sút, nhiệt phản chấn $Q_{\text{loss}}$ làm giật tê khớp xương hoặc cháy xém da thịt do thiếu bước ổn định điểm neo.
 
 ---
 

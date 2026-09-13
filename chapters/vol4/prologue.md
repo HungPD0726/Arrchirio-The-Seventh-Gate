@@ -7,7 +7,7 @@
 
 Cái lạnh thấu xương của thung lũng tuyết phủ phía bắc ùa vào khoang mũi ngay khoảnh khắc Dienne Everhart và Lucien Vale bước chân ra khỏi vòng xoáy rò rỉ ranh giới.
 
-Màn sương mù trắng xóa tan biến dần dưới những cơn gió bấc buốt giá rít qua các rặng thông già bạt ngàn. Dưới chân hai cô cậu thiếu niên mười sáu tuổi không còn là mặt đường nhựa phẳng lì đen bóng của cố đô Kyoto, cũng không còn tiếng còi xe ô tô rộn rã hay tiếng nhạc tín hiệu điện tử đều đặn của ngã tư Shijo-Kawaramachi. 
+Màn sương mù trắng xóa tan biến dần dưới những cơn gió bấc buốt giá rít qua các rặng thông già bạt ngàn. Dưới chân Dienne mười sáu tuổi và Lucien mười bảy tuổi không còn là mặt đường nhựa phẳng lì đen bóng của cố đô Kyoto, cũng không còn tiếng còi xe ô tô rộn rã hay tiếng nhạc tín hiệu điện tử đều đặn của ngã tư Shijo-Kawaramachi. 
 
 Trước mắt họ lại là sự tĩnh lặng mênh mông, cô độc và lạnh lùng của thế giới phép thuật quen thuộc.
 

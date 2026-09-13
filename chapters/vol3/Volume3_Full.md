@@ -181,7 +181,7 @@ Cô đang chăm chú dán mắt vào khối động cơ mana đang quay tít sau
 
 "Cậu cứ ngồi mổ xẻ cái khối sắt vụn đó suốt ba tiếng đồng hồ như thể chưa từng thấy tàu hỏa bao giờ vậy," Lucien Vale ngồi ở băng ghế đối diện, vừa ngấu nghiến cắn một miếng bánh mì kẹp xúc xích nguội ngắt vừa càu nhàu trong miệng. 
 
-Chiếc áo khoác dạ màu nâu sờn cổ của cậu thanh niên mười sáu tuổi vắt vẻo trên thành ghế. Xung quanh Lucien là ba cuốn sổ cái ghi chép chi tiêu mở toang, một chiếc bàn tính bằng đồng mini, và hàng chục mẩu hóa đơn mua sắm linh kiện ma cụ bị vò nát nhét trong túi áo.
+Chiếc áo khoác dạ màu nâu sờn cổ của cậu thiếu niên mười bảy tuổi vắt vẻo trên thành ghế. Xung quanh Lucien là ba cuốn sổ cái ghi chép chi tiêu mở toang, một chiếc bàn tính bằng đồng mini, và hàng chục mẩu hóa đơn mua sắm linh kiện ma cụ bị vò nát nhét trong túi áo.
 
 Lucien nuốt ực miếng bánh mì, rút chiếc khăn tay lau vội vết sốt cà chua trên mép:
 
@@ -993,7 +993,7 @@ Trước khi Dienne kịp lùi bước tạo khoảng cách, Louisa đã xoay ng
 
 Mũi dao lạnh toát chạm vào yết hầu Dienne, cách làn da trắng ngần đúng một sợi tóc.
 
-Gió đêm thổi tung những lọn tóc màu hạt dẻ của nàng công chúa mất nước.
+Gió đêm thổi tung những lọn tóc vàng champagne của nàng công chúa mất nước.
 
 Thế nhưng... trong đôi mắt màu lam thẫm của Dienne, không hề có lấy nửa phần hoảng loạn hay sợ hãi của một kẻ bị dồn vào chân tường.
 
@@ -1269,7 +1269,7 @@ Louisa nhìn bàn tay nhỏ nhắn nhưng chai sạn vì cầm kiếm gỗ của
 
 Một nụ cười ngạo nghễ, ấm áp và tinh quái dần dần nở trên khóe môi cô gái mặc áo bomber đen. Cô chìa bàn tay phải bọc trong găng da của mình ra, nắm chặt lấy tay Dienne bằng một cú bắt tay đanh thép của những người lính đường phố:
 
-"Được thôi, cô em tóc hạt dẻ. Chúng ta sẽ cùng nhau dọn dẹp cái Cổng rác rưởi đó."
+"Được thôi, cô em tóc vàng. Chúng ta sẽ cùng nhau dọn dẹp cái Cổng rác rưởi đó."
 
 ---
 
@@ -1375,7 +1375,7 @@ Trong đôi mắt màu tro tàn vốn luôn lạnh lùng, cô độc và cảnh 
 
 Louisa đứng dậy, phủi bụi sau quần, thong thả xoay chiếc bật lửa kim loại trong tay:
 
-"Được rồi, cô em tóc hạt dẻ. Sau khi dọn dẹp xong cái Cổng rách nát kia, cô em nợ tôi một khóa học toán học ma thuật đầy đủ đấy nhé."
+"Được rồi, cô em tóc vàng. Sau khi dọn dẹp xong cái Cổng rách nát kia, cô em nợ tôi một khóa học toán học ma thuật đầy đủ đấy nhé."
 
 Cô gái quay lưng bước tiếp lên những bậc thềm đá dưới vòm cổng đỏ, cất giọng bâng quơ:
 
@@ -1570,7 +1570,7 @@ Louisa giật phăng chiếc áo khoác bomber rách vai quẳng sang một bên
 
 "Cái Cổng rách nát của các người đang biến Kyoto thành địa ngục trần gian rồi đấy! Mạng lưới điện tê liệt, xe cứu thương chết máy, cả thành phố này đang rơi vào hỗn loạn!"
 
-Dienne đứng trên bờ kè đá, mái tóc màu hạt dẻ tung bay dữ dội trước luồng cuồng phong lạnh buốt thổi ra từ tâm bão màu tím. 
+Dienne đứng trên bờ kè đá, mái tóc màu vàng champagne tung bay dữ dội trước luồng cuồng phong lạnh buốt thổi ra từ tâm bão màu tím. 
 
 Cô gái mười sáu tuổi rút chiếc bao đàn violin sau lưng ra, mở khóa kéo, để lộ thanh kiếm gỗ sồi sứt sẹo của Rhea. 
 
@@ -1808,7 +1808,7 @@ Sự tự do và bản lĩnh thực chiến của cô chính là vương miện 
 
 "Khen thừa," Louisa nháy mắt tinh quái. "Tôi là ai cơ chứ?"
 
-Dienne bước lên hai bước, đứng đối diện với Louisa trên cầu gỗ. Gió sớm Arashiyama thổi tung mái tóc màu hạt dẻ của cô bé mười sáu tuổi. Ánh mắt Dienne nhìn thẳng vào đôi mắt tro tàn của người bạn mới, cất lên một lời đề nghị trang trọng:
+Dienne bước lên hai bước, đứng đối diện với Louisa trên cầu gỗ. Gió sớm Arashiyama thổi tung mái tóc vàng champagne của cô bé mười sáu tuổi. Ánh mắt Dienne nhìn thẳng vào đôi mắt tro tàn của người bạn mới, cất lên một lời đề nghị trang trọng:
 
 "Louisa. Cậu có muốn đi cùng tôi không?"
 
@@ -1838,7 +1838,7 @@ Louisa ôm bụng cười ngặt nghẽo trước vẻ mặt đau khổ của Lu
 
 Louisa thong thả lau nước mắt vì cười, nhìn sang Dienne, ánh mắt trở nên ấm áp và nghiêm túc lạ thường:
 
-"Lời mời hấp dẫn đấy, cô em tóc hạt dẻ. Nhưng tôi chưa thể đi ngay bây giờ được."
+"Lời mời hấp dẫn đấy, cô em tóc vàng. Nhưng tôi chưa thể đi ngay bây giờ được."
 
 Cô gái vỗ nhẹ vào khẩu súng lục giảm thanh dắt bên sườn:
 

@@ -1,4 +1,4 @@
-﻿VOLUME 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO
+VOLUME 4: NHỮNG TÀN TÍCH CỦA ARRCHIRIO
 
 (The Remnants of Arrchirio)
 
@@ -105,7 +105,7 @@ Nhưng toàn bộ dòng tên đã bị ai đó dùng axit ma thuật đốt chá
 
 Arknight.
 
-Dienne nhìn chằm chằm vào cái tên ấy. Cô chưa từng nghe người thầy nhắc đến từ này, nhưng từng nét chữ Asariën khắc họa gia tộc Arknight lại tỏa ra một luồng hàn khí u ám, như một vết nhơ cấm kỵ bị chôn vùi dưới đáy sâu lịch sử.
+Dienne nhìn chằm chằm vào cái tên ấy. Cô chưa từng nghe người thầy nhắc đến từ này, nhưng từng nét chữ Asariën khắc họa danh xưng Arknight bị tha hóa lại tỏa ra một luồng hàn khí u ám, như một vết nhơ cấm kỵ bị chôn vùi dưới đáy sâu lịch sử.
 
 CHƯƠNG 4: Cậu bé của xưởng ma đạo
 

@@ -1,4 +1,4 @@
-﻿# ARRCHIRIO: THE SEVENTH GATE
+# ARRCHIRIO: THE SEVENTH GATE
 ### VOLUME 1: CÔNG CHÚA MẤT ĐI VƯƠNG QUỐC
 
 PROLOGUE: Nữ hiệp sĩ
@@ -26,7 +26,7 @@ Bức tường kiên cố phía sau nổ tung thành trăm mảnh. Bụi đá m�
 Rhea lập tức đặt đứa trẻ xuống vệt khuất sau lưng mình. Thanh kiếm bật khỏi vỏ với một tiếng rít khô khốc. Ánh sáng màu bạc chói lòa chạy dọc lưỡi kiếm, tỏa ra từng luồng ma áp sắc lẹm.
 "Đến đây." Cô đứng thẳng tắp, như một bức trường thành không thể xô đổ trước mặt đứa trẻ. "Ta sẽ không để các ngươi chạm vào người."
 CHƯƠNG 1: Một vương quốc đang hồi sinh
-Sáu năm trước.
+Mười năm trước — ba ngày trước Đêm Everhart sụp đổ.
 Gần ba thập kỷ đã trôi qua kể từ The Great Wizard War — Đại Chiến Pháp Thuật chấn động cả hai thế giới.
 Đó không phải là một truyền thuyết hào hùng nơi cái thiện đánh bại cái ác. Đó là một thất bại hoàn toàn. Liên Minh Pháp Thuật — The Arcane Alliance — với những vương quốc cổ kính như Asteria, Valedorn, Lumeris và Everhart đã sụp đổ trước bước tiến của Dominion. Dưới Hiệp Ước Tro Tàn, các quốc gia bại trận buộc phải cúi đầu, trở thành những mảnh đất chư hầu chịu sự kiểm soát chặt chẽ của một chính quyền thống nhất mới: Đế Quốc Pháp Thuật.
 Nhưng dưới mắt một đứa trẻ, thế giới chỉ đơn giản là đang bừng tỉnh lại.
@@ -204,7 +204,7 @@ Dienne siết chặt chiếc huy hiệu trong tay, cạnh kim loại sắc nhọ
 "Thế giới ngoài kia đang tôn sùng nền hòa bình giả tạo của Đế quốc," ông lão nhìn thẳng vào mắt cô. "Cháu có thể chọn sống ẩn dật ở đây suốt đời như một kẻ trốn chạy. Hoặc bước ra ngoài đó, đối diện với toàn bộ trật tự mà chúng đã tạo ra."
 CHƯƠNG 10: Công chúa
 Dienne đứng trước tấm gương đồng ố vàng.
-Cô gái trong gương không còn bóng dáng của nàng công chúa bé bỏng trốn dưới gầm bàn năm nào. Mái tóc dài màu hạt dẻ được buộc gọn gàng sau gáy, để lộ bờ vai thon gọn nhưng vững chãi. Ánh mắt cô tĩnh lặng tuyệt đối, không còn những giọt nước mắt yếu đuối, chỉ còn sự kiên định lạnh lùng như thép đã qua tôi luyện.
+Cô gái trong gương không còn bóng dáng của nàng công chúa bé bỏng trốn dưới gầm bàn năm nào. Mái tóc dài màu vàng champagne lạnh được buộc gọn gàng sau gáy, để lộ bờ vai thon gọn nhưng vững chãi. Ánh mắt cô tĩnh lặng tuyệt đối, không còn những giọt nước mắt yếu đuối, chỉ còn sự kiên định lạnh lùng như thép đã qua tôi luyện.
 Bên hông cô, ngoài túi đựng ma thạch và sách phép, vẫn luôn có một vật không bao giờ tách rời.
 Thanh kiếm gỗ cũ kỹ sứt sẹo.
 Dienne rút thanh kiếm gỗ ra, ngón tay lướt qua từng vết xước trên thân gỗ. Mùi khói lửa của đêm Everhart sụp đổ, hơi ấm từ cái nắm tay móc ngoéo của Rhea dưới chân cánh cổng cổ đại dường như vẫn còn nguyên vẹn ở đó.

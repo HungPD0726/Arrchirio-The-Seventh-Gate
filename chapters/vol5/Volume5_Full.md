@@ -29,7 +29,7 @@ Ryan ngẩng khuôn mặt lấm lem muội than lên, đôi mắt màu hạt d�
 
 Dienne dừng bước, cúi người xuống nhìn bảng mạch chằng chịt dây đồng và các phiến silicon nhỏ xíu được hàn ghép tinh xảo.
 
-Nàng công chúa mười sáu tuổi khoác trên mình chiếc áo sơ mi trắng giản dị xắn tay áo quá khuỷu tay, mái tóc hạt dẻ buộc gọn sau gáy, bên hông vẫn giắt thanh kiếm gỗ sồi sứt sẹo của Rhea. 
+Nàng công chúa mười sáu tuổi khoác trên mình chiếc áo sơ mi trắng giản dị xắn tay áo quá khuỷu tay, mái tóc vàng champagne buộc gọn sau gáy, bên hông vẫn giắt thanh kiếm gỗ sồi sứt sẹo của Rhea. 
 
 Dienne khẽ mỉm cười, vươn bàn tay nhỏ nhắn vỗ nhẹ lên mái tóc xù bù xù dính đầy mạt sắt của cậu học trò nhỏ:
 
@@ -1190,13 +1190,13 @@ Cô đứng thẳng dậy, đôi mắt màu lam thẫm sâu thẳm như hồ bă
 
 *XOẸT—!*
 
-Một tia sáng màu xanh lam rực rỡ xé toạc màn tuyết trắng xóa.
+Một tia sáng màu xanh lam rực rỡ cắt ngang màn tuyết trắng xóa.
 
-Dienne lao ra khỏi mỏm đá như một cánh chim ưng săn mồi. Tốc độ thể chất kết hợp với ma thuật gia tốc gió nén Asariën—*“Sylva velociter”*—khiến thân ảnh cô gái mười sáu tuổi mờ đi giữa không gian, chỉ để lại một vệt tàn ảnh mỏng dính lướt trên mặt băng.
+Dienne lao ra khỏi mỏm đá. Ma thuật gia tốc gió nén niệm rút gọn—*“Sylva velociter”*—nạp thẳng từ thớ gỗ sồi khiến chuôi kiếm giật nảy lên vì nhiệt phản chấn không có điểm neo, làm tê rần cả khớp cổ tay, nhưng đẩy thân ảnh cô gái mười sáu tuổi vọt đi với gia tốc cực hạn, để lại một vệt tàn ảnh lướt trên mặt băng.
 
-"Kẻ xâm nhập! Hướng mười một giờ!" Tiếng còi báo động chói tai lập tức rít lên từ tháp canh của trạm kiểm soát.
+"Kẻ xâm nhập! Hướng mười một giờ!" Tiếng còi báo động chói tai rít lên từ tháp canh của trạm kiểm soát.
 
-"Bắn! Tiêu diệt ngay lập tức!" Tên chỉ huy Thẩm Phán Viện gầm lên qua loa phát thanh bọc thép.
+"Bắn! Hạ mục tiêu!" Tên chỉ huy Thẩm Phán Viện gầm lên qua loa phát thanh bọc thép.
 
 Hàng chục nòng súng trường ma đạo trên các lô cốt đồng loạt nhả đạn. Những tia chớp năng lượng đỏ rực đan thành một tấm lưới lửa dày đặc chụp xuống quỹ đạo di chuyển của Dienne. Mặt băng nổ tung, đất đá văng tung tóe, khói khét lẹt bốc lên ngùn ngụt.
 
@@ -1472,23 +1472,23 @@ Louisa đáp đất nhẹ nhàng như một con mèo rừng trên mỏm tuyết 
 
 Cô gái rút thanh đoản đao tantō bằng thép nguội giắt sau thắt lưng ra, dùng sống dao đập gãy cổ tay tên lính gần nhất, rồi xoay người tung một cú đá móc gót chuẩn xác của môn võ Judo trần thế, hất văng tên Thẩm Phán Viên cuối cùng đập đầu vào vách đá ngất lịm!
 
-Cả thung lũng tuyết rơi bỗng chốc rơi vào một sự im lặng chết chóc.
+Cả thung lũng tuyết rơi chìm vào sự tĩnh lặng nghẹt thở.
 
-Khói súng thuốc súng khen khét hòa lẫn mùi thơm ngòn ngọt của kẹo mút vị dâu lan tỏa trong gió lạnh.
+Khói súng thuốc súng khen khét hòa lẫn mùi dầu máy cháy khét lan tỏa trong gió lạnh.
 
-Toàn bộ ba mươi lính tiếp viện thiết giáp của Thẩm Phán Viện... đã bị vô hiệu hóa hoàn toàn chỉ trong vòng chưa đầy bốn mươi giây!
+Toán tiên phong gồm tám lính thiết giáp của Thẩm Phán Viện đã bị bẻ gãy hoàn toàn trong sự phối hợp chớp nhoáng!
 
-Ở phía sau, Ryan đứng chết trân tại chỗ, chiếc kính bảo hộ trên trán tụt hẳn xuống cằm. Miệng cậu bé há to đến mức có thể nhét vừa một quả trứng gà, hai bàn tay buông thõng chiếc cờ-lê xuống đống tuyết:
+Ở phía sau, Ryan thở phào một hơi dài, hai bàn tay vẫn còn lấm lem muội than khi vừa ngắt chốt kích nổ mìn EMP bọc sườn:
 
-"Cái... cái quái quỷ gì vừa xảy ra thế này?!"
+"Hạ... hạ xong toán tiên phong rồi sao?!"
 
-Cậu bé mười bốn tuổi quay sang nhìn Lucien, rồi nhìn sang Soraya, giọng run rẩy như sắp khóc:
+Cậu bé mười bốn tuổi quay sang nhìn Lucien, rồi nhìn Soraya vừa thu hồi dải lửa bao vây:
 
-"Một khẩu súng lục cơ học không dùng mana... một cái còi bạc... và một que kẹo mút?! Chị ta vừa một mình hạ gục cả một tiểu đoàn cơ giới trong bốn mươi giây bằng đòn bẩy vật lý và thuốc súng trần thế sao?!"
+"Sóng âm bạc nguội phá nhịp niệm chú, đạn vonfram bắn vỡ van xả áp kết hợp với bẫy xung từ trường... Cú phục kích vừa rồi chính xác đến từng phần mười giây!"
 
-Soraya cũng nheo đôi mắt hổ phách, chăm chú nhìn bóng lưng cô gái mặc áo bomber đen, ngọn lửa trên Vương trượng Cổ Ngọn Lửa khẽ dao động trước luồng sát khí thuần túy phi ma thuật hiếm thấy:
+Soraya nheo đôi mắt hổ phách, chăm chú nhìn bóng lưng cô gái mặc áo bomber đen:
 
-"Một kẻ hoàn toàn không có mana... nhưng lại hiểu rõ điểm yếu của ma thuật hơn bất kỳ một pháp sư đại tài nào."
+"Một kẻ hoàn toàn không có mana... nhưng hiểu rõ điểm yếu cơ học của ma thuật hơn bất kỳ ai."
 
 Louisa từ từ tra thanh đoản đao tantō vào bao da bên hông. 
 
@@ -1785,7 +1785,7 @@ Và từ trong đống tro tàn của sự thật đau đớn ấy... một ngư
 
 ## CHƯƠNG 11: LỜI THỀ DƯỚI KHE NỨT THỜI-KHÔNG
 
-Gió lạnh từ vết nứt Dòng Chảy Ma Thuật thổi rít từng cơn qua buồng lõi Cổng Cổ Đại, cuốn theo những bụi tuyết bạc lấp lánh rơi trên mái tóc màu hạt dẻ của Dienne.
+Gió lạnh từ vết nứt Dòng Chảy Ma Thuật thổi rít từng cơn qua buồng lõi Cổng Cổ Đại, cuốn theo những bụi tuyết bạc lấp lánh rơi trên mái tóc vàng champagne của Dienne.
 
 Nàng công chúa mười sáu tuổi vẫn quỳ gối trên mặt băng lạnh buốt, hai bàn tay áp chặt vào lớp đá hoa cương dưới chân bệ Cổng. 
 
@@ -2048,19 +2048,21 @@ Dienne bước nhanh tới bên cạnh chiếc bàn điều khiển, thanh âm c
 
 Ryan ngẩng phắt đầu lên nhìn Dienne: "Triệt tiêu giao thoa sóng?!"
 
-"Đúng vậy," Dienne rút chiếc bút lông ngòi đồng ra, vẽ một phương trình Asariën ngược chiều trực tiếp lên màn hình tinh thể:
+"Đúng vậy," Dienne rút chiếc bút lông ngòi đồng ra, vạch một phương trình Asariën ngược chiều trực tiếp lên màn hình tinh thể:
 
-"Khối cầu năng lượng này vận hành theo hàm sóng điều hòa chu kỳ $T$. Nếu chúng ta tạo ra một luồng xung lực có cùng tần số, cùng biên độ cực đại... nhưng **lệch pha đúng một góc $\theta = \pi$ (đảo pha một trăm tám mươi độ)**... hai luồng sóng sẽ triệt tiêu hoàn toàn lẫn nhau trong một phần triệu giây! Năng lượng hủy diệt sẽ tự động tan biến thành hư vô mà không làm nứt vỡ lấy một phiến đá địa tầng!"
+"Khối cầu năng lượng này vận hành theo hàm sóng điều hòa chu kỳ $T$. Nếu chúng ta tạo ra một luồng xung lực có cùng tần số, cùng biên độ cực đại... nhưng **lệch pha đúng một góc $\theta = \pi$ (đảo pha một trăm tám mươi độ)**... hai luồng sóng sẽ triệt tiêu biên độ tại cửa phát. Năng lượng không biến mất; nó bị đẩy ngược vào mười hai vành tản nhiệt, chuyển thành nhiệt và dao động cơ học. Nếu hệ thống tản nhiệt không chịu nổi, toàn bộ địa tầng vẫn sẽ nứt vỡ!"
 
-Ryan là một thiên tài cơ khí, cậu bé lập tức hiểu ngay ý tưởng vĩ đại của Master:
+Ryan nhìn vào đồ thị dao động trên màn hình tinh thể:
 
-"Đúng rồi! Sóng ngược pha! Nhưng thưa Master... chúng ta lấy đâu ra một nguồn phát xung lực phi ma thuật đủ mạnh để đảo pha toàn bộ khối Hắc Ma Thạch này đúng thời điểm tới hạn?!"
+"Đảo pha ở cửa nạp? Nếu sai một phần nghìn giây thì sao?"
 
-"Tôi có thứ đó," một giọng nói lạnh lùng, lười biếng bỗng vang lên từ phía sau.
+"Ngọn núi biến mất," Dienne đáp gọn lỏn. "Và chúng ta cần một nguồn phát xung lực phi ma thuật đủ mạnh để kích hoạt đúng thời điểm tới hạn."
+
+"Tôi có thứ đó," một giọng nói lạnh lùng bỗng vang lên từ phía sau.
 
 Louisa bước tới mép bệ Cổng, thong thả rút chiếc **Còi Bạc Phá Tần Số** trên cổ áo ra, tay kia giơ lên một quả lựu đạn xung từ trường EMP nén áp suất cực đại mà Ryan vừa chế tạo hôm qua.
 
-Cô gái trần thế nhét que kẹo mút mới bóc vào khóe môi, ánh mắt tro tàn sắc lạnh nhìn Dienne:
+Cô gái trần thế kéo cao cổ áo bomber chắn gió tuyết, ánh mắt tro tàn sắc lạnh nhìn Dienne:
 
 "Cái còi bạc này của tôi phát ra sóng siêu cao tần bạc nguội. Nếu gắn trực tiếp quả lựu đạn EMP của thằng nhóc thợ máy vào ống tiêu âm của còi... nó sẽ giải phóng một xung từ trường đảo pha cực đại. Nhưng vấn đề là: Kích hoạt vào thời điểm nào?"
 
@@ -2325,7 +2327,7 @@ Bằng trực giác huyết thống của dòng máu vương tộc Everhart, nà
 > *Gửi người chị gái mà em chưa từng được gặp mặt — Dienne Everhart.*  
 > *Em là **Diana Everhart**.*  
 > 
-> *Mười sáu năm trước, sau khi hoàng thành Everhart sụp đổ trong biển lửa, những người thân cận còn sót lại của cha mẹ chúng ta đã đưa em bí mật vượt Cổng trốn sang thế giới thực, ẩn náu tại thành phố Reverse London bên bờ sông Thames.*  
+> *Mười năm trước, khi hoàng thành Everhart sụp đổ, Mẫu hậu đang mang thai em đã được các kỵ sĩ trung thành hộ tống vượt Cổng trốn sang thế giới thực, ẩn náu tại thành phố Reverse London bên bờ sông Thames.*  
 > 
 > *Em lớn lên giữa những lâu đài cổ kính của sương mù Anh quốc, được nuôi dạy như một nàng công chúa đích thực, học kiếm thuật vũ đạo ba-lê và những nghi thức ma thuật hoàng gia cổ xưa nhất.*  
 > 
@@ -2353,7 +2355,7 @@ Dienne đứng lặng người giữa đại sảnh, hai bàn tay run lên bần
 
 Nước mắt một lần nữa lại ứa ra nơi khóe mi cô gái nhỏ!
 
-Người em gái ruột thất lạc mười sáu năm qua... đứa trẻ mang cùng dòng máu Everhart mà cô cứ ngỡ đã vĩnh viễn bỏ mạng trong đêm định mệnh năm xưa... vẫn còn sống!
+Người em gái cô chưa từng biết đến—đứa trẻ được sinh ra trong cảnh lưu vong sau đêm Everhart sụp đổ—vẫn còn sống!
 
 Cô bé đang ở Reverse London! 
 

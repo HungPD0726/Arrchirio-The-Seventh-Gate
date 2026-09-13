@@ -1,4 +1,4 @@
-﻿# ARRCHIRIO: THE SEVENTH GATE
+# ARRCHIRIO: THE SEVENTH GATE
 ### TẬP 5: TIẾNG VANG TỪ BIÊN CƯƠNG (Echoes of the Frontier)
 
 ---
@@ -29,7 +29,7 @@ Ryan ngẩng khuôn mặt lấm lem muội than lên, đôi mắt màu hạt d�
 
 Dienne dừng bước, cúi người xuống nhìn bảng mạch chằng chịt dây đồng và các phiến silicon nhỏ xíu được hàn ghép tinh xảo.
 
-Nàng công chúa mười sáu tuổi khoác trên mình chiếc áo sơ mi trắng giản dị xắn tay áo quá khuỷu tay, mái tóc hạt dẻ buộc gọn sau gáy, bên hông vẫn giắt thanh kiếm gỗ sồi sứt sẹo của Rhea. 
+Nàng công chúa mười sáu tuổi khoác trên mình chiếc áo sơ mi trắng giản dị xắn tay áo quá khuỷu tay, mái tóc vàng champagne buộc gọn sau gáy, bên hông vẫn giắt thanh kiếm gỗ sồi sứt sẹo của Rhea. 
 
 Dienne khẽ mỉm cười, vươn bàn tay nhỏ nhắn vỗ nhẹ lên mái tóc xù bù xù dính đầy mạt sắt của cậu học trò nhỏ:
 

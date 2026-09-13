@@ -7,7 +7,7 @@
 
 Cái lạnh thấu xương của thung lũng tuyết phủ phía bắc ùa vào khoang mũi ngay khoảnh khắc Dienne Everhart và Lucien Vale bước chân ra khỏi vòng xoáy rò rỉ ranh giới.
 
-Màn sương mù trắng xóa tan biến dần dưới những cơn gió bấc buốt giá rít qua các rặng thông già bạt ngàn. Dưới chân hai cô cậu thiếu niên mười sáu tuổi không còn là mặt đường nhựa phẳng lì đen bóng của cố đô Kyoto, cũng không còn tiếng còi xe ô tô rộn rã hay tiếng nhạc tín hiệu điện tử đều đặn của ngã tư Shijo-Kawaramachi. 
+Màn sương mù trắng xóa tan biến dần dưới những cơn gió bấc buốt giá rít qua các rặng thông già bạt ngàn. Dưới chân Dienne mười sáu tuổi và Lucien mười bảy tuổi không còn là mặt đường nhựa phẳng lì đen bóng của cố đô Kyoto, cũng không còn tiếng còi xe ô tô rộn rã hay tiếng nhạc tín hiệu điện tử đều đặn của ngã tư Shijo-Kawaramachi. 
 
 Trước mắt họ lại là sự tĩnh lặng mênh mông, cô độc và lạnh lùng của thế giới phép thuật quen thuộc.
 
@@ -569,7 +569,7 @@ Ryan nuốt ực một ngụm nước bọt nghẹn ngào, hai bàn tay run rẩ
 
 Cậu bé ngẩng phắt khuôn mặt lấm lem muội than lên nhìn Dienne. Đôi mắt hạt dẻ của Ryan bùng cháy một ngọn lửa tò mò, khao khát và tôn sùng điên cuồng của một nhà khoa học chân chính nhìn thấy chân lý:
 
-"Chị... chị gái tóc hạt dẻ ơi! Cái thứ này... chị nhặt được ở cái xó nào trên vũ trụ này thế hả?!"
+"Chị... chị gái tóc vàng ơi! Cái thứ này... chị nhặt được ở cái xó nào trên vũ trụ này thế hả?!"
 
 Dienne nhìn cậu bé, khóe môi khẽ mỉm cười:
 
@@ -1236,39 +1236,15 @@ Vane nhìn sâu vào sự giằng xé đau đớn trong đáy mắt cô gái mư
 
 "Đấy. Chính bản thân cháu cũng chưa có câu trả lời cho ngày mai."
 
-Người cựu binh già lảo đảo chống tay gượng đứng dậy. 
+Người cựu binh già tựa lưng vào vách đá ẩm ướt, hơi thở đứt quãng nghẹn ngào. Ông không nhìn bao tải ma thạch vương vãi dưới đất nữa, đôi mắt đùng đục nhìn chằm chằm vào bóng tối của đường cống ngầm.
 
-Ông ta không thèm nhìn lại chiếc bao tải chứa ma thạch vương vãi dưới đất nữa. Ông ta lầm lũi quay lưng, kéo lê đôi bàn chân trần rách rưới trên sàn đá, từng bước một biến mất vào bóng tối của đường cống ngầm tăm tối dẫn ra thế giới bên ngoài.
+Căn phòng vũ khí chìm vào sự im lặng.
 
-Căn phòng vũ khí chìm vào một sự im lặng đau đớn đến nghẹt thở.
+Dienne tra thanh kiếm gỗ vào vỏ bên hông. Cô bước đến bên bức tường đá, cúi xuống nhặt nửa thanh kiếm rỉ sét đã gãy của Vane lên, đặt lại gọn gàng bên cạnh bàn tay chai sạn của ông.
 
-Dienne đứng bất động giữa gian phòng, đầu cúi thấp, bóng cô gái nhỏ đổ dài trên nền đá dưới ánh đèn tinh thể lam ngọc.
+Vane khựng lại, ngón tay co giật nhẹ, nhưng không ngẩng đầu.
 
-Soraya đứng bên cạnh, thu hồi ngọn lửa trên đầu vương trượng. 
-
-Nữ tư tế sa mạc đã chứng kiến toàn bộ cuộc đối đầu từ đầu đến cuối: từng lời nói, từng ánh mắt và cả sự im lặng bế tắc của Dienne.
-
-Thế nhưng, trong đôi mắt màu hổ phách của Soraya... hoàn toàn không có lấy một tia thất vọng hay nghi ngờ.
-
-Trái lại, mọi sự kiêu ngạo, phòng thủ ban đầu của cô gái sa mạc hoàn toàn tan biến, thay vào đó là một sự kính trọng và rung động sâu sắc từ tận đáy linh hồn:
-
-Dienne đã chiến thắng trận đấu, nhưng cô bé không hề đắc thắng hay ngạo mạn. Nàng công chúa mười sáu tuổi dũng cảm chấp nhận đối diện với sự bất toàn và bế tắc trong tư tưởng của chính mình thay vì dùng những lời lẽ hoa mỹ để lừa dối đồng đội!
-
-Soraya chậm rãi bước tới bên cạnh Dienne.
-
-Bàn tay thon thả của nữ tư tế sa mạc khẽ vươn ra, nhẹ nhàng nắm lấy bàn tay đang run rẩy vì lạnh của Dienne:
-
-"Người ta không cần một vị thần toàn năng không bao giờ biết sợ hãi, Dienne."
-
-Dienne ngước lên, đôi mắt màu lam thẫm ngấn lệ nhìn Soraya.
-
-Soraya mỉm cười dịu dàng, ánh mắt hổ phách rực sáng niềm tin bất diệt:
-
-"Người ta cần một người dẫn đường biết đau đớn trước máu chảy, biết trăn trở trước sinh mạng của kẻ thù, và không bao giờ đánh mất nhân tính giữa bóng tối của chiến tranh. Cô bé à... ta sẽ cùng cô đi tiếp con đường này, và chúng ta sẽ cùng nhau tìm ra câu trả lời cho ngày mai."
-
-Hai bàn tay siết chặt lấy nhau giữa kho vũ khí cổ kính của Sector 7.
-
-Linh hồn của New Arrchirio đã vượt qua phép thử khắc nghiệt nhất của lòng thù hận để đứng vững vàng trước ngưỡng cửa của lịch sử.
+Dienne không nói thêm lời nào. Nàng xoay người bước qua ngưỡng cửa đá, bóng lưng cô gái mười sáu tuổi hòa vào ánh sáng lam ngọc của hành lang Sector 7. Phía sau, Soraya thu hồi ngọn lửa trên đầu vương trượng, im lặng rảo bước theo sau.
 
 ---
 
